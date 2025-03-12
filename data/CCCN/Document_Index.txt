@@ -1,0 +1,459 @@
+-------------------------------------------------------------------------------
+INDICE TEMATICO (para el humano)
+
+TÍTULO PRELIMINAR
+Capítulo 1 - Derecho - arts. 1 a 3
+Capítulo 2 - Ley - arts. 4 a 8
+Capítulo 3 - Ejercicio de los derechos - arts. 9 a 14
+Capítulo 4 - Derechos y bienes - arts. 15 a 18
+
+LIBRO PRIMERO - PARTE GENERAL
+Título I - Persona humana - arts. 19 a 140
+Título II - Persona jurídica - arts. 141 a 224
+Título III - Bienes - arts. 225 a 256
+Título IV - Hechos y actos jurídicos - arts. 257 a 397
+Título V - Transmisión de los derechos - arts. 398 a 400
+
+LIBRO SEGUNDO - RELACIONES DE FAMILIA
+Título I - Matrimonio - arts. 401 a  445
+Título II - Régimen patrimonial del matrimonio - arts. 446 a 508
+Título III - Uniones convivenciales - arts. 509 a 528
+Título IV - Parentesco - arts. 529 a 557
+Título V - Filiación - arts. 558 a 593
+Título VI - Adopción - arts. 594 a 637
+Título VII - Responsabilidad parental - arts. 638 a 704
+Título VIII - Procesos de familia - arts. 705 a 723
+
+LIBRO TERCERO - DERECHOS PERSONALES
+Título I - Obligaciones en general - arts. 724 a 956
+Título II - Contratos en general - arts. 957 a 1091
+Título III - Contratos de consumo - arts. 1092 a 1122
+Título IV - Contratos en particular - arts. 1123 a 1707
+Título V - Otras fuentes de las obligaciones - arts. 1708 a 1881
+
+LIBRO CUARTO - DERECHOS REALES
+Título I - Disposiciones generales - arts. 1882 a 1907
+Título II - Posesión y tenencia - arts. 1908 a 1940
+Título III - Dominio - arts. 1941 a 1982
+Título IV - Condominio - arts. 1983 a 2036
+Título V - Propiedad Horizontal - arts. 2037 a 2072
+Título VI - Conjuntos inmobiliarios - arts. 2073 a 2113
+Título VII - Superficie - arts. 2114 a 2128
+Título VIII - Usufructo - arts. 2129 a 2153
+Título IX - Uso - arts. 2154 a 2157
+Título X - Habitación - arts. 2158 a 2161
+Título XI - Servidumbre - arts. 2162 a 2183
+Título XII - Derechos reales de garantía - arts. 2184 a 2237
+Título XIII - Acciones posesorias y acciones reales - arts. 2238 a 2276
+
+LIBRO QUINTO - TRANSMISIÓN DE DERECHOS POR CAUSA DE MUERTE
+Título I - Sucesiones - arts. 2277 a 2285
+Título II - Aceptación y renuncia de la herencia - arts. 2286 a 2301
+Título III - Cesión de herencia - arts. 2302 a 2309
+Título IV - Petición de herencia - arts. 2310 a 2315
+Título V - Responsabilidad de los herederos y legatarios. Liquidación del pasivo - arts. 2316 a 2322
+Título VI - Estado de indivisión - arts. 2323 a 2334
+Título VII - Proceso sucesorio - arts. 2335 a 2362
+Título VIII - Partición - arts. 2363 a 2423
+Título IX - Sucesiones intestadas - arts. 2424 a 2443 
+Título X - Porción legítima - arts. 2444 a 2461
+Título XI - Sucesiones testamentarias - arts. 2462 a 2531
+
+LIBRO SEXTO - DISPOSICIONES COMUNES A LOS DERECHOS PERSONALES Y REALES
+Título I - Prescripción y caducidad - arts. 2532 a 2572
+Título II - Privilegios - arts. 2573 a 2586
+Título III - Derecho de retención - arts. 2587 a 2593
+Título IV - Disposiciones de derecho internacional privado - arts. 2594 a 2671
+-------------------------------------------------------------------------------
+
+INDICE (según Concept Curve Embeddings Indexation)
+
+Se debe responder listando los File desde Arts_1-18.txt, Arts_19-140.txt ... hasta Arts_ 
+Debajo de cada File está el conjunto de conceptos que representan a ese File, conforme al método de CC-EI.
+Se responde dando como output el nombre de cada File separado por una coma, sin punto final
+
+File: Arts_1-18.txt
+Fuentes-jurídicas
+Normas-aplicables
+Usos-costumbres
+Interpretación-legal
+Principios-jurídicos
+Decisión-judicial
+Ámbito-subjetivo
+Vigencia-normativa
+Cómputo-plazos
+Eficacia-temporal
+Retroactividad-limitada
+Buena-fe
+Abuso-derecho
+Posición-dominante
+Fraude-legal
+Derechos-colectivos
+Bienes-patrimoniales
+Propiedad-indígena
+Cuerpo-humano
+Orden-público
+
+File: Arts_19-140.txt
+Persona-humana
+Existencia-concepción
+Nacimiento-vida
+Capacidad-derecho
+Capacidad-ejercicio
+Incapacidad-jurídica
+Menor-edad
+Adolescente-derechos
+Madurez-legal
+Emancipación-matrimonio
+Autonomía-personal
+Representación-legal
+Curatela-incapacidad
+Restricción-capacidad
+Intervención-judicial
+Apoyo-jurídico
+Sentencia-judicial
+Registro-capacidad
+Internación-asistida
+Evaluación-interdisciplinaria
+Consentimiento-médico
+Investigación-bioética
+Identidad-nombre
+Apellido-filiación
+Cambio-nombre
+Protección-dignidad
+Derechos-personalísimos
+Imagen-consentimiento
+Disposición-cuerpo
+Autonomía-decisión
+Domicilio-residencia
+Ausencia-presunción
+Fallecimiento-certificación
+Herencia-bienes
+Tutela-menores
+Defensor-público
+Curador-designación
+Prueba-nacimiento
+Edad-determinación
+Protección-jurídica
+
+
+File: Arts_141-224.txt
+Persona-jurídica
+Personalidad-diferenciada
+Responsabilidad-limitada
+Obligaciones-legales
+Capacidad-adquisitiva
+Autorización-estatal
+Inoponibilidad-personalidad
+Orden-público
+Responsabilidad-solidaria
+Clases-jurídicas
+Derecho-internacional
+Identidad-institucional
+Registro-legal
+Constitución-estatutaria
+Normas-imperativas
+Domicilio-social
+Representación-legal
+Organización-interna
+Fiscalización-externa
+Patrimonio-institucional
+Objeto-social
+Modificación-estatutaria
+Asamblea-general
+Consejo-administrativo
+Acta-constitutiva
+Deber-lealtad
+Conflicto-intereses
+Fusión-escisión
+Transformación-jurídica
+Disolución-liquidación
+Causal-extinción
+Derechos-asociados
+Sanciones-institucionales
+Exclusión-socios
+Participación-gubernativa
+Transparencia-organizativa
+Fundaciones-caridad
+Contralor-estatal
+Reformas-estatutarias
+Procedimiento-judicial
+
+
+File: Arts_225-256.txt
+Bienes-muebles
+Bienes-inmuebles
+Dominio-público
+Dominio-privado
+Frutos-productos
+Accesión-inmobiliaria
+División-posesión
+Aguas-jurisdiccionales
+Régimen-propiedad
+Uso-goce
+Propiedad-colectiva
+Explotación-inmobiliaria
+Garantía-acreedores
+Protección-vivienda
+Transmisión-bienes
+Regulación-ambiental
+Restricción-comercial
+Patrimonio-estatal
+Condiciones-legales
+Ejecución-hipotecaria
+
+File: Arts_257-400.txt
+Hecho-jurídico
+Acto-lícito
+Acto-voluntario
+Acto-involuntario
+Manifestación-voluntad
+Silencio-jurídico
+Error-esencial
+Error-reconocible
+Dolo-jurídico
+Acción-dolosa
+Omisión-dolosa
+Responsabilidad-daños
+Fuerza-intimidación
+Amenaza-jurídica
+Objeto-jurídico
+Causa-jurídica
+Forma-acto
+Escritura-pública
+Instrumento-privado
+Firma-digital
+Testigo-instrumental
+Competencia-jurisdiccional
+Contabilidad-registro
+Estado-financiero
+Nulidad-actos
+Simulación-jurídica
+Fraude-contractual
+Inoponibilidad-actos
+Representación-legal
+Poder-apoderamiento
+Sustitución-representante
+Revocación-poder
+Responsabilidad-representante
+Lesión-contractual
+Plazo-condición
+Cargo-obligación
+Reconocimiento-firma
+Documento-electrónico
+Prescripción-acción
+Jurisdicción-competente
+
+
+File: Arts_401-445.txt
+Esponsales-nulidad
+Matrimonio-igualitario
+Consentimiento-matrimonial
+Impedimentos-legales
+Parentesco-prohibitivo
+Salud-mental
+Dispensa-judicial
+Menores-matrimonio
+Vicios-consentimiento
+Error-matrimonial
+Violencia-conyugal
+Oposición-matrimonial
+Denuncia-impedimentos
+Registro-civil
+Celebración-matrimonio
+Acta-matrimonial
+Idioma-traducción
+Matrimonio-distancia
+Nulidad-absoluta
+Nulidad-relativa
+Buena-fe-conyugal
+Derechos-cónyuges
+Asistencia-mutua
+Alimentos-conyugales
+Divorcio-proceso
+Compensación-económica
+Vivienda-familiar
+Separación-bienes
+Pensión-alimentaria
+Causal-disolución
+
+
+File: Arts_446-508.txt
+Convención-matrimonial
+Régimen-patrimonial
+Donaciones-conyugales
+Escritura-pública
+Asentimiento-conyugal
+Modificación-régimen
+Deber-contribución
+Vivienda-familiar
+Responsabilidad-solidaria
+Administración-bienes
+Mandato-conyugal
+Bienes-gananciales
+Bienes-propios
+Separación-bienes
+Extinción-comunidad
+Partición-judicial
+Indivisión-postcomunitaria
+Liquidación-patrimonial
+Recompensa-bienes
+Carga-comunitaria
+Obligaciones-personales
+Deuda-conyugal
+Autorización-judicial
+Fraude-patrimonial
+Herencia-matrimonial
+Divorcio-liquidación
+Propiedad-indivisa
+Testamento-conyugal
+Protección-acreedores
+Efecto-terceros
+
+
+File: Arts_509-528.txt
+Unión-convivencial
+Relación-afectiva
+Convivencia-estable
+Registro-jurisdiccional
+Pactos-coexistencia
+Autonomía-voluntad
+Régimen-patrimonial
+Asistencia-mutua
+Protección-hogar
+Responsabilidad-solidaria
+Gastos-compartidos
+Derechos-terceros
+Cese-relación
+Compensación-económica
+Atribución-vivienda
+Usufructo-habitacional
+Registro-legitimación
+Interrupción-convivencia
+Liquidación-bienes
+Orden-público
+
+
+File: Arts_529-593.txt
+Parentesco-jurídico
+Vínculo-familiar
+Línea-sucesoria
+Tronco-genealógico
+Rama-colateral
+Adopción-plena
+Adopción-simple
+Parentesco-afinidad
+Obligación-alimentaria
+Alimentos-provisorios
+Deuda-alimentaria
+Responsabilidad-solidaria
+Filiación-natural
+Filiación-adoptiva
+Filiación-asistida
+Consentimiento-procreacional
+Registro-nacimiento
+Presunción-filiatoria
+Reconocimiento-filial
+Posesión-estado
+Prueba-genética
+Impugnación-filiación
+Separación-hecho
+Matrimonio-sucesivo
+Comunicación-familiar
+Competencia-judicial
+Medidas-cautelares
+Legitimación-activa
+Acciones-reclamación
+Derecho-identidad
+
+
+File: Arts_594-637.txt
+Adopción-jurídica
+Derecho-familiar
+Interés-superior
+Identidad-adoptiva
+Filiación-adoptiva
+Vínculo-fraterno
+Origen-biológico
+Acción-autónoma
+Situación-adoptabilidad
+Guarda-adoptiva
+Proceso-adopción
+Registro-adoptantes
+Competencia-judicial
+Opinión-infantil
+Consentimiento-informado
+Adopción-plena
+Adopción-simple
+Adopción-integración
+Derecho-sucesorio
+Comunicación-familiar
+Responsabilidad-parental
+Revocación-adopción
+Apellido-adoptivo
+Medidas-cautelares
+Posesión-estado
+Registro-civil
+Declaración-judicial
+Evaluación-idoneidad
+Nulidad-adopción
+Relación-afectiva
+
+
+File: Arts_638-704.txt
+Responsabilidad-parental
+Interés-superior
+Autonomía-progresiva
+Derecho-a-ser-oído
+Cuidado-personal
+Ejercicio-conjunto
+Delegación-parental
+Progenitores-adolescentes
+Consentimiento-expreso
+Guarda-terceros
+Deber-alimentario
+Obligación-progenitores
+Filiación-extramatrimonial
+Conflictos-parentales
+Plan-parentalidad
+Representación-legal
+Prohibición-malos-tratos
+Medidas-cautelares
+Comunicación-familiar
+Protección-derechos
+Administración-bienes
+Capacidad-jurídica
+Presunción-autorización
+Privación-parental
+Suspensión-ejercicio
+Rehabilitación-parental
+Deber-hijos
+Progenitor-afín
+Nulidad-administración
+Ejercicio-compartido
+
+
+File: Arts_705-723.txt
+Tutela-judicial
+Acceso-justicia
+Interés-superior
+Capacidad-restringida
+Oralidad-procesal
+Lealtad-procesal
+Oficiosidad-jurídica
+Prueba-flexible
+Testigos-familiares
+Estado-familia
+Nulidad-matrimonial
+Filiación-legal
+Parentalidad-responsable
+Divorcio-competencia
+Unión-convivencial
+Pensión-compensatoria
+Medidas-provisionales
+Vivienda-familiar
+Alimentos-hijos
+Derecho-menores
+
+
+

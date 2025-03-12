@@ -1,0 +1,111 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO SEGUNDO - RELACIONES DE FAMILIA - TITULO 8
+TITULO 8: Procesos de Familia
+Articulos: 705 al 723
+
+-----------------------------------------
+
+TITULO VIII
+
+Procesos de familia
+
+CAPITULO 1
+
+Disposiciones generales
+
+ARTICULO 705.- Ambito de aplicación. Las disposiciones de este título son aplicables a los procesos en materia de familia, sin perjuicio de lo que la ley disponga en casos específicos.
+
+ARTICULO 706.- Principios generales de los procesos de familia. El proceso en materia de familia debe respetar los principios de tutela judicial efectiva, inmediación, buena fe y lealtad procesal, oficiosidad, oralidad y acceso limitado al expediente.
+
+a) Las normas que rigen el procedimiento deben ser aplicadas de modo de facilitar el acceso a la justicia, especialmente tratándose de personas vulnerables, y la resolución pacífica de los conflictos.
+
+b) Los jueces ante los cuales tramitan estas causas deben ser especializados y contar con apoyo multidisciplinario.
+
+c) La decisión que se dicte en un proceso en que están involucrados niños, niñas o adolescentes, debe tener en cuenta el interés superior de esas personas.
+
+ARTICULO 707.- Participación en el proceso de personas con capacidad restringida y de niños, niñas y adolescentes. Las personas mayores con capacidad restringida y los niños, niñas y adolescentes tienen derecho a ser oídos en todos los procesos que los afectan directamente. Su opinión debe ser tenida en cuenta y valorada según su grado de discernimiento y la cuestión debatida en el proceso.
+
+ARTICULO 708.- Acceso limitado al expediente. El acceso al expediente en los procesos de familia está limitado a las partes, sus representantes y letrados y a los auxiliares designados en el proceso.
+
+En caso de que las actuaciones sean ofrecidas como prueba ante otro juzgado, se debe ordenar su remisión si la finalidad de la petición lo justifica y se garantiza su reserva.
+
+ARTICULO 709.- Principio de oficiosidad. En los procesos de familia el impulso procesal está a cargo del juez, quien puede ordenar pruebas oficiosamente.
+
+El impulso oficioso no procede en los asuntos de naturaleza exclusivamente económica en los que las partes sean personas capaces.
+
+ARTICULO 710.- Principios relativos a la prueba. Los procesos de familia se rigen por los principios de libertad, amplitud y flexibilidad de la prueba. La carga de la prueba recae, finalmente, en quien está en mejores condiciones de probar.
+
+ARTICULO 711.- Testigos. Los parientes y allegados a las partes pueden ser ofrecidos como testigos.
+
+Sin embargo, según las circunstancias, el juez está facultado para no admitir la declaración de personas menores de edad, o de los parientes que se niegan a prestar declaración por motivos fundados.
+
+CAPITULO 2
+
+Acciones de estado de familia
+
+ARTICULO 712.- Irrenunciabilidad e imprescriptibilidad. Las acciones de estado de familia son irrenunciables e imprescriptibles, sin perjuicio de su extinción en la forma y en los casos que la ley establezca.
+
+Los derechos patrimoniales que son consecuencia del estado de familia están sujetos a prescripción.
+
+ARTICULO 713.- Inherencia personal. Las acciones de estado de familia son de inherencia personal y no pueden ser ejercidas por vía de subrogación. Sólo se transmiten por causa de muerte en los casos en que la ley lo establece.
+
+ARTICULO 714.- Caducidad de la acción de nulidad del matrimonio por la muerte de uno de los cónyuges. La acción de nulidad del matrimonio no puede ser intentada después de la muerte de uno de los cónyuges, excepto que:
+
+a) sea deducida por un cónyuge contra el siguiente matrimonio contraído por su cónyuge; si se opusiera la nulidad del matrimonio del cónyuge demandante, se debe resolver previamente esta oposición;
+
+b) sea deducida por el cónyuge supérstite de quien contrajo matrimonio mediando impedimento de ligamen y se haya celebrado ignorando la subsistencia del vínculo anterior;
+
+c) sea necesaria para determinar el derecho del demandante y la nulidad absoluta sea invocada por descendientes o ascendientes.
+
+La acción de nulidad de matrimonio deducida por el Ministerio Público sólo puede ser promovida en vida de ambos esposos.
+
+ARTICULO 715.- Sentencia de nulidad. Ningún matrimonio puede ser tenido por nulo sin sentencia que lo anule, dictada en proceso promovido por parte legitimada para hacerlo.
+
+CAPITULO 3
+
+Reglas de competencia
+
+ARTICULO 716.- Procesos relativos a los derechos de niños, niñas y adolescentes. En los procesos referidos a responsabilidad parental, guarda, cuidado, régimen de comunicación, alimentos, adopción y otros que deciden en forma principal o que modifican lo resuelto en otra jurisdicción del territorio nacional sobre derechos de niños, niñas y adolescentes, es competente el juez del lugar donde la persona menor de edad tiene su centro de vida.
+
+ARTICULO 717.- Procesos de divorcio y nulidad del matrimonio. En las acciones de divorcio o nulidad, las conexas con ellas y las que versan sobre los efectos de la sentencia, es competente el juez del último domicilio conyugal o el del demandado a elección del actor, o el de cualquiera de los cónyuges si la presentación es conjunta.
+
+Si se ha declarado el concurso o la quiebra de uno de los cónyuges, en la liquidación del régimen patrimonial del matrimonio es competente el juez del proceso colectivo.
+
+ARTICULO 718.- Uniones convivenciales. En los conflictos derivados de las uniones convivenciales, es competente el juez del último domicilio convivencial o el del demandado a elección del actor,
+
+ARTICULO 719.- Alimentos y pensiones compensatorias entre cónyuges o convivientes. En las acciones por alimentos o por pensiones compensatorias entre cónyuges o convivientes es competente el juez del último domicilio conyugal o convivencial, o el del domicilio del beneficiario, o el del demandado, o aquel donde deba ser cumplida la obligación alimentaria, a elección del actor.
+
+ARTICULO 720.- Acción de filiación. En la acción de filiación, excepto que el actor sea persona menor de edad o con capacidad restringida, es competente el juez del domicilio del demandado.
+
+CAPITULO 4
+
+Medidas provisionales
+
+ARTICULO 721.- Medidas provisionales relativas a las personas en el divorcio y en la nulidad de matrimonio. Deducida la acción de nulidad o de divorcio, o antes en caso de urgencia, el juez puede tomar las medidas provisionales necesarias para regular las relaciones personales entre los cónyuges y los hijos durante el proceso.
+
+Puede especialmente:
+
+a) determinar, teniendo en cuenta el interés familiar, cuál de los cónyuges ha de continuar en el uso de la vivienda familiar y, previo inventario, qué bienes retira el cónyuge que deja el inmueble;
+
+b) si corresponde, establecer la renta por el uso exclusivo de la vivienda por parte de uno de los cónyuges;
+
+c) ordenar la entrega de los objetos de uso personal;
+
+d) disponer un régimen de alimentos y ejercicio y cuidado de los hijos conforme con lo establecido en el Título VII de este Libro;
+
+e) determinar los alimentos que solicite el cónyuge teniendo en cuenta las pautas establecidas en el artículo 433.
+
+ARTICULO 722.- Medidas provisionales relativas a los bienes en el divorcio y en la nulidad de matrimonio. Deducida la acción de nulidad o de divorcio, o antes en caso de urgencia, a pedido de parte, el juez debe disponer las medidas de seguridad para evitar que la administración o disposición de los bienes por uno de los cónyuges pueda poner en peligro, hacer inciertos o defraudar los derechos patrimoniales del otro, cualquiera sea el régimen patrimonial matrimonial.
+
+También puede ordenar las medidas tendientes a individualizar la existencia de bienes o derechos de los que los cónyuges fuesen titulares.
+
+La decisión que acoge estas medidas debe establecer un plazo de duración
+
+ARTICULO 723.- Ambito de aplicación. Los artículos 721 y 722 son aplicables a las uniones convivenciales, en cuanto sea pertinente.

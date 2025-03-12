@@ -1,0 +1,71 @@
+3. Personal
+Antes de cada carrera tendrás la oportunidad para contratar un nuevo piloto y un nuevo director ténico. Los pilotos y los directores ténicos toman sus decisiones entre las 19:00 y 21:00 HCE los días lunes y jueves. Te costará $500,000 realizar una oferta pública a un piloto y cualquiera puede realizar ofertas a cualquier personal siempre y cuando su valor promedio no sea demasiado alto para el grupo en el que está. Se cuidadoso ya que una vez que haces una oferta pagarás $500,000 y estos no serán devueltos si cancelas la oferta. Una vez que finaliza el tiempo para realizar ofertas, el personal mirará todas sus ofertas y decidirá basado en un número de factores (que deberás descubrir por tu cuenta) qué oferta es la mejor. Sí logras contratar a un piloto o a un director técnico, le pagarás a tu actual piloto o al actual director técnico una compensación por la mitad de las carreras restantes en su contrato.
+
+3.1 Piloto
+Tú piloto tiene un valor llamado "promedio total" que está basado en la combinación de sus habilidades. Estas habilidades determinan un número de diferentes factores en el juego, el más obvio es cuán rápido tu piloto es con un auto. Sin embargo, la velocidad a la que puede alcanzar un piloto no es la misma en todas las situaciones, y algunos pilotos son más rápidos que otros dependiendo las condiciones. Un piloto es también no sólo lo que pasa en la pista, sino que tienen otras habilidades que los hacen una mejor inversión. Depende de ti determina qué clase de piloto prefieres, y cómo las diferentes habilidades influencian lo que ocurre en carrera en una temporada.
+Los siguientes límites de promedio se aplican a los distintos grupos:
+
+• Managers en grupos Master no pueden ofrecer contratos a pilotos con un promedio mayor a 160
+• Managers en grupos Pro no pueden ofrecer contratos a pilotos con un promedio mayor a 135
+• Managers en grupos Amateur no pueden ofrecer contratos a pilotos con un promedio mayor a 110
+• Managers en grupos Rookie no pueden ofrecer contratos a pilotos con un promedio mayor a 85
+
+Si durante el reinicio de la temporada, el piloto de un manager que desciende a una clase más baja excede los límites antes descriptos, este lo abandonará. Lo mismo se aplica al grupo Rookie, en el que aquellos que no ascienden a Amateur y tienen un piloto con un promedio mayor a 85.
+
+¡Si permites que el contrato con el piloto se termine y no has contratado a ningún otro piloto antes de la carrera, no podrás realizar la clasificación y por lo tanto no podrás participar de la carrera!
+
+Cuando los pilotos sobrepasen los 35 años de edad, comenzarán a perder habilidades carrera a carrera. Mientras más viejos estén, más rápido perderán sus habilidades. Al comienzo de cada temporada, los pilotos con muchas carreras en su historial y los pilotos mayores a 38 años decidirán si se retiran o no al final de la temporada. Esta decisión será mostrada en el perfil del piloto.
+
+3.2 Director técnico
+El director técnico es una importante parte de tu equipo, Nuevamente, ellos tienen un atributo promedio (“overall”) que les brinda una idea general de sus hailidades. La habilidad de R&D (Desarrollo e investigación) afecta la configuración de tu auto, pero obviamente todos tienen diferentes efectos en las distintas áreas del auto. La coordinación del pit (Pit coordination) afecta el tiempo que demora tu equipo en pits para dar servicio al auto. Las opciones para contratar un nuevo director ténico son las mismas que para contratar un nuevo piloto, con la diferencia de que no es posible renovar el contrato de un director técnico. Esto es debido a que no son entrenables y sería injusto para un mismo manager atarse con un director técnico por un largo período.
+
+Los directores técnicos también tienen un atributo de edad, pero a diferencia de los pilotos estos no perderán habilidades mientras envejecen. Al principio de la temporada, todos los directores técnicos con muchas carreras detrás y mayores a 70 años, tomarán una decisión de retiro al final de la temporada. Esta decisión de retiro puede ser vista en su perfil.
+
+Los siguientes límites de promedio para diretores técnicos se aplica a los distintos grupos:
+
+• Managers en grupos Master no pueden ofrecer contratos a directores técnicos con un promedio mayor a 120.
+• Managers en grupos Pro no pueden ofrecer contratos a directores técnicos con un promedio mayor a 90.
+• Managers en grupos Amateur y Rookie, no pueden ofrecer contratos a directores técnicos.
+
+Sí al comienzo de la temporada, el promedio del director técnico de un manager que ha descendido a Master excede a 120, este perderá al director técnico. Lo mismo se aplica para aquellos managers que descienden a un grupo Amateur, sin importar el promedio del mismo.
+
+3.3 Realizando ofertas al persona y las decisiones del personal (Mercado)
+Cuando precisas un nuevo piloto o quieres reemplazar al viejo, deberás realizar una oferta a alguno de los pilotos en el mercado. Lo mismo se aplica a los directores técnicos.
+
+Puedes realizar hasta cuatro ofertas antes de cada decision del personal, pero ten en cuenta que cada oferta cuesta $500,000 y para poder cambiar dicha oferta debrás cancelarla y realizar una nueva con otros $500,000 adicionales. No importa a que personal las ofertas son dirigidas, puedes hacer dos ofertas a pilotos y dos a directores técnicos, o dos ofertas a pilotos y dos a directores técnicos. El máximo de bonos que puedes ofrecer a pilotos y directores técnicos, depende de tu dinero actual. Si tu balance es negativo no podrás ofrecer bonos de ninguna forma.
+
+Cuando realizas ofertas, la tarifa para la ficha no puede exceder el 300% del salario que ofreces. Si consigues cerrar contrato con por ejemplo dos pilotos, conseguirás al que le hayas dado mayor prioridad, siendo éste el que hayas colocado en lo más alto de la lista.
+
+Los pilotos y directores técnicos toman sus decisions los días lunes y jueves (un día antes de cada carrera) entre las 19:00 y 21:00 HCE, y no se pueden realizar ofertas entre ese horario. Para más detalles acerca de la próxima decision de personal puedes ver la página de Tus Ofertas.
+
+3.4 Personal general y instalaciones
+Además de cada piloto y de cada director técnico precisas personal e instalaciones. El personal no está caracterizado por la cantidad que sean, sino por el nivel de sus habilidades. Algunas de estas habilidades varían con ciertos eventos, cosas que realizas (o que no). Otras habilidades del personal son entrenables. Lo mejor que tu personal esté, más salario les deberás pagar. Puedes entrenar a tu personal sólo una vez por carrera, pero el entrenamiento es limitado dependiendo del nivel de tus instalaciones. El nivel promedio de tus instalaciones determina el límite en que puedes entrenar a tu personal. Esto también significa que si entrenas a tu personal al máximo nivel, pero bajas el nivel de las instalaciones, las habilidades de tu personal comenzarán a bajar también. El personal es importante en varios de los procesos para convertir los puntos ganados en el test a puntos sobre el coche, pero también para las paradas en boxes y negocios con los patrocinadores.
+
+Comienzas el juego sin instalaciones. Mientras mejor sean tus instalaciones, más deberás pagar por mantenimiento carrera a carrera. Puedes mejorar o bajar de nivel las instalaciones sólo una vez por carrera. Sí gustas cambiar varias instalaciones al mismo tiempo, requieres hacerlo simultáneamente (como cuando mejoras el coche). Las instalaciones pueden mejorar el proceso de IyD e ingeniería, o mejorar las paradas en boxes o aspectos comerciales. Las instalaciones que mejoran el proceso de IyD o ingeniería funcionan juntas en una forma similar a la habilidad de R&D del director técnico.
+
+Los siguientes límites de instalación aplican para los distintos grupos:
+
+• Managers en grupos Master no pueden comprar instalaciones superiores a 80
+• Managers en grupos Pro no pueden comprar instalaciones superiores a 60
+• Managers en grupos Amateur no pueden comprar instalaciones superiores a 40
+• Managers en grupos Rookie no pueden comprar instalaciones superiores a 20
+
+Si al principio de la temporada un manager que ha descendido a una clase inferior, posee instalaciones que exceden estos límites, estas serán vendidas a la mitad de su precio de compra.
+
+4. Investigación, desarrollo, instalaciones y pruebas
+4.1 Característica del coche
+Tú coche está caracterizado por tres valores: Potencia (P), Manejo (M) y Aceleración (A).
+
+Los circuitos están también caracterizados de la misma forma. Un coche con una cierta característica se comportará mejor en un circuito del mismo tipo. Individualmente las partes definen las características del coche. Por ejemplo, mientras mejor sea el motor, más puntos de potencia tendrá. Las 10 diferentes partes sumadas definen las características del auto. Sí todas las partes son iguales, entonces tendrás un auto balanceado (B – Balanceado). A través de IyD y pruebas, conseguirás mayores puntos característicos.
+
+4.2 Pruebas
+Entre carrera y carrera puedes realizar testing. El testing puede ser realizado por dos razones. La primera razón es la de aprender nuevos aspectos del juego. La otra razón es la de desarrollar tu auto. El testing te da puntos de test. Estos puntos de test son convertidos a través de algunos pasos a puntos adicionales característicos del auto. Estos puntos característicos son agregados a las partes de tu auto y lo harán más veloz. El testing también afecta algunos atributos del piloto y también del director técnico y personal. Puedes realizar testing varias veces entre carrera y carrera. Por ejemplo, puedes realizar testing, luego actualizar el auto y realizar nuevamente testing. El testing es cobrado por sesión, costará $1.000,000 y agregará uso a tus partes del auto. No puedes realizar testing con un auto que tenga alguna de sus partes con un uso mayor a 90% o cuando tu saldo es negativo.
+
+4.3 La sesión de pruebas
+Puedes configurar el auto de una forma similar a las prácticas. También puedes especificar la prioridad, que hará que se centre en el área de conocimiento que se quiere conocer sobre el auto. El área "probar los límites del coche" no te dará mucho conocimiento, pero resultará más bien en dar una vuelta rápida. El área de "configuración del coche" dará un reporte detallado acerca de la configuración del coche. Puedes dar hasta 100 vueltas como máximo, y un máximo de diez salidas. Precisas indicar cuántas vueltas darás en cada salida, teniendo como mínimimo cinco vueltas y máximo 50. La primera y última vuelta de las salidas no son tenidas en cuenta. Si te quedas sin combustible o si los neumáticos están muy gastados o si fallas en dar todas las vueltas que habías indicado, las vueltas que no completaste igual serán descontadas del total de vueltas disponibles para testing.
+
+4.4 Investigación y desarrollo
+Mientras se hacen vueltas de prueba, recibes conocimiento acerca del coche en tres áreas, potencia, manejo y aceleración. Este conocimiento es mostrado en puntos de prueba. El número de puntos de prueba que ganes depende del área de foco en que realices el pruebas, el número de vueltas dadas, tu piloto, tu director técnico y tu personal. Lo que sigue es un proceso cochemático que cambia los puntos de prueba en puntos característicos del coche. En más detalle funciona así, realizas test y consigues puntos de prueba, por consiguiente, luego de la carrera el conocimiento ganado es convertido (cochemáticamente) en nuevas ideas (puntos de IyD), esta conversión depende de las habilidades de tu director técnico, el personal y las instalaciones. No requieres un director técnico para realizar IyD. Luego de cada carrera, los puntos de IyD son convertidos en puntos de producción (engineering points). La conversión (cochemática) depende nuevamente de tu director técnico, el personal y las instalaciones. Nuevamente no tienes por qué tener un director técnico o instalaciones para realizar ingeniería. Luego de cada carrera, los puntos de ingeniería son convertidos (cochemáticamente) en nuevas partes desarrolladas para ser puestas en el coche (puntos característicos). Para tener una conversión exitosa depende en cuántos puntos adicionales has conseguido para tu coche a través de las pruebas. Mientras más puntos tengas, más difícil será conseguir nuevos puntos.
+
+Es importante conocer que los puntos ganados a través de las pruebas, IyD e ingeniería van descendiendo a lo largo del tiempo. Si dejas de hacer pruebas, tus puntos característicos adicionales descenderán a cero. Claro está que los otros puntos característicos del coche no se verán afectados. No hay límites en cuanto a los puntos adicionales que puedes conseguir por IyD. Los puntos serán llevados a la siguiente temporada, pero perderás algunos de ellos.
+

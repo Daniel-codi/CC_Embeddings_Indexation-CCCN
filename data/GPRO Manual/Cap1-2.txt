@@ -1,0 +1,86 @@
+1. Vistazo general
+Grand Prix Racing Online es un sitio Web basado en un juego de manager de deportes de motor, donde tú tomas el control de tu propio equipo. Contratando pilotos, directores técnicos, y personal. Negociarás con esponsors y otros managers para formar equipos. Configurarás tu auto para las clasificaciones y la carrera, y decidirás tu estrategia para ser el mejor manager y ganar en el grupo de Elite.
+
+1.1 Formato
+El nivel más alto en el juego es Elite; debajo hay 5 grupos Master, seguidos de 25 grupos Pro, 125 grupos Amateur y 625 grupos Rookie. Todos los cinco grupos corresponden a una estructura piramidal, donde Elite es la punta de la pirámide, seguido por Master, Pro, Amateur y Rookie. Cuando un nuevo manager entra al juego, entra al más bajo grupo de Rookie, y su objetivo es hacerse lugar hasta el grupo Elite y conseguir el título máximo de Campeón Mundial.
+
+1.2 Carreras
+Todas las semanas, los días martes y viernes a las 20:00 HCE (Hora Central Europea = GTM+1) nosotros simularemos una carrera, donde tú podrás ver en directo por Internet. Tú podrás chatear con los managers rivales en nuestra propia sala de chat.
+
+1.3 Convertirse en un Manager
+El primer paso será registrar tu cuenta. Cuando estés registrándote, tú introducirás tu nombre (debe ser tú nombre real) y luego serás transferido a la primera fase de la lista de espera, donde esperarás para la aprobación de tu cuenta. Una vez aprobada su cuenta, tú serás transferido a una segunda lista de espera, donde esperarás por una plaza libre en el juego. Una vez superado esto tú entraras en un Grupo Rookie y estarás listo para comenzar tu carrera en GPRO. Ten en cuenta que tu registro puede ser reconsiderado en una etapa posterior.
+
+1.4 Las etapas iniciales
+Empezarás en uno de los grupos "Rookie", el nivel más bajo en el juego. Si comienzas antes del principio de la temporada, recibirás $30.000.000, y un piloto estandard (muy malo), y un nivel 1 en tu auto, de lo contrario, tu dinero será reducido dependiendo el número de carreras restantes en la actual temporada. Usa este dinero cuidadosamente; es el único dinero que recibirás por ahora, luego irás ganando dinero cuando vayas progresando como manager.
+
+1.5 Sistema de puntos
+Utilizamos el viejo sistema official de puntos de la Fórmula 1, donde los managers en las posiciones 1-8 reciben 10-8-6-5-4-3-2-1 puntos respectivamente.
+
+2. Preparando la carrera
+Antes de poder participar en una carrera, hay un número de cosas que deberás hacer para estar seguro y preparado para dar las ordenes para hacer una buena carrera.
+
+2.1 Actualizar coche
+Aquí puedes invertir más dinero para mejorar tu auto. La ventana te muestra las características actuales de tu auto, y las partes, niveles y uso de la configuración actual. Podrás realizar alguna de las siguientes acciones en cada parte:
+
+• Dejar la pieza como está.
+• Comprar una pieza de nivel inferior (El uso se reducirá a 0)
+• Comprar una pieza de nivel superior (El uso se reducirá a 0)
+• Degradar una parte (bajar un nivel) (el uso se verá reducido)
+
+El "Coste total" se verá en la caja al final de la lista y será la suma de todas las inversiones que realices. También podrás ver el balance actual al final.
+
+Nota: una vez que le das a “Update car” (actualizar el auto), no podrás hacer cambios futuros hasta despues de la carrera.
+
+2.2 Práctica y Clasificación
+Una vez que estés satisfecho con la preparación del auto para la próxima carrera, puedes proceder al circuito. Al comienzo de la pantalla verás una lista de todas las vueltas que has completado, con la configuración del auto que has usado, el tiempo de la vuelta, y el tiempo que el piloto ha perdido debido a sus propios errores.
+
+En la parte izquierda de la pantalla encontrarás información del circuito y sus características. También se muestra el mejor tiempo de clasificación y el mejor tiempo en carrera.
+
+Por debajo de esta información (abajo a la izquierda) se muestran las predicciones meteorológicas para el fin de semana de la carrera, esto puede ser muy útil cuando se eligen los compuestos neumáticos y al planear la estrategia en boxes.
+
+Tendrás ocho vueltas de práctica en las que deberás intentar conseguir la mejor configuración posible. Deberás ingresar una configuración para tu auto y seleccionar el compuesto neumático para cada vuelta. El riesgo solo afectará la vuelta de clasificación. Solamente selecciona para realizar la vuelta de clasificación una vez que estés satisfecho con tu configuración, ya que no podrás realizar más vueltas de práctica.
+
+Con cada vuelta de práctica, tu piloto te dará un reporte acerca de cuán cerca estás de una configuración que le sea cómoda. Algunos pilotos son mejores que otros para encontrar la configuración perfecta, necesitarás algo de experimentación para aprender a encontrar la mejor configuración posible.
+
+Una vez que has usado todas tus vueltas de práctica o que hayas encontrado una configuración que te satisfaga, selecciona para dar la vuelta de clasificación. Selecciona el compuesto neumático con cuidado, ya que será el compuesto que utilices durante todo el fin de semana del Grand Prix, incluida la carrera. El riesgo que selecciones afectará la vuelta de clasificación, experimienta un poco para conocer el mejor resultado.
+
+Ahora deberás completar la vuelta de Clasificación 2, pero esta vuelta es diferente, darás esta vuelta con una carga de combustible que será la carga con la que comiences la carrera (lógicamente esta vuelta será más lenta). Esta vuelta de clasificación es combinada con la primera vuelta de clasificación para producir el tiempo final de clasificación. No habrá más oportunidades para practicar y recibir reportes de tu piloto. Puedes utilizar la configuración que utilizaste en la primera clasificación apretando en el botón de “Get Settings from Qualify 1”, o bien puedes utilizar una nueva configuración. Selecciona la cantidad de combustible para la primera salida y el riesgo a utilizar en esta vuelta de clasificación.
+
+Puedes ver tu posición actual en la página de Parrilla de Salida.
+
+Nota: Cada vuelta de práctica costará $50.000 y cada vuelta de clasificación $100.000.
+
+2.3 Riesgos de carrera del piloto y nivel de energía del piloto
+Cada piloto tiene un atributo especial llamado energía. Define la condición del piloto y está directamente relacionada a cuán duro puede llevar el coche al límite en la próxima carrera. Mientras más alto el riesgo en la carrera, más rápido caerá la energía del piloto durante la carrera. Si la energía del piloto baja a 0%, tu piloto completará el resto de las vueltas que queden de la carrera a un paso más lento. Dependiendo de sus habilidades, algunos pilotos serán mejores preservando su energía durante la carrera. Por otro lado, algunos circuitos pueden ser más demandantes de energía qu eotros. ¡Es importante notar que muy pocos pilotos podrán conducir una carrera entera en riesgos máximos! Entre carreras, tu piloto lentamente recuperará energía. Es muy importante estimar cuán rápido recuperará su energía entre carreras y qué riesgos podrá ser capaz de tomar en la próxima carrera sin que se quede sin energía. El nivel de energía no afectará a las prácticas, clasificación o pruebas, sin embargo tu piloto perderá algo de energía durante sus vueltas de clasificación.
+
+2.4 Configuración y estrategia de carrera
+Aquí es donde confirmas la configuración y estrategia para la carrera. Puedes utilizar tanto la configuración de la Clasificación 1 como de la Clasificación 2 o utilizar una nueva. Deberás también especificar la cantidad de combustible con el que debe salir el coche en cada parada en boxes, y el compuesto neumático a utilizar. También deberás decidir cuán duro presionará tu piloto para sobrepasar, defender su posición y marcar tiempos rápidos de vuelta así como cuán duro presionará cuando haya un prblema en el coche, y cuán agresivo será en la largada de la carrera.
+
+Una vez que estás contento con la configuración para la carrera, confirma esta configuración. Puedes confirmar la configuración cuantas veces quieras antes del fin del tiempo de clasificación, que es una hora y media antes del comienzo de la carrera.
+
+Recuerda que decides la cantidad de combustible con la que largas en la clasificación 2, es por esto que no puedes cambiarlo, y el compuesto neumático para pista seca en la Clasificación 1, y también es por ello que sólo puedes elegir entre ese compuesto y compuesto de lluvia.
+
+2.5 Neumáticos
+Cada temporada puedes cerrar un contrato con uno de los seis proveedores de neumáticos: Pipirelli, Avonn, Yokomama, Dunnolop, Contimental, Badyear, Hancock, Michelini y Bridgerock. Los managers en los grupos Rookie y Amateur solamente podrán utilizar neumaticos Pipirelli (el proveedor más económico) y el contrato será automáticamente cerrado al principio de la temporada. Una vez que se cierra un contrato no puede ser cancelado ni cambiado en la temporada actual. Cada uno de los proveedores de neumático les darán cuatro compuestos distintos para un circuito seco: Muy Blandos, Blandos, Medio y Duro, y uno para circuitos mojados. Mientras más blando el compuesto más rápido irá pero soportará menores distancias. Necesitas averiguar por tu cuenta cuánto durarán.
+
+2.6 Combustible
+No todos los coches consumen combustible en el mismo ritmo, y no todos los pilotos utilizan la misma cantidad de combustible, depende de sus habilidades, deberás aprender cuánto combustible precisa cada coche y piloto para conseguir la mejor estrategia posible, mientras más combustible haya en el coche más lento irás.
+
+2.7 Notas acerca de la estrategia
+• Si está lloviendo, se asume que todo el circuito está mojado.
+• Obviamente distintos compuestos de neumáticos reaccionan mejor a distintas temperaturas.
+• Algunos pilotos no pueden correr muchos riesgos sin cometer errores.
+• El nivel de combustible que fijas para una parada, es el nivel de combustible con el que partirá de boxes.
+• En caso de que tu coche tenga más combustible que el que quieres poner, no se cargará combustible (ni se quitará)
+• En caso de que hayas completado la Clasificación 1, pero no hayas logrado completar la Clasificación 2, podrás comenzar la carrera pero desde la última posición y utilizando la configuración de la Clasificación 1 y una carga por defecto de combustible de 80 litros para la primera salida.
+
+2.8 Fecha límite para clasificar y configurar el coche y la estrategia para la carrera
+El fin del período de clasificación y configuración de la estrategia para la carrera es hasta una hora y media antes del comienzo de la carrera. ¡Luego de este tiempo no podrás realizar cambios!
+
+2.9 Disponiblidad del servidor y retrasando la carrera
+Si hay un importante tiempo de inactividad del servidor o la caída del servidor se produce dentro de las 2 horas de la fecha límite de calificación entonces la próxima carrera podrá ser diferida a la discreción de los administradores de GPRO. Los administradores evaluarán los beneficios de la suspensión de cada carrera individualmente. Dependiendo de la gravedad y la naturaleza del tiempo de inactividad del servidor el aplazamiento de la carrera puede resultar de estas formas:
+
+• el tiempo de clasificación se extiende durante un máximo de dos horas y la carrera se retrasa por esa misma cantidad de tiempo
+• la carrera se aplaza por 24 horas
+• la carrera se reprogramó para el próximo día de carreras (martes o viernes)
+

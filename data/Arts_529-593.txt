@@ -1,0 +1,314 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO SEGUNDO - RELACIONES DE FAMILIA - TITULO 4
+TITULO 4: Parentesco
+Articulos: 529 al 557
+
+-----------------------------------------
+TITULO IV
+
+Parentesco
+
+CAPITULO 1
+
+Disposiciones generales
+
+ARTICULO 529.- Concepto y terminología. Parentesco es el vínculo jurídico existente entre personas en razón de la naturaleza, las técnicas de reproducción humana asistida, la adopción y la afinidad.
+
+Las disposiciones de este Código que se refieren al parentesco sin distinción se aplican sólo al parentesco por naturaleza, por métodos de reproducción humana asistida y por adopción, sea en línea recta o colateral.
+
+ARTICULO 530.- Elementos del cómputo. La proximidad del parentesco se establece por líneas y grados.
+
+ARTICULO 531.- Grado. Línea. Tronco. Se llama:
+
+a) grado, al vínculo entre dos personas que pertenecen a generaciones sucesivas;
+
+b) línea, a la serie no interrumpida de grados;
+
+c) tronco, al ascendiente del cual parten dos o más líneas;
+
+d) rama, a la línea en relación a su origen.
+
+ARTICULO 532.- Clases de líneas. Se llama línea recta a la que une a los ascendientes y los descendientes; y línea colateral a la que une a los descendientes de un tronco común.
+
+ARTICULO 533.- Cómputo del parentesco. En la línea recta hay tantos grados como generaciones. En la colateral los grados se cuentan por generaciones, sumando el número de grados que hay en cada rama entre cada una de las personas cuyo parentesco se quiere computar y el ascendiente común.
+
+ARTICULO 534.- Hermanos bilaterales y unilaterales. Son hermanos bilaterales los que tienen los mismos padres. Son hermanos unilaterales los que proceden de un mismo ascendiente en primer grado, difiriendo en el otro.
+
+ARTICULO 535.- Parentesco por adopción. En la adopción plena, el adoptado adquiere el mismo parentesco que tendría un hijo del adoptante con todos los parientes de éste.
+
+La adopción simple sólo crea vínculo de parentesco entre el adoptado y el adoptante.
+
+En ambos casos el parentesco se crea con los límites determinados por este Código y la decisión judicial que dispone la adopción.
+
+ARTICULO 536.- Parentesco por afinidad. Cómputo. Exclusión. El parentesco por afinidad es el que existe entre la persona casada y los parientes de su cónyuge.
+
+Se computa por el número de grados en que el cónyuge se encuentra respecto de esos parientes.
+
+El parentesco por afinidad no crea vínculo jurídico alguno entre los parientes de uno de los cónyuges y los parientes del otro.
+
+CAPITULO 2
+
+Deberes y derechos de los parientes
+
+SECCION 1ª
+
+Alimentos
+
+ARTICULO 537.- Enumeración. Los parientes se deben alimentos en el siguiente orden:
+
+a) los ascendientes y descendientes. Entre ellos, están obligados preferentemente los más próximos en grado;
+
+b) los hermanos bilaterales y unilaterales.
+
+En cualquiera de los supuestos, los alimentos son debidos por los que están en mejores condiciones para proporcionarlos. Si dos o más de ellos están en condiciones de hacerlo, están obligados por partes iguales, pero el juez puede fijar cuotas diferentes, según la cuantía de los bienes y cargas familiares de cada obligado.
+
+ARTICULO 538.- Parientes por afinidad. Entre los parientes por afinidad únicamente se deben alimentos los que están vinculados en línea recta en primer grado.
+
+ARTICULO 539.- Prohibiciones. La obligación de prestar alimentos no puede ser compensada, ni el derecho a reclamarlos o percibirlos, ser objeto de transacción, renuncia, cesión, gravamen o embargo alguno. No es repetible lo pagado en concepto de alimentos.
+
+ARTICULO 540.- Alimentos devengados y no percibidos. Las prestaciones alimentarias devengadas y no percibidas pueden compensarse, renunciarse o transmitirse a título oneroso o gratuito.
+
+ARTICULO 541.- Contenido de la obligación alimentaria. La prestación de alimentos comprende lo necesario para la subsistencia, habitación, vestuario y asistencia médica, correspondientes a la condición del que la recibe, en la medida de sus necesidades y de las posibilidades económicas del alimentante. Si el alimentado es una persona menor de edad, comprende, además, lo necesario para la educación.
+
+ARTICULO 542.- Modo de cumplimiento. La prestación se cumple mediante el pago de una renta en dinero, pero el obligado puede solicitar que se lo autorice a solventarla de otra manera, si justifica motivos suficientes.
+
+Los pagos se deben efectuar en forma mensual, anticipada y sucesiva pero, según las circunstancias, el juez puede fijar cuotas por períodos más cortos.
+
+ARTICULO 543.- Proceso. La petición de alimentos tramita por el proceso más breve que establezca la ley local, y no se acumula a otra pretensión.
+
+ARTICULO 544.- Alimentos provisorios. Desde el principio de la causa o en el transcurso de ella, el juez puede decretar la prestación de alimentos provisionales, y también las expensas del pleito, si se justifica la falta de medios.
+
+ARTICULO 545.- Prueba. El pariente que pide alimentos debe probar que le faltan los medios económicos suficientes y la imposibilidad de adquirirlos con su trabajo, cualquiera que sea la causa que haya generado tal estado.
+
+ARTICULO 546.- Existencia de otros obligados. Incumbe al demandado la carga de probar que existe otro pariente de grado más próximo o de igual grado en condición de prestarlos, a fin de ser desplazado o concurrir con él en la prestación. Si se reclama a varios obligados, el demandado puede citar a juicio a todos o parte de los restantes, a fin de que la condena los alcance.
+
+ARTICULO 547.- Recursos. El recurso contra la sentencia que decreta la prestación de alimentos no tiene efecto suspensivo, ni el que recibe los alimentos puede ser obligado a prestar fianza o caución alguna de devolver lo recibido si la sentencia es revocada.
+
+ARTICULO 548.- Retroactividad de la sentencia. Los alimentos se deben desde el día de la interposición de la demanda o desde la interpelación al obligado por medio fehaciente, siempre que la demanda se presente dentro de los seis meses de la interpelación.
+
+ARTICULO 549.- Repetición. En caso de haber más de un obligado al pago de los alimentos, quien los haya prestado puede repetir de los otros obligados, en proporción a lo que a cada uno le corresponde.
+
+ARTICULO 550.- Medidas cautelares. Puede disponerse la traba de medidas cautelares para asegurar el pago de alimentos futuros, provisionales, definitivos o convenidos. El obligado puede ofrecer en sustitución otras garantías suficientes.
+
+ARTICULO 551.- Incumplimiento de órdenes judiciales. Es solidariamente responsable del pago de la deuda alimentaria quien no cumple la orden judicial de depositar la suma que debió descontar a su dependiente o a cualquier otro acreedor.
+
+ARTICULO 552.- Intereses. Las sumas debidas por alimentos por el incumplimiento en el plazo previsto devengan una tasa de interés equivalente a la más alta que cobran los bancos a sus clientes, según las reglamentaciones del Banco Central, a la que se adiciona la que el juez fije según las circunstancias del caso.
+
+ARTICULO 553.- Otras medidas para asegurar el cumplimiento. El juez puede imponer al responsable del incumplimiento reiterado de la obligación alimentaria medidas razonables para asegurar la eficacia de la sentencia.
+
+ARTICULO 554.- Cese de la obligación alimentaria. Cesa la obligación alimentaria:
+
+a) si el alimentado incurre en alguna causal de indignidad;
+
+b) por la muerte del obligado o del alimentado;
+
+c) cuando desaparecen los presupuestos de la obligación.
+
+La pretensión de cese, aumento o reducción de los alimentos tramita por el procedimiento más breve que prevea la ley local.
+
+SECCION 2ª
+
+Derecho de comunicación
+
+ARTICULO 555.- Legitimados. Oposición. Los que tienen a su cargo el cuidado de personas menores de edad, con capacidad restringida, o enfermas o imposibilitadas, deben permitir la comunicación de estos con sus ascendientes, descendientes, hermanos bilaterales o unilaterales y parientes por afinidad en primer grado. Si se deduce oposición fundada en posibles perjuicios a la salud mental o física de los interesados, el juez debe resolver lo que corresponda por el procedimiento más breve que prevea la ley local y establecer, en su caso, el régimen de comunicación más conveniente de acuerdo a las circunstancias.
+
+ARTICULO 556.- Otros beneficiarios. Las disposiciones del artículo 555 se aplican en favor de quienes justifiquen un interés afectivo legítimo.
+
+ARTICULO 557.- Medidas para asegurar el cumplimiento. El juez puede imponer al responsable del incumplimiento reiterado del régimen de comunicación establecido por sentencia o convenio homologado medidas razonables para asegurar su eficacia.
+
+
+
+-----------------------------------------
+LIBRO SEGUNDO - RELACIONES DE FAMILIA - TITULO 5
+TITULO 5: Filiación
+Articulos: 558 al 593
+
+-----------------------------------------
+TITULO V
+
+Filiación
+
+CAPITULO 1
+
+Disposiciones generales
+
+ARTICULO 558.- Fuentes de la filiación. Igualdad de efectos. La filiación puede tener lugar por naturaleza, mediante técnicas de reproducción humana asistida, o por adopción.
+
+La filiación por adopción plena, por naturaleza o por técnicas de reproducción humana asistida, matrimonial y extramatrimonial, surten los mismos efectos, conforme a las disposiciones de este Código.
+
+Ninguna persona puede tener más de dos vínculos filiales, cualquiera sea la naturaleza de la filiación.
+
+ARTICULO 559.- Certificado de nacimiento. El Registro del Estado Civil y Capacidad de las Personas sólo debe expedir certificados de nacimiento que sean redactados en forma tal que de ellos no resulte si la persona ha nacido o no durante el matrimonio, por técnicas de reproducción humana asistida, o ha sido adoptada.
+
+CAPITULO 2
+
+Reglas generales relativas a la filiación por técnicas de reproducción humana asistida
+
+ARTICULO 560.- Consentimiento en las técnicas de reproducción humana asistida. El centro de salud interviniente debe recabar el consentimiento previo, informado y libre de las personas que se someten al uso de las técnicas de reproducción humana asistida. Este consentimiento debe renovarse cada vez que se procede a la utilización de gametos o embriones.
+
+ARTICULO 561.- Forma y requisitos del consentimiento. La instrumentación de dicho consentimiento debe contener los requisitos previstos en las disposiciones especiales, para su posterior protocolización ante escribano público o certificación ante la autoridad sanitaria correspondiente a la jurisdicción. El consentimiento es libremente revocable mientras no se haya producido la concepción en la persona o la implantación del embrión.
+
+ARTICULO 562.- Voluntad procreacional. Los nacidos por las técnicas de reproducción humana asistida son hijos de quien dio a luz y del hombre o de la mujer que también ha prestado su consentimiento previo, informado y libre en los términos de los artículos 560 y 561, debidamente inscripto en el Registro del Estado Civil y Capacidad de las Personas, con independencia de quién haya aportado los gametos.
+
+ARTICULO 563.- Derecho a la información de las personas nacidas por técnicas de reproducción asistida. La información relativa a que la persona ha nacido por el uso de técnicas de reproducción humana asistida con gametos de un tercero debe constar en el correspondiente legajo base para la inscripción del nacimiento.
+
+ARTICULO 564.- Contenido de la información. A petición de las personas nacidas a través de las técnicas de reproducción humana asistida, puede:
+
+a) obtenerse del centro de salud interviniente información relativa a datos médicos del donante, cuando es relevante para la salud;
+
+b) revelarse la identidad del donante, por razones debidamente fundadas, evaluadas por la autoridad judicial por el procedimiento más breve que prevea la ley local.
+
+CAPITULO 3
+
+Determinación de la maternidad
+
+ARTICULO 565.- Principio general. En la filiación por naturaleza, la maternidad se establece con la prueba del nacimiento y la identidad del nacido.
+
+La inscripción debe realizarse a petición de quien presenta un certificado del médico, obstétrica o agente de salud si corresponde, que atendió el parto de la mujer a quien se atribuye la maternidad del nacido. Esta inscripción debe ser notificada a la madre, excepto que sea ella quien la solicita o que quien denuncia el nacimiento sea su cónyuge.
+
+Si se carece del certificado mencionado en el párrafo anterior, la inscripción de la maternidad por naturaleza debe realizarse conforme a las disposiciones contenidas en los ordenamientos relativos al Registro del Estado Civil y Capacidad de las Personas.
+
+CAPITULO 4
+
+Determinación de la filiación matrimonial
+
+ARTICULO 566.- Presunción de filiación. Excepto prueba en contrario, se presumen hijos del o la cónyuge los nacidos después de la celebración del matrimonio y hasta los trescientos días posteriores a la interposición de la demanda de divorcio o nulidad del matrimonio, de la separación de hecho o de la muerte.
+
+La presunción no rige en los supuestos de técnicas de reproducción humana asistida si el o la cónyuge no prestó el correspondiente consentimiento previo, informado y libre según lo dispuesto en el Capítulo 2 de este Titulo.
+
+ARTICULO 567.- Situación especial en la separación de hecho. Aunque falte la presunción de filiación en razón de la separación de hecho de los cónyuges, el nacido debe ser inscripto como hijo de éstos si concurre el consentimiento de ambos, haya nacido el hijo por naturaleza o mediante el uso de técnicas de reproducción humana asistida. En este último caso, y con independencia de quién aportó los gametos, se debe haber cumplido además con el consentimiento previo, informado y libre y demás requisitos dispuestos en la ley especial.
+
+ARTICULO 568.- Matrimonios sucesivos. Si median matrimonios sucesivos de la mujer que da a luz, se presume que el hijo nacido dentro de los trescientos días de la disolución o anulación del primero y dentro de los ciento ochenta días de la celebración del segundo, tiene vínculo filial con el primer cónyuge; y que el nacido dentro de los trescientos días de la disolución o anulación del primero y después de los ciento ochenta días de la celebración del segundo tiene vínculo filial con el segundo cónyuge.
+
+Estas presunciones admiten prueba en contrario.
+
+ARTICULO 569.- Formas de determinación. La filiación matrimonial queda determinada legalmente y se prueba:
+
+a) por la inscripción del nacimiento en el Registro del Estado Civil y Capacidad de las Personas y por la prueba del matrimonio, de conformidad con las disposiciones legales respectivas;
+
+b) por sentencia firme en juicio de filiación;
+
+c) en los supuestos de técnicas de reproducción humana asistida, por el consentimiento previo, informado y libre debidamente inscripto en el Registro del Estado Civil y Capacidad de las Personas.
+
+CAPITULO 5
+
+Determinación de la filiación extramatrimonial
+
+ARTICULO 570.- Principio general. La filiación extramatrimonial queda determinada por el reconocimiento, por el consentimiento previo, informado y libre al uso de las técnicas de reproducción humana asistida, o por la sentencia en juicio de filiación que la declare tal.
+
+ARTICULO 571.- Formas del reconocimiento. La paternidad por reconocimiento del hijo resulta:
+
+a) de la declaración formulada ante el oficial del Registro del Estado Civil y Capacidad de las Personas en oportunidad de inscribirse el nacimiento o posteriormente;
+
+b) de la declaración realizada en instrumento público o privado debidamente reconocido;
+
+c) de las disposiciones contenidas en actos de última voluntad, aunque el reconocimiento se efectúe en forma incidental.
+
+ARTICULO 572.- Notificación del reconocimiento. El Registro del Estado Civil y Capacidad de las Personas debe notificar el reconocimiento a la madre y al hijo o su representante legal.
+
+ARTICULO 573.- Caracteres del reconocimiento. El reconocimiento es irrevocable, no puede sujetarse a modalidades que alteren sus consecuencias legales, ni requiere aceptación del hijo.
+
+El reconocimiento del hijo ya fallecido no atribuye derechos en su sucesión a quien lo formula, ni a los demás ascendientes de su rama, excepto que haya habido posesión de estado de hijo.
+
+ARTICULO 574.- Reconocimiento del hijo por nacer. Es posible el reconocimiento del hijo por nacer, quedando sujeto al nacimiento con vida.
+
+ARTICULO 575.- Determinación en las técnicas de reproducción humana asistida. En los supuestos de técnicas de reproducción humana asistida, la determinación de la filiación se deriva del consentimiento previo, informado y libre, prestado de conformidad con lo dispuesto en este Código y en la ley especial.
+
+Cuando en el proceso reproductivo se utilicen gametos de terceros, no se genera vínculo jurídico alguno con éstos, excepto a los fines de los impedimentos matrimoniales en los mismos términos que la adopción plena.
+
+CAPITULO 6
+
+Acciones de filiación.
+
+Disposiciones generales
+
+ARTICULO 576.- Caracteres. El derecho a reclamar la filiación o de impugnarla no se extingue por prescripción ni por renuncia expresa o tácita, pero los derechos patrimoniales ya adquiridos están sujetos a prescripción.
+
+ARTICULO 577.- Inadmisibilidad de la demanda. No es admisible la impugnación de la filiación matrimonial o extramatrimonial de los hijos nacidos mediante el uso de técnicas de reproducción humana asistida cuando haya mediado consentimiento previo, informado y libre a dichas técnicas, de conformidad con este Código y la ley especial, con independencia de quién haya aportado los gametos. No es admisible el reconocimiento ni el ejercicio de acción de filiación o de reclamo alguno de vínculo filial respecto de éste.
+
+ARTICULO 578.- Consecuencia de la regla general de doble vínculo filial. Si se reclama una filiación que importa dejar sin efecto una anteriormente establecida, debe previa o simultáneamente, ejercerse la correspondiente acción de impugnación.
+
+ARTICULO 579.- Prueba genética. En las acciones de filiación se admiten toda clase de pruebas, incluidas las genéticas, que pueden ser decretadas de oficio o a petición de parte.
+
+Ante la imposibilidad de efectuar la prueba genética a alguna de las partes, los estudios se pueden realizar con material genético de los parientes por naturaleza hasta el segundo grado; debe priorizarse a los más próximos.
+
+Si ninguna de estas alternativas es posible, el juez valora la negativa como indicio grave contrario a la posición del renuente.
+
+ARTICULO 580.- Prueba genética post mortem. En caso de fallecimiento del presunto padre, la prueba puede realizarse sobre material genético de los dos progenitores naturales de éste.
+
+Ante la negativa o imposibilidad de uno de ellos, puede autorizarse la exhumación del cadáver.
+
+El juez puede optar entre estas posibilidades según las circunstancias del caso.
+
+ARTICULO 581.- Competencia. Cuando las acciones de filiación sean ejercidas por personas menores de edad o con capacidad restringida, es competente el juez del lugar donde el actor tiene su centro de vida o el del domicilio del demandado, a elección del actor.
+
+CAPITULO 7
+
+Acciones de reclamación de filiación
+
+ARTICULO 582.- Reglas generales. El hijo puede reclamar su filiación matrimonial contra sus progenitores si no resulta de la inscripción en el Registro del Estado Civil y Capacidad de las Personas. La acción debe entablarse contra los cónyuges conjuntamente.
+
+El hijo también puede reclamar su filiación extramatrimonial contra quienes considere sus progenitores.
+
+En caso de haber fallecido alguno de los progenitores, la acción se dirige contra sus herederos.
+
+Estas acciones pueden ser promovidas por el hijo en todo tiempo. Sus herederos pueden continuar la acción iniciada por él o entablarla si el hijo hubiese muerto en la menor edad o siendo persona incapaz. Si el hijo fallece antes de transcurrir un año computado desde que alcanzó la mayor edad o la plena capacidad, o durante el primer año siguiente al descubrimiento de las pruebas en que se haya de fundar la demanda, su acción corresponde a sus herederos por todo el tiempo que falte para completar dichos plazos.
+
+Esta disposición no se aplica en los supuestos de técnicas de reproducción humana asistida cuando haya mediado consentimiento previo, informado y libre, con independencia de quienes hayan aportado los gametos.
+
+ARTICULO 583.- Reclamación en los supuestos de filiación en los que está determinada sólo la maternidad. En todos los casos en que un niño o niña aparezca inscripto sólo con filiación materna, el Registro Civil debe comunicar al Ministerio Público, el cual debe procurar la determinación de la paternidad y el reconocimiento del hijo por el presunto padre. A estos fines, se debe instar a la madre a suministrar el nombre del presunto padre y toda información que contribuya a su individualización y paradero. La declaración sobre la identidad del presunto padre debe hacerse bajo juramento; previamente se hace saber a la madre las consecuencias jurídicas que se derivan de una manifestación falsa.
+
+Antes de remitir la comunicación al Ministerio Público, el jefe u oficial del Registro Civil debe citar a la madre e informarle sobre los derechos del niño y los correlativos deberes maternos, de conformidad con lo dispuesto en la ley especial. Cumplida esta etapa, las actuaciones se remiten al Ministerio Público para promover acción judicial.
+
+ARTICULO 584.- Posesión de estado. La posesión de estado debidamente acreditada en juicio tiene el mismo valor que el reconocimiento, siempre que no sea desvirtuada por prueba en contrario sobre el nexo genético.
+
+ARTICULO 585.- Convivencia. La convivencia de la madre durante la época de la concepción hace presumir el vínculo filial a favor de su conviviente, excepto oposición fundada.
+
+ARTICULO 586.-. Alimentos provisorios. Durante el proceso de reclamación de la filiación o incluso antes de su inicio, el juez puede fijar alimentos provisorios contra el presunto progenitor, de conformidad a lo establecido en el Título VII del Libro Segundo.
+
+ARTICULO 587.- Reparación del daño causado. El daño causado al hijo por la falta de reconocimiento es reparable, reunidos los requisitos previstos en el Capítulo 1 del Título V de Libro Tercero de este Código.
+
+CAPITULO 8
+
+Acciones de impugnación de filiación
+
+ARTICULO 588.- Impugnación de la maternidad. En los supuestos de determinación de la maternidad de conformidad con lo dispuesto en el artículo 565, el vínculo filial puede ser impugnado por no ser la mujer la madre del hijo que pasa por suyo. Esta acción de impugnación puede ser interpuesta por el hijo, la madre, el o la cónyuge y todo tercero que invoque un interés legítimo.
+
+La acción caduca si transcurre un año desde la inscripción del nacimiento o desde que se conoció la sustitución o incertidumbre sobre la identidad del hijo. El hijo puede iniciar la acción en cualquier tiempo.
+
+En los supuestos de filiación por técnicas de reproducción humana asistida la falta de vínculo genético no puede invocarse para impugnar la maternidad, si ha mediado consentimiento previo, informado y libre.
+
+ARTICULO 589.- Impugnación de la filiación presumida por la ley. El o la cónyuge de quien da a luz puede impugnar el vínculo filial de los hijos nacidos durante el matrimonio o dentro de los trescientos días siguientes a la interposición de la demanda de divorcio o nulidad, de la separación de hecho o de la muerte, mediante la alegación de no poder ser el progenitor, o que la filiación presumida por la ley no debe ser razonablemente mantenida de conformidad con las pruebas que la contradicen o en el interés del niño. Para acreditar esa circunstancia puede valerse de todo medio de prueba, pero no es suficiente la sola declaración de quien dio a luz.
+
+Esta disposición no se aplica en los supuestos de técnicas de reproducción humana asistida cuando haya mediado consentimiento previo, informado y libre, con independencia de quienes hayan aportado los gametos.
+
+ARTICULO 590.- Impugnación de la filiación presumida por ley. Legitimación y caducidad. La acción de impugnación de la filiación del o la cónyuge de quien da a luz puede ser ejercida por éste o ésta, por el hijo, por la madre y por cualquier tercero que invoque un interés legítimo.
+
+El hijo puede iniciar la acción en cualquier tiempo. Para los demás legitimados, la acción caduca si transcurre un año desde la inscripción del nacimiento o desde que se tuvo conocimiento de que el niño podría no ser hijo de quien la ley lo presume.
+
+En caso de fallecimiento del legitimado activo, sus herederos pueden impugnar la filiación si el deceso se produjo antes de transcurrir el término de caducidad establecido en este artículo. En este caso, la acción caduca para ellos una vez cumplido el plazo que comenzó a correr en vida del legitimado.
+
+ARTICULO 591.- Acción de negación de filiación presumida por la ley. El o la cónyuge de la mujer que da a luz puede negar judicialmente el vínculo filial del hijo nacido dentro de los ciento ochenta días siguientes a la celebración del matrimonio. La acción caduca si transcurre un año desde la inscripción del nacimiento o desde que se tuvo conocimiento de que el niño podría no ser hijo de quien la ley lo presume.
+
+Si se prueba que el o la cónyuge tenía conocimiento del embarazo de su mujer al tiempo de la celebración del matrimonio o hubo posesión de estado de hijo, la negación debe ser desestimada. Queda a salvo, en todo caso, la acción de impugnación de la filiación que autorizan los artículos anteriores.
+
+Esta disposición no se aplica en los supuestos de técnicas de reproducción humana asistida cuando haya mediado consentimiento previo, informado y libre, con independencia de quienes hayan aportado los gametos.
+
+ARTICULO 592.- Impugnación preventiva de la filiación presumida por la ley. Aun antes del nacimiento del hijo, el o la cónyuge pueden impugnar preventivamente la filiación de la persona por nacer.
+
+Esta acción puede ser ejercida, además, por la madre y por cualquier tercero que invoque un interés legítimo.
+
+La inscripción del nacimiento posterior no hace presumir la filiación del cónyuge de quien da a luz si la acción es acogida.
+
+Esta disposición no se aplica en los supuestos de técnicas de reproducción humana asistida cuando haya mediado consentimiento previo, informado y libre, con independencia de quienes hayan aportado los gametos.
+
+ARTICULO 593.- Impugnación del reconocimiento. El reconocimiento de los hijos nacidos fuera del matrimonio puede ser impugnado por los propios hijos o por los terceros que invoquen un interés legítimo. El hijo puede impugnar el reconocimiento en cualquier tiempo. Los demás interesados pueden ejercer la acción dentro de un año de haber conocido el acto de reconocimiento o desde que se tuvo conocimiento de que el niño podría no ser el hijo.
+
+Esta disposición no se aplica en los supuestos de técnicas de reproducción humana asistida cuando haya mediado consentimiento previo, informado y libre, con independencia de quienes hayan aportado los gametos.

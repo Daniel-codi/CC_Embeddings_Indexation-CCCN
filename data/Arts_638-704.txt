@@ -1,0 +1,364 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO SEGUNDO - RELACIONES DE FAMILIA - TITULO 7
+TITULO 7: Responsabilidad parental
+Articulos: 638 al 704
+
+-----------------------------------------
+TITULO VII
+
+Responsabilidad parental
+
+CAPITULO 1
+
+Principios generales de la responsabilidad parental
+
+ARTICULO 638.- Responsabilidad parental. Concepto. La responsabilidad parental es el conjunto de deberes y derechos que corresponden a los progenitores sobre la persona y bienes del hijo, para su protección, desarrollo y formación integral mientras sea menor de edad y no se haya emancipado.
+
+ARTICULO 639.- Principios generales. Enumeración. La responsabilidad parental se rige por los siguientes principios:
+
+a) el interés superior del niño;
+
+b) la autonomía progresiva del hijo conforme a sus características psicofísicas, aptitudes y desarrollo. A mayor autonomía, disminuye la representación de los progenitores en el ejercicio de los derechos de los hijos;
+
+c) el derecho del niño a ser oído y a que su opinión sea tenida en cuenta según su edad y grado de madurez.
+
+ARTICULO 640.- Figuras legales derivadas de la responsabilidad parental. Este Código regula:
+
+a) la titularidad y el ejercicio de la responsabilidad parental;
+
+b) el cuidado personal del hijo por los progenitores;
+
+c) la guarda otorgada por el juez a un tercero.
+
+CAPITULO 2
+
+Titularidad y ejercicio de la responsabilidad parental
+
+ARTICULO 641.- Ejercicio de la responsabilidad parental. El ejercicio de la responsabilidad parental corresponde:
+
+a) en caso de convivencia con ambos progenitores, a éstos. Se presume que los actos realizados por uno cuentan con la conformidad del otro, con excepción de los supuestos contemplados en el artículo 645, o que medie expresa oposición;
+
+b) en caso de cese de la convivencia, divorcio o nulidad de matrimonio, a ambos progenitores. Se presume que los actos realizados por uno cuentan con la conformidad del otro, con las excepciones del inciso anterior. Por voluntad de los progenitores o por decisión judicial, en interés del hijo, el ejercicio se puede atribuir a sólo uno de ellos, o establecerse distintas modalidades;
+
+c) en caso de muerte, ausencia con presunción de fallecimiento, privación de la responsabilidad parental o suspensión del ejercicio de un progenitor, al otro;
+
+d) en caso de hijo extramatrimonial con un solo vínculo filial, al único progenitor;
+
+e) en caso de hijo extramatrimonial con doble vínculo filial, si uno se estableció por declaración judicial, al otro progenitor. En interés del hijo, los progenitores de común acuerdo o el juez pueden decidir el ejercicio conjunto o establecer distintas modalidades.
+
+ARTICULO 642.- Desacuerdo. En caso de desacuerdo entre los progenitores, cualquiera de ellos puede acudir al juez competente, quien debe resolver por el procedimiento más breve previsto por la ley local, previa audiencia de los progenitores con intervención del Ministerio Público.
+
+Si los desacuerdos son reiterados o concurre cualquier otra causa que entorpece gravemente el ejercicio de la responsabilidad parental, el juez puede atribuirlo total o parcialmente a uno de los progenitores, o distribuir entre ellos sus funciones, por un plazo que no puede exceder de dos años. El juez también puede ordenar medidas de intervención interdisciplinaria y someter las discrepancias a mediación.
+
+ARTICULO 643.- Delegación del ejercicio. En el interés del hijo y por razones suficientemente justificadas, los progenitores pueden convenir que el ejercicio de la responsabilidad parental sea otorgado a un pariente, sin perjuicio de lo establecido en el artículo 674. El acuerdo con la persona que acepta la delegación debe ser homologado judicialmente, debiendo oírse necesariamente al hijo. Tiene un plazo máximo de un año, pudiendo renovarse judicialmente por razones debidamente fundadas, por un período más con participación de las partes involucradas. Los progenitores conservan la titularidad de la responsabilidad parental, y mantienen el derecho a supervisar la crianza y educación del hijo en función de sus posibilidades.
+
+Igual régimen es aplicable al hijo que sólo tiene un vínculo filial establecido.
+
+ARTICULO 644.- Progenitores adolescentes. Los progenitores adolescentes, estén o no casados, ejercen la responsabilidad parental de sus hijos pudiendo decidir y realizar por sí mismos las tareas necesarias para su cuidado, educación y salud.
+
+Las personas que ejercen la responsabilidad parental de un progenitor adolescente que tenga un hijo bajo su cuidado pueden oponerse a la realización de actos que resulten perjudiciales para el niño; también pueden intervenir cuando el progenitor omite realizar las acciones necesarias para preservar su adecuado desarrollo.
+
+El consentimiento del progenitor adolescente debe integrarse con el asentimiento de cualquiera de sus propios progenitores si se trata de actos trascendentes para la vida del niño, como la decisión libre e informada de su adopción, intervenciones quirúrgicas que ponen en peligro su vida, u otros actos que pueden lesionar gravemente sus derechos. En caso de conflicto, el juez debe decidir a través del procedimiento más breve previsto por la ley local.
+
+La plena capacidad de uno de los progenitores no modifica este régimen.
+
+ARTICULO 645.- Actos que requieren el consentimiento de ambos progenitores. Si el hijo tiene doble vínculo filial se requiere el consentimiento expreso de ambos progenitores para los siguientes supuestos:
+
+a) autorizar a los hijos adolescentes entre dieciséis y dieciocho años para contraer matrimonio;
+
+b) autorizarlo para ingresar a comunidades religiosas, fuerzas armadas o de seguridad;
+
+c) autorizarlo para salir de la República o para el cambio de residencia permanente en el extranjero;
+
+d) autorizarlo para estar en juicio, en los supuestos en que no puede actuar por sí;
+
+e) administrar los bienes de los hijos, excepto que se haya delegado la administración de conformidad con lo previsto en este Capítulo.
+
+En todos estos casos, si uno de los progenitores no da su consentimiento o media imposibilidad para prestarlo, debe resolver el juez teniendo en miras el interés familiar.
+
+Cuando el acto involucra a hijos adolescentes, es necesario su consentimiento expreso.
+
+CAPITULO 3
+
+Deberes y derechos de los progenitores. Reglas generales.
+
+ARTICULO 646.- Enumeración. Son deberes de los progenitores:
+
+a) cuidar del hijo, convivir con él, prestarle alimentos y educarlo;
+
+b) considerar las necesidades específicas del hijo según sus características psicofísicas, aptitudes y desarrollo madurativo;
+
+c) respetar el derecho del niño y adolescente a ser oído y a participar en su proceso educativo, así como en todo lo referente a sus derechos personalísimos;
+
+d) prestar orientación y dirección al hijo para el ejercicio y efectividad de sus derechos;
+
+e) respetar y facilitar el derecho del hijo a mantener relaciones personales con abuelos, otros parientes o personas con las cuales tenga un vínculo afectivo;
+
+f) representarlo y administrar el patrimonio del hijo.
+
+ARTICULO 647.- Prohibición de malos tratos. Auxilio del Estado. Se prohíbe el castigo corporal en cualquiera de sus formas, los malos tratos y cualquier hecho que lesione o menoscabe física o psíquicamente a los niños o adolescentes.
+
+Los progenitores pueden solicitar el auxilio de los servicios de orientación a cargo de los organismos del Estado.
+
+CAPITULO 4
+
+Deberes y derechos sobre el cuidado de los hijos
+
+ARTICULO 648.- Cuidado personal. Se denomina cuidado personal a los deberes y facultades de los progenitores referidos a la vida cotidiana del hijo.
+
+ARTICULO 649.- Clases. Cuando los progenitores no conviven, el cuidado personal del hijo puede ser asumido por un progenitor o por ambos.
+
+ARTICULO 650.- Modalidades del cuidado personal compartido. El cuidado personal compartido puede ser alternado o indistinto. En el cuidado alternado, el hijo pasa períodos de tiempo con cada uno de los progenitores, según la organización y posibilidades de la familia. En el indistinto, el hijo reside de manera principal en el domicilio de uno de los progenitores, pero ambos comparten las decisiones y se distribuyen de modo equitativo las labores atinentes a su cuidado.
+
+ARTICULO 651.- Reglas generales. A pedido de uno o ambos progenitores o de oficio, el juez debe otorgar, como primera alternativa, el cuidado compartido del hijo con la modalidad indistinta, excepto que no sea posible o resulte perjudicial para el hijo.
+
+ARTICULO 652.- Derecho y deber de comunicación. En el supuesto de cuidado atribuido a uno de los progenitores, el otro tiene el derecho y el deber de fluida comunicación con el hijo.
+
+ARTICULO 653.- Cuidado personal unilateral. Deber de colaboración. En el supuesto excepcional en el que el cuidado personal del hijo deba ser unipersonal, el juez debe ponderar:
+
+a) la prioridad del progenitor que facilita el derecho a mantener trato regular con el otro;
+
+b) la edad del hijo;
+
+c) la opinión del hijo;
+
+d) el mantenimiento de la situación existente y respeto del centro de vida del hijo.
+
+El otro progenitor tiene el derecho y el deber de colaboración con el conviviente.
+
+ARTICULO 654.- Deber de informar. Cada progenitor debe informar al otro sobre cuestiones de educación, salud y otras relativas a la persona y bienes del hijo.
+
+ARTICULO 655.- Plan de parentalidad. Los progenitores pueden presentar un plan de parentalidad relativo al cuidado del hijo, que contenga:
+
+a) lugar y tiempo en que el hijo permanece con cada progenitor;
+
+b) responsabilidades que cada uno asume;
+
+c) régimen de vacaciones, días festivos y otras fechas significativas para la familia;
+
+d) régimen de relación y comunicación con el hijo cuando éste reside con el otro progenitor.
+
+El plan de parentalidad propuesto puede ser modificado por los progenitores en función de las necesidades del grupo familiar y del hijo en sus diferentes etapas.
+
+Los progenitores deben procurar la participación del hijo en el plan de parentalidad y en su modificación.
+
+ARTICULO 656.- Inexistencia de plan de parentalidad homologado. Si no existe acuerdo o no se ha homologado el plan, el juez debe fijar el régimen de cuidado de los hijos y priorizar la modalidad compartida indistinta, excepto que por razones fundadas resulte más beneficioso el cuidado unipersonal o alternado. Cualquier decisión en materia de cuidado personal del hijo debe basarse en conductas concretas del progenitor que puedan lesionar el bienestar del niño o adolescente no siendo admisibles discriminaciones fundadas en el sexo u orientación sexual, la religión, las preferencias políticas o ideológicas o cualquier otra condición.
+
+ARTICULO 657.- Otorgamiento de la guarda a un pariente. En supuestos de especial gravedad, el juez puede otorgar la guarda a un pariente por un plazo de un año, prorrogable por razones fundadas por otro período igual. Vencido el plazo, el juez debe resolver la situación del niño, niña o adolescente mediante otras figuras que se regulan en este Código.
+
+El guardador tiene el cuidado personal del niño, niña o adolescente y está facultado para tomar las decisiones relativas a las actividades de la vida cotidiana, sin perjuicio de que la responsabilidad parental quede en cabeza del o los progenitores, quienes conservan los derechos y responsabilidades emergentes de esta titularidad y ejercicio.
+
+CAPITULO 5
+
+Deberes y derechos de los progenitores. Obligación de alimentos
+
+ARTICULO 658.- Regla general. Ambos progenitores tienen la obligación y el derecho de criar a sus hijos, alimentarlos y educarlos conforme a su condición y fortuna, aunque el cuidado personal esté a cargo de uno de ellos.
+
+La obligación de prestar alimentos a los hijos se extiende hasta los veintiún años, excepto que el obligado acredite que el hijo mayor de edad cuenta con recursos suficientes para proveérselos por sí mismo.
+
+ARTICULO 659.- Contenido. La obligación de alimentos comprende la satisfacción de las necesidades de los hijos de manutención, educación, esparcimiento, vestimenta, habitación, asistencia, gastos por enfermedad y los gastos necesarios para adquirir una profesión u oficio. Los alimentos están constituidos por prestaciones monetarias o en especie y son proporcionales a las posibilidades económicas de los obligados y necesidades del alimentado.
+
+ARTICULO 660.- Tareas de cuidado personal. Las tareas cotidianas que realiza el progenitor que ha asumido el cuidado personal del hijo tienen un valor económico y constituyen un aporte a su manutención.
+
+ARTICULO 661.- Legitimación. El progenitor que falte a la prestación de alimentos puede ser demandado por:
+
+a) el otro progenitor en representación del hijo;
+
+b) el hijo con grado de madurez suficiente con asistencia letrada;
+
+c) subsidiariamente, cualquiera de los parientes o el Ministerio Público.
+
+ARTICULO 662.- Hijo mayor de edad. El progenitor que convive con el hijo mayor de edad tiene legitimación para obtener la contribución del otro hasta que el hijo cumpla veintiún años. Puede iniciar el juicio alimentario o, en su caso, continuar el proceso promovido durante la minoría de edad del hijo para que el juez determine la cuota que corresponde al otro progenitor. Tiene derecho a cobrar y administrar las cuotas alimentarias devengadas.
+
+Las partes de común acuerdo, o el juez, a pedido de alguno de los progenitores o del hijo, pueden fijar una suma que el hijo debe percibir directamente del progenitor no conviviente. Tal suma, administrada por el hijo, está destinada a cubrir los desembolsos de su vida diaria, como esparcimiento, gastos con fines culturales o educativos, vestimenta u otros rubros que se estimen pertinentes.
+
+ARTICULO 663.- Hijo mayor que se capacita. La obligación de los progenitores de proveer recursos al hijo subsiste hasta que éste alcance la edad de veinticinco años, si la prosecución de estudios o preparación profesional de un arte u oficio, le impide proveerse de medios necesarios para sostenerse independientemente.
+
+Pueden ser solicitados por el hijo o por el progenitor con el cual convive; debe acreditarse la viabilidad del pedido.
+
+ARTICULO 664.- Hijo no reconocido. El hijo extramatrimonial no reconocido tiene derecho a alimentos provisorios mediante la acreditación sumaria del vínculo invocado. Si la demanda se promueve antes que el juicio de filiación, en la resolución que determina alimentos provisorios el juez debe establecer un plazo para promover dicha acción, bajo apercibimiento de cesar la cuota fijada mientras esa carga esté incumplida.
+
+ARTICULO 665.- Mujer embarazada. La mujer embarazada tiene derecho a reclamar alimentos al progenitor presunto con la prueba sumaria de la filiación alegada.
+
+ARTICULO 666.- Cuidado personal compartido. En el caso de cuidado personal compartido, si ambos progenitores cuentan con recursos equivalentes, cada uno debe hacerse cargo de la manutención cuando el hijo permanece bajo su cuidado; si los recursos de los progenitores no son equivalentes, aquel que cuenta con mayores ingresos debe pasar una cuota alimentaria al otro para que el hijo goce del mismo nivel de vida en ambos hogares. Los gastos comunes deben ser solventados por ambos progenitores, de conformidad con lo dispuesto en el artículo 658.
+
+ARTICULO 667.- Hijo fuera del país o alejado de sus progenitores. El hijo que no convive con sus progenitores, que se encuentra en un país extranjero o en un lugar alejado dentro de la República, y tenga necesidad de recursos para su alimentación u otros rubros urgentes, puede ser autorizado por el juez del lugar o por la representación diplomática de la República, según el caso, para contraer deudas que satisfagan sus necesidades. Si es adolescente no necesita autorización alguna; sólo el asentimiento del adulto responsable, de conformidad con la legislación aplicable.
+
+ARTICULO 668.- Reclamo a ascendientes. Los alimentos a los ascendientes pueden ser reclamados en el mismo proceso en que se demanda a los progenitores o en proceso diverso; además de lo previsto en el título del parentesco, debe acreditarse verosímilmente las dificultades del actor para percibir los alimentos del progenitor obligado.
+
+ARTICULO 669.- Alimentos impagos. Los alimentos se deben desde el día de la demanda o desde el día de la interpelación del obligado por medio fehaciente, siempre que se interponga la demanda dentro de los seis meses de la interpelación.
+
+Por el período anterior, el progenitor que asumió el cuidado del hijo tiene derecho al reembolso de lo gastado en la parte que corresponde al progenitor no conviviente.
+
+ARTICULO 670.- Medidas ante el incumplimiento. Las disposiciones de este Código relativas al incumplimiento de los alimentos entre parientes son aplicables a los alimentos entre padres e hijos.
+
+CAPITULO 6
+
+Deberes de los hijos
+
+ARTICULO 671.- Enumeración. Son deberes de los hijos:
+
+a) respetar a sus progenitores;
+
+b) cumplir con las decisiones de los progenitores que no sean contrarias a su interés superior;
+
+c) prestar a los progenitores colaboración propia de su edad y desarrollo y cuidar de ellos u otros ascendientes en todas las circunstancias de la vida en que su ayuda sea necesaria.
+
+CAPITULO 7
+
+Deberes y derechos de los progenitores e hijos afines
+
+ARTICULO 672.- Progenitor afín. Se denomina progenitor afín al cónyuge o conviviente que vive con quien tiene a su cargo el cuidado personal del niño o adolescente.
+
+ARTICULO 673.- Deberes del progenitor afín. El cónyuge o conviviente de un progenitor debe cooperar en la crianza y educación de los hijos del otro, realizar los actos cotidianos relativos a su formación en el ámbito doméstico y adoptar decisiones ante situaciones de urgencia. En caso de desacuerdo entre el progenitor y su cónyuge o conviviente prevalece el criterio del progenitor.
+
+Esta colaboración no afecta los derechos de los titulares de la responsabilidad parental.
+
+ARTICULO 674.- Delegación en el progenitor afín. El progenitor a cargo del hijo puede delegar a su cónyuge o conviviente el ejercicio de la responsabilidad parental cuando no estuviera en condiciones de cumplir la función en forma plena por razones de viaje, enfermedad o incapacidad transitoria, y siempre que exista imposibilidad para su desempeño por parte del otro progenitor, o no fuera conveniente que este último asuma su ejercicio.
+
+Esta delegación requiere la homologación judicial, excepto que el otro progenitor exprese su acuerdo de modo fehaciente.
+
+ARTICULO 675.- Ejercicio conjunto con el progenitor afín. En caso de muerte, ausencia o incapacidad del progenitor, el otro progenitor puede asumir dicho ejercicio conjuntamente con su cónyuge o conviviente.
+
+Este acuerdo entre el progenitor en ejercicio de la responsabilidad parental y su cónyuge o conviviente debe ser homologado judicialmente. En caso de conflicto prima la opinión del progenitor.
+
+Este ejercicio se extingue con la ruptura del matrimonio o de la unión convivencial. También se extingue con la recuperación de la capacidad plena del progenitor que no estaba en ejercicio de la responsabilidad parental.
+
+ARTICULO 676.- Alimentos. La obligación alimentaria del cónyuge o conviviente respecto de los hijos del otro, tiene carácter subsidiario. Cesa este deber en los casos de disolución del vínculo conyugal o ruptura de la convivencia. Sin embargo, si el cambio de situación puede ocasionar un grave daño al niño o adolescente y el cónyuge o conviviente asumió durante la vida en común el sustento del hijo del otro, puede fijarse una cuota asistencial a su cargo con carácter transitorio, cuya duración debe definir el juez de acuerdo a las condiciones de fortuna del obligado, las necesidades del alimentado y el tiempo de la convivencia.
+
+CAPITULO 8
+
+Representación, disposición y administración de los bienes del hijo menor de edad
+
+ARTICULO 677.- Representación. Los progenitores pueden estar en juicio por su hijo como actores o demandados.
+
+Se presume que el hijo adolescente cuenta con suficiente autonomía para intervenir en un proceso conjuntamente con los progenitores, o de manera autónoma con asistencia letrada.
+
+ARTICULO 678.- Oposición al juicio. Si uno o ambos progenitores se oponen a que el hijo adolescente inicie una acción civil contra un tercero, el juez puede autorizarlo a intervenir en el proceso con la debida asistencia letrada, previa audiencia del oponente y del Ministerio Público.
+
+ARTICULO 679.- Juicio contra los progenitores. El hijo menor de edad puede reclamar a sus progenitores por sus propios intereses sin previa autorización judicial, si cuenta con la edad y grado de madurez suficiente y asistencia letrada.
+
+ARTICULO 680.- Hijo adolescente en juicio. El hijo adolescente no precisa autorización de sus progenitores para estar en juicio cuando sea acusado criminalmente, ni para reconocer hijos.
+
+ARTICULO 681.- Contratos por servicios del hijo menor de dieciséis años. El hijo menor de dieciséis años no puede ejercer oficio, profesión o industria, ni obligar a su persona de otra manera sin autorización de sus progenitores; en todo caso, debe cumplirse con las disposiciones de este Código y de leyes especiales.
+
+ARTICULO 682.- Contratos por servicios del hijo mayor de dieciséis años. Los progenitores no pueden hacer contratos por servicios a prestar por su hijo adolescente o para que aprenda algún oficio sin su consentimiento y de conformidad con los requisitos previstos en leyes especiales.
+
+ARTICULO 683.- Presunción de autorización para hijo mayor de dieciséis años. Se presume que el hijo mayor de dieciséis años que ejerce algún empleo, profesión o industria, está autorizado por sus progenitores para todos los actos y contratos concernientes al empleo, profesión o industria. En todo caso debe cumplirse con las disposiciones de este Código y con la normativa especial referida al trabajo infantil.
+
+Los derechos y obligaciones que nacen de estos actos recaen únicamente sobre los bienes cuya administración está a cargo del propio hijo.
+
+ARTICULO 684.- Contratos de escasa cuantía. Los contratos de escasa cuantía de la vida cotidiana celebrados por el hijo, se presumen realizados con la conformidad de los progenitores.
+
+ARTICULO 685.- Administración de los bienes. La administración de los bienes del hijo es ejercida en común por los progenitores cuando ambos estén en ejercicio de la responsabilidad parental. Los actos conservatorios pueden ser otorgados indistintamente por cualquiera de los progenitores.
+
+Esta disposición se aplica con independencia de que el cuidado sea unipersonal o compartido.
+
+ARTICULO 686.- Excepciones a la administración. Se exceptúan los siguientes bienes de la administración:
+
+a) los adquiridos por el hijo mediante trabajo, empleo, profesión o industria, que son administrados por éste, aunque conviva con sus progenitores;
+
+b) los heredados por el hijo por indignidad de sus progenitores;
+
+c) los adquiridos por herencia, legado o donación, cuando el donante o testador haya excluido expresamente la administración de los progenitores.
+
+ARTICULO 687.- Designación voluntaria de administrador. Los progenitores pueden acordar que uno de ellos administre los bienes del hijo; en ese caso, el progenitor administrador necesita el consentimiento expreso del otro para todos los actos que requieran también autorización judicial.
+
+ARTICULO 688.- Desacuerdos. En caso de graves o persistentes desacuerdos sobre la administración de los bienes, cualquiera de los progenitores puede recurrir al juez para que designe a uno de ellos o, en su defecto, a un tercero idóneo para ejercer la función.
+
+ARTICULO 689.- Contratos prohibidos. Los progenitores no pueden hacer contrato alguno con el hijo que está bajo su responsabilidad, excepto lo dispuesto para las donaciones sin cargo previstas en el artículo 1549.
+
+No pueden, ni aun con autorización judicial, comprar por sí ni por persona interpuesta, bienes de su hijo ni constituirse en cesionarios de créditos, derechos o acciones contra su hijo; ni hacer partición privada con su hijo de la herencia del progenitor prefallecido, ni de la herencia en que sean con él coherederos o colegatarios; ni obligar a su hijo como fiadores de ellos o de terceros.
+
+ARTICULO 690.- Contratos con terceros. Los progenitores pueden celebrar contratos con terceros en nombre de su hijo en los límites de su administración. Deben informar al hijo que cuenta con la edad y grado de madurez suficiente.
+
+ARTICULO 691.- Contratos de locación. La locación de bienes del hijo realizada por los progenitores lleva implícita la condición de extinguirse cuando la responsabilidad parental concluya.
+
+ARTICULO 692.- Actos que necesitan autorización judicial. Se necesita autorización judicial para disponer los bienes del hijo. Los actos realizados sin autorización pueden ser declarados nulos si perjudican al hijo.
+
+ARTICULO 693.- Obligación de realizar inventario. En los tres meses subsiguientes al fallecimiento de uno de los progenitores, el sobreviviente debe hacer inventario judicial de los bienes de los cónyuges o de los convivientes, y determinarse en él los bienes que correspondan al hijo, bajo pena de una multa pecuniaria a ser fijada por el juez a solicitud de parte interesada.
+
+ARTICULO 694.- Pérdida de la administración. Los progenitores pierden la administración de los bienes del hijo cuando ella sea ruinosa, o se pruebe su ineptitud para administrarlos. El juez puede declarar la pérdida de la administración en los casos de concurso o quiebra del progenitor que administra los bienes del hijo.
+
+ARTICULO 695.- Administración y privación de responsabilidad parental. Los progenitores pierden la administración de los bienes del hijo cuando son privados de la responsabilidad parental.
+
+ARTICULO 696.- Remoción de la administración. Removido uno de los progenitores de la administración de los bienes, ésta corresponde al otro. Si ambos son removidos, el juez debe nombrar un tutor especial.
+
+ARTICULO 697.- Rentas. Las rentas de los bienes del hijo corresponden a éste. Los progenitores están obligados a preservarlas cuidando de que no se confundan con sus propios bienes. Sólo pueden disponer de las rentas de los bienes del hijo con autorización judicial y por razones fundadas, en beneficio de los hijos. Los progenitores pueden rendir cuentas a pedido del hijo, presumiéndose su madurez.
+
+ARTICULO 698.- Utilización de las rentas. Los progenitores pueden utilizar las rentas de los bienes del hijo sin autorización judicial pero con la obligación de rendir cuentas, cuando se trata de solventar los siguientes gastos:
+
+a) de subsistencia y educación del hijo cuando los progenitores no pueden asumir esta responsabilidad a su cargo por incapacidad o dificultad económica;
+
+b) de enfermedad del hijo y de la persona que haya instituido heredero al hijo;
+
+c) de conservación del capital, devengado durante la minoridad del hijo.
+
+CAPITULO 9
+
+Extinción, privación, suspensión y rehabilitación de la responsabilidad parental
+
+ARTICULO 699.- Extinción de la titularidad. La titularidad de la responsabilidad parental se extingue por:
+
+a) muerte del progenitor o del hijo;
+
+b) profesión del progenitor en instituto monástico;
+
+c) alcanzar el hijo la mayoría de edad;
+
+d) emancipación, excepto lo dispuesto en el artículo 644;
+
+e) adopción del hijo por un tercero, sin perjuicio de la posibilidad de que se la restituya en caso de revocación y nulidad de la adopción; la extinción no se produce cuando se adopta el hijo del cónyuge o del conviviente.
+
+ARTICULO 700.- Privación. Cualquiera de los progenitores queda privado de la responsabilidad parental por:
+
+a) ser condenado como autor, coautor, instigador o cómplice de un delito doloso contra la persona o los bienes del hijo de que se trata;
+
+b) abandono del hijo, dejándolo en un total estado de desprotección, aun cuando quede bajo el cuidado del otro progenitor o la guarda de un tercero;
+
+c) poner en peligro la seguridad, la salud física o psíquica del hijo;
+
+d) haberse declarado el estado de adoptabilidad del hijo.
+
+En los supuestos previstos en los incisos a), b) y c) la privación tiene efectos a partir de la sentencia que declare la privación; en el caso previsto en el inciso d) desde que se declaró el estado de adoptabilidad del hijo.
+
+ARTICULO 700 bis: Cualquiera de los progenitores queda privado de la responsabilidad parental por:
+
+a) Ser condenado como autor, coautor, instigador o cómplice del delito de homicidio agravado por el vínculo o mediando violencia de género conforme lo previsto en el artículo 80, incisos 1 y 11 del Código Penal de la Nación, en contra del otro progenitor;
+
+b) Ser condenado como autor, coautor, instigador o cómplice del delito de lesiones previstas en el artículo 91 del Código Penal, contra el otro progenitor, o contra el hijo o hija de que se trata;
+
+c) Ser condenado como autor, coautor, instigador o cómplice del delito contra la integridad sexual previsto en el artículo 119 del Código Penal de la Nación, cometido contra el hijo o hija de que se trata.
+
+La privación operará también cuando los delitos descriptos se configuren en grado de tentativa, si correspondiere.
+
+La condena penal firme produce de pleno derecho la privación de la responsabilidad parental. La sentencia definitiva debe ser comunicada al Ministerio Público a los fines de lo previsto en el artículo 703, teniéndose en cuenta la asistencia letrada establecida en el artículo 26, segundo párrafo y a la autoridad de protección de los derechos de las niñas, niños y adolescentes competente en cada jurisdicción, a efectos de que proceda en sede civil, a los efectos de este artículo. Se deberá observar lo previsto en el artículo 27 de la ley 26.061.
+
+(Artículo incorporado por art. 1° de la Ley N° 27.363 B.O. 26/6/2017. Vigencia: será aplicable a las situaciones jurídicas pendientes o en curso de ejecución.)
+
+ARTICULO 701.- Rehabilitación. La privación de la responsabilidad parental puede ser dejada sin efecto por el juez si los progenitores, o uno de ellos, demuestra que la restitución se justifica en beneficio e interés del hijo.
+
+ARTICULO 702.- Suspensión del ejercicio. El ejercicio de la responsabilidad parental queda suspendido mientras dure:
+
+a) La declaración de ausencia con presunción de fallecimiento;
+
+b) El plazo de la condena a reclusión y la prisión por más de tres (3) años;
+
+c) La declaración por sentencia firme de la limitación de la capacidad por razones graves de salud mental que impiden al progenitor dicho ejercicio;
+
+d) La convivencia del hijo o hija con un tercero, separado de sus progenitores por razones graves, de conformidad con lo establecido en leyes especiales;
+
+e) El procesamiento penal o acto equivalente, por los delitos mencionados en el artículo 700 bis. El auto de procesamiento debe ser comunicado al Ministerio Público a los fines de lo previsto en el artículo 703, teniéndose en cuenta la asistencia letrada establecida en el artículo 26, segundo párrafo y a la autoridad de protección de los derechos de las niñas, niños y adolescentes competente en cada jurisdicción, a efectos de que proceda en sede civil, a los fines de este artículo. Se deberá observar lo previsto en el artículo 27 de la ley 26.061. No se procederá a suspender el ejercicio de la responsabilidad parental en los términos del presente inciso en los casos del artículo 700 bis incisos a) y b), cuando en los hechos investigados o en sus antecedentes mediare violencia de género.
+
+(Artículo sustituido por art. 2° de la Ley N° 27.363 B.O. 26/6/2017. Vigencia: será aplicable a las situaciones jurídicas pendientes o en curso de ejecución.)
+
+ARTICULO 703.- Casos de privación o suspensión de ejercicio. Si uno de los progenitores es privado de la responsabilidad parental o suspendido en su ejercicio, el otro continúa ejerciéndola. En su defecto, se procede a iniciar los procesos correspondientes para la tutela o adopción, según la situación planteada, y siempre en beneficio e interés del niño o adolescente.
+
+ARTICULO 704.- Subsistencia del deber alimentario. Los alimentos a cargo de los progenitores subsisten durante la privación y la suspensión del ejercicio de la responsabilidad parental.

@@ -1,0 +1,75 @@
+23/02/2025
+está funcionando perfectamente con gpt-4-mini y las respuestas negativas con un "-"
+
+25/02/2025
+encarar qué hacer con las preguntas conflictivas... hay preguntas que exigen buscar hasta el final
+
+26/02/2025: Modularizar
+Modularizado perfecto. Funciona
+
+Proximo paso:
+- Crear el indexatron
+
+- re-Indexar:Personajes, eventos, objetos, verbos y conceptos
+
+- Mas iteraciones si la respuesta permanece negativa
+
+- agregar en el historial los chunks que ya fueron consultados antes?
+
+-revisar todos los prompts para no confundir roles de system y user
+
+- reimplantar los logs perdidos
+
+01/03/2025
+Estoy trabajando en el código modular. Me di cuenta que contenía un error... 
+(1) no estaba entregando respuestas "-". Ahora las entrega
+(2) Debo agregar la funcion de pulir Respuestas
+(3) debo agregar la función de que si CantRespPositivas = 0 y chunksConsultados = maxChunks... retorne la respuesta como viene
+
+
+(4) devo devolver el formato Markdown en la respuesta final pulida
+
+01/03/2025
+Funciona... aun trabajando
+(1) el historial debe limitarse a dos preguntas
+(2) Chunks consultados = X
+(3) debo agregar la función de que si CantRespPositivas = 0 y chunksConsultados = maxChunks... retorne la respuesta como viene
+
+02/03/2025
+Funciona todo, con Markdown y todo
+Próxima Modularizar todo. Revisar los prompts para hacerlo más genérico si se puede.
+
+03/03/2025
+Todo bien modularizado. funciona perfecto. La próxima es eliminar las respuestas creativas, porque puede entretener preguntas bizarras
+
+04/03/2025
+Ya se eliminó la creatividad en las respuestas a preguntas bizarras.
+Próximo paso es modularizar más y colocar las dependencias .js en su lugar
+
+Todo perfectamente modularizado y pulido el código. No encuentro error
+Próxima empezar a probar docuemntos varios
+
+04/03/2025 - 03:32 am Funciona perfecto absolutamente todo
+próxima se comenzará a trabajar con el proyecto de 1M toknes
+
+06/03/2025
+Comenzamos con la creación del Agente CC - Perfecto! hecho en inglés y español
+
+08/03/2025
+Comenzamos con la Idexacion del Pentateuco + Josue
+
+09/03/2025
+Funcina todo. Codigo ordenado y robusto. No alucina mas. Da mejores respuestas cuando no hay respuestas validas y se protege dentro del contexto
+Próximo paso, cargarle el CCCN
+
+10/03/2025
+Empecé a agregar el CCCN y funciona todo de maravilla. Hay un problema
+
+    // Paso 4: SmartFunction - Pulir respuesta
+
+    if (cantRespPositivas > 0) {// para la Biblia me conviene poner -1 y para CCCN me conviene poner 0
+
+Me convendrá dividir el código en dos partes diferentes?
+
+11/03/2025
+Agregué outputTokens al .en para la configuracion

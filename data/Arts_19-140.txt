@@ -1,0 +1,776 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO PRIMERO - PARTE GENERAL - TITULO 1
+TITULO 1 - Persona Humana
+Articulos: 19 al 140
+
+---------------------
+TITULO I
+
+Persona humana
+
+CAPITULO 1
+
+Comienzo de la existencia
+
+ARTICULO 19.- Comienzo de la existencia. La existencia de la persona humana comienza con la concepción.
+
+ARTICULO 20.- Duración del embarazo. Epoca de la concepción. Epoca de la concepción es el lapso entre el máximo y el mínimo fijados para la duración del embarazo. Se presume, excepto prueba en contrario, que el máximo de tiempo del embarazo es de trescientos días y el mínimo de ciento ochenta, excluyendo el día del nacimiento.
+
+ARTICULO 21.- Nacimiento con vida. Los derechos y obligaciones del concebido o implantado en la mujer quedan irrevocablemente adquiridos si nace con vida.
+
+Si no nace con vida, se considera que la persona nunca existió. El nacimiento con vida se presume.
+
+CAPITULO 2
+
+Capacidad
+
+SECCION 1ª
+
+Principios generales
+
+ARTICULO 22.- Capacidad de derecho. Toda persona humana goza de la aptitud para ser titular de derechos y deberes jurídicos. La ley puede privar o limitar esta capacidad respecto de hechos, simples actos, o actos jurídicos determinados.
+
+ARTICULO 23.- Capacidad de ejercicio. Toda persona humana puede ejercer por sí misma sus derechos, excepto las limitaciones expresamente previstas en este Código y en una sentencia judicial.
+
+ARTICULO 24.- Personas incapaces de ejercicio. Son incapaces de ejercicio:
+
+a) la persona por nacer;
+
+b) la persona que no cuenta con la edad y grado de madurez suficiente, con el alcance dispuesto en la Sección 2ª de este Capítulo;
+
+c) la persona declarada incapaz por sentencia judicial, en la extensión dispuesta en esa decisión.
+
+SECCION 2ª
+
+Persona menor de edad
+
+ARTICULO 25.- Menor de edad y adolescente. Menor de edad es la persona que no ha cumplido dieciocho años.
+
+Este Código denomina adolescente a la persona menor de edad que cumplió trece años.
+
+ARTICULO 26.- Ejercicio de los derechos por la persona menor de edad. La persona menor de edad ejerce sus derechos a través de sus representantes legales.
+
+No obstante, la que cuenta con edad y grado de madurez suficiente puede ejercer por sí los actos que le son permitidos por el ordenamiento jurídico. En situaciones de conflicto de intereses con sus representantes legales, puede intervenir con asistencia letrada.
+
+La persona menor de edad tiene derecho a ser oída en todo proceso judicial que le concierne así como a participar en las decisiones sobre su persona.
+
+Se presume que el adolescente entre trece y dieciséis años tiene aptitud para decidir por sí respecto de aquellos tratamientos que no resultan invasivos, ni comprometen su estado de salud o provocan un riesgo grave en su vida o integridad física.
+
+Si se trata de tratamientos invasivos que comprometen su estado de salud o está en riesgo la integridad o la vida, el adolescente debe prestar su consentimiento con la asistencia de sus progenitores; el conflicto entre ambos se resuelve teniendo en cuenta su interés superior, sobre la base de la opinión médica respecto a las consecuencias de la realización o no del acto médico.
+
+A partir de los dieciséis años el adolescente es considerado como un adulto para las decisiones atinentes al cuidado de su propio cuerpo.
+
+ARTICULO 27.- Emancipación. La celebración del matrimonio antes de los dieciocho años emancipa a la persona menor de edad.
+
+La persona emancipada goza de plena capacidad de ejercicio con las limitaciones previstas en este Código.
+
+La emancipación es irrevocable. La nulidad del matrimonio no deja sin efecto la emancipación, excepto respecto del cónyuge de mala fe para quien cesa a partir del día en que la sentencia pasa en autoridad de cosa juzgada.
+
+Si algo es debido a la persona menor de edad con cláusula de no poder percibirlo hasta la mayoría de edad, la emancipación no altera la obligación ni el tiempo de su exigibilidad.
+
+ARTICULO 28.- Actos prohibidos a la persona emancipada. La persona emancipada no puede, ni con autorización judicial:
+
+a) aprobar las cuentas de sus tutores y darles finiquito;
+
+b) hacer donación de bienes que hubiese recibido a título gratuito;
+
+c) afianzar obligaciones.
+
+ARTICULO 29.- Actos sujetos a autorización judicial. El emancipado requiere autorización judicial para disponer de los bienes recibidos a título gratuito. La autorización debe ser otorgada cuando el acto sea de toda necesidad o de ventaja evidente.
+
+ARTICULO 30.- Persona menor de edad con título profesional habilitante. La persona menor de edad que ha obtenido título habilitante para el ejercicio de una profesión puede ejercerla por cuenta propia sin necesidad de previa autorización. Tiene la administración y disposición de los bienes que adquiere con el producto de su profesión y puede estar en juicio civil o penal por cuestiones vinculadas a ella.
+
+SECCION 3ª
+
+Restricciones a la capacidad
+
+Parágrafo 1°
+
+Principios comunes
+
+ARTICULO 31.- Reglas generales. La restricción al ejercicio de la capacidad jurídica se rige por las siguientes reglas generales:
+
+a) la capacidad general de ejercicio de la persona humana se presume, aun cuando se encuentre internada en un establecimiento asistencial;
+
+b) las limitaciones a la capacidad son de carácter excepcional y se imponen siempre en beneficio de la persona;
+
+c) la intervención estatal tiene siempre carácter interdisciplinario, tanto en el tratamiento como en el proceso judicial;
+
+d) la persona tiene derecho a recibir información a través de medios y tecnologías adecuadas para su comprensión;
+
+e) la persona tiene derecho a participar en el proceso judicial con asistencia letrada, que debe ser proporcionada por el Estado si carece de medios;
+
+f) deben priorizarse las alternativas terapéuticas menos restrictivas de los derechos y libertades.
+
+ARTICULO 32.- Persona con capacidad restringida y con incapacidad. El juez puede restringir la capacidad para determinados actos de una persona mayor de trece años que padece una adicción o una alteración mental permanente o prolongada, de suficiente gravedad, siempre que estime que del ejercicio de su plena capacidad puede resultar un daño a su persona o a sus bienes.
+
+En relación con dichos actos, el juez debe designar el o los apoyos necesarios que prevé el artículo 43, especificando las funciones con los ajustes razonables en función de las necesidades y circunstancias de la persona.
+
+El o los apoyos designados deben promover la autonomía y favorecer las decisiones que respondan a las preferencias de la persona protegida.
+
+Por excepción, cuando la persona se encuentre absolutamente imposibilitada de interaccionar con su entorno y expresar su voluntad por cualquier modo, medio o formato adecuado y el sistema de apoyos resulte ineficaz, el juez puede declarar la incapacidad y designar un curador.
+
+ARTICULO 33.- Legitimados. Están legitimados para solicitar la declaración de incapacidad y de capacidad restringida:
+
+a) el propio interesado;
+
+b) el cónyuge no separado de hecho y el conviviente mientras la convivencia no haya cesado;
+
+c) los parientes dentro del cuarto grado; si fueran por afinidad, dentro del segundo grado;
+
+d) el Ministerio Público.
+
+ARTICULO 34.- Medidas cautelares. Durante el proceso, el juez debe ordenar las medidas necesarias para garantizar los derechos personales y patrimoniales de la persona. En tal caso, la decisión debe determinar qué actos requieren la asistencia de uno o varios apoyos, y cuáles la representación de un curador. También puede designar redes de apoyo y personas que actúen con funciones específicas según el caso.
+
+ARTICULO 35.- Entrevista personal. El juez debe garantizar la inmediatez con el interesado durante el proceso y entrevistarlo personalmente antes de dictar resolución alguna, asegurando la accesibilidad y los ajustes razonables del procedimiento de acuerdo a la situación de aquél. El Ministerio Público y, al menos, un letrado que preste asistencia al interesado, deben estar presentes en las audiencias.
+
+ARTICULO 36.- Intervención del interesado en el proceso. Competencia. La persona en cuyo interés se lleva adelante el proceso es parte y puede aportar todas las pruebas que hacen a su defensa.
+
+Interpuesta la solicitud de declaración de incapacidad o de restricción de la capacidad ante el juez correspondiente a su domicilio o del lugar de su internación, si la persona en cuyo interés se lleva adelante el proceso ha comparecido sin abogado, se le debe nombrar uno para que la represente y le preste asistencia letrada en el juicio.
+
+La persona que solicitó la declaración puede aportar toda clase de pruebas para acreditar los hechos invocados.
+
+ARTICULO 37.- Sentencia. La sentencia se debe pronunciar sobre los siguientes aspectos vinculados a la persona en cuyo interés se sigue el proceso:
+
+a) diagnóstico y pronóstico;
+
+b) época en que la situación se manifestó;
+
+c) recursos personales, familiares y sociales existentes;
+
+d) régimen para la protección, asistencia y promoción de la mayor autonomía posible.
+
+Para expedirse, es imprescindible el dictamen de un equipo interdisciplinario.
+
+ARTICULO 38.- Alcances de la sentencia. La sentencia debe determinar la extensión y alcance de la restricción y especificar las funciones y actos que se limitan, procurando que la afectación de la autonomía personal sea la menor posible. Asimismo, debe designar una o más personas de apoyo o curadores de acuerdo a lo establecido en el artículo 32 de este Código y señalar las condiciones de validez de los actos específicos sujetos a la restricción con indicación de la o las personas intervinientes y la modalidad de su actuación.
+
+ARTICULO 39.- Registración de la sentencia. La sentencia debe ser inscripta en el Registro de Estado Civil y Capacidad de las Personas y se debe dejar constancia al margen del acta de nacimiento.
+
+Sin perjuicio de lo dispuesto en el artículo 45, los actos mencionados en este Capítulo producen efectos contra terceros recién a partir de la fecha de inscripción en el registro.
+
+Desaparecidas las restricciones, se procede a la inmediata cancelación registral.
+
+ARTICULO 40.- Revisión. La revisión de la sentencia declarativa puede tener lugar en cualquier momento, a instancias del interesado. En el supuesto previsto en el artículo 32, la sentencia debe ser revisada por el juez en un plazo no superior a tres años, sobre la base de nuevos dictámenes interdisciplinarios y mediando la audiencia personal con el interesado.
+
+Es deber del Ministerio Público fiscalizar el cumplimiento efectivo de la revisión judicial a que refiere el párrafo primero e instar, en su caso, a que ésta se lleve a cabo si el juez no la hubiere efectuado en el plazo allí establecido.
+
+ARTICULO 41.- Internación. La internación sin consentimiento de una persona, tenga o no restringida su capacidad, procede sólo si se cumplen los recaudos previstos en la legislación especial y las reglas generales de esta Sección. En particular:
+
+a) debe estar fundada en una evaluación de un equipo interdisciplinario de acuerdo a lo dispuesto en el artículo 37, que señale los motivos que la justifican y la ausencia de una alternativa eficaz menos restrictiva de su libertad;
+
+b) sólo procede ante la existencia de riesgo cierto e inminente de un daño de entidad para la persona protegida o para terceros;
+
+c) es considerada un recurso terapéutico de carácter restrictivo y por el tiempo más breve posible; debe ser supervisada periódicamente;
+
+d) debe garantizarse el debido proceso, el control judicial inmediato y el derecho de defensa mediante asistencia jurídica;
+
+e) la sentencia que aprueba la internación debe especificar su finalidad, duración y periodicidad de la revisión.
+
+Toda persona con padecimientos mentales, se encuentre o no internada, goza de los derechos fundamentales y sus extensiones.
+
+ARTICULO 42.- Traslado dispuesto por autoridad pública. Evaluación e internación. La autoridad pública puede disponer el traslado de una persona cuyo estado no admita dilaciones y se encuentre en riesgo cierto e inminente de daño para sí o para terceros, a un centro de salud para su evaluación. En este caso, si fuese admitida la internación, debe cumplirse con los plazos y modalidades establecidos en la legislación especial. Las fuerzas de seguridad y servicios públicos de salud deben prestar auxilio inmediato.
+
+Parágrafo 2°
+
+Sistemas de apoyo al ejercicio de la capacidad
+
+ARTICULO 43.- Concepto. Función. Designación. Se entiende por apoyo cualquier medida de carácter judicial o extrajudicial que facilite a la persona que lo necesite la toma de decisiones para dirigir su persona, administrar sus bienes y celebrar actos jurídicos en general.
+
+Las medidas de apoyo tienen como función la de promover la autonomía y facilitar la comunicación, la comprensión y la manifestación de voluntad de la persona para el ejercicio de sus derechos.
+
+El interesado puede proponer al juez la designación de una o más personas de su confianza para que le presten apoyo. El juez debe evaluar los alcances de la designación y procurar la protección de la persona respecto de eventuales conflictos de intereses o influencia indebida. La resolución debe establecer la condición y la calidad de las medidas de apoyo y, de ser necesario, ser inscripta en el Registro de Estado Civil y Capacidad de las Personas.
+
+Parágrafo 3°
+
+Actos realizados por persona incapaz o con capacidad restringida
+
+ARTICULO 44.- Actos posteriores a la inscripción de la sentencia. Son nulos los actos de la persona incapaz y con capacidad restringida que contrarían lo dispuesto en la sentencia realizados con posterioridad a su inscripción en el Registro de Estado Civil y Capacidad de las Personas.
+
+ARTICULO 45.- Actos anteriores a la inscripción. Los actos anteriores a la inscripción de la sentencia pueden ser declarados nulos, si perjudican a la persona incapaz o con capacidad restringida, y se cumple alguno de los siguientes extremos:
+
+a) la enfermedad mental era ostensible a la época de la celebración del acto;
+
+b) quien contrató con él era de mala fe;
+
+c) el acto es a título gratuito.
+
+ARTICULO 46.- Persona fallecida. Luego de su fallecimiento, los actos entre vivos anteriores a la inscripción de la sentencia no pueden impugnarse, excepto que la enfermedad mental resulte del acto mismo, que la muerte haya acontecido después de promovida la acción para la declaración de incapacidad o capacidad restringida, que el acto sea a título gratuito, o que se pruebe que quien contrató con ella actuó de mala fe.
+
+Parágrafo 4°
+
+Cese de la incapacidad y de las restricciones a la capacidad
+
+ARTICULO 47.- Procedimiento para el cese. El cese de la incapacidad o de la restricción a la capacidad debe decretarse por el juez que la declaró, previo examen de un equipo interdisciplinario integrado conforme a las pautas del artículo 37, que dictamine sobre el restablecimiento de la persona.
+
+Si el restablecimiento no es total, el juez puede ampliar la nómina de actos que la persona puede realizar por sí o con la asistencia de su curador o apoyo.
+
+Parágrafo 5°
+
+Inhabilitados
+
+ARTICULO 48.- Pródigos. Pueden ser inhabilitados quienes por la prodigalidad en la gestión de sus bienes expongan a su cónyuge, conviviente o a sus hijos menores de edad o con discapacidad a la pérdida del patrimonio. A estos fines, se considera persona con discapacidad, a toda persona que padece una alteración funcional permanente o prolongada, física o mental, que en relación a su edad y medio social implica desventajas considerables para su integración familiar, social, educacional o laboral. La acción sólo corresponde al cónyuge, conviviente y a los ascendientes y descendientes.
+
+ARTICULO 49.- Efectos. La declaración de inhabilitación importa la designación de un apoyo, que debe asistir al inhabilitado en el otorgamiento de actos de disposición entre vivos y en los demás actos que el juez fije en la sentencia.
+
+ARTICULO 50.- Cese de la inhabilitación. El cese de la inhabilitación se decreta por el juez que la declaró, previo examen interdisciplinario que dictamine sobre el restablecimiento de la persona.
+
+Si el restablecimiento no es total, el juez puede ampliar la nómina de actos que la persona puede realizar por sí o con apoyo.
+
+CAPITULO 3
+
+Derechos y actos personalísimos
+
+ARTICULO 51.- Inviolabilidad de la persona humana. La persona humana es inviolable y en cualquier circunstancia tiene derecho al reconocimiento y respeto de su dignidad.
+
+ARTICULO 52.- Afectaciones a la dignidad. La persona humana lesionada en su intimidad personal o familiar, honra o reputación, imagen o identidad, o que de cualquier modo resulte menoscabada en su dignidad personal, puede reclamar la prevención y reparación de los daños sufridos, conforme a lo dispuesto en el Libro Tercero, Título V, Capítulo 1.
+
+ARTICULO 53.- Derecho a la imagen. Para captar o reproducir la imagen o la voz de una persona, de cualquier modo que se haga, es necesario su consentimiento, excepto en los siguientes casos:
+
+a) que la persona participe en actos públicos;
+
+b) que exista un interés científico, cultural o educacional prioritario, y se tomen las precauciones suficientes para evitar un daño innecesario;
+
+c) que se trate del ejercicio regular del derecho de informar sobre acontecimientos de interés general.
+
+En caso de personas fallecidas pueden prestar el consentimiento sus herederos o el designado por el causante en una disposición de última voluntad. Si hay desacuerdo entre herederos de un mismo grado, resuelve el juez. Pasados veinte años desde la muerte, la reproducción no ofensiva es libre.
+
+ARTICULO 54.- Actos peligrosos. No es exigible el cumplimiento del contrato que tiene por objeto la realización de actos peligrosos para la vida o la integridad de una persona, excepto que correspondan a su actividad habitual y que se adopten las medidas de prevención y seguridad adecuadas a las circunstancias.
+
+ARTICULO 55.- Disposición de derechos personalísimos. El consentimiento para la disposición de los derechos personalísimos es admitido si no es contrario a la ley, la moral o las buenas costumbres. Este consentimiento no se presume, es de interpretación restrictiva, y libremente revocable.
+
+ARTICULO 56.- Actos de disposición sobre el propio cuerpo. Están prohibidos los actos de disposición del propio cuerpo que ocasionen una disminución permanente de su integridad o resulten contrarios a la ley, la moral o las buenas costumbres, excepto que sean requeridos para el mejoramiento de la salud de la persona, y excepcionalmente de otra persona, de conformidad a lo dispuesto en el ordenamiento jurídico.
+
+La ablación de órganos para ser implantados en otras personas se rige por la legislación especial.
+
+El consentimiento para los actos no comprendidos en la prohibición establecida en el primer párrafo no puede ser suplido, y es libremente revocable.
+
+ARTICULO 57.- Prácticas prohibidas. Está prohibida toda práctica destinada a producir una alteración genética del embrión que se transmita a su descendencia.
+
+ARTICULO 58.- Investigaciones en seres humanos. La investigación médica en seres humanos mediante intervenciones, tales como tratamientos, métodos de prevención, pruebas diagnósticas o predictivas, cuya eficacia o seguridad no están comprobadas científicamente, sólo puede ser realizada si se cumple con los siguientes requisitos:
+
+a) describir claramente el proyecto y el método que se aplicará en un protocolo de investigación;
+
+b) ser realizada por personas con la formación y calificaciones científicas y profesionales apropiadas;
+
+c) contar con la aprobación previa de un comité acreditado de evaluación de ética en la investigación;
+
+d) contar con la autorización previa del organismo público correspondiente;
+
+e) estar fundamentada en una cuidadosa comparación de los riesgos y las cargas en relación con los beneficios previsibles que representan para las personas que participan en la investigación y para otras personas afectadas por el tema que se investiga;
+
+f) contar con el consentimiento previo, libre, escrito, informado y específico de la persona que participa en la investigación, a quien se le debe explicar, en términos comprensibles, los objetivos y la metodología de la investigación, sus riesgos y posibles beneficios; dicho consentimiento es revocable;
+
+g) no implicar para el participante riesgos y molestias desproporcionados en relación con los beneficios que se espera obtener de la investigación;
+
+h) resguardar la intimidad de la persona que participa en la investigación y la confidencialidad de su información personal;
+
+i) asegurar que la participación de los sujetos de la investigación no les resulte onerosa a éstos y que tengan acceso a la atención médica apropiada en caso de eventos adversos relacionados con la investigación, la que debe estar disponible cuando sea requerida;
+
+j) asegurar a los participantes de la investigación la disponibilidad y accesibilidad a los tratamientos que la investigación haya demostrado beneficiosos.
+
+ARTICULO 59.- Consentimiento informado para actos médicos e investigaciones en salud. El consentimiento informado para actos médicos e investigaciones en salud es la declaración de voluntad expresada por el paciente, emitida luego de recibir información clara, precisa y adecuada, respecto a:
+
+a) su estado de salud;
+
+b) el procedimiento propuesto, con especificación de los objetivos perseguidos;
+
+c) los beneficios esperados del procedimiento;
+
+d) los riesgos, molestias y efectos adversos previsibles;
+
+e) la especificación de los procedimientos alternativos y sus riesgos, beneficios y perjuicios en relación con el procedimiento propuesto;
+
+f) las consecuencias previsibles de la no realización del procedimiento propuesto o de los alternativos especificados;
+
+g) en caso de padecer una enfermedad irreversible, incurable, o cuando se encuentre en estado terminal, o haya sufrido lesiones que lo coloquen en igual situación, el derecho a rechazar procedimientos quirúrgicos, de hidratación, alimentación, de reanimación artificial o al retiro de medidas de soporte vital, cuando sean extraordinarios o desproporcionados en relación a las perspectivas de mejoría, o produzcan sufrimiento desmesurado, o tengan por único efecto la prolongación en el tiempo de ese estadio terminal irreversible e incurable;
+
+h) el derecho a recibir cuidados paliativos integrales en el proceso de atención de su enfermedad o padecimiento.
+
+Ninguna persona con discapacidad puede ser sometida a investigaciones en salud sin su consentimiento libre e informado, para lo cual se le debe garantizar el acceso a los apoyos que necesite.
+
+Nadie puede ser sometido a exámenes o tratamientos clínicos o quirúrgicos sin su consentimiento libre e informado, excepto disposición legal en contrario.
+
+Si la persona se encuentra absolutamente imposibilitada para expresar su voluntad al tiempo de la atención médica y no la ha expresado anticipadamente, el consentimiento puede ser otorgado por el representante legal, el apoyo, el cónyuge, el conviviente, el pariente o el allegado que acompañe al paciente, siempre que medie situación de emergencia con riesgo cierto e inminente de un mal grave para su vida o su salud. En ausencia de todos ellos, el médico puede prescindir del consentimiento si su actuación es urgente y tiene por objeto evitar un mal grave al paciente.
+
+ARTICULO 60.- Directivas médicas anticipadas. La persona plenamente capaz puede anticipar directivas y conferir mandato respecto de su salud y en previsión de su propia incapacidad. Puede también designar a la persona o personas que han de expresar el consentimiento para los actos médicos y para ejercer su curatela. Las directivas que impliquen desarrollar prácticas eutanásicas se tienen por no escritas.
+
+Esta declaración de voluntad puede ser libremente revocada en todo momento.
+
+ARTICULO 61.- Exequias. La persona plenamente capaz puede disponer, por cualquier forma, el modo y circunstancias de sus exequias e inhumación, así como la dación de todo o parte del cadáver con fines terapéuticos, científicos, pedagógicos o de índole similar. Si la voluntad del fallecido no ha sido expresada, o ésta no es presumida, la decisión corresponde al cónyuge, al conviviente y en su defecto a los parientes según el orden sucesorio, quienes no pueden dar al cadáver un destino diferente al que habría dado el difunto de haber podido expresar su voluntad.
+
+CAPITULO 4
+
+Nombre
+
+ARTICULO 62.- Derecho y deber. La persona humana tiene el derecho y el deber de usar el prenombre y el apellido que le corresponden.
+
+ARTICULO 63.- Reglas concernientes al prenombre. La elección del prenombre está sujeta a las reglas siguientes:
+
+a) corresponde a los padres o a las personas a quienes ellos den su autorización para tal fin; a falta o impedimento de uno de los padres, corresponde la elección o dar la autorización al otro; en defecto de todos, debe hacerse por los guardadores, el Ministerio Público o el funcionario del Registro del Estado Civil y Capacidad de las Personas;
+
+b) no pueden inscribirse más de tres prenombres, apellidos como prenombres, primeros prenombres idénticos a primeros prenombres de hermanos vivos; tampoco pueden inscribirse prenombres extravagantes;
+
+c) pueden inscribirse nombres aborígenes o derivados de voces aborígenes autóctonas y latinoamericanas.
+
+ARTICULO 64.- Apellido de los hijos. El hijo matrimonial lleva el primer apellido de alguno de los cónyuges; en caso de no haber acuerdo, se determina por sorteo realizado en el Registro del Estado Civil y Capacidad de las Personas. A pedido de los padres, o del interesado con edad y madurez suficiente, se puede agregar el apellido del otro.
+
+Todos los hijos de un mismo matrimonio deben llevar el apellido y la integración compuesta que se haya decidido para el primero de los hijos.
+
+El hijo extramatrimonial con un solo vínculo filial lleva el apellido de ese progenitor. Si la filiación de ambos padres se determina simultáneamente, se aplica el primer párrafo de este artículo. Si la segunda filiación se determina después, los padres acuerdan el orden; a falta de acuerdo, el juez dispone el orden de los apellidos, según el interés superior del niño.
+
+ARTICULO 65.- Apellido de persona menor de edad sin filiación determinada. La persona menor de edad sin filiación determinada debe ser anotada por el oficial del Registro del Estado Civil y Capacidad de las Personas con el apellido que está usando, o en su defecto, con un apellido común.
+
+ARTICULO 66.- Casos especiales. La persona con edad y grado de madurez suficiente que carezca de apellido inscripto puede pedir la inscripción del que está usando.
+
+ARTICULO 67.- Cónyuges. Cualquiera de los cónyuges puede optar por usar el apellido del otro, con la preposición “de” o sin ella.
+
+La persona divorciada o cuyo matrimonio ha sido declarado nulo no puede usar el apellido del otro cónyuge, excepto que, por motivos razonables, el juez la autorice a conservarlo.
+
+El cónyuge viudo puede seguir usando el apellido del otro cónyuge mientras no contraiga nuevas nupcias, ni constituya unión convivencial.
+
+ARTICULO 68.- Nombre del hijo adoptivo. El nombre del hijo adoptivo se rige por lo dispuesto en el Capítulo 5, Título VI del Libro Segundo de este Código.
+
+ARTICULO 69.- Cambio de nombre. El cambio de prenombre o apellido sólo procede si existen justos motivos a criterio del juez.
+
+Se considera justo motivo, de acuerdo a las particularidades del caso, entre otros, a:
+
+a) el seudónimo, cuando hubiese adquirido notoriedad;
+
+b) la raigambre cultural, étnica o religiosa;
+
+c) la afectación de la personalidad de la persona interesada, cualquiera sea su causa, siempre que se encuentre acreditada.
+
+Se consideran justos motivos, y no requieren intervención judicial, el cambio de prenombre por razón de identidad de género y el cambio de prenombre y apellido por haber sido víctima de desaparición forzada, apropiación ilegal o alteración o supresión del estado civil o de la identidad.
+
+ARTICULO 70.- Proceso. Todos los cambios de prenombre o apellido deben tramitar por el proceso más abreviado que prevea la ley local, con intervención del Ministerio Público. El pedido debe publicarse en el diario oficial una vez por mes, en el lapso de dos meses. Puede formularse oposición dentro de los quince días hábiles contados desde la última publicación. Debe requerirse información sobre medidas precautorias existentes respecto del interesado. La sentencia es oponible a terceros desde su inscripción en el Registro del Estado Civil y Capacidad de las Personas. Deben rectificarse todas las partidas, títulos y asientos registrales que sean necesarios.
+
+ARTICULO 71.- Acciones de protección del nombre. Puede ejercer acciones en defensa de su nombre:
+
+a) aquel a quien le es desconocido el uso de su nombre, para que le sea reconocido y se prohíba toda futura impugnación por quien lo niega; se debe ordenar la publicación de la sentencia a costa del demandado;
+
+b) aquel cuyo nombre es indebidamente usado por otro, para que cese en ese uso;
+
+c) aquel cuyo nombre es usado para la designación de cosas o personajes de fantasía, si ello le causa perjuicio material o moral, para que cese el uso.
+
+En todos los casos puede demandarse la reparación de los daños y el juez puede disponer la publicación de la sentencia.
+
+Las acciones pueden ser ejercidas exclusivamente por el interesado; si ha fallecido, por sus descendientes, cónyuge o conviviente, y a falta de éstos, por los ascendientes o hermanos.
+
+ARTICULO 72.- Seudónimo. El seudónimo notorio goza de la tutela del nombre.
+
+CAPITULO 5
+
+Domicilio
+
+ARTICULO 73.- Domicilio real. La persona humana tiene domicilio real en el lugar de su residencia habitual.
+
+Si ejerce actividad profesional o económica lo tiene en el lugar donde la desempeña para el cumplimiento de las obligaciones emergentes de dicha actividad.
+
+ARTICULO 74.- Domicilio legal. El domicilio legal es el lugar donde la ley presume, sin admitir prueba en contra, que una persona reside de manera permanente para el ejercicio de sus derechos y el cumplimiento de sus obligaciones. Sólo la ley puede establecerlo, y sin perjuicio de lo dispuesto en normas especiales:
+
+a) los funcionarios públicos, tienen su domicilio en el lugar en que deben cumplir sus funciones, no siendo éstas temporarias, periódicas, o de simple comisión;
+
+b) los militares en servicio activo tienen su domicilio en el lugar en que lo están prestando;
+
+c) los transeúntes o las personas de ejercicio ambulante, como los que no tienen domicilio conocido, lo tienen en el lugar de su residencia actual;
+
+d) las personas incapaces lo tienen en el domicilio de sus representantes.
+
+ARTICULO 75.- Domicilio especial. Las partes de un contrato pueden elegir un domicilio para el ejercicio de los derechos y obligaciones que de él emanan. Pueden además constituir un domicilio electrónico en el que se tengan por eficaces todas las notificaciones, comunicaciones y emplazamientos que allí se dirijan.
+
+(Artículo sustituido por art. 1º de la Ley Nº 27.551 B.O. 30/6/2020. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina y serán aplicables para los contratos que se celebren a partir de su entrada en vigencia. Ley N° 27.551 abrogada por art. 249 del Decreto N° 70/2023 B.O. 27/12/2023)
+
+ARTICULO 76.- Domicilio ignorado. La persona cuyo domicilio no es conocido lo tiene en el lugar donde se encuentra; y si éste también se ignora en el último domicilio conocido.
+
+ARTICULO 77.- Cambio de domicilio. El domicilio puede cambiarse de un lugar a otro. Esta facultad no puede ser coartada por contrato, ni por disposición de última voluntad. El cambio de domicilio se verifica instantáneamente por el hecho de trasladar la residencia de un lugar a otro con ánimo de permanecer en ella.
+
+ARTICULO 78.- Efecto. El domicilio determina la competencia de las autoridades en las relaciones jurídicas. La elección de un domicilio produce la prórroga de la competencia.
+
+CAPITULO 6
+
+Ausencia
+
+ARTICULO 79.- Ausencia simple. Si una persona ha desaparecido de su domicilio, sin tenerse noticias de ella, y sin haber dejado apoderado, puede designarse un curador a sus bienes si el cuidado de éstos lo exige. La misma regla se debe aplicar si existe apoderado, pero sus poderes son insuficientes o no desempeña convenientemente el mandato.
+
+ARTICULO 80.- Legitimados. Pueden pedir la declaración de ausencia, el Ministerio Público y toda persona que tenga interés legítimo respecto de los bienes del ausente.
+
+ARTICULO 81.- Juez competente. Es competente el juez del domicilio del ausente. Si éste no lo tuvo en el país, o no es conocido, es competente el juez del lugar en donde existan bienes cuyo cuidado es necesario; si existen bienes en distintas jurisdicciones, el que haya prevenido.
+
+ARTICULO 82.- Procedimiento. El presunto ausente debe ser citado por edictos durante cinco días, y si vencido el plazo no comparece, se debe dar intervención al defensor oficial o en su defecto, nombrarse defensor al ausente. El Ministerio Público es parte necesaria en el juicio.
+
+Si antes de la declaración de ausencia se promueven acciones contra el ausente, debe representarlo el defensor.
+
+En caso de urgencia, el juez puede designar un administrador provisional o adoptar las medidas que las circunstancias aconsejan.
+
+ARTICULO 83.- Sentencia. Oído el defensor, si concurren los extremos legales, se debe declarar la ausencia y nombrar curador. Para la designación se debe estar a lo previsto para el discernimiento de curatela.
+
+El curador sólo puede realizar los actos de conservación y administración ordinaria de los bienes. Todo acto que exceda la administración ordinaria debe ser autorizado por el juez; la autorización debe ser otorgada sólo en caso de necesidad evidente e impostergable.
+
+Los frutos de los bienes administrados deben ser utilizados para el sostenimiento de los descendientes, cónyuge, conviviente y ascendientes del ausente.
+
+ARTICULO 84.- Conclusión de la curatela. Termina la curatela del ausente por:
+
+a) la presentación del ausente, personalmente o por apoderado;
+
+b) su muerte;
+
+c) su fallecimiento presunto judicialmente declarado.
+
+CAPITULO 7
+
+Presunción de fallecimiento
+
+ARTICULO 85.- Caso ordinario. La ausencia de una persona de su domicilio sin que se tenga noticia de ella por el término de tres años, causa la presunción de su fallecimiento aunque haya dejado apoderado.
+
+El plazo debe contarse desde la fecha de la última noticia del ausente.
+
+ARTICULO 86.- Casos extraordinarios. Se presume también el fallecimiento de un ausente:
+
+a) si por última vez se encontró en el lugar de un incendio, terremoto, acción de guerra u otro suceso semejante, susceptible de ocasionar la muerte, o participó de una actividad que implique el mismo riesgo, y no se tiene noticia de él por el término de dos años, contados desde el día en que el suceso ocurrió o pudo haber ocurrido;
+
+b) si encontrándose en un buque o aeronave naufragados o perdidos, no se tuviese noticia de su existencia por el término de seis meses desde el día en que el suceso ocurrió o pudo haber ocurrido.
+
+ARTICULO 87.- Legitimados. Cualquiera que tenga algún derecho subordinado a la muerte de la persona de que se trate, puede pedir la declaración de fallecimiento presunto, justificando los extremos legales y la realización de diligencias tendientes a la averiguación de la existencia del ausente.
+
+Es competente el juez del domicilio del ausente.
+
+ARTICULO 88.- Procedimiento. Curador a los bienes. El juez debe nombrar defensor al ausente o dar intervención al defensor oficial, y citar a aquél por edictos una vez por mes durante seis meses. También debe designar un curador a sus bienes, si no hay mandatario con poderes suficientes, o si por cualquier causa aquél no desempeña correctamente el mandato.
+
+La declaración de simple ausencia no constituye presupuesto necesario para la declaración de fallecimiento presunto, ni suple la comprobación de las diligencias realizadas para conocer la existencia del ausente.
+
+ARTICULO 89.- Declaración del fallecimiento presunto. Pasados los seis meses, recibida la prueba y oído el defensor, el juez debe declarar el fallecimiento presunto si están acreditados los extremos legales, fijar el día presuntivo del fallecimiento y disponer la inscripción de la sentencia.
+
+ARTICULO 90.- Día presuntivo del fallecimiento. Debe fijarse como día presuntivo del fallecimiento:
+
+a) en el caso ordinario, el último día del primer año y medio;
+
+b) en el primero de los casos extraordinarios, el día del suceso, y si no está determinado, el día del término medio de la época en que ocurrió o pudo haber ocurrido;
+
+c) en el segundo caso extraordinario, el último día en que se tuvo noticia del buque o aeronave perdidos;
+
+d) si es posible, la sentencia debe determinar también la hora presuntiva del fallecimiento; en caso contrario, se tiene por sucedido a la expiración del día declarado como presuntivo del fallecimiento.
+
+ARTICULO 91.- Entrega de los bienes. Inventario. Los herederos y los legatarios deben recibir los bienes del declarado presuntamente fallecido, previa formación de inventario. El dominio debe inscribirse en el registro correspondiente con la prenotación del caso; puede hacerse la partición de los bienes, pero no enajenarlos ni gravarlos sin autorización judicial.
+
+Si entregados los bienes se presenta el ausente o se tiene noticia cierta de su existencia, queda sin efecto la declaración de fallecimiento, procediéndose a la devolución de aquéllos a petición del interesado.
+
+ARTICULO 92.- Conclusión de la prenotación. La prenotación queda sin efecto transcurridos cinco años desde la fecha presuntiva del fallecimiento u ochenta años desde el nacimiento de la persona. Desde ese momento puede disponerse libremente de los bienes.
+
+Si el ausente reaparece puede reclamar:
+
+a) la entrega de los bienes que existen en el estado en que se encuentran;
+
+b) los adquiridos con el valor de los que faltan;
+
+c) el precio adeudado de los enajenados;
+
+d) los frutos no consumidos.
+
+CAPITULO 8
+
+Fin de la existencia de las personas
+
+ARTICULO 93.- Principio general. La existencia de la persona humana termina por su muerte.
+
+ARTICULO 94.- Comprobación de la muerte. La comprobación de la muerte queda sujeta a los estándares médicos aceptados, aplicándose la legislación especial en el caso de ablación de órganos del cadáver.
+
+ARTICULO 95.- Conmoriencia. Se presume que mueren al mismo tiempo las personas que perecen en un desastre común o en cualquier otra circunstancia, si no puede determinarse lo contrario.
+
+CAPITULO 9
+
+Prueba del nacimiento, de la muerte y de la edad
+
+ARTICULO 96.- Medio de prueba. El nacimiento ocurrido en la República, sus circunstancias de tiempo y lugar, el sexo, el nombre y la filiación de las personas nacidas, se prueba con las partidas del Registro Civil.
+
+Del mismo modo se prueba la muerte de las personas fallecidas en la República.
+
+La rectificación de las partidas se hace conforme a lo dispuesto en la legislación especial.
+
+ARTICULO 97.- Nacimiento o muerte ocurridos en el extranjero. El nacimiento o la muerte ocurridos en el extranjero se prueban con los instrumentos otorgados según las leyes del lugar donde se producen, legalizados o autenticados del modo que disponen las convenciones internacionales, y a falta de convenciones, por las disposiciones consulares de la República.
+
+Los certificados de los asientos practicados en los registros consulares argentinos son suficientes para probar el nacimiento de los hijos de argentinos y para acreditar la muerte de los ciudadanos argentinos.
+
+ARTICULO 98.- Falta de registro o nulidad del asiento. Si no hay registro público o falta o es nulo el asiento, el nacimiento y la muerte pueden acreditarse por otros medios de prueba.
+
+Si el cadáver de una persona no es hallado o no puede ser identificado, el juez puede tener por comprobada la muerte y disponer la pertinente inscripción en el registro, si la desaparición se produjo en circunstancias tales que la muerte debe ser tenida como cierta.
+
+ARTICULO 99.- Determinación de la edad. Si no es posible establecer la edad de las personas por los medios indicados en el presente Capítulo, se la debe determinar judicialmente previo dictamen de peritos.
+
+CAPITULO 10
+
+Representación y asistencia. Tutela y curatela
+
+SECCION 1ª
+
+Representación y asistencia
+
+ARTICULO 100.- Regla general. Las personas incapaces ejercen por medio de sus representantes los derechos que no pueden ejercer por sí.
+
+ARTICULO 101.- Enumeración. Son representantes:
+
+a) de las personas por nacer, sus padres;
+
+b) de las personas menores de edad no emancipadas, sus padres. Si faltan los padres, o ambos son incapaces, o están privados de la responsabilidad parental, o suspendidos en su ejercicio, el tutor que se les designe;
+
+c) de las personas con capacidad restringida, el o los apoyos designados cuando, conforme a la sentencia, éstos tengan representación para determinados actos; de las personas incapaces en los términos del último párrafo del artículo 32, el curador que se les nombre.
+
+ARTICULO 102.- Asistencia. Las personas con capacidad restringida y las inhabilitadas son asistidas por los apoyos designados en la sentencia respectiva y en otras leyes especiales.
+
+ARTICULO 103.- Actuación del Ministerio Público. La actuación del Ministerio Público respecto de personas menores de edad, incapaces y con capacidad restringida, y de aquellas cuyo ejercicio de capacidad requiera de un sistema de apoyos puede ser, en el ámbito judicial, complementaria o principal.
+
+a) Es complementaria en todos los procesos en los que se encuentran involucrados intereses de personas menores de edad, incapaces y con capacidad restringida; la falta de intervención causa la nulidad relativa del acto.
+
+b) Es principal:
+
+i) cuando los derechos de los representados están comprometidos, y existe inacción de los representantes;
+
+ii) cuando el objeto del proceso es exigir el cumplimiento de los deberes a cargo de los representantes;
+
+iii) cuando carecen de representante legal y es necesario proveer la representación.
+
+En el ámbito extrajudicial, el Ministerio Público actúa ante la ausencia, carencia o inacción de los representantes legales, cuando están comprometidos los derechos sociales, económicos y culturales.
+
+SECCION 2ª
+
+Tutela
+
+Parágrafo 1°
+
+Disposiciones generales
+
+ARTICULO 104.- Concepto y principios generales. La tutela está destinada a brindar protección a la persona y bienes de un niño, niña o adolescente que no ha alcanzado la plenitud de su capacidad civil cuando no haya persona que ejerza la responsabilidad parental.
+
+Se aplican los principios generales enumerados en el Título VII del Libro Segundo.
+
+Si se hubiera otorgado la guarda a un pariente de conformidad con lo previsto en el Título de la responsabilidad parental, la protección de la persona y bienes del niño, niña y adolescente puede quedar a cargo del guardador por decisión del juez que otorgó la guarda, si ello es más beneficioso para su interés superior; en igual sentido, si los titulares de la responsabilidad parental delegaron su ejercicio a un pariente. En este caso, el juez que homologó la delegación puede otorgar las funciones de protección de la persona y bienes de los niños, niñas y adolescentes a quienes los titulares delegaron su ejercicio. En ambos supuestos, el guardador es el representante legal del niño, niña o adolescente en todas aquellas cuestiones de carácter patrimonial.
+
+ARTICULO 105.- Caracteres. La tutela puede ser ejercida por una o más personas, conforme aquello que más beneficie al niño, niña o adolescente.
+
+Si es ejercida por más de una persona, las diferencias de criterio, deben ser dirimidas ante el juez que haya discernido la tutela, con la debida intervención del Ministerio Público.
+
+El cargo de tutor es intransmisible; el Ministerio Público interviene según lo dispuesto en el artículo 103.
+
+ARTICULO 106.- Tutor designado por los padres. Cualquiera de los padres que no se encuentre privado o suspendido del ejercicio de la responsabilidad parental puede nombrar tutor o tutores a sus hijos menores de edad, sea por testamento o por escritura pública. Esta designación debe ser aprobada judicialmente. Se tienen por no escritas las disposiciones que eximen al tutor de hacer inventario, lo autorizan a recibir los bienes sin cumplir ese requisito, o lo liberan del deber de rendir cuentas.
+
+Si los padres hubieran delegado el ejercicio de la responsabilidad parental en un pariente, se presume la voluntad de que se lo nombre tutor de sus hijos menores de edad, designación que debe ser discernida por el juez que homologó la delegación o el del centro de vida del niño, niña o adolescente, a elección del pariente.
+
+Si existen disposiciones de ambos progenitores, se aplican unas y otras conjuntamente en cuanto sean compatibles. De no serlo, el juez debe adoptar las que considere fundadamente más convenientes para el tutelado.
+
+ARTICULO 107.- Tutela dativa. Ante la ausencia de designación paterna de tutor o tutores o ante la excusación, rechazo o imposibilidad de ejercicio de aquellos designados, el juez debe otorgar la tutela a la persona que sea más idónea para brindar protección al niño, niña o adolescente, debiendo fundar razonablemente los motivos que justifican dicha idoneidad.
+
+ARTICULO 108.- Prohibiciones para ser tutor dativo. El juez no puede conferir la tutela dativa:
+
+a) a su cónyuge, conviviente, o parientes dentro del cuarto grado, o segundo por afinidad;
+
+b) a las personas con quienes mantiene amistad íntima ni a los parientes dentro del cuarto grado, o segundo por afinidad;
+
+c) a las personas con quienes tiene intereses comunes;
+
+d) a sus deudores o acreedores;
+
+e) a los integrantes de los tribunales nacionales o provinciales que ejercen sus funciones en el lugar del nombramiento; ni a los que tienen con ellos intereses comunes, ni a sus amigos íntimos o los parientes de éstos, dentro del cuarto grado, o segundo por afinidad;
+
+f) a quien es tutor de otro menor de edad, a menos que se trate de hermanos menores de edad, o existan causas que lo justifiquen.
+
+ARTICULO 109.- Tutela especial. Corresponde la designación judicial de tutores especiales en los siguientes casos:
+
+a) cuando existe conflicto de intereses entre los representados y sus representantes; si el representado es un adolescente puede actuar por sí, con asistencia letrada, en cuyo caso el juez puede decidir que no es necesaria la designación del tutor especial;
+
+b) cuando los padres no tienen la administración de los bienes de los hijos menores de edad;
+
+c) cuando existe oposición de intereses entre diversas personas incapaces que tienen un mismo representante legal, sea padre, madre, tutor o curador; si las personas incapaces son adolescentes, rige lo dispuesto en el inciso a);
+
+d) cuando la persona sujeta a tutela hubiera adquirido bienes con la condición de ser administrados por persona determinada o con la condición de no ser administrados por su tutor;
+
+e) cuando existe necesidad de ejercer actos de administración sobre bienes de extraña jurisdicción al juez de la tutela y no pueden ser convenientemente administrados por el tutor;
+
+f) cuando se requieren conocimientos específicos o particulares para un adecuado ejercicio de la administración por las características propias del bien a administrar;
+
+g) cuando existen razones de urgencia, hasta tanto se tramite la designación del tutor que corresponda.
+
+ARTICULO 110.- Personas excluidas. No pueden ser tutores las personas:
+
+a) que no tienen domicilio en la República;
+
+b) quebradas no rehabilitadas;
+
+c) que han sido privadas o suspendidas en el ejercicio de la responsabilidad parental, o han sido removidas de la tutela o curatela o apoyo de otra persona incapaz o con capacidad restringida, por causa que les era atribuible;
+
+d) que deben ejercer por largo tiempo o plazo indefinido un cargo o comisión fuera del país;
+
+e) que no tienen oficio, profesión o modo de vivir conocido, o tienen mala conducta notoria;
+
+f) condenadas por delito doloso a penas privativas de la libertad;
+
+g) deudoras o acreedoras por sumas considerables respecto de la persona sujeta a tutela;
+
+h) que tienen pleitos con quien requiere la designación de un tutor. La prohibición se extiende a su cónyuge, conviviente, padres o hijos;
+
+i) que, estando obligadas, omiten la denuncia de los hechos que dan lugar a la apertura de la tutela;
+
+j) inhabilitadas, incapaces o con capacidad restringida;
+
+k) que hubieran sido expresamente excluidas por el padre o la madre de quien requiere la tutela, excepto que según el criterio del juez resulte beneficioso para el niño, niña o adolescente.
+
+ARTICULO 111.- Obligados a denunciar. Los parientes obligados a prestar alimentos al niño, niña o adolescente, el guardador o quienes han sido designados tutores por sus padres o éstos les hayan delegado el ejercicio de la responsabilidad parental, deben denunciar a la autoridad competente que el niño, niña o adolescente no tiene referente adulto que lo proteja, dentro de los diez días de haber conocido esta circunstancia, bajo pena de ser privados de la posibilidad de ser designados tutores y ser responsables de los daños y perjuicios que su omisión de denunciar le ocasione al niño, niña o adolescente.
+
+Tienen la misma obligación los oficiales públicos encargados del Registro de Estado Civil y Capacidad de las Personas y otros funcionarios públicos que, en ejercicio de su cargo, tengan conocimiento de cualquier hecho que dé lugar a la necesidad de la tutela.
+
+El juez debe proveer de oficio lo que corresponda, cuando tenga conocimiento de un hecho que motive la apertura de una tutela.
+
+Parágrafo 2°
+
+Discernimiento de la tutela
+
+ARTICULO 112.- Discernimiento judicial. Competencia. La tutela es siempre discernida judicialmente. Para el discernimiento de la tutela es competente el juez del lugar donde el niño, niña o adolescente tiene su centro de vida.
+
+ARTICULO 113.- Audiencia con la persona menor de edad. Para el discernimiento de la tutela, y para cualquier otra decisión relativa a la persona menor de edad, el juez debe:
+
+a) oír previamente al niño, niña o adolescente;
+
+b) tener en cuenta sus manifestaciones en función de su edad y madurez;
+
+c) decidir atendiendo primordialmente a su interés superior.
+
+ARTICULO 114.- Actos anteriores al discernimiento de la tutela. Los actos del tutor anteriores al discernimiento de la tutela quedan confirmados por el nombramiento, si de ello no resulta perjuicio para el niño, niña o adolescente.
+
+ARTICULO 115.- Inventario y avalúo. Discernida la tutela, los bienes del tutelado deben ser entregados al tutor, previo inventario y avalúo que realiza quien el juez designa.
+
+Si el tutor tiene un crédito contra la persona sujeta a tutela, debe hacerlo constar en el inventario; si no lo hace, no puede reclamarlo luego, excepto que al omitirlo haya ignorado su existencia.
+
+Hasta tanto se haga el inventario, el tutor sólo puede tomar las medidas que sean urgentes y necesarias.
+
+Los bienes que el niño, niña o adolescente adquiera por sucesión u otro título deben inventariarse y tasarse de la misma forma.
+
+ARTICULO 116.- Rendición de cuentas. Si el tutor sucede a alguno de los padres o a otro tutor anterior, debe pedir inmediatamente, al sustituido o a sus herederos, rendición judicial de cuentas y entrega de los bienes del tutelado.
+
+Parágrafo 3°
+
+Ejercicio de la tutela
+
+ARTICULO 117.- Ejercicio. Quien ejerce la tutela es representante legal del niño, niña o adolescente en todas aquellas cuestiones de carácter patrimonial, sin perjuicio de su actuación personal en ejercicio de su derecho a ser oído y el progresivo reconocimiento de su capacidad otorgado por la ley o autorizado por el juez.
+
+ARTICULO 118.- Responsabilidad. El tutor es responsable del daño causado al tutelado por su culpa, por acción u omisión, en el ejercicio o en ocasión de sus funciones. El tutelado, cualquiera de sus parientes, o el Ministerio Público pueden solicitar judicialmente las providencias necesarias para remediarlo, sin perjuicio de que sean adoptadas de oficio.
+
+ARTICULO 119.- Educación y alimentos. El juez debe fijar las sumas requeridas para la educación y alimentos del niño, niña o adolescente, ponderando la cuantía de sus bienes y la renta que producen, sin perjuicio de su adecuación conforme a las circunstancias.
+
+Si los recursos de la persona sujeta a tutela no son suficientes para atender a su cuidado y educación, el tutor puede, con autorización judicial, demandar alimentos a los obligados a prestarlos.
+
+ARTICULO 120.- Actos prohibidos. Quien ejerce la tutela no puede, ni con autorización judicial, celebrar con su tutelado los actos prohibidos a los padres respecto de sus hijos menores de edad.
+
+Antes de aprobada judicialmente la cuenta final, el tutor no puede celebrar contrato alguno con el pupilo, aunque haya cesado la incapacidad.
+
+ARTICULO 121.- Actos que requieren autorización judicial. Además de los actos para los cuales los padres necesitan autorización judicial, el tutor debe requerirla para los siguientes:
+
+a) adquirir inmuebles o cualquier bien que no sea útil para satisfacer los requerimientos alimentarios del tutelado;
+
+b) prestar dinero de su tutelado. La autorización sólo debe ser concedida si existen garantías reales suficientes;
+
+c) dar en locación los bienes del tutelado o celebrar contratos con finalidad análoga por plazo superior a tres años. En todos los casos, estos contratos concluyen cuando el tutelado alcanza la mayoría de edad;
+
+d) tomar en locación inmuebles que no sean la casa habitación;
+
+e) contraer deudas, repudiar herencias o donaciones, hacer transacciones y remitir créditos aunque el deudor sea insolvente;
+
+f) hacer gastos extraordinarios que no sean de reparación o conservación de los bienes;
+
+g) realizar todos aquellos actos en los que los parientes del tutor dentro del cuarto grado o segundo de afinidad, o sus socios o amigos íntimos están directa o indirectamente interesados.
+
+ARTICULO 122.- Derechos reales sobre bienes del tutelado. El juez puede autorizar la transmisión, constitución o modificación de derechos reales sobre los bienes del niño, niña o adolescente sólo si media conveniencia evidente.
+
+Los bienes que tienen valor afectivo o cultural sólo pueden ser vendidos en caso de absoluta necesidad.
+
+ARTICULO 123.- Forma de la venta. La venta debe hacerse en subasta pública, excepto que se trate de muebles de escaso valor, o si a juicio del juez, la venta extrajudicial puede ser más conveniente y el precio que se ofrece es superior al de la tasación.
+
+ARTICULO 124.- Dinero. Luego de ser cubiertos los gastos de la tutela, el dinero del tutelado debe ser colocado a interés en bancos de reconocida solvencia, o invertido en títulos públicos, a su nombre y a la orden del juez con referencia a los autos a que pertenece. El tutor no puede retirar fondos, títulos o valores sin autorización judicial.
+
+ARTICULO 125.- Fideicomiso y otras inversiones seguras. El juez también puede autorizar que los bienes sean transmitidos en fideicomiso a una entidad autorizada para ofrecerse públicamente como fiduciario, siempre que el tutelado sea el beneficiario. Asimismo, puede disponer otro tipo de inversiones seguras, previo dictamen técnico.
+
+ARTICULO 126.- Sociedad. Si el tutelado tiene parte en una sociedad, el tutor está facultado para ejercer los derechos que corresponden al socio a quien el tutelado ha sucedido. Si tiene que optar entre la continuación y la disolución de la sociedad, el juez debe decidir previo informe del tutor.
+
+ARTICULO 127.- Fondo de comercio. Si el tutelado es propietario de un fondo de comercio, el tutor está autorizado para ejecutar todos los actos de administración ordinaria propios del establecimiento. Los actos que exceden de aquélla, deben ser autorizados judicialmente.
+
+Si la continuación de la explotación resulta perjudicial, el juez debe autorizar el cese del negocio facultando al tutor para enajenarlo, previa tasación, en subasta pública o venta privada, según sea más conveniente. Mientras no se venda, el tutor está autorizado para proceder como mejor convenga a los intereses del tutelado.
+
+ARTICULO 128.- Retribución del tutor. El tutor tiene derecho a la retribución que se fije judicialmente teniendo en cuenta la importancia de los bienes del tutelado y el trabajo que ha demandado su administración en cada período. En caso de tratarse de tutela ejercida por dos personas, la remuneración debe ser única y distribuida entre ellos según criterio judicial. La remuneración única no puede exceder de la décima parte de los frutos líquidos de los bienes del menor de edad.
+
+El guardador que ejerce funciones de tutela también tiene derecho a la retribución.
+
+Los frutos pendientes al comienzo de la tutela y a su finalización deben computarse a los efectos de la retribución, en la medida en que la gestión haya sido útil para su percepción.
+
+ARTICULO 129.- Cese del derecho a la retribución. El tutor no tiene derecho a retribución:
+
+a) si nombrado por un testador, éste ha dejado algún legado que puede estimarse remuneratorio de su gestión. Puede optar por renunciar al legado o devolverlo, percibiendo la retribución legal;
+
+b) si las rentas del pupilo no alcanzan para satisfacer los gastos de sus alimentos y educación;
+
+c) si fue removido de la tutela por causa atribuible a su culpa o dolo, caso en el cual debe también restituir lo percibido, sin perjuicio de las responsabilidades por los daños que cause;
+
+d) si contrae matrimonio con el tutelado sin la debida dispensa judicial.
+
+Parágrafo 4°
+
+Cuentas de la tutela
+
+ARTICULO 130.- Deber de rendir cuentas. Periodicidad. Quien ejerce la tutela debe llevar cuenta fiel y documentada de las entradas y gastos de su gestión. Debe rendir cuentas: al término de cada año, al cesar en el cargo, y cuando el juez lo ordena, de oficio, o a petición del Ministerio Público. La obligación de rendición de cuentas es individual y su aprobación sólo libera a quien da cumplimiento a la misma.
+
+Aprobada la cuenta del primer año, puede disponerse que las posteriores se rindan en otros plazos, cuando la naturaleza de la administración así lo justifique.
+
+ARTICULO 131.- Rendición final. Terminada la tutela, quien la ejerza o sus herederos deben entregar los bienes de inmediato, e informar de la gestión dentro del plazo que el juez señale, aunque el tutelado en su testamento lo exima de ese deber. Las cuentas deben rendirse judicialmente con intervención del Ministerio Público.
+
+ARTICULO 132.- Gastos de la rendición. Los gastos de la rendición de cuentas deben ser adelantados por quien ejerce la tutela y deben ser reembolsados por el tutelado si son rendidas en debida forma.
+
+ARTICULO 133.- Gastos de la gestión. Quien ejerce la tutela tiene derecho a la restitución de los gastos razonables hechos en la gestión, aunque de ellos no resulte utilidad al tutelado. Los saldos de la cuenta devengan intereses.
+
+ARTICULO 134.- Daños. Si el tutor no rinde cuentas, no lo hace debidamente o se comprueba su mala administración atribuible a dolo o culpa, debe indemnizar el daño causado a su tutelado. La indemnización no debe ser inferior a lo que los bienes han podido razonablemente producir.
+
+Parágrafo 5°
+
+Terminación de la tutela
+
+ARTICULO 135.- Causas de terminación de la tutela. La tutela termina:
+
+a) por la muerte del tutelado, su emancipación o la desaparición de la causa que dio lugar a la tutela;
+
+b) por la muerte, incapacidad, declaración de capacidad restringida, remoción o renuncia aceptada por el juez, de quien ejerce la tutela. En caso de haber sido discernida a dos personas, la causa de terminación de una de ellas no afecta a la otra, que se debe mantener en su cargo, excepto que el juez estime conveniente su cese, por motivos fundados.
+
+En caso de muerte del tutor, el albacea, heredero o el otro tutor si lo hubiera, debe ponerlo en conocimiento inmediato del juez de la tutela. En su caso, debe adoptar las medidas urgentes para la protección de la persona y de los bienes del pupilo.
+
+ARTICULO 136.- Remoción del tutor. Son causas de remoción del tutor:
+
+a) quedar comprendido en alguna de las causales que impide ser tutor;
+
+b) no hacer el inventario de los bienes del tutelado, o no hacerlo fielmente;
+
+c) no cumplir debidamente con sus deberes o tener graves y continuados problemas de convivencia.
+
+Están legitimados para demandar la remoción el tutelado y el Ministerio Público.
+
+También puede disponerla el juez de oficio.
+
+ARTICULO 137.- Suspensión provisoria. Durante la tramitación del proceso de remoción, el juez puede suspender al tutor y nombrar provisoriamente a otro.
+
+SECCION 3ª
+
+Curatela
+
+ARTICULO 138.- Normas aplicables. La curatela se rige por las reglas de la tutela no modificadas en esta Sección.
+
+La principal función del curador es la de cuidar a la persona y los bienes de la persona incapaz, y tratar de que recupere su salud. Las rentas de los bienes de la persona protegida deben ser destinadas preferentemente a ese fin.
+
+ARTICULO 139.- Personas que pueden ser curadores. La persona capaz puede designar, mediante una directiva anticipada, a quien ha de ejercer su curatela.
+
+Los padres pueden nombrar curadores y apoyos de sus hijos incapaces o con capacidad restringida, en los casos y con las formas en que pueden designarles tutores.
+
+Cualquiera de estas designaciones debe ser aprobada judicialmente.
+
+A falta de estas previsiones el juez puede nombrar al cónyuge no separado de hecho, al conviviente, a los hijos, padres o hermanos de la persona a proteger según quien tenga mayor aptitud. Se debe tener en cuenta la idoneidad moral y económica.
+
+ARTICULO 140.- Persona protegida con hijos. El curador de la persona incapaz es tutor de los hijos menores de éste. Sin embargo, el juez puede otorgar la guarda del hijo menor de edad a un tercero, designándolo tutor para que lo represente en las cuestiones patrimoniales.

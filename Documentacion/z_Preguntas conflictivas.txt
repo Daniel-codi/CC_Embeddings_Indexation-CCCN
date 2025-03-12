@@ -1,0 +1,26 @@
+PREGUNTA 1: Hubo alguna rebelión contra Moises?
+esta pregunta tiene más de 3 respuestas, debe llegar hasta el cap 26 mas o menos.
+
+Cap11, 12 y 16
+positiva, positiva positiva
+
+
+PREGUNTA 2: cuéntame qué le pasó al profeta Balam al final de todo
+
+
+Nueva consulta recibida: cuéntame qué le pasó al profeta Balam al final de todo
+
+Pregunta pulida: Claro, aquí tienes una reformulación de la pregunta con un prompting más específico:
+
+"¿Qué eventos se relatan en la Biblia sobre el destino final del profeta Balaam después de su encuentro con el pueblo de Israel?"
+Tokens de entrada para PreguntaPulida: 521, Tokens de salida para PreguntaPulida: 46
+Archivos relevantes identificados: Numeros-22.txt, Numeros-23.txt, Numeros-24.txt
+Tokens de entrada: 7507, Tokens de salida: 18
+Tokens de entrada para Numeros-22.txt: 1866, Tokens de salida para Numeros-22.txt: 2
+Respuesta -
+Tokens de entrada para Numeros-23.txt: 1276, Tokens de salida para Numeros-23.txt: 2
+Respuesta -
+Tokens de entrada para Numeros-24.txt: 1043, Tokens de salida para Numeros-24.txt: 157
+Respuesta positiva
+
+Cap 22,23 y 24 todos negativos... pero murio en el capitulo 31

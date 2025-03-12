@@ -1,0 +1,460 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO PRIMERO - PARTE GENERAL - TITULO 2
+TITULO 2: Persona jurídica
+Articulos: 141 al 224
+
+---------------------
+TITULO II
+
+Persona jurídica
+
+CAPITULO 1
+
+Parte general
+
+SECCION 1ª
+
+Personalidad. Composición
+
+ARTICULO 141.- Definición. Son personas jurídicas todos los entes a los cuales el ordenamiento jurídico les confiere aptitud para adquirir derechos y contraer obligaciones para el cumplimiento de su objeto y los fines de su creación.
+
+ARTICULO 142.- Comienzo de la existencia. La existencia de la persona jurídica privada comienza desde su constitución. No necesita autorización legal para funcionar, excepto disposición legal en contrario. En los casos en que se requiere autorización estatal, la persona jurídica no puede funcionar antes de obtenerla.
+
+ARTICULO 143.- Personalidad diferenciada. La persona jurídica tiene una personalidad distinta de la de sus miembros.
+
+Los miembros no responden por las obligaciones de la persona jurídica, excepto en los supuestos que expresamente se prevén en este Título y lo que disponga la ley especial.
+
+ARTICULO 144.- Inoponibilidad de la personalidad jurídica. La actuación que esté destinada a la consecución de fines ajenos a la persona jurídica, constituya un recurso para violar la ley, el orden público o la buena fe o para frustrar derechos de cualquier persona, se imputa a quienes a título de socios, asociados, miembros o controlantes directos o indirectos, la hicieron posible, quienes responderán solidaria e ilimitadamente por los perjuicios causados.
+
+Lo dispuesto se aplica sin afectar los derechos de los terceros de buena fe y sin perjuicio de las responsabilidades personales de que puedan ser pasibles los participantes en los hechos por los perjuicios causados.
+
+SECCION 2ª
+
+Clasificación
+
+ARTICULO 145.- Clases. Las personas jurídicas son públicas o privadas.
+
+ARTICULO 146.- Personas jurídicas públicas. Son personas jurídicas públicas:
+
+a) el Estado nacional, las Provincias, la Ciudad Autónoma de Buenos Aires, los municipios, las entidades autárquicas y las demás organizaciones constituidas en la República a las que el ordenamiento jurídico atribuya ese carácter;
+
+b) los Estados extranjeros, las organizaciones a las que el derecho internacional público reconozca personalidad jurídica y toda otra persona jurídica constituida en el extranjero cuyo carácter público resulte de su derecho aplicable;
+
+c) la Iglesia Católica.
+
+ARTICULO 147.- Ley aplicable. Las personas jurídicas públicas se rigen en cuanto a su reconocimiento, comienzo, capacidad, funcionamiento, organización y fin de su existencia, por las leyes y ordenamientos de su constitución.
+
+ARTICULO 148.- Personas jurídicas privadas. Son personas jurídicas privadas:
+
+a) las sociedades;
+
+b) las asociaciones civiles;
+
+c) las simples asociaciones;
+
+d) las fundaciones;
+
+e) las iglesias, confesiones, comunidades o entidades religiosas;
+
+f) las mutuales;
+
+g) las cooperativas;
+
+h) el consorcio de propiedad horizontal;
+
+i) toda otra contemplada en disposiciones de este Código o en otras leyes y cuyo carácter de tal se establece o resulta de su finalidad y normas de funcionamiento.
+
+ARTICULO 149.- Participación del Estado. La participación del Estado en personas jurídicas privadas no modifica el carácter de éstas. Sin embargo, la ley o el estatuto pueden prever derechos y obligaciones diferenciados, considerando el interés público comprometido en dicha participación.
+
+ARTICULO 150.- Leyes aplicables. Las personas jurídicas privadas que se constituyen en la República, se rigen:
+
+a) por las normas imperativas de la ley especial o, en su defecto, de este Código;
+
+b) por las normas del acto constitutivo con sus modificaciones y de los reglamentos, prevaleciendo las primeras en caso de divergencia;
+
+c) por las normas supletorias de leyes especiales, o en su defecto, por las de este Título.
+
+Las personas jurídicas privadas que se constituyen en el extranjero se rigen por lo dispuesto en la ley general de sociedades.
+
+SECCION 3ª
+
+Persona jurídica privada
+
+Parágrafo 1°
+
+Atributos y efectos de la personalidad jurídica
+
+ARTICULO 151.- Nombre. La persona jurídica debe tener un nombre que la identifique como tal, con el aditamento indicativo de la forma jurídica adoptada. La persona jurídica en liquidación debe aclarar esta circunstancia en la utilización de su nombre.
+
+El nombre debe satisfacer recaudos de veracidad, novedad y aptitud distintiva, tanto respecto de otros nombres, como de marcas, nombres de fantasía u otras formas de referencia a bienes o servicios, se relacionen o no con el objeto de la persona jurídica.
+
+No puede contener términos o expresiones contrarios a la ley, el orden público o las buenas costumbres ni inducir a error sobre la clase u objeto de la persona jurídica. La inclusión en el nombre de la persona jurídica del nombre de personas humanas requiere la conformidad de éstas, que se presume si son miembros. Sus herederos pueden oponerse a la continuación del uso, si acreditan perjuicios materiales o morales.
+
+ARTICULO 152.- Domicilio y sede social. El domicilio de la persona jurídica es el fijado en sus estatutos o en la autorización que se le dio para funcionar. La persona jurídica que posee muchos establecimientos o sucursales tiene su domicilio especial en el lugar de dichos establecimientos sólo para la ejecución de las obligaciones allí contraídas. El cambio de domicilio requiere modificación del estatuto. El cambio de sede, si no forma parte del estatuto, puede ser resuelto por el órgano de administración.
+
+ARTICULO 153.- Alcance del domicilio. Notificaciones. Se tienen por válidas y vinculantes para la persona jurídica todas las notificaciones efectuadas en la sede inscripta.
+
+ARTICULO 154.- Patrimonio. La persona jurídica debe tener un patrimonio.
+
+La persona jurídica en formación puede inscribir preventivamente a su nombre los bienes registrables.
+
+ARTICULO 155.- Duración. La duración de la persona jurídica es ilimitada en el tiempo, excepto que la ley o el estatuto dispongan lo contrario.
+
+ARTICULO 156.- Objeto. El objeto de la persona jurídica debe ser preciso y determinado.
+
+Parágrafo 2°
+
+Funcionamiento
+
+ARTICULO 157.- Modificación del estatuto. El estatuto de las personas jurídicas puede ser modificado en la forma que el mismo o la ley establezcan.
+
+La modificación del estatuto produce efectos desde su otorgamiento. Si requiere inscripción es oponible a terceros a partir de ésta, excepto que el tercero la conozca.
+
+ARTICULO 158.- Gobierno, administración y fiscalización. El estatuto debe contener normas sobre el gobierno, la administración y representación y, si la ley la exige, sobre la fiscalización interna de la persona jurídica.
+
+En ausencia de previsiones especiales rigen las siguientes reglas:
+
+a) si todos los que deben participar del acto lo consienten, pueden participar en una asamblea o reunión del órgano de gobierno, utilizando medios que les permitan a los participantes comunicarse simultáneamente entre ellos. El acta debe ser suscripta por el presidente y otro administrador, indicándose la modalidad adoptada, debiendo guardarse las constancias, de acuerdo al medio utilizado para comunicarse;
+
+b) los miembros que deban participar en una asamblea, o los integrantes del consejo, pueden autoconvocarse para deliberar, sin necesidad de citación previa. Las decisiones que se tomen son válidas, si concurren todos y el temario a tratar es aprobado por unanimidad.
+
+ARTICULO 159.- Deber de lealtad y diligencia. Interés contrario. Los administradores de la persona jurídica deben obrar con lealtad y diligencia.
+
+No pueden perseguir ni favorecer intereses contrarios a los de la persona jurídica. Si en determinada operación los tuvieran por sí o por interpósita persona, deben hacerlo saber a los demás miembros del órgano de administración o en su caso al órgano de gobierno y abstenerse de cualquier intervención relacionada con dicha operación.
+
+Les corresponde implementar sistemas y medios preventivos que reduzcan el riesgo de conflictos de intereses en sus relaciones con la persona jurídica.
+
+ARTICULO 160.- Responsabilidad de los administradores. Los administradores responden en forma ilimitada y solidaria frente a la persona jurídica, sus miembros y terceros, por los daños causados por su culpa en el ejercicio o con ocasión de sus funciones, por acción u omisión.
+
+ARTICULO 161.- Obstáculos que impiden adoptar decisiones. Si como consecuencia de la oposición u omisión sistemáticas en el desempeño de las funciones del administrador, o de los administradores si los hubiera, la persona jurídica no puede adoptar decisiones válidas, se debe proceder de la siguiente forma:
+
+a) el presidente, o alguno de los coadministradores, si los hay, pueden ejecutar los actos conservatorios;
+
+b) los actos así ejecutados deben ser puestos en conocimiento de la asamblea que se convoque al efecto dentro de los diez días de comenzada su ejecución;
+
+c) la asamblea puede conferir facultades extraordinarias al presidente o a la minoría, para realizar actos urgentes o necesarios; también puede remover al administrador.
+
+ARTICULO 162.- Transformación. Fusión. Escisión. Las personas jurídicas pueden transformarse, fusionarse o escindirse en los casos previstos por este Código o por la ley especial.
+
+En todos los casos es necesaria la conformidad unánime de los miembros de la persona o personas jurídicas, excepto disposición especial o estipulación en contrario del estatuto.
+
+Parágrafo 3º
+
+Disolución. Liquidación
+
+ARTICULO 163.- Causales. La persona jurídica se disuelve por:
+
+a) la decisión de sus miembros adoptada por unanimidad o por la mayoría establecida por el estatuto o disposición especial;
+
+b) el cumplimiento de la condición resolutoria a la que el acto constitutivo subordinó su existencia;
+
+c) la consecución del objeto para el cual la persona jurídica se formó, o la imposibilidad sobreviviente de cumplirlo;
+
+d) el vencimiento del plazo;
+
+e) la declaración de quiebra; la disolución queda sin efecto si la quiebra concluye por avenimiento o se dispone la conversión del trámite en concurso preventivo, o si la ley especial prevé un régimen distinto;
+
+f) la fusión respecto de las personas jurídicas que se fusionan o la persona o personas jurídicas cuyo patrimonio es absorbido; y la escisión respecto de la persona jurídica que se divide y destina todo su patrimonio;
+
+g) la reducción a uno del número de miembros, si la ley especial exige pluralidad de ellos y ésta no es restablecida dentro de los tres meses;
+
+h) la denegatoria o revocación firmes de la autorización estatal para funcionar, cuando ésta sea requerida;
+
+i) el agotamiento de los bienes destinados a sostenerla;
+
+j) cualquier otra causa prevista en el estatuto o en otras disposiciones de este Título o de ley especial.
+
+ARTICULO 164.- Revocación de la autorización estatal. La revocación de la autorización estatal debe fundarse en la comisión de actos graves que importen la violación de la ley, el estatuto y el reglamento.
+
+La revocación debe disponerse por resolución fundada y conforme a un procedimiento reglado que garantice el derecho de defensa de la persona jurídica. La resolución es apelable, pudiendo el juez disponer la suspensión provisional de sus efectos.
+
+ARTICULO 165.- Prórroga. El plazo determinado de duración de las personas jurídicas puede ser prorrogado. Se requiere:
+
+a) decisión de sus miembros, adoptada de acuerdo con la previsión legal o estatutaria;
+
+b) presentación ante la autoridad de contralor que corresponda, antes del vencimiento del plazo.
+
+ARTICULO 166.- Reconducción. La persona jurídica puede ser reconducida mientras no haya concluido su liquidación, por decisión de sus miembros adoptada por unanimidad o la mayoría requerida por la ley o el estatuto, siempre que la causa de su disolución pueda quedar removida por decisión de los miembros o en virtud de la ley.
+
+ARTICULO 167.- Liquidación y responsabilidades. Vencido el plazo de duración, resuelta la disolución u ocurrida otra causa y declarada en su caso por los miembros, la persona jurídica no puede realizar operaciones, debiendo en su liquidación concluir las pendientes.
+
+La liquidación consiste en el cumplimiento de las obligaciones pendientes con los bienes del activo del patrimonio de la persona jurídica o su producido en dinero. Previo pago de los gastos de liquidación y de las obligaciones fiscales, el remanente, si lo hay, se entrega a sus miembros o a terceros, conforme lo establece el estatuto o lo exige la ley.
+
+En caso de infracción responden ilimitada y solidariamente sus administradores y aquellos miembros que, conociendo o debiendo conocer la situación y contando con el poder de decisión necesario para ponerle fin, omiten adoptar las medidas necesarias al efecto.
+
+CAPITULO 2
+
+Asociaciones civiles
+
+SECCION 1ª
+
+Asociaciones civiles
+
+ARTICULO 168.- Objeto. La asociación civil debe tener un objeto que no sea contrario al interés general o al bien común. El interés general se interpreta dentro del respeto a las diversas identidades, creencias y tradiciones, sean culturales, religiosas, artísticas, literarias, sociales, políticas o étnicas que no vulneren los valores constitucionales.
+
+No puede perseguir el lucro como fin principal, ni puede tener por fin el lucro para sus miembros o terceros.
+
+ARTICULO 169.- Forma del acto constitutivo. El acto constitutivo de la asociación civil debe ser otorgado por instrumento público y ser inscripto en el registro correspondiente una vez otorgada la autorización estatal para funcionar. Hasta la inscripción se aplican las normas de la simple asociación.
+
+ARTICULO 170.- Contenido. El acto constitutivo debe contener:
+
+a) la identificación de los constituyentes;
+
+b) el nombre de la asociación con el aditamento “Asociación Civil” antepuesto o pospuesto;
+
+c) el objeto;
+
+d) el domicilio social;
+
+e) el plazo de duración o si la asociación es a perpetuidad;
+
+f) las causales de disolución;
+
+g) las contribuciones que conforman el patrimonio inicial de la asociación civil y el valor que se les asigna. Los aportes se consideran transferidos en propiedad, si no consta expresamente su aporte de uso y goce;
+
+h) el régimen de administración y representación;
+
+i) la fecha de cierre del ejercicio económico anual;
+
+j) en su caso, las clases o categorías de asociados, y prerrogativas y deberes de cada una;
+
+k) el régimen de ingreso, admisión, renuncia, sanciones disciplinarias, exclusión de asociados y recursos contra las decisiones;
+
+l) los órganos sociales de gobierno, administración y representación. Deben preverse la comisión directiva, las asambleas y el órgano de fiscalización interna, regulándose su composición, requisitos de integración, duración de sus integrantes, competencias, funciones, atribuciones y funcionamiento en cuanto a convocatoria, constitución, deliberación, decisiones y documentación;
+
+m) el procedimiento de liquidación;
+
+n) el destino de los bienes después de la liquidación, pudiendo atribuirlos a una entidad de bien común, pública o privada, que no tenga fin de lucro y que esté domiciliada en la República.
+
+ARTICULO 171.- Administradores. Los integrantes de la comisión directiva deben ser asociados. El derecho de los asociados a participar en la comisión directiva no puede ser restringido abusivamente. El estatuto debe prever los siguientes cargos y, sin perjuicio de la actuación colegiada en el órgano, definir las funciones de cada uno de ellos: presidente, secretario y tesorero. Los demás miembros de la comisión directiva tienen carácter de vocales. A los efectos de esta Sección, se denomina directivos a todos los miembros titulares de la comisión directiva. En el acto constitutivo se debe designar a los integrantes de la primera comisión directiva.
+
+ARTICULO 172.- Fiscalización. El estatuto puede prever que la designación de los integrantes del órgano de fiscalización recaiga en personas no asociadas. En el acto constitutivo se debe consignar a los integrantes del primer órgano de fiscalización.
+
+La fiscalización privada de la asociación está a cargo de uno o más revisores de cuentas. La comisión revisora de cuentas es obligatoria en las asociaciones con más de cien asociados.
+
+ARTICULO 173.- Integrantes del órgano de fiscalización. Los integrantes del órgano de fiscalización no pueden ser al mismo tiempo integrantes de la comisión, ni certificantes de los estados contables de la asociación. Estas incompatibilidades se extienden a los cónyuges, convivientes, parientes, aun por afinidad, en línea recta en todos los grados, y colaterales dentro del cuarto grado.
+
+En las asociaciones civiles que establezcan la necesidad de una profesión u oficio específico para adquirir la calidad de socio, los integrantes del órgano de fiscalización no necesariamente deben contar con título habilitante. En tales supuestos la comisión fiscalizadora debe contratar profesionales independientes para su asesoramiento.
+
+ARTICULO 174.- Contralor estatal. Las asociaciones civiles requieren autorización para funcionar y se encuentran sujetas a contralor permanente de la autoridad competente, nacional o local, según corresponda.
+
+ARTICULO 175.- Participación en los actos de gobierno. El estatuto puede imponer condiciones para que los asociados participen en los actos de gobierno, tales como antigüedad o pago de cuotas sociales. La cláusula que importe restricción total del ejercicio de los derechos del asociado es de ningún valor.
+
+ARTICULO 176.- Cesación en el cargo. Los directivos cesan en sus cargos por muerte, declaración de incapacidad o capacidad restringida, inhabilitación, vencimiento del lapso para el cual fueron designados, renuncia, remoción y cualquier otra causal establecida en el estatuto.
+
+El estatuto no puede restringir la remoción ni la renuncia; la cláusula en contrario es de ningún valor. No obstante, la renuncia no puede afectar el funcionamiento de la comisión directiva o la ejecución de actos previamente resueltos por ésta, supuestos en los cuales debe ser rechazada y el renunciante permanecer en el cargo hasta que la asamblea ordinaria se pronuncie. Si no concurren tales circunstancias, la renuncia comunicada por escrito al presidente de la comisión directiva o a quien estatutariamente lo reemplace o a cualquiera de los directivos, se tiene por aceptada si no es expresamente rechazada dentro de los diez días contados desde su recepción.
+
+ARTICULO 177.- Extinción de la responsabilidad. La responsabilidad de los directivos se extingue por la aprobación de su gestión, por renuncia o transacción resueltas por la asamblea ordinaria.
+
+No se extingue:
+
+a) si la responsabilidad deriva de la infracción a normas imperativas;
+
+b) si en la asamblea hubo oposición expresa y fundada de asociados con derecho a voto en cantidad no menor al diez por ciento del total. En este caso quienes se opusieron pueden ejercer la acción social de responsabilidad prevista para las sociedades en la ley especial.
+
+ARTICULO 178.- Participación en las asambleas. El pago de las cuotas y contribuciones correspondientes al mes inmediato anterior es necesario para participar en las asambleas. En ningún caso puede impedirse la participación del asociado que purgue la mora con antelación al inicio de la asamblea.
+
+ARTICULO 179.- Renuncia. El derecho de renunciar a la condición de asociado no puede ser limitado. El renunciante debe en todos los casos las cuotas y contribuciones devengadas hasta la fecha de la notificación de su renuncia.
+
+ARTICULO 180.- Exclusión. Los asociados sólo pueden ser excluidos por causas graves previstas en el estatuto. El procedimiento debe asegurar el derecho de defensa del afectado. Si la decisión de exclusión es adoptada por la comisión directiva, el asociado tiene derecho a la revisión por la asamblea que debe convocarse en el menor plazo legal o estatutariamente posible. El incumplimiento de estos requisitos compromete la responsabilidad de la comisión directiva.
+
+ARTICULO 181.- Responsabilidad. Los asociados no responden en forma directa ni subsidiaria por las deudas de la asociación civil. Su responsabilidad se limita al cumplimiento de los aportes comprometidos al constituirla o posteriormente y al de las cuotas y contribuciones a que estén obligados.
+
+ARTICULO 182.- Intransmisibilidad. La calidad de asociado es intransmisible.
+
+ARTICULO 183.- Disolución. Las asociaciones civiles se disuelven por las causales generales de disolución de las personas jurídicas privadas y también por la reducción de su cantidad de asociados a un número inferior al total de miembros titulares y suplentes de su comisión directiva y órgano de fiscalización, si dentro de los seis meses no se restablece ese mínimo.
+
+ARTICULO 184.- Liquidador. El liquidador debe ser designado por la asamblea extraordinaria y de acuerdo a lo establecido en el estatuto, excepto en casos especiales en que procede la designación judicial o por la autoridad de contralor. Puede designarse más de uno, estableciéndose su actuación conjunta o como órgano colegiado.
+
+La disolución y el nombramiento del liquidador deben inscribirse y publicarse.
+
+ARTICULO 185.- Procedimiento de liquidación. El procedimiento de liquidación se rige por las disposiciones del estatuto y se lleva a cabo bajo la vigilancia del órgano de fiscalización.
+
+Cualquiera sea la causal de disolución, el patrimonio resultante de la liquidación no se distribuye entre los asociados. En todos los casos debe darse el destino previsto en el estatuto y, a falta de previsión, el remanente debe destinarse a otra asociación civil domiciliada en la República de objeto igual o similar a la liquidada.
+
+ARTICULO 186.- Normas supletorias. Se aplican supletoriamente las disposiciones sobre sociedades, en lo pertinente.
+
+SECCION 2ª
+
+Simples asociaciones
+
+ARTICULO 187.- Forma del acto constitutivo. El acto constitutivo de la simple asociación debe ser otorgado por instrumento público o por instrumento privado con firma certificada por escribano público. Al nombre debe agregársele, antepuesto o pospuesto, el aditamento “simple asociación” o “asociación simple”.
+
+ARTICULO 188.- Ley aplicable. Reenvío. Las simples asociaciones se rigen en cuanto a su acto constitutivo, gobierno, administración, socios, órgano de fiscalización y funcionamiento por lo dispuesto para las asociaciones civiles y las disposiciones especiales de este Capítulo.
+
+ARTICULO 189.- Existencia. La simple asociación comienza su existencia como persona jurídica a partir de la fecha del acto constitutivo.
+
+ARTICULO 190.- Prescindencia de órgano de fiscalización. Las simples asociaciones con menos de veinte asociados pueden prescindir del órgano de fiscalización; subsiste la obligación de certificación de sus estados contables.
+
+Si se prescinde del órgano de fiscalización, todo miembro, aun excluido de la gestión, tiene derecho a informarse sobre el estado de los asuntos y de consultar sus libros y registros. La cláusula en contrario se tiene por no escrita.
+
+ARTICULO 191.- Insolvencia. En caso de insuficiencia de los bienes de la asociación simple, el administrador y todo miembro que administra de hecho los asuntos de la asociación es solidariamente responsable de las obligaciones de la simple asociación que resultan de decisiones que han suscripto durante su administración.
+
+Los bienes personales de cada una de esas personas no pueden ser afectados al pago de las deudas de la asociación, sino después de haber satisfecho a sus acreedores individuales.
+
+ARTICULO 192.- Responsabilidad de los miembros. El fundador o asociado que no intervino en la administración de la simple asociación no está obligado por las deudas de ella, sino hasta la concurrencia de la contribución prometida o de las cuotas impagas.
+
+CAPITULO 3
+
+Fundaciones
+
+SECCION 1ª
+
+Concepto, objeto, modo de constitución y patrimonio
+
+ARTICULO 193.- Concepto. Las fundaciones son personas jurídicas que se constituyen con una finalidad de bien común, sin propósito de lucro, mediante el aporte patrimonial de una o más personas, destinado a hacer posibles sus fines.
+
+Para existir como tales requieren necesariamente constituirse mediante instrumento público y solicitar y obtener autorización del Estado para funcionar.
+
+Si el fundador es una persona humana, puede disponer su constitución por acto de última voluntad.
+
+ARTICULO 194.- Patrimonio inicial. Un patrimonio inicial que posibilite razonablemente el cumplimiento de los fines propuestos estatutariamente es requisito indispensable para obtener la autorización estatal. A estos efectos, además de los bienes donados efectivamente en el acto constitutivo, se tienen en cuenta los que provengan de compromisos de aportes de integración futura, contraídos por los fundadores o terceros.
+
+Sin perjuicio de ello, la autoridad de contralor puede resolver favorablemente los pedidos de autorización si de los antecedentes de los fundadores o de los servidores de la voluntad fundacional comprometidos por la entidad a crearse, y además de las características del programa a desarrollar, resulta la aptitud potencial para el cumplimiento de los objetivos previstos en los estatutos.
+
+SECCION 2ª
+
+Constitución y autorización
+
+ARTICULO 195.- Acto constitutivo. Estatuto. El acto constitutivo de la fundación debe ser otorgado por el o los fundadores o apoderado con poder especial, si se lo hace por acto entre vivos; o por el autorizado por el juez del sucesorio, si lo es por disposición de última voluntad.
+
+El instrumento debe ser presentado ante la autoridad de contralor para su aprobación, y contener:
+
+a) los siguientes datos del o de los fundadores:
+
+i) cuando se trate de personas humanas, su nombre, edad, estado civil, nacionalidad, profesión, domicilio y número de documento de identidad y, en su caso, el de los apoderados o autorizados;
+
+ii) cuando se trate de personas jurídicas, la razón social o denominación y el domicilio, acreditándose la existencia de la entidad fundadora, su inscripción registral y la representación de quienes comparecen por ella;
+
+En cualquier caso, cuando se invoca mandato debe dejarse constancia del documento que lo acredita;
+
+b) nombre y domicilio de la fundación;
+
+c) designación del objeto, que debe ser preciso y determinado;
+
+d) patrimonio inicial, integración y recursos futuros, lo que debe ser expresado en moneda nacional;
+
+e) plazo de duración;
+
+f) organización del consejo de administración, duración de los cargos, régimen de reuniones y procedimiento para la designación de sus miembros;
+
+g) cláusulas atinentes al funcionamiento de la entidad;
+
+h) procedimiento y régimen para la reforma del estatuto;
+
+i) fecha del cierre del ejercicio anual;
+
+j) cláusulas de disolución y procedimiento atinentes a la liquidación y destino de los bienes;
+
+k) plan trienal de acción.
+
+En el mismo instrumento se deben designar los integrantes del primer consejo de administración y las personas facultadas para gestionar la autorización para funcionar.
+
+ARTICULO 196.- Aportes. El dinero en efectivo o los títulos valores que integran el patrimonio inicial deben ser depositados durante el trámite de autorización en el banco habilitado por la autoridad de contralor de la jurisdicción en que se constituye la fundación. Los aportes no dinerarios deben constar en un inventario con sus respectivas valuaciones, suscripto por contador público nacional.
+
+ARTICULO 197.- Promesas de donación. Las promesas de donación hechas por los fundadores en el acto constitutivo son irrevocables a partir de la resolución de la autoridad de contralor que autorice a la entidad para funcionar como persona jurídica. Si el fundador fallece después de firmar el acto constitutivo, las promesas de donación no podrán ser revocadas por sus herederos, a partir de la presentación a la autoridad de contralor solicitando la autorización para funcionar como persona jurídica.
+
+ARTICULO 198.- Cumplimiento de las promesas. La fundación constituida tiene todas las acciones legales para demandar por el cumplimiento de las promesas de donación hechas a su favor por el fundador o por terceros, no siéndoles oponible la defensa vinculada a la revocación hecha antes de la aceptación, ni la relativa al objeto de la donación si constituye todo el patrimonio del donante o una parte indivisa de él, o si el donante no tenía la titularidad dominial de lo comprometido.
+
+ARTICULO 199.- Planes de acción. Con la solicitud de otorgamiento de personería jurídica deben acompañarse los planes que proyecta ejecutar la entidad en el primer trienio, con indicación precisa de la naturaleza, características y desarrollo de las actividades necesarias para su cumplimiento, como también las bases presupuestarias para su realización. Cumplido el plazo, se debe proponer lo inherente al trienio subsiguiente, con idénticas exigencias.
+
+ARTICULO 200.- Responsabilidad de los fundadores y administradores durante la etapa de gestación. Los fundadores y administradores de la fundación son solidariamente responsables frente a terceros por las obligaciones contraídas hasta el momento en que se obtiene la autorización para funcionar. Los bienes personales de cada uno de ellos pueden ser afectados al pago de esas deudas sólo después de haber sido satisfechos sus acreedores individuales.
+
+
+
+Gobierno y administración
+
+ARTICULO 201.- Consejo de administración. El gobierno y administración de las fundaciones está a cargo de un consejo de administración, integrado por un mínimo de tres personas humanas. Tiene todas las facultades necesarias para el cumplimiento del objeto de la fundación, dentro de las condiciones que establezca el estatuto.
+
+ARTICULO 202.- Derecho de los fundadores. Los fundadores pueden reservarse por disposición expresa del estatuto la facultad de ocupar cargos en el consejo de administración, así como también la de designar los consejeros cuando se produzca el vencimiento de los plazos de designación o la vacancia de alguno de ellos.
+
+ARTICULO 203.- Designación de los consejeros. La designación de los integrantes del consejo de administración puede además ser conferida a instituciones públicas y a entidades privadas sin fines de lucro.
+
+ARTICULO 204.- Carácter de los consejeros. Los miembros del consejo de administración pueden ser permanentes o temporarios. El estatuto puede establecer que determinadas decisiones requieran siempre el voto favorable de los primeros, como que también quede reservada a éstos la designación de los segundos.
+
+ARTICULO 205.- Comité ejecutivo. El estatuto puede prever la delegación de facultades de administración y gobierno a favor de un comité ejecutivo integrado por miembros del consejo de administración o por terceros, el cual debe ejercer sus funciones entre los períodos de reunión del consejo, y con rendición de cuentas a él. Puede también delegar facultades ejecutivas en una o más personas humanas, sean o no miembros del consejo de administración.
+
+De acuerdo con la entidad de las labores encomendadas, el estatuto puede prever alguna forma de retribución pecuniaria a favor de los miembros del comité ejecutivo.
+
+ARTICULO 206.- Carácter honorario del cargo. Los miembros del consejo de administración no pueden recibir retribuciones por el ejercicio de su cargo, excepto el reembolso de gastos, siendo su cometido de carácter honorario.
+
+ARTICULO 207.- Reuniones, convocatorias, mayorías, decisiones y actas. El estatuto debe prever el régimen de reuniones ordinarias y extraordinarias del consejo de administración, y en su caso, del comité ejecutivo si es pluripersonal, así como el procedimiento de convocatoria. El quórum debe ser el de la mitad más uno de sus integrantes. Debe labrarse en libro especial acta de las deliberaciones de los entes mencionados, en la que se resuma lo que resulte de cada convocatoria con todos los detalles más relevantes de lo actuado.
+
+Las decisiones se toman por mayoría absoluta de votos de los miembros presentes, excepto que la ley o el estatuto requieran mayorías calificadas. En caso de empate, el presidente del consejo de administración o del comité ejecutivo tiene doble voto.
+
+ARTICULO 208.- Quórum especial. Las mayorías establecidas en el artículo 207 no se requieren para la designación de nuevos integrantes del consejo de administración cuando su concurrencia se ha tornado imposible.
+
+ARTICULO 209.- Remoción del consejo de administración. Los miembros del consejo de administración pueden ser removidos con el voto de por lo menos las dos terceras partes de los integrantes del cuerpo. El estatuto puede prever la caducidad automática de los mandatos por ausencias injustificadas y reiteradas a las reuniones del consejo.
+
+ARTICULO 210.- Acefalía del consejo de administración. Cuando existan cargos vacantes en el consejo de administración en grado tal que su funcionamiento se torne imposible, y no pueda tener lugar la designación de nuevos miembros conforme al estatuto, o éstos rehúsen aceptar los cargos, la autoridad de contralor debe proceder a reorganizar la administración de la fundación, a designar sus nuevas autoridades, y a modificar el estatuto en las partes pertinentes.
+
+ARTICULO 211.- Derechos y obligaciones de los integrantes del consejo de administración. Los integrantes del consejo de administración se rigen, respecto de sus derechos y obligaciones, por la ley, por las normas reglamentarias en vigor, por los estatutos, y, subsidiariamente, por las reglas del mandato. En caso de violación por su parte de normas legales, reglamentarias o estatutarias, son pasibles de la acción por responsabilidad que pueden promover tanto la fundación como la autoridad de contralor, sin perjuicio de las sanciones de índole administrativa y las medidas que esta última pueda adoptar respecto de la fundación y de los integrantes del consejo.
+
+ARTICULO 212.- Contrato con el fundador o sus herederos. Todo contrato entre la fundación y los fundadores o sus herederos, con excepción de las donaciones que éstos hacen a aquélla, debe ser sometido a la aprobación de la autoridad de contralor, y es ineficaz de pleno derecho sin esa aprobación. Esta norma se aplica a toda resolución del consejo de administración que directa o indirectamente origina en favor del fundador o sus herederos un beneficio que no está previsto en el estatuto.
+
+ARTICULO 213.- Destino de los ingresos. Las fundaciones deben destinar la mayor parte de sus ingresos al cumplimiento de sus fines. La acumulación de fondos debe llevarse a cabo únicamente con objetos precisos, tales como la formación de un capital suficiente para el cumplimiento de programas futuros de mayor envergadura, siempre relacionados al objeto estatutariamente previsto. En estos casos debe informarse a la autoridad de contralor, en forma clara y concreta, sobre esos objetivos buscados y la factibilidad material de su cumplimiento. De igual manera, las fundaciones deben informar de inmediato a la autoridad de contralor la realización de gastos que importen una disminución apreciable de su patrimonio.
+
+SECCION 4ª
+
+Información y contralor
+
+ARTICULO 214.- Deber de información. Las fundaciones deben proporcionar a la autoridad de contralor de su jurisdicción toda la información que ella les requiera.
+
+ARTICULO 215.- Colaboración de las reparticiones oficiales. Las reparticiones oficiales deben suministrar directamente a la autoridad de contralor la información y asesoramiento que ésta les requiera para una mejor apreciación de los programas proyectados por las fundaciones.
+
+SECCION 5ª
+
+Reforma del estatuto y disolución
+
+ARTICULO 216.- Mayoría necesaria. Cambio de objeto. Excepto disposición contraria del estatuto, las reformas requieren por lo menos el voto favorable de la mayoría absoluta de los integrantes del consejo de administración y de los dos tercios en los supuestos de modificación del objeto, fusión con entidades similares y disolución. La modificación del objeto sólo es procedente cuando lo establecido por el fundador ha llegado a ser de cumplimiento imposible.
+
+ARTICULO 217.- Destino de los bienes. En caso de disolución, el remanente de los bienes debe destinarse a una entidad de carácter público o a una persona jurídica de carácter privado cuyo objeto sea de utilidad pública o de bien común, que no tenga fin de lucro y que esté domiciliada en la República. Esta disposición no se aplica a las fundaciones extranjeras.
+
+Las decisiones que se adopten en lo relativo al traspaso del remanente de los bienes requieren la previa aprobación de la autoridad de contralor.
+
+ARTICULO 218.- Revocación de las donaciones. La reforma del estatuto o la disolución y traspaso de los bienes de la fundación, motivados por cambios en las circunstancias que hayan tornado imposible el cumplimiento de su objeto conforme a lo previsto al tiempo de la creación del ente y del otorgamiento de su personería jurídica, no da lugar a la acción de revocación de las donaciones por parte de los donantes o sus herederos, a menos que en el acto de celebración de tales donaciones se haya establecido expresamente como condición resolutoria el cambio de objeto.
+
+SECCION 6ª
+
+Fundaciones creadas por disposición testamentaria
+
+ARTICULO 219.- Intervención del Ministerio Público. Si el testador dispone de bienes con destino a la creación de una fundación, incumbe al Ministerio Público asegurar la efectividad de su propósito, en forma coadyuvante con los herederos y el albacea testamentario, si lo hubiera.
+
+ARTICULO 220.- Facultades del juez. Si los herederos no se ponen de acuerdo entre sí o con el albacea en la redacción del estatuto y del acta constitutiva, las diferencias son resueltas por el juez de la sucesión, previa vista al Ministerio Público y a la autoridad de contralor.
+
+SECCION 7ª
+
+Autoridad de contralor
+
+ARTICULO 221.- Atribuciones. La autoridad de contralor aprueba los estatutos de la fundación y su reforma; fiscaliza su funcionamiento y el cumplimiento de las disposiciones legales y estatutarias a que se halla sujeta, incluso la disolución y liquidación.
+
+ARTICULO 222.- Otras facultades. Además de las atribuciones señaladas en otras disposiciones de este Código, corresponde a la autoridad de contralor:
+
+a) solicitar de las autoridades judiciales la designación de administradores interinos de las fundaciones cuando no se llenan las vacantes de sus órganos de gobierno con perjuicio del desenvolvimiento normal de la entidad o cuando carecen temporariamente de tales órganos;
+
+b) suspender, en caso de urgencia, el cumplimiento de las deliberaciones o resoluciones contrarias a las leyes o los estatutos, y solicitar a las autoridades judiciales la nulidad de esos actos;
+
+c) solicitar a las autoridades la suspensión o remoción de los administradores que hubieran violado los deberes de su cargo, y la designación de administradores provisorios;
+
+d) convocar al consejo de administración a petición de alguno de sus miembros, o cuando se compruebe la existencia de irregularidades graves.
+
+ARTICULO 223.- Cambio de objeto, fusión y coordinación de actividades. Corresponde también a la autoridad de contralor:
+
+a) fijar el nuevo objeto de la fundación cuando el establecido por el o los fundadores es de cumplimiento imposible o ha desaparecido, procurando respetar en la mayor medida posible la voluntad de aquéllos. En tal caso, tiene las atribuciones necesarias para modificar los estatutos de conformidad con ese cambio;
+
+b) disponer la fusión o coordinación de actividades de dos o más fundaciones cuando se den las circunstancias señaladas en el inciso a) de este artículo, o cuando la multiplicidad de fundaciones de objeto análogo hacen aconsejable la medida para su mejor desenvolvimiento y sea manifiesto el mayor beneficio público.
+
+ARTICULO 224.- Recursos. Las decisiones administrativas que denieguen la autorización para la constitución de la fundación o retiren la personería jurídica acordada pueden recurrirse judicialmente en los casos de ilegitimidad y arbitrariedad.
+
+Igual recurso cabe si se trata de fundación extranjera y se deniegue la aprobación requerida por ella o, habiendo sido concedida, sea luego revocada.
+
+El recurso debe sustanciar con arreglo al trámite más breve que rija en la jurisdicción que corresponda, por ante el tribunal de apelación con competencia en lo civil, correspondiente al domicilio de la fundación.
+
+Los órganos de la fundación pueden deducir igual recurso contra las resoluciones que dicte la autoridad de contralor en la situación prevista en el inciso b) del artículo 223.

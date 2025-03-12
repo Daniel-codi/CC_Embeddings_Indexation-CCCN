@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en" translate="no" class="notranslate">
+<head>
+    <meta name="google" content="notranslate">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot Consultas</title>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            overflow: hidden;
+            font-family: Arial, sans-serif;
+        }
+
+        #chatbot-window {
+            position: fixed;
+            right: 0;
+            top: 0;
+            width: 50%;
+            max-width: 700px;
+            height: 100%;
+            background-color: #40414f;
+            color: #dcdcdc;
+            display: flex;
+            flex-direction: column;
+            box-sizing: border-box;
+            border-top-left-radius: 15px;
+            border-bottom-left-radius: 15px;
+        }
+
+        #chatbot-header {
+            padding: 10px;
+            background-color: #353541;
+            text-align: center;
+            font-size: 1.2em;
+            color: #ffffff;
+            border-top-left-radius: 15px;
+            position: relative;
+        }
+
+        .close-button {
+            position: absolute;
+            top: 5px;
+            right: 10px;
+            cursor: pointer;
+            font-size: 1.5em;
+            color: #ffffff;
+        }
+
+        .expand-button {
+            position: absolute;
+            top: 5px;
+            left: 10px;
+            cursor: pointer;
+            font-size: 1.5em;
+            color: #ffffff;
+        }
+
+        #chatbot-content {
+            padding: 10px;
+            flex: 1;
+            overflow-y: auto;
+            border-bottom: 1px solid #555;
+            box-sizing: border-box;
+            line-height: 1.5;
+        }
+
+        #chatbot-input {
+            width: calc(100% - 20px);
+            padding: 10px;
+            margin: 10px;
+            border: none;
+            border-radius: 10px;
+            font-size: 16px;
+            box-sizing: border-box;
+            resize: none;
+        }
+
+        .user-message {
+            text-align: right;
+            background-color: #dcf8c6;
+            color: #333;
+            padding: 10px;
+            border-radius: 15px;
+            margin: 5px 0;
+            display: inline-block;
+            max-width: 80%;
+            float: right;           
+        }
+
+        .chatbot-message {
+    text-align: left;
+    background-color: #ffffff;
+    color: #333;
+    padding: 10px;
+    border-radius: 15px;
+    margin: 5px 0;
+    display: block; /* Asegurarse de que sea un bloque en lugar de un contenedor flotante */
+    max-width: 80%;
+}
+
+        .clearfix::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+		 /* Style for typing indicator */
+        .typing-indicator {
+            text-align: left;
+            color: #999;
+            font-style: italic;
+            margin: 5px 0;
+            display: flex;
+            align-items: center;
+            max-width: 80%;
+            float: left;
+        }
+		
+    </style>
+</head>
+<body>
+    <div id="chatbot-window">
+        <div id="chatbot-header">
+            <span class="expand-button" onclick="toggleChatbotSize()" title="Expandir">↔</span>
+            <span class="close-button" onclick="closeChatbotWindow()" title="Cerrar">&times;</span>
+            Consulta de Documentos
+        </div>
+        <div id="chatbot-content" class="clearfix">
+            <!-- El contenido del chat aparecerá aquí -->
+        </div>
+        <textarea id="chatbot-input" placeholder="Escribe una consulta..." rows="1"></textarea>
+    </div>
+
+    <!-- Carga de marked.js para convertir Markdown a HTML -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+        const chatbotWindow = document.getElementById('chatbot-window');
+        const chatbotInput = document.getElementById('chatbot-input');
+        const chatbotContent = document.getElementById('chatbot-content');
+
+        // Función para cerrar la ventana del chatbot
+        function closeChatbotWindow() {
+            chatbotWindow.style.display = 'none';
+        }
+
+        // Función para alternar el tamaño del chatbot
+        function toggleChatbotSize() {
+            if (chatbotWindow.style.width === '100%') {
+                chatbotWindow.style.width = '50%';
+                chatbotWindow.style.maxWidth = '700px';
+            } else {
+                chatbotWindow.style.width = '100%';
+                chatbotWindow.style.maxWidth = 'none';
+            }
+        }
+
+        // Evento para detectar el Enter en el textarea
+        chatbotInput.addEventListener('keydown', (event) => {
+            if (event.key === 'Enter' && !event.shiftKey && chatbotInput.value.trim() !== '') {
+                event.preventDefault();
+                const userMessage = chatbotInput.value.trim();
+                addMessageToChat('User', userMessage);
+                chatbotInput.value = '';
+
+                // Muestra el indicador de "Chatbot is typing..."
+                const typingIndicator = document.createElement('div');
+                typingIndicator.classList.add('typing-indicator');
+                typingIndicator.textContent = 'Chatbot is typing...';
+                chatbotContent.appendChild(typingIndicator);
+                chatbotContent.scrollTop = chatbotContent.scrollHeight;
+
+                // Realiza la solicitud al backend
+                fetch('http://localhost:3000/api/consulta', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ pregunta: userMessage })
+                })
+                .then(response => response.json())
+                .then(data => {
+                    console.log('Respuesta del backend:', data.respuestaFinal);
+                    // Elimina el indicador de escritura de forma segura
+                    if (typingIndicator.parentElement) {
+                        chatbotContent.removeChild(typingIndicator);
+                    }
+
+                    // Verifica que la respuesta exista antes de convertirla
+                    if (data.respuestaFinal) {
+                        let htmlContent;
+                        try {
+                            htmlContent = marked.parse(data.respuestaFinal);
+                        } catch (error) {
+                            console.error('Error al convertir Markdown:', error);
+                            htmlContent = 'Error al convertir Markdown.';
+                        }
+                        addMessageToChat('Chatbot', htmlContent);
+                    } else {
+                        addMessageToChat('Chatbot', 'No se encontró una respuesta válida.');
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    if (typingIndicator.parentElement) {
+                        chatbotContent.removeChild(typingIndicator);
+                    }
+                    addMessageToChat('Chatbot', 'Hubo un problema al procesar tu solicitud.');
+                });
+            }
+        });
+
+        // Función para agregar un mensaje al área de contenido del chat
+        function addMessageToChat(sender, message) {
+            const messageElement = document.createElement('div');
+            if (sender === 'User') {
+                messageElement.classList.add('user-message');
+                messageElement.textContent = message;
+            } else {
+                messageElement.classList.add('chatbot-message');
+                messageElement.innerHTML = message; // El mensaje ya está convertido de Markdown a HTML
+            }
+            chatbotContent.appendChild(messageElement);
+            const clearfixDiv = document.createElement('div');
+            clearfixDiv.classList.add('clearfix');
+            chatbotContent.appendChild(clearfixDiv);
+            chatbotContent.scrollTop = chatbotContent.scrollHeight;
+        }
+    </script>
+</body>
+</html>

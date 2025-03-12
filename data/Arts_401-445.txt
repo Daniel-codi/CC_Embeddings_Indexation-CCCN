@@ -1,0 +1,388 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO SEGUNDO - RELACIONES DE FAMILIA - TITULO 1
+TITULO 1: Matrimonio
+Articulos: 401 al 445
+
+-----------------------------------------
+LIBRO SEGUNDO
+
+RELACIONES DE FAMILIA
+
+TITULO I
+
+Matrimonio
+
+CAPITULO 1
+
+Principios de libertad y de igualdad
+
+ARTICULO 401.- Esponsales. Este Código no reconoce esponsales de futuro. No hay acción para exigir el cumplimiento de la promesa de matrimonio ni para reclamar los daños y perjuicios causados por la ruptura, sin perjuicio de la aplicación de las reglas del enriquecimiento sin causa, o de la restitución de las donaciones, si así correspondiera.
+
+ARTICULO 402.- Interpretación y aplicación de las normas. Ninguna norma puede ser interpretada ni aplicada en el sentido de limitar, restringir, excluir o suprimir la igualdad de derechos y obligaciones de los integrantes del matrimonio, y los efectos que éste produce, sea constituido por dos personas de distinto o igual sexo.
+
+CAPITULO 2
+
+Requisitos del matrimonio
+
+ARTICULO 403.- Impedimentos matrimoniales. Son impedimentos dirimentes para contraer matrimonio:
+
+a) el parentesco en línea recta en todos los grados, cualquiera que sea el origen del vínculo;
+
+b) el parentesco entre hermanos bilaterales y unilaterales, cualquiera que sea el origen del vínculo;
+
+c) la afinidad en línea recta en todos los grados;
+
+d) el matrimonio anterior, mientras subsista;
+
+e) haber sido condenado como autor, cómplice o instigador del homicidio doloso de uno de los cónyuges;
+
+f) tener menos de dieciocho años;
+
+g) la falta permanente o transitoria de salud mental que le impide tener discernimiento para el acto matrimonial.
+
+ARTICULO 404.- Falta de edad nupcial. Dispensa judicial. En el supuesto del inciso f) del artículo 403, el menor de edad que no haya cumplido la edad de 16 años puede contraer matrimonio previa dispensa judicial. El menor que haya cumplido la edad de 16 años puede contraer matrimonio con autorización de sus representantes legales. A falta de ésta, puede hacerlo previa dispensa judicial.
+
+El juez debe mantener una entrevista personal con los futuros contrayentes y con sus representantes legales.
+
+La decisión judicial debe tener en cuenta la edad y grado de madurez alcanzados por la persona, referidos especialmente a la comprensión de las consecuencias jurídicas del acto matrimonial; también debe evaluar la opinión de los representantes, si la hubiesen expresado.
+
+La dispensa para el matrimonio entre el tutor o sus descendientes con la persona bajo su tutela sólo puede ser otorgada si, además de los recaudos previstos en el párrafo anterior, se han aprobado las cuentas de la administración. Si de igual modo se celebra el matrimonio, el tutor pierde la asignación que le corresponda sobre las rentas del pupilo de conformidad con lo dispuesto en el artículo 129 inciso d).
+
+ARTICULO 405.- Falta de salud mental y dispensa judicial. En el supuesto del inciso g) del artículo 403, puede contraerse matrimonio previa dispensa judicial.
+
+La decisión judicial requiere dictamen previo del equipo interdisciplinario sobre la comprensión de las consecuencias jurídicas del acto matrimonial y de la aptitud para la vida de relación por parte de la persona afectada.
+
+El juez debe mantener una entrevista personal con los futuros contrayentes; también puede hacerlo con su o sus apoyos, representantes legales y cuidadores, si lo considera pertinente.
+
+ARTICULO 406.- Requisitos de existencia del matrimonio. Para la existencia del matrimonio es indispensable el consentimiento de ambos contrayentes expresado personal y conjuntamente ante la autoridad competente para celebrarlo, excepto lo previsto en este Código para el matrimonio a distancia.
+
+El acto que carece de este requisito no produce efectos civiles.
+
+ARTICULO 407.- Incompetencia de la autoridad que celebra el acto. La existencia del matrimonio no resulta afectada por la incompetencia o falta del nombramiento legítimo de la autoridad para celebrarlo, siempre que al menos uno de los cónyuges hubiera procedido de buena fe, y aquellos ejercieran sus funciones públicamente.
+
+ARTICULO 408.- Consentimiento puro y simple. El consentimiento matrimonial no puede someterse a modalidad alguna. Cualquier plazo, condición o cargo se tiene por no expresado, sin que ello afecte la validez del matrimonio.
+
+ARTICULO 409.- Vicios del consentimiento. Son vicios del consentimiento:
+
+a) la violencia, el dolo y el error acerca de la persona del otro contrayente;
+
+b) el error acerca de las cualidades personales del otro contrayente, si se prueba que quien lo sufrió no habría consentido el matrimonio si hubiese conocido ese estado de cosas y apreciado razonablemente la unión que contraía.
+
+El juez debe valorar la esencialidad del error considerando las circunstancias personales de quien lo alega.
+
+CAPITULO 3
+
+Oposición a la celebración del matrimonio
+
+ARTICULO 410.- Oposición a la celebración del matrimonio. Sólo pueden alegarse como motivos de oposición los impedimentos establecidos por ley.
+
+La oposición que no se funde en la existencia de alguno de esos impedimentos debe ser rechazada sin más trámite.
+
+ARTICULO 411.- Legitimados para la oposición. El derecho a deducir oposición a la celebración del matrimonio por razón de impedimentos compete:
+
+a) al cónyuge de la persona que quiere contraer otro matrimonio;
+
+b) a los ascendientes, descendientes y hermanos de alguno de los futuros esposos, cualquiera sea el origen del vínculo;
+
+c) al Ministerio Público, que debe deducir oposición cuando tenga conocimiento de esos impedimentos, especialmente, por la denuncia de cualquier persona realizada de conformidad con lo dispuesto en el artículo siguiente.
+
+ARTICULO 412.- Denuncia de impedimentos. Cualquier persona puede denunciar la existencia de alguno de los impedimentos establecidos en el artículo 403 desde el inicio de las diligencias previas y hasta la celebración del matrimonio por ante el Ministerio Público, para que deduzca la correspondiente oposición, si lo considera procedente, con las formalidades y el procedimiento previstos en los artículos 413 y 414.
+
+ARTICULO 413.- Forma y requisitos de la oposición. La oposición se presenta al oficial público del Registro que ha de celebrar el matrimonio verbalmente o por escrito con expresión de:
+
+a) nombre y apellido, edad, estado de familia, profesión y domicilio del oponente;
+
+b) vínculo que une al oponente con alguno de los futuros contrayentes;
+
+c) impedimento en que se funda la oposición;
+
+d) documentación que prueba la existencia del impedimento y sus referencias, si la tiene; si no la tiene, el lugar donde está, y cualquier otra información útil.
+
+Cuando la oposición se deduce en forma verbal, el oficial público debe levantar acta circunstanciada, que firma con el oponente o con quien firme a su ruego, si aquél no sabe o no puede firmar. Cuando se deduce por escrito, se debe transcribir en el libro de actas con las mismas formalidades.
+
+ARTICULO 414.- Procedimiento de la oposición. Deducida la oposición el oficial público la hace conocer a los contrayentes. Si alguno de ellos o ambos admite la existencia del impedimento legal, el oficial público lo hace constar en acta y no celebra el matrimonio. Si los contrayentes no lo reconocen, deben expresarlo ante el oficial público dentro de los tres días siguientes al de la notificación; éste levanta un acta, remite al juez competente copia autorizada de todo lo actuado con los documentos presentados y suspende la celebración del matrimonio.
+
+El juez competente debe sustanciar y decidir la oposición por el procedimiento más breve que prevea la ley local. Recibida la oposición, da vista por tres días al Ministerio Público. Resuelta la cuestión, el juez remite copia de la sentencia al oficial público.
+
+ARTICULO 415.- Cumplimiento de la sentencia. Recibido el testimonio de la sentencia firme que desestima la oposición, el oficial público procede a celebrar el matrimonio.
+
+Si la sentencia declara la existencia del impedimento, el matrimonio no puede celebrarse.
+
+En ambos casos, el oficial público debe anotar la parte dispositiva de la sentencia al margen del acta respectiva.
+
+CAPITULO 4
+
+Celebración del matrimonio
+
+SECCION 1ª
+
+Modalidad ordinaria de celebración
+
+ARTICULO 416.- Solicitud inicial. Quienes pretenden contraer matrimonio deben presentar ante el oficial público encargado del Registro del Estado Civil y Capacidad de las Personas correspondiente al domicilio de cualquiera de ellos, una solicitud que debe contener:
+
+a) nombres y apellidos, y número de documento de identidad, si lo tienen;
+
+b) edad;
+
+c) nacionalidad, domicilio y el lugar de su nacimiento;
+
+d) profesión;
+
+e) nombres y apellidos de los padres, nacionalidad, números de documentos de identidad si los conocen, profesión y domicilio;
+
+f) declaración sobre si han contraído matrimonio con anterioridad. En caso afirmativo, el nombre y apellido del anterior cónyuge, lugar de celebración del matrimonio y causa de su disolución, acompañando certificado de defunción o copia debidamente legalizada de la sentencia ejecutoriada que hubiera anulado o disuelto el matrimonio anterior, o declarado la muerte presunta del cónyuge anterior, según el caso.
+
+Si los contrayentes o alguno de ellos no sabe escribir, el oficial público debe levantar acta que contenga las mismas enunciaciones.
+
+ARTICULO 417.- Suspensión de la celebración. Si de las diligencias previas no resulta probada la habilidad de los contrayentes, o se deduce oposición, el oficial público debe suspender la celebración del matrimonio hasta que se pruebe la habilidad o se rechace la oposición, haciéndolo constar en acta, de la que debe dar copia certificada a los interesados, si la piden.
+
+ARTICULO 418.- Celebración del matrimonio. El matrimonio debe celebrarse públicamente, con la comparecencia de los futuros cónyuges, por ante el oficial público encargado del Registro del Estado Civil y Capacidad de las Personas que corresponda al domicilio de cualquiera de ellos.
+
+Si se celebra en la oficina que corresponde a ese oficial público, se requiere la presencia de dos testigos y las demás formalidades previstas en la ley. El número de testigos se eleva a cuatro si el matrimonio se celebra fuera de esa oficina.
+
+En el acto de la celebración del matrimonio el oficial público da lectura al artículo 431, recibe de cada uno de los contrayentes la declaración de que quieren respectivamente constituirse en cónyuges, y pronuncia que quedan unidos en matrimonio en nombre de la ley.
+
+La persona que padece limitaciones en su aptitud para comunicarse en forma oral debe expresar su voluntad por escrito o por cualquier otra manera inequívoca.
+
+ARTICULO 419.- Idioma. Si uno o ambos contrayentes ignoran el idioma nacional, deben ser asistidos por un traductor público matriculado y, si no lo hay, por un intérprete de reconocida idoneidad, dejándose debida constancia en la inscripción.
+
+ARTICULO 420.- Acta de matrimonio y copia. La celebración del matrimonio se consigna en un acta que debe contener:
+
+a) fecha del acto;
+
+b) nombre y apellido, edad, número de documento de identidad si lo tienen, estado civil, nacionalidad, profesión, domicilio y lugar de nacimiento de los comparecientes;
+
+c) nombre y apellido, número de documento de identidad, nacionalidad, profesión, y domicilio de sus respectivos padres, si son conocidos;
+
+d) lugar de celebración;
+
+e) dispensa del juez cuando corresponda;
+
+f) mención de si hubo oposición y de su rechazo;
+
+g) declaración de los contrayentes de que se toman por esposos, y del oficial público de que quedan unidos en matrimonio en nombre de la ley;
+
+h) nombre y apellido, edad, número de documento de identidad si lo tienen, estado de familia, profesión y domicilio de los testigos del acto;
+
+i) declaración de los contrayentes de si se ha celebrado o no convención matrimonial y, en caso afirmativo, su fecha y el registro notarial en el que se otorgó;
+
+j) declaración de los contrayentes, si se ha optado por el régimen de separación de bienes;
+
+k) documentación en la cual consta el consentimiento del contrayente ausente, si el matrimonio es celebrado a distancia.
+
+El acta debe ser redactada y firmada inmediatamente por todos los que intervienen en el acto, o por otros a su ruego, si no pueden o no saben hacerlo.
+
+El oficial público debe entregar a los cónyuges, de modo gratuito, copia del acta de matrimonio y de la libreta de familia expedida por el Registro de Estado Civil y Capacidad de las Personas.
+
+SECCION 2ª
+
+Modalidad extraordinaria de celebración
+
+ARTICULO 421.- Matrimonio en artículo de muerte. El oficial público puede celebrar matrimonio con prescindencia de todas o de alguna de las formalidades previstas en la Sección 1ª, cuando se justifica que alguno de los contrayentes se encuentra en peligro de muerte, con el certificado de un médico y, donde no lo hay, con la declaración de dos personas.
+
+En caso de no poder hallarse al oficial público encargado del Registro del Estado Civil y Capacidad de las Personas, el matrimonio en artículo de muerte puede celebrarse ante cualquier juez o funcionario judicial, quien debe levantar acta de la celebración, haciendo constar las circunstancias mencionadas en el artículo 420 con excepción del inciso f) y remitirla al oficial público para que la protocolice.
+
+ARTICULO 422.- Matrimonio a distancia. El matrimonio a distancia es aquel en el cual el contrayente ausente expresa su consentimiento personalmente, en el lugar en que se encuentra, ante la autoridad competente para celebrar matrimonios, según lo previsto en este Código en las normas de derecho internacional privado.
+
+CAPITULO 5
+
+Prueba del matrimonio
+
+ARTICULO 423.- Regla general. Excepciones. Posesión de estado. El matrimonio se prueba con el acta de su celebración, su testimonio, copia o certificado, o con la libreta de familia expedidos por el Registro de Estado Civil y Capacidad de las Personas.
+
+Cuando existe imposibilidad de presentarlos, la celebración del matrimonio puede probarse por otros medios, justificando esta imposibilidad.
+
+La posesión de estado, por sí sola, no es prueba suficiente para establecer el estado de casados o para reclamar los efectos civiles del matrimonio.
+
+Si existe acta de matrimonio y posesión de estado, la inobservancia de las formalidades prescriptas en el acto de celebración no puede ser alegada contra la existencia del matrimonio.
+
+CAPITULO 6
+
+Nulidad del matrimonio
+
+ARTICULO 424.- Nulidad absoluta. Legitimados. Es de nulidad absoluta el matrimonio celebrado con alguno de los impedimentos establecidos en los incisos a), b), c), d) y e) del artículo 403.
+
+La nulidad puede ser demandada por cualquiera de los cónyuges y por los que podían oponerse a la celebración del matrimonio.
+
+ARTICULO 425.- Nulidad relativa. Legitimados. Es de nulidad relativa:
+
+a) el matrimonio celebrado con el impedimento establecido en el inciso f) del artículo 403; la nulidad puede ser demandada por el cónyuge que padece el impedimento y por los que en su representación podrían haberse opuesto a la celebración del matrimonio. En este último caso, el juez debe oír al adolescente, y teniendo en cuenta su edad y grado de madurez hace lugar o no al pedido de nulidad.
+
+Si se rechaza, el matrimonio tiene los mismos efectos que si se hubiera celebrado con la correspondiente dispensa. La petición de nulidad es inadmisible después de que el cónyuge o los cónyuges hubiesen alcanzado la edad legal.
+
+b) el matrimonio celebrado con el impedimento establecido en el inciso g) del artículo 403. La nulidad puede ser demandada por cualquiera de los cónyuges si desconocían el impedimento.
+
+La nulidad no puede ser solicitada si el cónyuge que padece el impedimento ha continuado la cohabitación después de haber recuperado la salud; y en el caso del cónyuge sano, luego de haber conocido el impedimento.
+
+El plazo para interponer la demanda es de un año, que se computa, para el que sufre el impedimento, desde que recuperó la salud mental, y para el cónyuge sano desde que conoció el impedimento.
+
+La nulidad también puede ser demandada por los parientes de la persona que padece el impedimento y que podrían haberse opuesto a la celebración del matrimonio. El plazo para interponer la demanda es de tres meses desde la celebración del matrimonio. En este caso, el juez debe oír a los cónyuges, y evaluar la situación del afectado a los fines de verificar si comprende el acto que ha celebrado y cuál es su deseo al respecto.
+
+c) el matrimonio celebrado con alguno de los vicios del consentimiento a que se refiere el artículo 409. La nulidad sólo puede ser demandada por el cónyuge que ha sufrido el vicio de error, dolo o violencia. La nulidad no puede ser solicitada si se ha continuado la cohabitación por más de treinta días después de haber conocido el error o de haber cesado la violencia. El plazo para interponer la demanda es de un año desde que cesa la cohabitación.
+
+ARTICULO 426.- Nulidad matrimonial y terceros. La nulidad del matrimonio y la buena o mala fe de los cónyuges no perjudica los derechos adquiridos por terceros que de buena fe hayan contratado con los cónyuges.
+
+ARTICULO 427.- Buena fe en la celebración del matrimonio. La buena fe consiste en la ignorancia o error de hecho excusables y contemporáneos a la celebración del matrimonio sobre el impedimento o la circunstancia que causa la nulidad, o en haberlo contraído bajo la violencia del otro contrayente o de un tercero.
+
+ARTICULO 428.- Efectos de la buena fe de ambos cónyuges. Si el matrimonio anulado ha sido contraído de buena fe por ambos cónyuges produce todos los efectos del matrimonio válido hasta el día en que se declare su nulidad.
+
+La sentencia firme disuelve el régimen matrimonial convencional o legal supletorio.
+
+Si la nulidad produce un desequilibrio económico de uno ellos en relación con la posición del otro, se aplican los artículos 441 y 442; el plazo se computa a partir de la sentencia que declara la nulidad.
+
+ARTICULO 429.- Efectos de la buena fe de uno de los cónyuges. Si uno solo de los cónyuges es de buena fe, el matrimonio produce todos los efectos del matrimonio válido, pero sólo respecto al cónyuge de buena fe y hasta el día de la sentencia que declare la nulidad.
+
+La nulidad otorga al cónyuge de buena fe derecho a:
+
+a) solicitar compensaciones económicas, en la extensión mencionada en los artículos 441 y 442; el plazo se computa a partir de la sentencia que declara la nulidad;
+
+b) revocar las donaciones realizadas al cónyuge de mala fe;
+
+c) demandar por indemnización de daños y perjuicios al cónyuge de mala fe y a los terceros que hayan provocado el error, incurrido en dolo, o ejercido la violencia.
+
+Si los cónyuges hubieran estado sometidos al régimen de comunidad, el de buena fe puede optar:
+
+i) por considerar que el matrimonio ha estado regido por el régimen de separación de bienes;
+
+ii) por liquidar los bienes mediante la aplicación de las normas del régimen de comunidad;
+
+iii) por exigir la demostración de los aportes de cada cónyuge a efectos de dividir los bienes en proporción a ellos como si se tratase de una sociedad no constituida regularmente.
+
+ARTICULO 430.- Efectos de la mala fe de ambos cónyuges. El matrimonio anulado contraído de mala fe por ambos cónyuges no produce efecto alguno.
+
+Las convenciones matrimoniales quedan sin efecto, sin perjuicio de los derechos de terceros.
+
+Los bienes adquiridos hasta la nulidad se distribuyen, si se acreditan los aportes, como si fuese una sociedad no constituida regularmente.
+
+CAPITULO 7
+
+Derechos y deberes de los cónyuges
+
+ARTICULO 431.- Asistencia. Los esposos se comprometen a desarrollar un proyecto de vida en común basado en la cooperación, la convivencia y el deber moral de fidelidad. Deben prestarse asistencia mutua.
+
+ARTICULO 432.- Alimentos. Los cónyuges se deben alimentos entre sí durante la vida en común y la separación de hecho. Con posterioridad al divorcio, la prestación alimentaria sólo se debe en los supuestos previstos en este Código, o por convención de las partes.
+
+Esta obligación se rige por las reglas relativas a los alimentos entre parientes en cuanto sean compatibles.
+
+ARTICULO 433.- Pautas para la fijación de los alimentos. Durante la vida en común y la separación de hecho, para la cuantificación de los alimentos se deben tener en consideración, entre otras, las siguientes pautas:
+
+a) el trabajo dentro del hogar, la dedicación a la crianza y educación de los hijos y sus edades;
+
+b) la edad y el estado de salud de ambos cónyuges;
+
+c) la capacitación laboral y la posibilidad de acceder a un empleo de quien solicita alimentos;
+
+d) la colaboración de un cónyuge en las actividades mercantiles, industriales o profesionales del otro cónyuge;
+
+e) la atribución judicial o fáctica de la vivienda familiar;
+
+f) el carácter ganancial, propio o de un tercero del inmueble sede de esa vivienda. En caso de ser arrendada, si el alquiler es abonado por uno de los cónyuges u otra persona;
+
+g) si los cónyuges conviven, el tiempo de la unión matrimonial;
+
+h) si los cónyuges están separados de hecho, el tiempo de la unión matrimonial y de la separación;
+
+i) la situación patrimonial de ambos cónyuges durante la convivencia y durante la separación de hecho.
+
+El derecho alimentario cesa si desaparece la causa que lo motivó, el cónyuge alimentado inicia una unión convivencial, o incurre en alguna de las causales de indignidad.
+
+ARTICULO 434.- Alimentos posteriores al divorcio. Las prestaciones alimentarias pueden ser fijadas aun después del divorcio:
+
+a) a favor de quien padece una enfermedad grave preexistente al divorcio que le impide autosustentarse. Si el alimentante fallece, la obligación se transmite a sus herederos;
+
+b) a favor de quien no tiene recursos propios suficientes ni posibilidad razonable de procurárselos. Se tienen en cuenta los incisos b), c) y e) del artículo 433. La obligación no puede tener una duración superior al número de años que duró el matrimonio y no procede a favor del que recibe la compensación económica del artículo 441.
+
+En los dos supuestos previstos en este artículo, la obligación cesa si: desaparece la causa que la motivó, o si la persona beneficiada contrae matrimonio o vive en unión convivencial, o cuando el alimentado incurre en alguna de las causales de indignidad.
+
+Si el convenio regulador del divorcio se refiere a los alimentos, rigen las pautas convenidas.
+
+CAPITULO 8
+
+Disolución del matrimonio
+
+SECCION 1ª
+
+Causales
+
+ARTICULO 435.- Causas de disolución del matrimonio. El matrimonio se disuelve por:
+
+a) muerte de uno de los cónyuges;
+
+b) sentencia firme de ausencia con presunción de fallecimiento;
+
+c) divorcio declarado judicialmente.
+
+SECCION 2ª
+
+Proceso de divorcio
+
+ARTICULO 436.- Nulidad de la renuncia. Es nula la renuncia de cualquiera de los cónyuges a la facultad de pedir el divorcio; el pacto o cláusula que restrinja la facultad de solicitarlo se tiene por no escrito.
+
+ARTICULO 437.- Divorcio. Legitimación. El divorcio se decreta judicialmente a petición de ambos o de uno solo de los cónyuges.
+
+ARTICULO 438.- Requisitos y procedimiento del divorcio. Toda petición de divorcio debe ser acompañada de una propuesta que regule los efectos derivados de éste; la omisión de la propuesta impide dar trámite a la petición.
+
+Si el divorcio es peticionado por uno solo de los cónyuges, el otro puede ofrecer una propuesta reguladora distinta.
+
+Al momento de formular las propuestas, las partes deben acompañar los elementos en que se fundan; el juez puede ordenar, de oficio o a petición de las partes, que se incorporen otros que se estiman pertinentes. Las propuestas deben ser evaluadas por el juez, debiendo convocar a los cónyuges a una audiencia.
+
+En ningún caso el desacuerdo en el convenio suspende el dictado de la sentencia de divorcio.
+
+Si existe desacuerdo sobre los efectos del divorcio, o si el convenio regulador perjudica de modo manifiesto los intereses de los integrantes del grupo familiar, las cuestiones pendientes deben ser resueltas por el juez de conformidad con el procedimiento previsto en la ley local.
+
+SECCION 3ª
+
+Efectos del divorcio
+
+ARTICULO 439.- Convenio regulador. Contenido. El convenio regulador debe contener las cuestiones relativas a la atribución de la vivienda, la distribución de los bienes, y las eventuales compensaciones económicas entre los cónyuges; al ejercicio de la responsabilidad parental, en especial, la prestación alimentaria; todo siempre que se den los presupuestos fácticos contemplados en esta Sección, en consonancia con lo establecido en este Título y en el Título VII de este Libro. Lo dispuesto en el párrafo anterior no impide que se propongan otras cuestiones de interés de los cónyuges.
+
+ARTICULO 440.- Eficacia y modificación del convenio regulador. El juez puede exigir que el obligado otorgue garantías reales o personales como requisito para la aprobación del convenio.
+
+El convenio homologado o la decisión judicial pueden ser revisados si la situación se ha modificado sustancialmente.
+
+ARTICULO 441.- Compensación económica. El cónyuge a quien el divorcio produce un desequilibrio manifiesto que signifique un empeoramiento de su situación y que tiene por causa adecuada el vínculo matrimonial y su ruptura, tiene derecho a una compensación. Esta puede consistir en una prestación única, en una renta por tiempo determinado o, excepcionalmente, por plazo indeterminado. Puede pagarse con dinero, con el usufructo de determinados bienes o de cualquier otro modo que acuerden las partes o decida el juez.
+
+ARTICULO 442.- Fijación judicial de la compensación económica. Caducidad. A falta de acuerdo de los cónyuges en el convenio regulador, el juez debe determinar la procedencia y el monto de la compensación económica sobre la base de diversas circunstancias, entre otras:
+
+a) el estado patrimonial de cada uno de los cónyuges al inicio y a la finalización de la vida matrimonial;
+
+b) la dedicación que cada cónyuge brindó a la familia y a la crianza y educación de los hijos durante la convivencia y la que debe prestar con posterioridad al divorcio;
+
+c) la edad y el estado de salud de los cónyuges y de los hijos;
+
+d) la capacitación laboral y la posibilidad de acceder a un empleo del. cónyuge que solicita la compensación económica;
+
+e) la colaboración prestada a las actividades mercantiles, industriales o profesionales del otro cónyuge;
+
+f) la atribución de la vivienda familiar, y si recae sobre un bien ganancial, un bien propio, o un inmueble arrendado. En este último caso, quién abona el canon locativo.
+
+La acción para reclamar la compensación económica caduca a los seis meses de haberse dictado la sentencia de divorcio.
+
+ARTICULO 443.- Atribución del uso de la vivienda. Pautas. Uno de los cónyuges puede pedir la atribución de la vivienda familiar, sea el inmueble propio de cualquiera de los cónyuges o ganancial. El juez determina la procedencia, el plazo de duración y efectos del derecho sobre la base de las siguientes pautas, entre otras:
+
+a) la persona a quien se atribuye el cuidado de los hijos;
+
+b) la persona que está en situación económica más desventajosa para proveerse de una vivienda por sus propios medios;
+
+c) el estado de salud y edad de los cónyuges;
+
+d) los intereses de otras personas que integran el grupo familiar.
+
+ARTICULO 444.- Efectos de la atribución del uso de la vivienda familiar. A petición de parte interesada, el juez puede establecer: una renta compensatoria por el uso del inmueble a favor del cónyuge a quien no se atribuye la vivienda; que el inmueble no sea enajenado sin el acuerdo expreso de ambos; que el inmueble ganancial o propio en condominio de los cónyuges no sea partido ni liquidado. La decisión produce efectos frente a terceros a partir de su inscripción registral.
+
+Si se trata de un inmueble alquilado, el cónyuge no locatario tiene derecho a continuar en la locación hasta el vencimiento del contrato, manteniéndose el obligado al pago y las garantías que primitivamente se constituyeron en el contrato.
+
+ARTICULO 445.- Cese. El derecho de atribución del uso de la vivienda familiar cesa:
+
+a) por cumplimiento del plazo fijado por el juez;
+
+b) por cambio de las circunstancias que se tuvieron en cuenta para su fijación;
+
+c) por las mismas causas de indignidad previstas en materia sucesoria.

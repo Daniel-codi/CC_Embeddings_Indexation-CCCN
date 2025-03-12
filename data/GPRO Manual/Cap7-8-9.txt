@@ -1,0 +1,98 @@
+7. Fin de Temporada
+Después de la última carrera de la temporada se dará el bono por el top 10 a todos los 10 primeros managers de cada grupo (mirar punto 5.4) y luego tendremos una pequeña pausa, comúnmente de una semana, pero que a veces puede ser más larga o más corta. Durante este tiempo, todas las páginas de configuración de carrera estarán cerradas y no podrán tomarse decisiones, pero podrás ver las posiciones, nivel del coche e información financiera. En algún momento entre tanto se correrá el programa de fin de temporada, que hará las siguientes tareas.
+
+7.1 Promoción/Descenso
+Los 3 primeros managers de cada grupo (excluyendo los de Elite) ascenderán a un grupo un nivel superior al de su grupo actual, el cual será designado por azar. Los últimos 15 managers de cada grupo (excluyendo los de Rookie) descenderán a un grupo un nivel inferior al actual. Si un manager finaliza entre los 3 primeros pero con balance negativo, no podrá ascender, y en su lugar lo hará el siguiente manager en la clasificación que tenga balance positivo (esto está limitado a los primeros ocho en Rookie). Cualquier manager que termine con balance negativo descenderá a la división inferior. Como resultado, el manager posicionado más alto en la zona de descenso permanecerá en el grupo. En los niveles más bajos (Rookie, Amateur y Pro) pueden haber lugares extra de promoción si en los niveles superiores hay retiros, reinicios a Rookie o cuentas borradas por inactivdad. Asegúrate de que no estás en la zona de promoción reviando la página de "Todas las promociones" durante la temporada.
+
+Tenga en cuenta que cuando la estructura del juego está en expansión, una cantidad diferente de managers serán ascendidos en las distintas categorías del juego.Para evitar cualquier confusión, asegúrate de chequear el área de zonas de promoción/relegación en tu grupo.
+
+7.2 Otras cosas importantes
+Cuando se realiza el proceso de fin de temporada, el uso de todas las partes del auto es reseteado a cero, y todas las partes permanecerán en el mismo nivel (con excepción del grupo Rookie). Cualquier manager con un balance negativo automáticamente venderá sus partes y instalaciones a mitad de precio, comenznado desde el más alto nivel hasta llegar a un balance positivo. En caso que el balance del manager sea todavía negativo luego de vender todo, el manager recibirá una generosa donación por parte de GPRO FIA que cubrirá toda su deuda y podrá comenzar la temporada con $0. En el próximo paso los managers deberán pagar impuestos como se indica en el punto 7.3.
+
+Para managers en grupos Rookie, el balance monetario, las partes del auto, peronsal y instalaciones, negociaciones con los patrocinadores en proceso y ya contratados, puntos característicos del auto, etc, serán reseteado al principio de cada temporada. Lo único que no es reseteado en los grupos Rookie es el piloto, siempre y cuando éste no tenga un promedio mayor a 85.
+
+El dinero por puntos obtenidos y por puntos de equipo en la temporada anterior serán pagados a todos los managers.
+
+Las cuentas para cada manager en Rookie será reiniciadas.
+
+Todos los managers que clasificaron en las 17 carreras de la anterior temporada, recibirán un bonus de $5.000,000 (incluyendo managers en Rookie).
+
+Cada manager que haya anotado más de 50 puntos durante la temporada y no ascienda desde Rookie (por terminar la temporada con saldo negativo), comenzará la siguiente temporada con una penalidad financiera de $200.000 por cada punto anotado que exceda los 50 puntos en la temporada anterior. El monto será deducido del dinero inicial para la nueva temporada (luego del reinicio de temporada).
+
+7.3 Impuestos
+7.3.1 Impuestos por descenso
+Los managers que descienden a un grupo más bajo deberán pagar impuestos de esta forma:
+
+Por un descenso de Elite a Master, el 70% del dinero sobre $50.000.000 será pagado como impuestos.
+
+Por un descenso de Master a Pro, el 70% del dinero sobre $40.000.000 será pagado como impuestos.
+
+Por un descenso de Pro a Amateur, el 70% del dinero sobre $30.000.000 será pagado como impuestos.
+
+Ejemplo: si desciendens con $100.000.000 de Elite a Master, pagarás el 70% de $50.000.000 que son $35.000.000 en impuestos por descenso.
+
+El impuesto del 70% por descenso será aplicado antes del impuesto casual del 25% (explicado más abajo) que aplicará a todos los managers con más de $50.000.000 después del reinicio de la temporada.
+
+7.3.2 Impuestos casuales
+Los managers que tengan más de $50.000,000 serán cargados con un impuesto del 25%. Por ejemplo un manager con $65.000.000 será cargado de la siguiente manera:
+
+$65.000,000 - $50.000,000 = $15.000,000
+
+25% de $15.000,000 es $3.750,000. Entonces este manager pagará $3.750.000 en impuestos al terminar la temporada.
+
+8. Misceláneo
+8.1 Inactividad y retirándose del juego
+Los managers en Rookie que nunca hayan participado en una carrera de GPRO y estén inactivos durante tres carreras consecutivas serán removidos del juego inmediatamente, a la vez aquellos que no corran durante cinco carreras consecutivas podrán ser removidos del juego inmediatamente si existen otros managers esperando en la lista de espera por un lugar en el juego. Al final de cada temporada, aquellos managers en Amateur que no corrieron entre las últimas seis carreras de la temporada, managers en Pro que no corrieron en las últimas 12 carreras y managers en Master que no corrieron entre las últimas 15 carreras, serán removidos del juego antes de comenzar la siguiente temporada. En caso de que se requieran más managers para completar grupos, managers en Pro, Amateur y Rookie pueden ser promovidos.
+
+Es también posible solicitar retirarse al final de la temporada. Esto es posible solamente si envías una solicitud a los adminsitradores antes de que termine la carrera 15 de la temporada.
+
+8.2 Reiniciando tu cuenta
+Si se encuentra en Rookie y ha hecho menos de 17 carreras puede restablecer su cuenta mediante la opción "Reiniciar cuenta" en la opción "Configuración de la cuenta". En caso de haber hecho más de 17 carreras tendrá que esperar a la próxima temporada y será la única oportunidad de empezar en Rookie ya que todas las cuentas allí son reiniciadas. ¡Utilice el resto de la temporada para experimentar y aprender!
+
+Si usted está en Amateur, Pro, Master o Elite y quiere reiniciar su cuenta puede utilizar el "Reiniciar Cuenta" en "Configuración de cuenta" antes de fin de carrera 15 de la temporada en curso. Se le trasladará a uno de los grupos Rookie y su cuenta será reiniciada cuando la nueva temporada comience. También perderá su piloto actual (si tiene uno), sin importar su promedio.
+
+8.3 Permitiendo a otro manager que se ocupe de tu cuenta
+Es posible permitir a otro manager que se ocupe de tu cuenta (por ejemplo si te vas de vacaciones), sólo si configuras un período de vacaciones y un manager responsable con anticipación de acuerdo a las instrucciones en la página de vacaciones. Una vez que haces esto, no hay necesidad de revelar detalles de acceso al manager que se hará cargo de tu cuenta. El manager podrá conectarse a tu cuenta desde la página de vacaciones hasta que termine el período de vacaciones o sea cancelado por ti. Cualquier violación en los términos de la página de vacaciones puede terminar con la cancelación de las cuentas involucradas.
+
+8.4 Cuentas múltiples
+Solamente puede haber una cuenta por jugador, y un jugador por computadora. ¡Las cuentas múltiples no son permitidas! Si detectamos en cualquier momento que una persona maneja más de una cuenta, o que más de una cuenta es usada en la misma computadora (a excepción del punto 8.3) nos reservamos el derecho de restringir el acceso a una o ambas cuentas de competir, sin advertencia y con posibles sancionamientos incluyendo pero no limitando a dejar de correr en carreras, reseteo forzado a Rookie, penalización monetaria del juego, o en casos extremos, el cierre total de la cuenta.
+
+9. Comunidad
+La comunidad es una parte importante de GPRO, nosotros queremos tener una excitante y vibrante comunidad y aportamos tres formas de comunicación para que entres en contacto con tus rivales y amigos.
+
+9.1 Foros
+Cualquier usuario, que esté registrado y aprobado por los administradores, tiene derecho a escribir en los foros. La lengua oficial en los foros es el inglés; otras lenguas sólo podrán ser usadas en el Foreign Language Forum. Las Reglas del Foro son:
+
+• No utilizar lenguaje ofensivo
+• No insultar a otros managers
+• No publicar material de caracter político o religioso
+• Nada de discusiones acerca de distribuciones ilegales de software con derechos de autor o acerca del uso de tal software
+• No postear publicidades (a excecpción de que haya sido aprobado por el Equipo de GPRO)
+• No publicar links con referidos de ninguna clase
+• No hacer publicaciones que indirectamente nombren o linkeen a sitios de la lista negra
+• No revelar información detallada del juego (reglajes y demás)
+• No publicar mensajes privados en el foro sin el previo consentimiento del creador
+• No hacer publicaciones en nombre de otros managers - todos son libres de publicar a menos que actualmente se encuentren baneados de un tema o el foro completo, en cuyo caso no tienen privilegio de publicar aún a través de un tercero
+• No hacer publicaciones que claramente se desvíen del tema de discusión del hilo en el que se publicó
+• Postear nuevos temas/hilos en el foro adecuado
+• Mantener el Newbie Forum lo más apegado a hechos comprobados que sea posible, y siempre en tema
+• Foros individuales (como el Newbie Forum, Team Recruitment Forum, Suggestions Forum, entre otros) tienen sus propios lineamientos/reglas específicos, los cuales pueden ser encontrados anclados en la parte superior del foro correspondiente. Por favor familiarizarse con estos lineamientos antes de publicar en dichos foros
+• No realizar acusaciones de doble cuenta o discutir dobles cuentas ya sean estas comprobadas, percibidas, pasadas o presentes (si sospecha de una cuenta, reportarla a Mr shadow directamente)
+• No se permite llamar la atención de otros managers por su comportamiento en los foros; si cree que se ha incumplido con alguna regla, contacte a un moderador
+• No publicar spam o realizar publicaciones sin sentido alguno
+• Conserve la etiqueta en el foro, incluyendo, pero no limitándose a, evitar gritar (posteo de frases completas en mayúsculas) y evitar posteos consecutivos cuando aún se está a tiempo de editar la publicación
+• Siempre seguir las indicaciones de los miembros del Equipo de GPRO (GPRO Crew) respecto al uso de los foros y la casilla de correo
+• La decisión de los moderadores es definitiva
+
+9.2 Sala de chat
+La lengua oficial en la sala de Chat es el inglés. Ninguna otra lengua debe ser hablada en la sala pública del Chat. Está totalmente prohibido insultar/ofender a un miembro del personal de GPRO en la sala de Chat. Las reglas de la sala de Chat son las mismas que en los foros.
+
+9.3 Mensajes privados (Correo)
+
+Puedes enviar mensajes privados a todos los managers, moderadores y administradores por medio del uso interno del correo privado. Las reglas que debes obedecer cuando utilices el correo privado son las siguientes:
+
+• No ofensas ni lenguajes rudos
+• No insultar a otros managers
+• Nada de publicidad de cualquier tipo
+
+Si utilizas el correo inadecuadamente, el acceso al mismo será restringido.

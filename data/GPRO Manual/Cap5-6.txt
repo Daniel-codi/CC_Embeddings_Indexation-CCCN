@@ -1,0 +1,145 @@
+5. Finanzas
+Hay varios modos diferentes de ganar dinero en este juego, y ¡nosotros recomendamos intentar conseguir todo el dinero que sea posible!
+
+5.1 Patrocinadores
+Los patrocinadores te pagarán una cantidad determinada de dinero en cada carrera. Este se incrementará si tú negocias tratos con los patrocinadores, y el camino en el que negocies, y el tipo de patrocinador con el que negocies determinará cuanto dinero estarán dispuestos a pagarte, entonces si ellos hacen preguntas sobre tus planes, piensa cuidadosamente antes de contestar. Cada patrocinador está representado por los siguientes atributos:
+
+• Finanzas: Representa el poder financiero del esponsor.
+• Expectativas: Este atributo demuestra cuán bueno espera el patrocinador que sea el equipo con el que negocia.
+• Paciencia: Representa la paciencia del patrocinador. Mientras más alto sea el valor de paciencia, más chances de que se comprometa acerca de los detalles del contrato durante el proceso de negociación.
+• Reputación: Representa la reputación del patrocinador. Mientras más alta la reputación, menos chances que el esponsor te dé una sorpresa.
+• Imagen: Representa el valor promedio de la imagen de la compañía en el mercado de patrocinadores.
+• Negociación: Este atributo muestra el poder negociador y la calidad al negociar del patrocinador.
+
+Un patrocinador cancelando un contrato activo o retirándose de una negociación, son ambas situaciones relacionadas directamente con la forma en que negocias. Luego de cada carrera el patrocinador te pagará el dinero directamente a ti, ¡y dependiendo del resultado, ellos pueden darte una sorpresa!
+
+5.2 Costos de carrera
+Todas las carreras, pagas un salario a tu piloto, a tu director técnico y a tu equipo así como costes de mantenimiento por tus instalaciones, además de estos gastos, pagarás por actualizar tu auto. Los detalles de los pagos podrán ser vistos en la página del análisis de la carrera y en el historial de economía.
+
+5.3 Ingresos de carrera
+Después de cada carrera recibirás una recompensa en dinero por tu posición de partida y por tu posición de llegada en carrera dependiendo de la clase en la que compitas. El ingreso por tu posición de partida sigue el criterio de la tabla siguiente:
+
+Pos.	Elite	Master	Pro	Amateur	Rookie
+01.	$2.500.000	$2.000.000	$1.500.000	$1.000.000	$500.000
+02.	$2.250.000	$1.800.000	$1.350.000	$900.000	$450.000
+03.	$2.000.000	$1.600.000	$1.200.000	$800.000	$400.000
+04.	$1.850.000	$1.480.000	$1.110.000	$740.000	$370.000
+05.	$1.800.000	$1.440.000	$1.080.000	$720.000	$360.000
+• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
+36.	$250.000	$200.000	$150.000	$100.000	$50.000
+37.	$200.000	$160.000	$120.000	$80.000	$40.000
+38.	$150.000	$120.000	$90.000	$60.000	$30.000
+39.	$100.000	$80.000	$60.000	$40.000	$20.000
+40.	$50.000	$40.000	$30.000	$20.000	$10.000
+Los ingresos de la carrera serán calculados de acuerdo al 112% del tiempo de la carrera (explicado debajo) y la siguiente tabla:
+
+Pos.	Elite	Master	Pro	Amateur	Rookie
+01.	$22.000.000	$18.000.000	$15.000.000	$12.000.000	$8.000.000
+02.	$21.620.513	$17.671.795	$14.710.256	$11.748.718	$7.800.000
+03.	$21.341.026	$17.443.590	$14.520.513	$11.597.436	$7.700.000
+04.	$21.061.538	$17.215.385	$14.330.769	$11.446.154	$7.600.000
+05.	$20.782.051	$16.987.179	$14.141.026	$11.294.872	$7.500.000
+• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
+36.	$12.117.949	$9.912.821	$8.258.974	$6.605.128	$4.400.000
+37.	$11.838.462	$9.684.615	$8.069.231	$6.453.846	$4.300.000
+38.	$11.558.974	$9.456.410	$7.879.487	$6.302.564	$4.200.000
+39.	$11.279.487	$9.228.205	$7.689.744	$6.151.282	$4.100.000
+40.	$11.000.000	$9.000.000	$7.500.000	$6.000.000	$4.000.000
+regla del 112% de tiempo de carrera: Si no realizas el 112% del tiempo de la carrera (determinado por el resúmen de la carrera) solamente recibirás el 50% de los ingresos de acuerdo a la tabla superior.
+
+Ejemplo: si finalizas en la posición 40 en Elite y no has recorrido el 112% de tu tiempo en la carrera, recibirás solamente $5.500.000 por tu posición en carrera. Esta regla no aplica a grupos Rookie.
+
+También hay un bono extra de $1.000.000 por la vuelta más rápida en carrera.
+
+5.4 Posiciones finales
+Al final de la temporada (después de la última carrera), los 10 primeros managers en las clasificaciones serán recompensados con un bono adicional en metálico (dependiendo de la categoría en la que compitan) de acuerdo a la siguiente tabla:
+
+Pos.	Elite	Master	Pro	Amateur	Rookie
+01.	$30.000.000	$24.000.000	$18.000.000	$12.000.000	$6.000.000
+02.	$22.000.000	$17.600.000	$13.200.000	$8.800.000	$4.400.000
+03.	$18.000.000	$14.400.000	$10.800.000	$7.200.000	$3.600.000
+04.	$15.000.000	$12.000.000	$9.000.000	$6.000.000	$3.000.000
+05.	$12.000.000	$9.600.000	$7.200.000	$4.800.000	$2.400.000
+06.	$10.000.000	$8.000.000	$6.000.000	$4.000.000	$2.000.000
+07.	$8.000.000	$6.400.000	$4.800.000	$3.200.000	$1.600.000
+08.	$6.000.000	$4.800.000	$3.600.000	$2.400.000	$1.200.000
+09.	$4.000.000	$3.200.000	$2.400.000	$1.600.000	$800.000
+10.	$2.000.000	$1.600.000	$1.200.000	$800.000	$400.000
+5.5 Balance negativo
+Hay algunas desventajas por entrar en balance negativo. No estarás habilitado para:
+
+• Comprar nuevas partes para tu coche
+• Entrenar a tu Piloto
+• Renovar el contrato de tu Piloto
+• Hacer ningúna prueba
+• Entrenar a tu Personal
+• Mejorar tus instalaciones
+• Hacer ofertas a buenos pilotos dependiendo la categoría en la que compitas:
+• si estas en categoría de grupo Elite no podrás ofrecer contratos a pilotos con nivel más alto que 110
+• si estas en categoría de grupo Master no podrás ofrecer contratos a pilotos con nivel más alto que 100
+• si estas en categoría de grupo Pro no podrás ofrecer contratos a pilotos con nivel más alto que 90
+• si estas en categoría de grupo Amateur no podrás ofrecer contratos a pilotos con nivel más alto que 80
+• si estas en categoría de grupo Rookie no podrás ofrecer contratos a pilotos con nivel más alto que 70
+• hacer ofertas a directores técnicos
+
+Además, si tu balance es menor que $-15.000.000:
+
+• Tu director técnico (si tienes uno) abandonará tu equipo
+• La moral de tu equipo y empleados, descenderá a cero
+• No podrás hacer ofertas superiores al salario mínimo que solicita el piloto
+
+5.6 Competición de copa y bonos por copa
+La competición de copa es una competición aparte dentro de tu propio grupo, basada en las 17 carreras de la temporada y que consiste de 6 etapas, cada una de las cuales puede hacerte ganar un bonus económico. La competición de copa funciona de acuerdo al siguiente esquema:
+
+• Los primeros 32 managers en las posiciones generales luego de la carrera 2 participarán en la competición de copa (esto es la etapa 1). Los emparejamientos iniciales luego de la carrera 2 se realizarán de la siguiente forma: los primeros 8 en las posiciones generales luego de la carrera 2, serán considerados cabezas de series, como en cualquier sistema de eliminación directa, mientras que el resto van a ser asignados al azar.
+• Cada una de las siguientes etapas consistirán de 3 carreras: 16avos de final (carreras 3 a 5), octavos de final (carreras 6 a 8), cuartos de final (carreras 9 a 11), semifinal (carreras 12 a 14) y final (carreras 15 a 17). Para ganar cada etapa un manager tiene que vencer a su oponente en al menos 2 de las 3 carreras que incluye cada etapa, y entonces avanzará a la siguiente etapa.
+• Si dos rivales tienen una victoria cada uno y ambos no participan en una carrera, entonces el ganador será el que tenga mejor posición en tabla de posiciones de la temporada.
+• Si ambos rivales no participan en ninguna de las 3 carreras, ninguno de ellos pasará a la siguiente etapa. Como consecuencia, su potencial oponente en la siguiente etapa no tendrá rival.
+• Por cada etapa que se gane, ganarás un pequeño bonus económico. El monto de ese bonus dependerá de la categoría en la que corras:
+
+Elite: $1.000.000 por etapa
+Master: $900.000 por etapa
+Pro: $800.000 por etapa
+Amateur: $700.000 por etapa
+Rookie: $600.000 por etapa
+
+6. Equipos
+Un Equipo es un grupo de managers que han decidido competir juntos. Sus puntos son combinados dependiendo de su grupo, para dar una puntuación de equipo, la cual es usada para competir contra otros equipos. Tú puedes unirte a un equipo existente, crear uno propio o incluso hacerte cargo de uno existente pero inactivo.
+
+6.1 Creando un equipo
+Sólo usuarios en grupos Elite, Master, Pro y Amateur pueden crear un equipo. Crear un equipo tiene un costo de $5.000.000. Podrás elegir el nombre de tu equipo y serás el responsable de admitir managers en tu equipo. Los managers solicitarán entrar en tu equipo y vos deberás elegir admitirlos o rechazar su petición. Si rechazas su petición, ellos no podrán volver a solicitarlo hasta pasadas dos semanas. Si la aceptas, ellos serán parte del equipo; tienes un máximo de nueve compañeros por equipo. Debes tener un balance positivo para crear un equipo.
+
+Un equipo existirá, hasta que hay al menos un manager en el equipo. Cuando un lider de equipo hace una decisión sobre tu aplicación de unirte al equipo, serás notificado de esta decisión por mensaje privado. Nombres de equipo ofensivos, rudos, o inapropiados, serán eliminados, y el manager puede ser penalizado, si existen dudas, pregunte a un administrador antes de escribir el nombre. La decisión del administrador es final.
+
+6.2 Uniéndose a un equipo
+Unirse a un equipo te costará $3.000,000. Debes solicitar entrar en un equipo, donde el líder aprobará o rechazará tu petición. Si eres aceptado tomarás el siguiente puesto disponible. Sólo podrás solicitar el ingreso en tres equipos al mismo tiempo. No está permitido unirse a un equipo luego de la Carrera 17 si tu balance no permite dicho costo
+
+6.3 Abandonando un equipo
+
+Un miembro sólo puede abandonar un equipo si él renuncia al equipo. El líder del equipo puede expulsar a miembros del equipo cuando estos están inactivos por al menos cuatro carreras de las últimas 17. Si un miembro del equipo renuncia al equipo, no se le devolverá el dinero de su ingreso al equipo. Si un miembro renuncia, todos los miembros por debajo de él ascenderán una posición en el equipo. Si el Líder del equipo renuncia, el miembro del equipo en la segunda posición tomará el control del equipo, pero el nombre del equipo será el mismo. Cuando un miembro del equipo abandona el equipo a mitad de temporada, el equipo perderá los puntos ganados por dicho miembro durante la actual temporada.
+
+6.4 Ganancias del equipo
+Al final de la temporada (luego de que terminan las promociones/descensos) cada equipo recibe $40.000 por cada punto de equipo conseguido en la temporada. El total de dinero será entonces repartido en partes iguales entre todos los miembros del equipo
+
+A medida que los miembros del equipo participan en las carreras de la temporada, el equipo va ganando puntos. A diferencia del sistema de campeonato individual, el campeonato de equipos da puntos a todos los miembros que terminen la carrera entre las posiciones 1 a 30 inclusive. La fórmula para puntos ganados por equipo en una carrera es: PuntosDeEquipo = (31-PosiciónEnCarrera)/3 * PesoDelGrupo, donde PesoDelGrupo es 1 para el grupo Elite, 0.8 para grupos Master, 0.6 para grupos Pro, 0.4 para grupos Amateur y 0.2 para grupos Rookie. Todo esto hace que se ganen puntos de equipo según la siguiente tabla:
+
+Pos.	Elite	Master	Pro	Amateur	Rookie
+01.	10.000	8.000	6.000	4.000	2.000
+02.	9.667	7.733	5.800	3.867	1.933
+03.	9.333	7.467	5.600	3.733	1.867
+04.	9.000	7.200	5.400	3.600	1.800
+05.	8.667	6.933	5.200	3.467	1.733
+• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
+26.	1.667	1.333	1.000	0.667	0.333
+27.	1.333	1.067	0.800	0.533	0.267
+28.	1.000	0.800	0.600	0.400	0.200
+29.	0.667	0.533	0.400	0.267	0.133
+30.	0.333	0.267	0.200	0.133	0.067
+
+Si un manager decide reiniciar su cuenta en Rookie y ha conseguido más puntos para su equipo, luego de la última carrera de la temporada el equipo perderá todos los puntos conseguidos por dicho manager durante la temporada. Ampliando, solamente los miembros de los equipos leales con más de (el equivalente a) 3 temporadas completas (51 carreras) en el equipo generarán puntos de equipo completos. Si un miembro lleva menos tiempo en el equipo puntuará el 25% de puntos de equipo para las primeras 17 carreras, 50% de los puntos hasta las 34 carreras, y 75% de los puntos hasta las 51 carreras con el equipo. Para promover la aceptación de nuevos miembros en el equipo, esto no aplica para los managers en Rookie y Amateur, que siempre puntuarán la totalidad de puntos para el equipo. Se debe tener en cuenta que aquellos equipos integrados sólo por un miembro (el líder) no serán considerados como verdaderos equipos, y por lo tanto no sumarán puntos para el campeonato de equipos. Además, para sumar puntos de equipo, al menos dos miembros del equipo deberán participar en la carrera (si sólo un miembro participa en la carrera, entonces el equipo no obtendrá ningún punto).
+
+6.5 Inactividad en equipos
+Si en cualquier momento de la temporada pierdes cuatro carreras consecutivas, por cada siguiente carrera que pierdas serás movido un lugar hacia abajo en el equipo. Esto aplica para todos incluyendo al lider del equipo y cualquier miembro del mismo y no depende del grupo en el que estés corriendo. Por ejemplo si estás en el puesto #4 de tu equipo y pierdes seis carreras consecutivas serás movido automáticamente al puesto #6, como resultado de esto, los managers en las posición #5 será movido a la #4 y el que esté en lugar #6 al #5.
+
+6.6 Votación para expulsar en el equipo
+En las oportunidades que un lider decide que un miembro no está cumpliendo con los requerimientos del equipo, el o ella puede comenzar una votación para expulsar a este miembro del equipo. Esta votación le costará al lider del equipo $3.000.000 para iniciarla, y otros $1.000.000 serán pagados por cada miembro que participa en la votación (incluyendo al lider del equipo). Cuando se consiguen al menos 8 miembros que participan de la votación y consideran que le dan derecho al lider a expulsar a este miembro, el lider puede entonces expulsar al miembro votado. El equipo tiene dos semanas para realizar la votación desde el día en que el lider comienza con ella y el miembro votado puede ser expulsado en cualquier momento. Notar que los miembros de equipo que se unieron al equipo hace menos de 17 carreras, no podrán participar en la votación de expulsión.

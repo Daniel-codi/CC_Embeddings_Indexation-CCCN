@@ -1,0 +1,14 @@
+
+PREGUNTA CRITICA 1:
+D:\_TRABAJO DESARROLLADOR\CC-EI_3-3_Biblia>node index.js
+Servidor escuchando en http://localhost:3000
+Nueva consulta recibida: Hubo alguna rebelión contra Moises?
+Pregunta pulida: ¿Existieron movimientos de oposición o rebeliones en contra de Moisés durante su liderazgo?
+Archivos relevantes identificados: [ 'Numeros-12.txt', 'Numeros-16.txt', 'Numeros-14.txt' ]
+
+
+
+PREGUNTA CRITICA 2:
+Nueva consulta recibida: cuéntame qué le pasó al profeta Balam al final de todo
+Pregunta pulida: ¿Cuál fue el destino del profeta Balaam al final de su historia en relación con el pueblo de Israel y su oposición a Moisés?
+Archivos relevantes identificados: [ 'Numeros-22.txt', 'Numeros-24.txt', 'Numeros-25.txt' ]

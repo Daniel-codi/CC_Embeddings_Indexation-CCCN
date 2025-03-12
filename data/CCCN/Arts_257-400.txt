@@ -1,0 +1,713 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO PRIMERO - PARTE GENERAL - TITULO 4
+TITULO 4: Hechos y actos jurídicos
+Articulos: 257 al 397
+
+-----------------------------------------
+TITULO IV
+
+Hechos y actos jurídicos
+
+CAPITULO 1
+
+Disposiciones generales
+
+ARTICULO 257.- Hecho jurídico. El hecho jurídico es el acontecimiento que, conforme al ordenamiento jurídico, produce el nacimiento, modificación o extinción de relaciones o situaciones jurídicas.
+
+ARTICULO 258.- Simple acto lícito. El simple acto lícito es la acción voluntaria no prohibida por la ley, de la que resulta alguna adquisición, modificación o extinción de relaciones o situaciones jurídicas.
+
+ARTICULO 259.- Acto jurídico. El acto jurídico es el acto voluntario lícito que tiene por fin inmediato la adquisición, modificación o extinción de relaciones o situaciones jurídicas.
+
+ARTICULO 260.- Acto voluntario. El acto voluntario es el ejecutado con discernimiento, intención y libertad, que se manifiesta por un hecho exterior.
+
+ARTICULO 261.- Acto involuntario. Es involuntario por falta de discernimiento:
+
+a) el acto de quien, al momento de realizarlo, está privado de la razón;
+
+b) el acto ilícito de la persona menor de edad que no ha cumplido diez años;
+
+c) el acto lícito de la persona menor de edad que no ha cumplido trece años, sin perjuicio de lo establecido en disposiciones especiales.
+
+ARTICULO 262.- Manifestación de la voluntad. Los actos pueden exteriorizarse oralmente, por escrito, por signos inequívocos o por la ejecución de un hecho material.
+
+ARTICULO 263.- Silencio como manifestación de la voluntad. El silencio opuesto a actos o a una interrogación no es considerado como una manifestación de voluntad conforme al acto o la interrogación, excepto en los casos en que haya un deber de expedirse que puede resultar de la ley, de la voluntad de las partes, de los usos y prácticas, o de una relación entre el silencio actual y las declaraciones precedentes.
+
+ARTICULO 264.- Manifestación tácita de voluntad. La manifestación tácita de la voluntad resulta de los actos por los cuales se la puede conocer con certidumbre. Carece de eficacia cuando la ley o la convención exigen una manifestación expresa.
+
+CAPITULO 2
+
+Error como vicio de la voluntad
+
+ARTICULO 265.- Error de hecho. El error de hecho esencial vicia la voluntad y causa la nulidad del acto. Si el acto es bilateral o unilateral recepticio, el error debe, además, ser reconocible por el destinatario para causar la nulidad.
+
+ARTICULO 266.- Error reconocible. El error es reconocible cuando el destinatario de la declaración lo pudo conocer según la naturaleza del acto, las circunstancias de persona, tiempo y lugar.
+
+ARTICULO 267.- Supuestos de error esencial. El error de hecho es esencial cuando recae sobre:
+
+a) la naturaleza del acto;
+
+b) un bien o un hecho diverso o de distinta especie que el que se pretendió designar, o una calidad, extensión o suma diversa a la querida;
+
+c) la cualidad sustancial del bien que haya sido determinante de la voluntad jurídica según la apreciación común o las circunstancias del caso;
+
+d) los motivos personales relevantes que hayan sido incorporados expresa o tácitamente;
+
+e) la persona con la cual se celebró o a la cual se refiere el acto si ella fue determinante para su celebración.
+
+ARTICULO 268.- Error de cálculo. El error de cálculo no da lugar a la nulidad del acto, sino solamente a su rectificación, excepto que sea determinante del consentimiento.
+
+ARTICULO 269.- Subsistencia del acto. La parte que incurre en error no puede solicitar la nulidad del acto, si la otra ofrece ejecutarlo con las modalidades y el contenido que aquélla entendió celebrar.
+
+ARTICULO 270.- Error en la declaración. Las disposiciones de los artículos de este Capítulo son aplicables al error en la declaración de voluntad y en su transmisión.
+
+CAPITULO 3
+
+Dolo como vicio de la voluntad
+
+ARTICULO 271.- Acción y omisión dolosa. Acción dolosa es toda aserción de lo falso o disimulación de lo verdadero, cualquier artificio, astucia o maquinación que se emplee para la celebración del acto. La omisión dolosa causa los mismos efectos que la acción dolosa, cuando el acto no se habría realizado sin la reticencia u ocultación.
+
+ARTICULO 272.- Dolo esencial. El dolo es esencial y causa la nulidad del acto si es grave, es determinante de la voluntad, causa un daño importante y no ha habido dolo por ambas partes.
+
+ARTICULO 273.- Dolo incidental. El dolo incidental no es determinante de la voluntad; en consecuencia, no afecta la validez del acto.
+
+ARTICULO 274.- Sujetos. El autor del dolo esencial y del dolo incidental puede ser una de las partes del acto o un tercero.
+
+ARTICULO 275.- Responsabilidad por los daños causados. El autor del dolo esencial o incidental debe reparar el daño causado. Responde solidariamente la parte que al tiempo de la celebración del acto tuvo conocimiento del dolo del tercero.
+
+CAPITULO 4
+
+Violencia como vicio de la voluntad
+
+ARTICULO 276.- Fuerza e intimidación. La fuerza irresistible y las amenazas que generan el temor de sufrir un mal grave e inminente que no se puedan contrarrestar o evitar en la persona o bienes de la parte o de un tercero, causan la nulidad del acto. La relevancia de las amenazas debe ser juzgada teniendo en cuenta la situación del amenazado y las demás circunstancias del caso.
+
+ARTICULO 277.- Sujetos. El autor de la fuerza irresistible y de las amenazas puede ser una de las partes del acto o un tercero.
+
+ARTICULO 278.- Responsabilidad por los daños causados. El autor debe reparar los daños. Responde solidariamente la parte que al tiempo de la celebración del acto tuvo conocimiento de la fuerza irresistible o de las amenazas del tercero.
+
+CAPITULO 5
+
+Actos jurídicos
+
+SECCION 1ª
+
+Objeto del acto jurídico
+
+ARTICULO 279.- Objeto. El objeto del acto jurídico no debe ser un hecho imposible o prohibido por la ley, contrario a la moral, a las buenas costumbres, al orden público o lesivo de los derechos ajenos o de la dignidad humana. Tampoco puede ser un bien que por un motivo especial se haya prohibido que lo sea.
+
+ARTICULO 280.- Convalidación. El acto jurídico sujeto a plazo o condición suspensiva es válido, aunque el objeto haya sido inicialmente imposible, si deviene posible antes del vencimiento del plazo o del cumplimiento de la condición.
+
+SECCION 2ª
+
+Causa del acto jurídico
+
+ARTICULO 281.- Causa. La causa es el fin inmediato autorizado por el ordenamiento jurídico que ha sido determinante de la voluntad. También integran la causa los motivos exteriorizados cuando sean lícitos y hayan sido incorporados al acto en forma expresa, o tácitamente si son esenciales para ambas partes.
+
+ARTICULO 282.- Presunción de causa. Aunque la causa no esté expresada en el acto se presume que existe mientras no se pruebe lo contrario. El acto es válido aunque la causa expresada sea falsa si se funda en otra causa verdadera.
+
+ARTICULO 283.- Acto abstracto. La inexistencia, falsedad o ilicitud de la causa no son discutibles en el acto abstracto mientras no se haya cumplido, excepto que la ley lo autorice.
+
+SECCION 3ª
+
+Forma y prueba del acto jurídico
+
+ARTICULO 284.- Libertad de formas. Si la ley no designa una forma determinada para la exteriorización de la voluntad, las partes pueden utilizar la que estimen conveniente. Las partes pueden convenir una forma más exigente que la impuesta por la ley.
+
+ARTICULO 285.- Forma impuesta. El acto que no se otorga en la forma exigida por la ley no queda concluido como tal mientras no se haya otorgado el instrumento previsto, pero vale como acto en el que las partes se han obligado a cumplir con la expresada formalidad, excepto que ella se exija bajo sanción de nulidad.
+
+ARTICULO 286.- Expresión escrita. La expresión escrita puede tener lugar por instrumentos públicos, o por instrumentos particulares firmados o no firmados, excepto en los casos en que determinada instrumentación sea impuesta. Puede hacerse constar en cualquier soporte, siempre que su contenido sea representado con texto inteligible, aunque su lectura exija medios técnicos.
+
+ARTICULO 287.- Instrumentos privados y particulares no firmados. Los instrumentos particulares pueden estar firmados o no. Si lo están, se llaman instrumentos privados.
+
+Si no lo están, se los denomina instrumentos particulares no firmados; esta categoría comprende todo escrito no firmado, entre otros, los impresos, los registros visuales o auditivos de cosas o hechos y, cualquiera que sea el medio empleado, los registros de la palabra y de información.
+
+ARTICULO 288.- Firma. La firma prueba la autoría de la declaración de voluntad expresada en el texto al cual corresponde. Debe consistir en el nombre del firmante o en un signo.
+
+En los instrumentos generados por medios electrónicos, el requisito de la firma de una persona queda satisfecho si se utiliza una firma digital, que asegure indubitablemente la autoría e integridad del instrumento.
+
+SECCION 4ª
+
+Instrumentos públicos
+
+ARTICULO 289.- Enunciación. Son instrumentos públicos:
+
+a) las escrituras públicas y sus copias o testimonios;
+
+b) los instrumentos que extienden los escribanos o los funcionarios públicos con los requisitos que establecen las leyes;
+
+c) los títulos emitidos por el Estado nacional, provincial o la Ciudad Autónoma de Buenos Aires, conforme a las leyes que autorizan su emisión.
+
+ARTICULO 290.- Requisitos del instrumento público. Son requisitos de validez del instrumento público:
+
+a) la actuación del oficial público en los límites de sus atribuciones y de su competencia territorial, excepto que el lugar sea generalmente tenido como comprendido en ella;
+
+b) las firmas del oficial público, de las partes, y en su caso, de sus representantes; si alguno de ellos no firma por sí mismo o a ruego, el instrumento carece de validez para todos.
+
+ARTICULO 291.- Prohibiciones. Es de ningún valor el instrumento autorizado por un funcionario público en asunto en que él, su cónyuge, su conviviente, o un pariente suyo dentro del cuarto grado o segundo de afinidad, sean personalmente interesados.
+
+ARTICULO 292.- Presupuestos. Es presupuesto para la validez del instrumento que el oficial público se encuentre efectivamente en funciones. Sin embargo, son válidos los actos instrumentados y autorizados por él antes de la notificación de la suspensión o cesación de sus funciones hechos conforme a la ley o reglamento que regula la función de que se trata.
+
+Dentro de los límites de la buena fe, la falta de los requisitos necesarios para su nombramiento e investidura no afecta al acto ni al instrumento si la persona interviniente ejerce efectivamente un cargo existente y actúa bajo la apariencia de legitimidad del título.
+
+ARTICULO 293.- Competencia. Los instrumentos públicos extendidos de acuerdo con lo que establece este Código gozan de entera fe y producen idénticos efectos en todo el territorio de la República, cualquiera sea la jurisdicción donde se hayan otorgado.
+
+ARTICULO 294.- Defectos de forma. Carece de validez el instrumento público que tenga enmiendas, agregados, borraduras, entrelíneas y alteraciones en partes esenciales, si no están salvadas antes de las firmas requeridas.
+
+El instrumento que no tenga la forma debida vale como instrumento privado si está firmado por las partes.
+
+ARTICULO 295.- Testigos inhábiles. No pueden ser testigos en instrumentos públicos:
+
+a) las personas incapaces de ejercicio y aquellas a quienes una sentencia les impide ser testigo en instrumentos públicos;
+
+b) los que no saben firmar;
+
+c) los dependientes del oficial público;
+
+d) el cónyuge, el conviviente y los parientes del oficial público, dentro del cuarto grado y segundo de afinidad;
+
+El error común sobre la idoneidad de los testigos salva la eficacia de los instrumentos en que han intervenido.
+
+ARTICULO 296.- Eficacia probatoria. El instrumento público hace plena fe:
+
+a) en cuanto a que se ha realizado el acto, la fecha, el lugar y los hechos que el oficial público enuncia como cumplidos por él o ante él hasta que sea declarado falso en juicio civil o criminal;
+
+b) en cuanto al contenido de las declaraciones sobre convenciones, disposiciones, pagos, reconocimientos y enunciaciones de hechos directamente relacionados con el objeto principal del acto instrumentado, hasta que se produzca prueba en contrario.
+
+ARTICULO 297.-. Incolumidad formal. Los testigos de un instrumento público y el oficial público que lo autorizó no pueden contradecir, variar ni alterar su contenido, si no alegan que testificaron u otorgaron el acto siendo víctimas de dolo o violencia.
+
+ARTICULO 298.- Contradocumento. El contradocumento particular que altera lo expresado en un instrumento público puede invocarse por las partes, pero es inoponible respecto a terceros interesados de buena fe.
+
+SECCION 5ª
+
+Escritura pública y acta
+
+ARTICULO 299.- Escritura pública. Definición. La escritura pública es el instrumento matriz extendido en el protocolo de un escribano público o de otro funcionario autorizado para ejercer las mismas funciones, que contienen uno o más actos jurídicos. La copia o testimonio de las escrituras públicas que expiden los escribanos es instrumento público y hace plena fe como la escritura matriz. Si hay alguna variación entre ésta y la copia o testimonio, se debe estar al contenido de la escritura matriz.
+
+ARTICULO 300.- Protocolo. El protocolo se forma con los folios habilitados para el uso de cada registro, numerados correlativamente en cada año calendario, y con los documentos que se incorporan por exigencia legal o a requerimiento de las partes del acto. Corresponde a la ley local reglamentar lo relativo a las características de los folios, su expedición, así como los demás recaudos relativos al protocolo, forma y modo de su colección en volúmenes o legajos, su conservación y archivo.
+
+ARTICULO 301.- Requisitos. El escribano debe recibir por sí mismo las declaraciones de los comparecientes, sean las partes, sus representantes, testigos, cónyuges u otros intervinientes. Debe calificar los presupuestos y elementos del acto, y configurarlo técnicamente. Las escrituras públicas, que deben extenderse en un único acto, pueden ser manuscritas o mecanografiadas, pudiendo utilizarse mecanismos electrónicos de procesamiento de textos, siempre que en definitiva la redacción resulte estampada en el soporte exigido por las reglamentaciones, con caracteres fácilmente legibles. En los casos de pluralidad de otorgantes en los que no haya entrega de dinero, valores o cosas en presencia del notario, los interesados pueden suscribir la escritura en distintas horas del mismo día de su otorgamiento. Este procedimiento puede utilizarse siempre que no se modifique el texto definitivo al tiempo de la primera firma.
+
+ARTICULO 302.- Idioma. La escritura pública debe hacerse en idioma nacional. Si alguno de los otorgantes declara ignorarlo, la escritura debe redactarse conforme a una minuta firmada, que debe ser expresada en idioma nacional por traductor público, y si no lo hay, por intérprete que el escribano acepte. Ambos instrumentos deben quedar agregados al protocolo.
+
+Los otorgantes pueden requerir al notario la protocolización de un instrumento original en idioma extranjero, siempre que conste de traducción efectuada por traductor público, o intérprete que aquél acepte. En tal caso, con el testimonio de la escritura, el escribano debe entregar copia certificada de ese instrumento en el idioma en que está redactado.
+
+ARTICULO 303.- Abreviaturas y números. No se deben dejar espacios en blanco, ni utilizar abreviaturas, o iniciales, excepto que estas dos últimas consten en los documentos que se transcriben, se trate de constancias de otros documentos agregados o sean signos o abreviaturas científicas o socialmente admitidas con sentido unívoco. Pueden usarse números, excepto para las cantidades que se entregan en presencia del escribano y otras cantidades o datos que corresponden a elementos esenciales del acto jurídico.
+
+ARTICULO 304.- Otorgante con discapacidad auditiva. Si alguna de las personas otorgantes del acto tiene discapacidad auditiva, deben intervenir dos testigos que puedan dar cuenta del conocimiento y comprensión del acto por la persona otorgante. Si es alfabeta, además, la escritura debe hacerse de conformidad a una minuta firmada por ella y el escribano debe dar fe de ese hecho. La minuta debe quedar protocolizada.
+
+ARTICULO 305.- Contenido. La escritura debe contener:
+
+a) lugar y fecha de su otorgamiento; si cualquiera de las partes lo requiere o el escribano lo considera conveniente, la hora en que se firma el instrumento;
+
+b) los nombres, apellidos, documento de identidad, domicilio real y especial si lo hubiera, fecha de nacimiento y estado de familia de los otorgantes; si se trata de personas casadas, se debe consignar también si lo son en primeras o posteriores nupcias y el nombre del cónyuge, si resulta relevante en atención a la naturaleza del acto; si el otorgante es una persona jurídica, se debe dejar constancia de su denominación completa, domicilio social y datos de inscripción de su constitución si corresponde;
+
+c) la naturaleza del acto y la individualización de los bienes que constituyen su objeto;
+
+d) la constancia instrumental de la lectura que el escribano debe hacer en el acto del otorgamiento de la escritura;
+
+e) las enmiendas, testados, borraduras, entrelíneas, u otras modificaciones efectuadas al instrumento en partes esenciales, que deben ser realizadas de puño y letra del escribano y antes de la firma;
+
+f) la firma de los otorgantes, del escribano y de los testigos si los hubiera; si alguno de los otorgantes no sabe o no puede firmar, debe hacerlo en su nombre otra persona; debe hacerse constar la manifestación sobre la causa del impedimento y la impresión digital del otorgante.
+
+ARTICULO 306.- Justificación de identidad. La identidad de los comparecientes debe justificarse por cualquiera de los siguientes medios:
+
+a) por exhibición que se haga al escribano de documento idóneo; en este caso, se debe individualizar el documento y agregar al protocolo reproducción certificada de sus partes pertinentes;
+
+b) por afirmación del conocimiento por parte del escribano.
+
+ARTICULO 307.- Documentos habilitantes. Si el otorgante de la escritura es un representante, el escribano debe exigir la presentación del documento original que lo acredite, el que ha de quedar agre-gado al protocolo, excepto que se trate de poderes para más de un asunto o de otros documentos habilitantes que hagan necesaria la devolución, supuesto en el cual se debe agregar copia certificada por el escribano. En caso de que los documentos habilitantes ya estén protocolizados en el registro del escribano interviniente, basta con que se mencione esta circunstancia, indicando folio y año.
+
+ARTICULO 308.- Copias o testimonios. El escribano debe dar copia o testimonio de la escritura a las partes. Ese instrumento puede ser obtenido por cualquier medio de reproducción que asegure su permanencia indeleble, conforme a las reglamentaciones locales. Si alguna de las partes solicita nueva copia, el escribano debe entregarla, excepto que la escritura contenga la constancia de alguna obligación pendiente de dar o de hacer, a cargo de otra de las partes. En este caso, se debe requerir la acreditación en instrumento público de la extinción de la obligación, la conformidad del acreedor o la autorización judicial, que debe tramitar con citación de las partes del acto jurídico.
+
+ARTICULO 309.- Nulidad. Son nulas las escrituras que no tengan la designación del tiempo y lugar en que sean hechas, el nombre de los otorgantes, la firma del escribano y de las partes, la firma a ruego de ellas cuando no saben o no pueden escribir y la firma de los dos testigos del acto cuando su presencia sea requerida. La inobservancia de las otras formalidades no anula las escrituras, pero los escribanos o funcionarios públicos pueden ser sancionados.
+
+ARTICULO 310.- Actas. Se denominan actas los documentos notariales que tienen por objeto la comprobación de hechos.
+
+ARTICULO 311.- Requisitos de las actas notariales. Las actas están sujetas a los requisitos de las escrituras públicas, con las siguientes modificaciones:
+
+a) se debe hacer constar el requerimiento que motiva la intervención del notario y, en su caso, la manifestación del requirente respecto al interés propio o de terceros con que actúa;
+
+b) no es necesaria la acreditación de personería ni la del interés de terceros que alega el requirente;
+
+c) no es necesario que el notario conozca o identifique a las personas con quienes trata a los efectos de realizar las notificaciones, requerimientos y otras diligencias;
+
+d) las personas requeridas o notificadas, en la medida en que el objeto de la comprobación así lo permita, deben ser previamente informadas del carácter en que interviene el notario y, en su caso, del derecho a no responder o de contestar; en este último supuesto se deben hacer constar en el documento las manifestaciones que se hagan;
+
+e) el notario puede practicar las diligencias sin la concurrencia del requirente cuando por su objeto no sea necesario;
+
+f) no requieren unidad de acto ni de redacción; pueden extenderse simultáneamente o con posterioridad a los hechos que se narran, pero en el mismo día, y pueden separarse en dos o más partes o diligencias, siguiendo el orden cronológico;
+
+g) pueden autorizarse aun cuando alguno de los interesados rehúse firmar, de lo cual debe dejarse constancia.
+
+ARTICULO 312.- Valor probatorio. El valor probatorio de las actas se circunscribe a los hechos que el notario tiene a la vista, a la verificación de su existencia y su estado. En cuanto a las personas, se circunscribe a su identificación si existe, y debe dejarse constancia de las declaraciones y juicios que emiten. Las declaraciones deben referirse como mero hecho y no como contenido negocial.
+
+SECCION 6ª
+
+Instrumentos privados y particulares
+
+ARTICULO 313.- Firma de los instrumentos privados. Si alguno de los firmantes de un instrumento privado no sabe o no puede firmar, puede dejarse constancia de la impresión digital o mediante la presencia de dos testigos que deben suscribir también el instrumento.
+
+ARTICULO 314.- Reconocimiento de la firma. Todo aquel contra quien se presente un instrumento cuya firma se le atribuye debe manifestar si ésta le pertenece. Los herederos pueden limitarse a mani-festar que ignoran si la firma es o no de su causante. La autenticidad de la firma puede probarse por cualquier medio.
+
+El reconocimiento de la firma importa el reconocimiento del cuerpo del instrumento privado. El instrumento privado reconocido, o declarado auténtico por sentencia, o cuya firma está certificada por escribano, no puede ser impugnado por quienes lo hayan reconocido, excepto por vicios en el acto del reconocimiento. La prueba resultante es indivisible. El documento signado con la impresión digital vale como principio de prueba por escrito y puede ser impugnado en su contenido.
+
+ARTICULO 315.- Documento firmado en blanco. El firmante de un documento en blanco puede impugnar su contenido mediante la prueba de que no responde a sus instrucciones, pero no puede valerse para ello de testigos si no existe principio de prueba por escrito. El desconocimiento del firmante no debe afectar a terceros de buena fe.
+
+Cuando el documento firmado en blanco es sustraído contra la voluntad de la persona que lo guarda, esas circunstancias pueden probarse por cualquier medio. En tal caso, el contenido del instrumento no puede oponerse al firmante excepto por los terceros que acrediten su buena fe si han adquirido derechos a título oneroso en base al instrumento.
+
+ARTICULO 316.- Enmiendas. Las raspaduras, enmiendas o entrelíneas que afectan partes esenciales del acto instrumentado deben ser salvadas con la firma de las partes. De no hacerse así, el juez debe determinar en qué medida el defecto excluye o reduce la fuerza probatoria del instrumento.
+
+ARTICULO 317.- Fecha cierta. La eficacia probatoria de los instrumentos privados reconocidos se extiende a los terceros desde su fecha cierta. Adquieren fecha cierta el día en que acontece un hecho del que resulta como consecuencia ineludible que el documento ya estaba firmado o no pudo ser firmado después.
+
+La prueba puede producirse por cualquier medio, y debe ser apreciada rigurosamente por el juez.
+
+ARTICULO 318.- Correspondencia. La correspondencia, cualquiera sea el medio empleado para crearla o transmitirla, puede presentarse como prueba por el destinatario, pero la que es confidencial no puede ser utilizada sin consentimiento del remitente. Los terceros no pueden valerse de la correspondencia sin asentimiento del destinatario, y del remitente si es confidencial.
+
+ARTICULO 319.- Valor probatorio. El valor probatorio de los instrumentos particulares debe ser apreciado por el juez ponderando, entre otras pautas, la congruencia entre lo sucedido y narrado, la precisión y claridad técnica del texto, los usos y prácticas del tráfico, las relaciones precedentes y la confiabilidad de los soportes utilizados y de los procedimientos técnicos que se apliquen.
+
+SECCION 7ª
+
+Contabilidad y estados contables
+
+ARTICULO 320.- Obligados. Excepciones. Están obligadas a llevar contabilidad todas las personas jurídicas privadas y quienes realizan una actividad económica organizada o son titulares de una empresa o establecimiento comercial, industrial, agropecuario o de servicios. Cualquier otra persona puede llevar contabilidad si solicita su inscripción y la habilitación de sus registros o la rubricación de los libros, como se establece en esta misma Sección.
+
+Sin perjuicio de lo establecido en leyes especiales, quedan excluidas de las obligaciones previstas en esta Sección las personas humanas que desarrollan profesiones liberales o actividades agropecuarias y conexas no ejecutadas u organizadas en forma de empresa. Se consideran conexas las actividades dirigidas a la transformación o a la enajenación de productos agropecuarios cuando están comprendidas en el ejercicio normal de tales actividades. También pueden ser eximidas de llevar contabilidad las actividades que, por el volumen de su giro, resulta inconveniente sujetar a tales deberes según determine cada jurisdicción local.
+
+ARTICULO 321.- Modo de llevar la contabilidad. La contabilidad debe ser llevada sobre una base uniforme de la que resulte un cuadro verídico de las actividades y de los actos que deben registrarse, de modo que se permita la individualización de las operaciones y las correspondientes cuentas acreedoras y deudoras. Los asientos deben respaldarse con la documentación respectiva, todo lo cual debe archivarse en forma metódica y que permita su localización y consulta.
+
+ARTICULO 322.- Registros indispensables. Son registros indispensables, los siguientes:
+
+a) diario;
+
+b) inventario y balances;
+
+c) aquellos que corresponden a una adecuada integración de un sistema de contabilidad y que exige la importancia y la naturaleza de las actividades a desarrollar;
+
+d) los que en forma especial impone este Código u otras leyes.
+
+ARTICULO 323.- Libros. El interesado debe llevar su contabilidad mediante la utilización de libros y debe presentarlos, debidamente encuadernados, para su individualización en el Registro Público correspondiente.
+
+Tal individualización consiste en anotar, en el primer folio, nota fechada y firmada de su destino, del número de ejemplar, del nombre de su titular y del número de folios que contiene.
+
+El Registro debe llevar una nómina alfabética, de consulta pública, de las personas que solicitan rubricación de libros o autorización para llevar los registros contables de otra forma, de la que surgen los libros que les fueron rubricados y, en su caso, de las autorizaciones que se les confieren.
+
+ARTICULO 324.- Prohibiciones. Se prohíbe:
+
+a) alterar el orden en que los asientos deben ser hechos;
+
+b) dejar blancos que puedan utilizarse para intercalaciones o adiciones entre los asientos;
+
+c) interlinear, raspar, emendar o tachar. Todas las equivocaciones y omisiones deben salvarse mediante un nuevo asiento hecho en la fecha en que se advierta la omisión o el error;
+
+d) mutilar parte alguna del libro, arrancar hojas o alterar la encuadernación o foliatura;
+
+e) cualquier otra circunstancia que afecte la inalterabilidad de las registraciones.
+
+ARTICULO 325.- Forma de llevar los registros. Los libros y registros contables deben ser llevados en forma cronológica, actualizada, sin alteración alguna que no haya sido debidamente salvada. También deben llevarse en idioma y moneda nacional.
+
+Deben permitir determinar al cierre de cada ejercicio económico anual la situación patrimonial, su evolución y sus resultados.
+
+Los libros y registros del artículo 322 deben permanecer en el domicilio de su titular.
+
+ARTICULO 326.- Estados contables. Al cierre del ejercicio quien lleva contabilidad obligada o voluntaria debe confeccionar sus estados contables, que comprenden como mínimo un estado de situación patrimonial y un estado de resultados que deben asentarse en el registro de inventarios y balances.
+
+ARTICULO 327.- Diario. En el Diario se deben registrar todas las operaciones relativas a la actividad de la persona que tienen efecto sobre el patrimonio, individualmente o en registros resumidos que cubran períodos de duración no superiores al mes. Estos resúmenes deben surgir de anotaciones detalladas practicadas en subdiarios, los que deben ser llevados en las formas y condiciones establecidas en los artículos 323, 324 y 325.
+
+El registro o Libro Caja y todo otro diario auxiliar que forma parte del sistema de registraciones contables integra el Diario y deben cumplirse las formalidades establecidas para el mismo.
+
+ARTICULO 328.- Conservación. Excepto que leyes especiales establezcan plazos superiores, deben conservarse por diez años:
+
+a) los libros, contándose el plazo desde el último asiento;
+
+b) los demás registros, desde la fecha de la última anotación practicada sobre los mismos;
+
+c) los instrumentos respaldatorios, desde su fecha.
+
+Los herederos deben conservar los libros del causante y, en su caso, exhibirlos en la forma prevista en el artículo 331, hasta que se cumplan los plazos indicados anteriormente.
+
+ARTICULO 329.- Actos sujetos a autorización. El titular puede, previa autorización del Registro Público de su domicilio:
+
+a) sustituir uno o más libros, excepto el de Inventarios y Balances, o alguna de sus formalidades, por la utilización de ordenadores u otros medios mecánicos, magnéticos o electrónicos que permitan la individualización de las operaciones y de las correspondientes cuentas deudoras y acreedoras y su posterior verificación;
+
+b) conservar la documentación en microfilm, discos ópticos u otros medios aptos para ese fin.
+
+La petición que se formule al Registro Público debe contener una adecuada descripción del sistema, con dictamen técnico de Contador Público e indicación de los antecedentes de su utilización. Una vez aprobado, el pedido de autorización y la respectiva resolución del organismo de contralor, deben transcribirse en el libro de Inventarios y Balances.
+
+La autorización sólo se debe otorgar si los medios alternativos son equivalentes, en cuanto a inviolabilidad, verosimilitud y completitud, a los sistemas cuyo reemplazo se solicita.
+
+ARTICULO 330.- Eficacia probatoria. La contabilidad, obligada o voluntaria, llevada en la forma y con los requisitos prescritos, debe ser admitida en juicio, como medio de prueba.
+
+Sus registros prueban contra quien la lleva o sus sucesores, aunque no estuvieran en forma, sin admitírseles prueba en contrario. El adversario no puede aceptar los asientos que le son favorables y desechar los que le perjudican, sino que habiendo adoptado este medio de prueba, debe estarse a las resultas combinadas que presenten todos los registros relativos al punto cuestionado.
+
+La contabilidad, obligada o voluntaria, prueba en favor de quien la lleva, cuando en litigio contra otro sujeto que tiene contabilidad, obligada o voluntaria, éste no presenta registros contrarios incorporados en una contabilidad regular.
+
+Sin embargo, el juez tiene en tal caso la facultad de apreciar esa prueba, y de exigir, si lo considera necesario, otra supletoria.
+
+Cuando resulta prueba contradictoria de los registros de las partes que litigan, y unos y otros se hallan con todas las formalidades necesarias y sin vicio alguno, el juez debe prescindir de este medio de prueba y proceder por los méritos de las demás probanzas que se presentan.
+
+Si se trata de litigio contra quien no está obligado a llevar contabilidad, ni la lleva voluntariamente, ésta sólo sirve como principio de prueba de acuerdo con las circunstancias del caso.
+
+La prueba que resulta de la contabilidad es indivisible.
+
+ARTICULO 331.- Investigaciones. Excepto los supuestos previstos en leyes especiales, ninguna autoridad, bajo pretexto alguno, puede hacer pesquisas de oficio para inquirir si las personas llevan o no registros arreglados a derecho.
+
+La prueba sobre la contabilidad debe realizarse en el lugar previsto en el artículo 325, aun cuando esté fuera de la competencia territorial del juez que la ordena.
+
+La exhibición general de registros o libros contables sólo puede decretarse a instancia de parte en los juicios de sucesión, todo tipo de comunión, contrato asociativo o sociedad, administración por cuenta ajena y en caso de liquidación, concurso o quiebra. Fuera de estos casos únicamente puede requerirse la exhibición de registros o libros en cuanto tenga relación con la cuestión controvertida de que se trata, así como para establecer si el sistema contable del obligado cumple con las formas y condiciones establecidas en los artículos 323, 324 y 325.
+
+CAPITULO 6
+
+Vicios de los actos jurídicos
+
+SECCION 1ª
+
+Lesión
+
+ARTICULO 332.- Lesión. Puede demandarse la nulidad o la modificación de los actos jurídicos cuando una de las partes explotando la necesidad, debilidad síquica o inexperiencia de la otra, obtuviera por medio de ellos una ventaja patrimonial evidentemente desproporcionada y sin justificación.
+
+Se presume, excepto prueba en contrario, que existe tal explotación en caso de notable desproporción de las prestaciones.
+
+Los cálculos deben hacerse según valores al tiempo del acto y la desproporción debe subsistir en el momento de la demanda.
+
+El afectado tiene opción para demandar la nulidad o un reajuste equitativo del convenio, pero la primera de estas acciones se debe transformar en acción de reajuste si éste es ofrecido por el demandado al contestar la demanda.
+
+Sólo el lesionado o sus herederos pueden ejercer la acción.
+
+SECCION 2ª
+
+Simulación
+>
+ARTICULO 333.- Caracterización. La simulación tiene lugar cuando se encubre el carácter jurídico de un acto bajo la apariencia de otro, o cuando el acto contiene cláusulas que no son sinceras, o fechas que no son verdaderas, o cuando por él se constituyen o transmiten derechos a personas interpuestas, que no son aquellas para quienes en realidad se constituyen o transmiten.
+
+ARTICULO 334.- Simulación lícita e ilícita. La simulación ilícita o que perjudica a un tercero provoca la nulidad del acto ostensible. Si el acto simulado encubre otro real, éste es plenamente eficaz si concurren los requisitos propios de su categoría y no es ilícito ni perjudica a un tercero. Las mismas disposiciones rigen en el caso de cláusulas simuladas.
+
+ARTICULO 335.- Acción entre las partes. Contradocumento. Los que otorgan un acto simulado ilícito o que perjudica a terceros no pueden ejercer acción alguna el uno contra el otro sobre la simula-ción, excepto que las partes no puedan obtener beneficio alguno de las resultas del ejercicio de la acción de simulación.
+
+La simulación alegada por las partes debe probarse mediante el respectivo contradocumento. Puede prescindirse de él, cuando la parte justifica las razones por las cuales no existe o no puede ser presentado y median circunstancias que hacen inequívoca la simulación.
+
+ARTICULO 336.- Acción de terceros. Los terceros cuyos derechos o intereses legítimos son afectados por el acto simulado pueden demandar su nulidad. Pueden acreditar la simulación por cualquier medio de prueba.
+
+ARTICULO 337.- Efectos frente a terceros. Deber de indemnizar. La simulación no puede oponerse a los acreedores del adquirente simulado que de buena fe hayan ejecutado los bienes comprendidos en el acto.
+
+La acción del acreedor contra el subadquirente de los derechos obtenidos por el acto impugnado sólo procede si adquirió por título gratuito, o si es cómplice en la simulación.
+
+El subadquirente de mala fe y quien contrató de mala fe con el deudor responden solidariamente por los daños causados al acreedor que ejerció la acción, si los derechos se transmitieron a un adquirente de buena fe y a título oneroso, o de otro modo se perdieron para el acreedor. El que contrató de buena fe y a título gratuito con el deudor, responde en la medida de su enriquecimiento.
+
+SECCION 3ª
+
+Fraude
+
+ARTICULO 338.- Declaración de inoponibilidad. Todo acreedor puede solicitar la declaración de inoponibilidad de los actos celebrados por su deudor en fraude de sus derechos, y de las renuncias al ejercicio de derechos o facultades con los que hubiese podido mejorar o evitado empeorar su estado de fortuna.
+
+ARTICULO 339.- Requisitos. Son requisitos de procedencia de la acción de declaración de inoponibilidad:
+
+a) que el crédito sea de causa anterior al acto impugnado, excepto que el deudor haya actuado con el propósito de defraudar a futuros acreedores;
+
+b) que el acto haya causado o agravado la insolvencia del deudor;
+
+c) que quien contrató con el deudor a título oneroso haya conocido o debido conocer que el acto provocaba o agravaba la insolvencia.
+
+ARTICULO 340.- Efectos frente a terceros. Deber de indemnizar. El fraude no puede oponerse a los acreedores del adquirente que de buena fe hayan ejecutado los bienes comprendidos en el acto.
+
+La acción del acreedor contra el subadquirente de los derechos obtenidos por el acto impugnado sólo procede si adquirió por título gratuito, o si es cómplice en el fraude; la complicidad se presume si, al momento de contratar, conocía el estado de insolvencia.
+
+El subadquirente de mala fe y quien contrató de mala fe con el deudor responden solidariamente por los daños causados al acreedor que ejerció la acción, si los derechos se transmitieron a un adquirente de buena fe y a título oneroso, o de otro modo se perdieron para el acreedor. El que contrató de buena fe y a título gratuito con el deudor, responde en la medida de su enriquecimiento.
+
+ARTICULO 341.- Extinción de la acción. Cesa la acción de los acreedores si el adquirente de los bienes transmitidos por el deudor los desinteresa o da garantía suficiente.
+
+ARTICULO 342.- Extensión de la inoponibilidad. La declaración de inoponibilidad se pronuncia exclusivamente en interés de los acreedores que la promueven, y hasta el importe de sus respectivos créditos.
+
+CAPITULO 7
+
+Modalidades de los actos jurídicos
+
+SECCION 1ª
+
+Condición
+
+ARTICULO 343.- Alcance y especies. Se denomina condición a la cláusula de los actos jurídicos por la cual las partes subordinan su plena eficacia o resolución a un hecho futuro e incierto.
+
+Las disposiciones de este capítulo son aplicables, en cuanto fueran compatibles, a la cláusula por la cual las partes sujetan la adquisición o extinción de un derecho a hechos presentes o pasados ignorados.
+
+ARTICULO 344.- Condiciones prohibidas. Es nulo el acto sujeto a un hecho imposible, contrario a la moral y a las buenas costumbres, prohibido por el ordenamiento jurídico o que depende exclusivamente de la voluntad del obligado.
+
+La condición de no hacer una cosa imposible no perjudica la validez de la obligación, si ella fuera pactada bajo modalidad suspensiva.
+
+Se tienen por no escritas las condiciones que afecten de modo grave las libertades de la persona, como la de elegir domicilio o religión, o decidir sobre su estado civil.
+
+ARTICULO 345.- Inejecución de la condición. El incumplimiento de la condición no puede ser invocado por la parte que, de mala fe, impide su realización.
+
+ARTICULO 346.- Efecto. La condición no opera retroactivamente, excepto pacto en contrario.
+
+ARTICULO 347.- Condición pendiente. El titular de un derecho supeditado a condición suspensiva puede solicitar medidas conservatorias.
+
+El adquirente de un derecho sujeto a condición resolutoria puede ejercerlo, pero la otra parte puede solicitar, también medidas conservatorias.
+
+En todo supuesto, mientras la condición no se haya cumplido, la parte que constituyó o transmitió un derecho debe comportarse de acuerdo con la buena fe, de modo de no perjudicar a la contraparte.
+
+ARTICULO 348.- Cumplimiento de la condición suspensiva y resolutoria. El cumplimiento de la condición obliga a las partes a entregarse o restituirse, recíprocamente, las prestaciones convenidas, aplicándose los efectos correspondientes a la naturaleza del acto concertado, a sus fines y objeto.
+
+Si se hubiese determinado el efecto retroactivo de la condición, el cumplimiento de ésta obliga a la entrega recíproca de lo que a las partes habría correspondido al tiempo de la celebración del acto. No obstante, subsisten los actos de administración y los frutos quedan a favor de la parte que los ha percibido.
+
+ARTICULO 349.- No cumplimiento de la condición suspensiva. Si el acto celebrado bajo condición suspensiva se hubiese ejecutado antes del cumplimiento de la condición, y ésta no se cumple, debe restituirse el objeto con sus accesorios pero no los frutos percibidos.
+
+SECCION 2ª
+
+Plazo
+
+ARTICULO 350.- Especies. La exigibilidad o la extinción de un acto jurídico pueden quedar diferidas al vencimiento de un plazo.
+
+ARTICULO 351.- Beneficiario del plazo. El plazo se presume establecido en beneficio del obligado a cumplir o a restituir a su vencimiento, a no ser que, por la naturaleza del acto, o por otras circunstancias, resulte que ha sido previsto a favor del acreedor o de ambas partes.
+
+ARTICULO 352.- Pago anticipado. El obligado que cumple o restituye antes del plazo no puede repetir lo pagado.
+
+ARTICULO 353.- Caducidad del plazo. El obligado a cumplir no puede invocar la pendencia del plazo si se ha declarado su quiebra, si disminuye por acto propio las seguridades otorgadas al acreedor para el cumplimiento de la obligación, o si no ha constituido las garantías prometidas, entre otros supuestos relevantes. La apertura del concurso del obligado al pago no hace caducar el plazo, sin perjuicio del derecho del acreedor a verificar su crédito, y a todas las consecuencias previstas en la legislación concursal.
+
+SECCION 3ª
+
+Cargo
+
+ARTICULO 354.- Cargo. Especies. Presunción. El cargo es una obligación accesoria impuesta al adquirente de un derecho. No impide los efectos del acto, excepto que su cumplimiento se haya previsto como condición suspensiva, ni los resuelve, excepto que su cumplimiento se haya estipulado como condición resolutoria. En caso de duda, se entiende que tal condición no existe.
+
+ARTICULO 355.- Tiempo de cumplimiento. Prescripción. Al plazo de ejecución del cargo se aplica lo dispuesto en los artículos 350 y concordantes.
+
+Desde que se encuentra expedita, la acción por cumplimiento prescribe según lo establecido en el artículo 2559.
+
+ARTICULO 356.- Transmisibilidad. El derecho adquirido es transmisible por actos entre vivos o por causa de muerte y con él se traspasa la obligación de cumplir el cargo, excepto que sólo pueda ser ejecutado por quien se obligó inicialmente a cumplirlo. Si el cumplimiento del cargo es inherente a la persona y ésta muere sin cumplirlo, la adquisición del derecho principal queda sin efecto, volviendo los bienes al titular originario o a sus herederos. La reversión no afecta a los terceros sino en cuanto pudiese afectarlos la condición resolutoria.
+
+ARTICULO 357.- Cargo prohibido. La estipulación como cargo en los actos jurídicos de hechos que no pueden serlo como condición, se tiene por no escrita, pero no provoca la nulidad del acto.
+
+CAPITULO 8
+
+Representación
+
+SECCION 1ª
+
+Disposiciones generales
+
+ARTICULO 358.- Principio. Fuentes. Los actos jurídicos entre vivos pueden ser celebrados por medio de representante, excepto en los casos en que la ley exige que sean otorgados por el titular del derecho.
+
+La representación es voluntaria cuando resulta de un acto jurídico, es legal cuando resulta de una regla de derecho, y es orgánica cuando resulta del estatuto de una persona jurídica.
+
+En las relaciones de familia la representación se rige, en subsidio, por las disposiciones de este Capítulo.
+
+ARTICULO 359.- Efectos. Los actos celebrados por el representante en nombre del representado y en los límites de las facultades conferidas por la ley o por el acto de apoderamiento, producen efecto directamente para el representado.
+
+ARTICULO 360.- Extensión. La representación alcanza a los actos objeto del apoderamiento, a las facultades otorgadas por la ley y también a los actos necesarios para su ejecución.
+
+ARTICULO 361.- Limitaciones. La existencia de supuestos no autorizados y las limitaciones o la extinción del poder son oponibles a terceros si éstos las conocen o pudieron conocerlas actuando con la debida diligencia.
+
+SECCION 2ª
+
+Representación voluntaria
+
+ARTICULO 362.- Caracteres. La representación voluntaria comprende sólo los actos que el representado puede otorgar por sí mismo. Los límites de la representación, su extinción, y las instrucciones que el representado dio a su representante, son oponibles a terceros si éstos han tomado conocimiento de tales circunstancias, o debieron conocerlas obrando con cuidado y previsión.
+
+ARTICULO 363.- Forma. El apoderamiento debe ser otorgado en la forma prescripta para el acto que el representante debe realizar.
+
+ARTICULO 364.- Capacidad. En la representación voluntaria el representado debe tener capacidad para otorgar el acto al momento del apoderamiento; para el representante es suficiente el discernimiento.
+
+ARTICULO 365.- Vicios. El acto otorgado por el representante es nulo si su voluntad está viciada. Pero si se ha otorgado en ejercicio de facultades previamente determinadas por el representado es nulo sólo si estuvo viciada la voluntad de éste.
+
+El representado de mala fe no puede aprovecharse de la ignorancia o la buena fe del representante.
+
+ARTICULO 366.- Actuación en ejercicio del poder. Cuando un representante actúa dentro del marco de su poder, sus actos obligan directamente al representado y a los terceros. El representante no queda obligado para con los terceros, excepto que haya garantizado de algún modo el negocio. Si la voluntad de obrar en nombre de otro no aparece claramente, se entiende que ha procedido en nombre propio.
+
+ARTICULO 367.- Representación aparente. Cuando alguien ha obrado de manera de inducir a un tercero a celebrar un acto jurídico, dejándolo creer razonablemente que negocia con su representante, sin que haya representación expresa, se entiende que le ha otorgado tácitamente poder suficiente.
+
+A tal efecto se presume que:
+
+a) quien de manera notoria tiene la administración de un establecimiento abierto al público es apoderado para todos los actos propios de la gestión ordinaria de éste;
+
+b) los dependientes que se desempeñan en el establecimiento están facultados para todos los actos que ordinariamente corresponden a las funciones que realizan;
+
+c) los dependientes encargados de entregar mercaderías fuera del establecimiento están facultados a percibir su precio otorgando el pertinente recibo.
+
+ARTICULO 368.- Acto consigo mismo. Nadie puede, en representación de otro, efectuar consigo mismo un acto jurídico, sea por cuenta propia o de un tercero, sin la autorización del representado. Tampoco puede el representante, sin la conformidad del representado, aplicar fondos o rentas obtenidos en ejercicio de la representación a sus propios negocios, o a los ajenos confiados a su gestión.
+
+ARTICULO 369.- Ratificación. La ratificación suple el defecto de representación. Luego de la ratificación, la actuación se da por autorizada, con efecto retroactivo al día del acto, pero es inoponible a terceros que hayan adquirido derechos con anterioridad.
+
+ARTICULO 370.- Tiempo de la ratificación. La ratificación puede hacerse en cualquier tiempo, pero los interesados pueden requerirla, fijando un plazo para ello que no puede exceder de quince días; el silencio se debe interpretar como negativa. Si la ratificación depende de la autoridad administrativa o judicial, el término se extiende a tres meses. El tercero que no haya requerido la ratificación puede revocar su consentimiento sin esperar el vencimiento de estos términos.
+
+ARTICULO 371.- Manifestación de la ratificación. La ratificación resulta de cualquier manifestación expresa o de cualquier acto o comportamiento concluyente que necesariamente importe una aprobación de lo que haya hecho el que invoca la representación.
+
+ARTICULO 372.- Obligaciones y deberes del representante. El representante tiene las siguientes obligaciones y deberes:
+
+a) de fidelidad, lealtad y reserva;
+
+b) de realización de la gestión encomendada, que exige la legalidad de su prestación, el cumplimiento de las instrucciones del representado, y el desarrollo de una conducta según los usos y prácticas del tráfico;
+
+c) de comunicación, que incluye los de información y de consulta;
+
+d) de conservación y de custodia;
+
+e) de prohibición, como regla, de adquirir por compraventa o actos jurídicos análogos los bienes de su representado;
+
+f) de restitución de documentos y demás bienes que le correspondan al representado al concluirse la gestión.
+
+ARTICULO 373.- Obligaciones y deberes del representado. El representado tiene las siguientes obligaciones y deberes:
+
+a) de prestar los medios necesarios para el cumplimiento de la gestión;
+
+b) de retribuir la gestión, si corresponde;
+
+c) de dejar indemne al representante.
+
+ARTICULO 374.- Copia. Los terceros pueden exigir que el representante suscriba y les entregue copia firmada por él del instrumento del que resulta su representación.
+
+ARTICULO 375.- Poder conferido en términos generales y facultades expresas. Las facultades contenidas en el poder son de interpretación restrictiva. El poder conferido en términos generales sólo incluye los actos propios de administración ordinaria y los necesarios para su ejecución.
+
+Son necesarias facultades expresas para:
+
+a) peticionar el divorcio, la nulidad de matrimonio, la modificación, disolución o liquidación del régimen patrimonial del matrimonio;
+
+b) otorgar el asentimiento conyugal si el acto lo requiere, caso en el que deben identificarse los bienes a que se refiere;
+
+c) reconocer hijos, caso en el que debe individualizarse a la persona que se reconoce;
+
+d) aceptar herencias;
+
+e) constituir, modificar, transferir o extinguir derechos reales sobre inmuebles u otros bienes registrables;
+
+f) crear obligaciones por una declaración unilateral de voluntad;
+
+g) reconocer o novar obligaciones anteriores al otorgamiento del poder;
+
+h) hacer pagos que no sean los ordinarios de la administración;
+
+i) renunciar, transar, someter a juicio arbitral derechos u obligaciones, sin perjuicio de las reglas aplicables en materia de concursos y quiebras;
+
+j) formar uniones transitorias de empresas, agrupamientos de colaboración empresaria, sociedades, asociaciones, o fundaciones;
+
+k) dar o tomar en locación inmuebles por más de tres años, o cobrar alquileres anticipados por más de un año;
+
+l) realizar donaciones, u otras liberalidades, excepto pequeñas gratificaciones habituales;
+
+m) dar fianzas, comprometer servicios personales, recibir cosas en depósito si no se trata del necesario, y dar o tomar dinero en préstamo, excepto cuando estos actos correspondan al objeto para el que se otorgó un poder en términos generales.
+
+ARTICULO 376.- Responsabilidad por inexistencia o exceso en la representación. Si alguien actúa como representante de otro sin serlo, o en exceso de las facultades conferidas por el representado, es responsable del daño que la otra parte sufra por haber confiado, sin culpa suya, en la validez del acto; si hace saber al tercero la falta o deficiencia de su poder, está exento de dicha responsabilidad.
+
+ARTICULO 377.- Sustitución. El representante puede sustituir el poder en otro. Responde por el sustituto si incurre en culpa al elegir. El representado puede indicar la persona del sustituto, caso en el cual el representante no responde por éste.
+
+El representado puede prohibir la sustitución.
+
+ARTICULO 378.- Pluralidad de representantes. La designación de varios representantes, sin indicación de que deban actuar conjuntamente, todos o algunos de ellos, se entiende que faculta a actuar indistintamente a cualquiera de ellos.
+
+ARTICULO 379.- Apoderamiento plural. El poder otorgado por varias personas para un objeto de interés común puede ser revocado por cualquiera de ellas sin dependencia de las otras.
+
+ARTICULO 380.- Extinción. El poder se extingue:
+
+a) por el cumplimiento del o de los actos encomendados en el apoderamiento;
+
+b) por la muerte del representante o del representado; sin embargo subsiste en caso de muerte del representado siempre que haya sido conferido para actos especialmente determinados y en razón de un interés legítimo que puede ser solamente del representante, de un tercero o común a representante y representado, o a representante y un tercero, o a representado y tercero;
+
+c) por la revocación efectuada por el representado; sin embargo, un poder puede ser conferido de modo irrevocable, siempre que lo sea para actos especialmente determinados, limitado por un plazo cierto, y en razón de un interés legítimo que puede ser solamente del representante, o de un tercero, o común a representante y representado, o a representante y un tercero, o a representado y tercero; se extingue llegado el transcurso del plazo fijado y puede revocarse si media justa causa;
+
+d) por la renuncia del representante, pero éste debe continuar en funciones hasta que notifique aquélla al representado, quien puede actuar por sí o reemplazarlo, excepto que acredite un impedimento que configure justa causa;
+
+e) por la declaración de muerte presunta del representante o del representado;
+
+f) por la declaración de ausencia del representante;
+
+g) por la quiebra del representante o representado;
+
+h) por la pérdida de la capacidad exigida en el representante o en el representado.
+
+ARTICULO 381.- Oponibilidad a terceros. Las modificaciones, la renuncia y la revocación de los poderes deben ser puestas en conocimiento de los terceros por medios idóneos. En su defecto, no son oponibles a los terceros, a menos que se pruebe que éstos conocían las modificaciones o la revocación en el momento de celebrar el acto jurídico.
+
+Las demás causas de extinción del poder no son oponibles a los terceros que las hayan ignorado sin su culpa.
+
+CAPITULO 9
+
+Ineficacia de los actos jurídicos
+
+SECCION 1ª
+
+Disposiciones generales
+
+ARTICULO 382.- Categorías de ineficacia. Los actos jurídicos pueden ser ineficaces en razón de su nulidad o de su inoponibilidad respecto de determinadas personas.
+
+ARTICULO 383.- Articulación. La nulidad puede argüirse por vía de acción u oponerse como excepción. En todos los casos debe sustanciarse.
+
+ARTICULO 384.- Conversión. El acto nulo puede convertirse en otro diferente válido cuyos requisitos esenciales satisfaga, si el fin práctico perseguido por las partes permite suponer que ellas lo habrían querido si hubiesen previsto la nulidad.
+
+ARTICULO 385.- Acto indirecto. Un acto jurídico celebrado para obtener un resultado que es propio de los efectos de otro acto, es válido si no se otorga para eludir una prohibición de la ley o para perjudicar a un tercero.
+
+SECCION 2ª
+
+Nulidad absoluta y relativa
+
+ARTICULO 386.- Criterio de distinción. Son de nulidad absoluta los actos que contravienen el orden público, la moral o las buenas costumbres. Son de nulidad relativa los actos a los cuales la ley impone esta sanción sólo en protección del interés de ciertas personas.
+
+ARTICULO 387.- Nulidad absoluta. Consecuencias. La nulidad absoluta puede declararse por el juez, aun sin mediar petición de parte, si es manifiesta en el momento de dictar sentencia. Puede alegarse por el Ministerio Público y por cualquier interesado, excepto por la parte que invoque la propia torpeza para lograr un provecho. No puede sanearse por la confirmación del acto ni por la prescripción.
+
+ARTICULO 388.- Nulidad relativa. Consecuencias. La nulidad relativa sólo puede declararse a instancia de las personas en cuyo beneficio se establece. Excepcionalmente puede invocarla la otra parte, si es de buena fe y ha experimentado un perjuicio importante. Puede sanearse por la confirmación del acto y por la prescripción de la acción. La parte que obró con ausencia de capacidad de ejercicio para el acto, no puede alegarla si obró con dolo.
+
+SECCION 3ª
+
+Nulidad total y parcial
+
+ARTICULO 389.- Principio. Integración. Nulidad total es la que se extiende a todo el acto. Nulidad parcial es la que afecta a una o varias de sus disposiciones.
+
+La nulidad de una disposición no afecta a las otras disposiciones válidas, si son separables. Si no son separables porque el acto no puede subsistir sin cumplir su finalidad, se declara la nulidad total.
+
+En la nulidad parcial, en caso de ser necesario, el juez debe integrar el acto de acuerdo a su naturaleza y los intereses que razonablemente puedan considerarse perseguidos por las partes.
+
+SECCION 4ª
+
+Efectos de la nulidad
+
+ARTICULO 390.- Restitución. La nulidad pronunciada por los jueces vuelve las cosas al mismo estado en que se hallaban antes del acto declarado nulo y obliga a las partes a restituirse mutuamente lo que han recibido. Estas restituciones se rigen por las disposiciones relativas a la buena o mala fe según sea el caso, de acuerdo a lo dispuesto en las normas del Capítulo 3 del Título II del Libro Cuarto.
+
+ARTICULO 391.- Hechos simples. Los actos jurídicos nulos, aunque no produzcan los efectos de los actos válidos, dan lugar en su caso a las consecuencias de los hechos en general y a las reparaciones que correspondan.
+
+ARTICULO 392.- Efectos respecto de terceros en cosas registrables. Todos los derechos reales o personales transmitidos a terceros sobre un inmueble o mueble registrable, por una persona que ha resultado adquirente en virtud de un acto nulo, quedan sin ningún valor, y pueden ser reclamados directamente del tercero, excepto contra el subadquirente de derechos reales o personales de buena fe y a título oneroso.
+
+Los subadquirentes no pueden ampararse en su buena fe y título oneroso si el acto se ha realizado sin intervención del titular del derecho.
+
+SECCION 5ª
+
+Confirmación
+
+ARTICULO 393.- Requisitos. Hay confirmación cuando la parte que puede articular la nulidad relativa manifiesta expresa o tácitamente su voluntad de tener al acto por válido, después de haber desaparecido la causa de nulidad.
+
+El acto de confirmación no requiere la conformidad de la otra parte.
+
+ARTICULO 394.- Forma. Si la confirmación es expresa, el instrumento en que ella conste debe reunir las formas exigidas para el acto que se sanea y contener la mención precisa de la causa de la nulidad, de su desaparición y de la voluntad de confirmar el acto.
+
+La confirmación tácita resulta del cumplimiento total o parcial del acto nulo realizado con conocimiento de la causa de nulidad o de otro acto del que se deriva la voluntad inequívoca de sanear el vicio del acto.
+
+ARTICULO 395.- Efecto retroactivo. La confirmación del acto entre vivos originalmente nulo tiene efecto retroactivo a la fecha en que se celebró. La confirmación de disposiciones de última voluntad opera desde la muerte del causante.
+
+La retroactividad de la confirmación no perjudica los derechos de terceros de buena fe.
+
+SECCION 6ª
+
+Inoponibilidad
+
+ARTICULO 396.- Efectos del acto inoponible frente a terceros. El acto inoponible no tiene efectos con respecto a terceros, excepto en los casos previstos por la ley.
+
+ARTICULO 397.- Oportunidad para invocarla. La inoponibilidad puede hacerse valer en cualquier momento, sin perjuicio del derecho de la otra parte a oponer la prescripción o la caducidad.
+
+----------------------------------------
+LIBRO PRIMERO - PARTE GENERAL - TITULO 5
+TITULO 5: Transmisión de los derechos
+Articulos: 398 al 400
+
+----------------------------------------
+TITULO V
+
+Transmisión de los derechos
+
+ARTICULO 398.- Transmisibilidad. Todos los derechos son transmisibles excepto estipulación válida de las partes o que ello resulte de una prohibición legal o que importe trasgresión a la buena fe, a la moral o a las buenas costumbres.
+
+ARTICULO 399.- Regla general. Nadie puede transmitir a otro un derecho mejor o más extenso que el que tiene, sin perjuicio de las excepciones legalmente dispuestas.
+
+ARTICULO 400.- Sucesores. Sucesor universal es el que recibe todo o una parte indivisa del patrimonio de otro; sucesor singular el que recibe un derecho en particular.
+

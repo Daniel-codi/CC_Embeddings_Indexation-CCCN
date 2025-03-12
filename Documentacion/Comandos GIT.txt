@@ -1,0 +1,48 @@
+git init (inicializa en el directorio)
+
+git status -s
+
+
+git config --global core.autocrlf input
+git add .
+git add index.html   (lo envia al area de ensayo)
+
+git commit -m "..."  (lo envia al repositorio local)
+
+git log --oneline (nos muestra el estado del proyecto"git
+
+git reset --hard ... (devuelve al estadgit. o anterior)
+
+git branch (si ves master en lugar de main, usa)
+
+
+git push --set-upstream origin main
+git push --set-upstream origin master
+(envia los archivos actualizados a GitHub)
+
+
+git remote add origin git https://github.com/Daniel-codi/milista.net-GPRO.git
+
+Danilord2github
+token: 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
+
+
+Configuraciones: IMPORTANTE!
+
+git config --global core.autocrlf input
+Esto hace que los archivos se guarden con LF en el repo (sistemas linux), pero Windows los lea como CRLF sin cambiarlos (sistemas Windows).
+CC-El_3-3_Biblia
+    ├── data
+    ├── documentacion
+    ├── node_modules
+    ├── services
+    │   ├── corsConfig.js
+    ├── .env
+    ├── .gitignore
+    ├── app.js
+    ├── consulta.js
+    ├── index.js
+    ├── index_Funciona.html
+    ├── package.json
+    ├── package-lock.json
+    ├── smartFunctions.js

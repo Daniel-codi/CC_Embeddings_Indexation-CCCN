@@ -1,0 +1,8 @@
+SmartSelector selecciona uno o más de estos contextos válidos para la pregunta:
+   - de los primeros seis libros
+   - del libro de Génesis
+   - del libro de Éxodo
+   - del libro de Levítico
+   - del libro de Números
+   - del libro de Deuteronomio
+   - del libro de Josué

@@ -1,0 +1,135 @@
+Concept Curve Embeddings Indexation - 30 concepts per chunk - structured knowledge
+
+Documento: este documento es el Manual del juego de Grand Prix Racing Online https://www.gpro.net/es/GPRORules.asp#1-overview
+
+File: Cap1-2.txt
+Manager
+Piloto
+Auto
+Clasificación
+Estrategia
+Riesgo
+Energía
+Neumático
+Combustible
+Grupo
+Elite
+Pro
+Amateur
+Rookie
+Equipo
+Directores técnicos
+Esponsors
+Contrato
+Sistema de puntos
+Circuito
+Parrilla de salida
+Práctica
+Configuración
+Clasificación 1
+Clasificación 2
+Resultados
+Competencia
+Simulación
+Meta
+Campeón
+
+File: Cap3-4.txt
+Piloto
+Director técnico
+Oferta
+Contrato
+Compensación
+Promedio total
+Habilidades
+Grupo
+Master
+Pro
+Amateur
+Rookie
+Clasificación
+Velocidad
+Riesgo
+Decisión
+Mercado
+Bonos
+Personal
+Instalaciones
+Entrenamiento
+Pruebas
+Investigación y desarrollo
+Desarrollo
+Aceleración
+Potencia
+Manejo
+Configuración
+Pit Coordination
+Instalaciones superiores
+
+File: Cap5-6.txt
+Finanzas
+Patrocinadores
+Negociación
+Reputación
+Paciencia
+Expectativas
+Imagen
+Costos
+Carrera
+Salario
+Ingresos
+Bonificación
+Posición
+Recompensa
+Categoría
+Competición
+Cupo
+Grupo
+Equipo
+Creación
+Balance
+Puntos
+Clasificación
+Carrera
+Entrenamiento
+Piloto
+Director Técnico
+Bonus
+Inactividad
+Expulsión
+
+File: Cap7-8-9.txt
+Fin de temporada
+Bono
+Top 10
+Managers
+Pausa
+Promoción
+Descenso
+Grupo
+Elite
+Rookie
+Balance
+Clasificación
+Asenso
+Impuestos
+Reseteo
+Auto
+Instalar
+Donación
+Saldo negativo
+Carrera
+Penalización
+Inactividad
+Remover
+Retiro
+Reiniciar
+Cuenta
+Foros
+Comunicación
+Comunidad
+Mensajes privados
+
+
+
+
