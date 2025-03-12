@@ -1,0 +1,135 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO TERCERO - DERECHOS PERSONALES - TITULO 3
+TITULO 3: Contratos de consumo
+Articulos: 1092 a 1122
+-----------------------------------------
+TITULO III
+
+Contratos de consumo
+
+CAPITULO 1
+
+Relación de consumo
+
+ARTICULO 1092.- Relación de consumo. Consumidor. Relación de consumo es el vínculo jurídico entre un proveedor y un consumidor. Se considera consumidor a la persona humana o jurídica que adquiere o utiliza, en forma gratuita u onerosa, bienes o servicios como destinatario final, en beneficio propio o de su grupo familiar o social.
+
+Queda equiparado al consumidor quien, sin ser parte de una relación de consumo como consecuencia o en ocasión de ella, adquiere o utiliza bienes o servicios, en forma gratuita u onerosa, como destinatario final, en beneficio propio o de su grupo familiar o social.
+
+ARTICULO 1093.- Contrato de consumo. Contrato de consumo es el celebrado entre un consumidor o usuario final con una persona humana o jurídica que actúe profesional u ocasionalmente o con una empresa productora de bienes o prestadora de servicios, pública o privada, que tenga por objeto la adquisición, uso o goce de los bienes o servicios por parte de los consumidores o usuarios, para su uso privado, familiar o social.
+
+ARTICULO 1094.- Interpretación y prelación normativa. Las normas que regulan las relaciones de consumo deben ser aplicadas e interpretadas conforme con el principio de protección del consumidor y el de acceso al consumo sustentable.
+
+En caso de duda sobre la interpretación de este Código o las leyes especiales, prevalece la más favorable al consumidor.
+
+ARTICULO 1095.- Interpretación del contrato de consumo. El contrato se interpreta en el sentido más favorable para el consumidor. Cuando existen dudas sobre los alcances de su obligación, se adopta la que sea menos gravosa.
+
+CAPITULO 2
+
+Formación del consentimiento
+
+SECCION 1ª
+
+Prácticas abusivas
+
+ARTICULO 1096.- Ambito de aplicación. Las normas de esta Sección y de la Sección 2a del presente Capítulo son aplicables a todas las personas expuestas a las prácticas comerciales, determinables o no, sean consumidores o sujetos equiparados conforme a lo dispuesto en el artículo 1092.
+
+ARTICULO 1097.- Trato digno. Los proveedores deben garantizar condiciones de atención y trato digno a los consumidores y usuarios. La dignidad de la persona debe ser respetada conforme a los criterios generales que surgen de los tratados de derechos humanos. Los proveedores deben abstenerse de desplegar conductas que coloquen a los consumidores en situaciones vergonzantes, vejatorias o intimidatorias.
+
+ARTICULO 1098.- Trato equitativo y no discriminatorio. Los proveedores deben dar a los consumidores un trato equitativo y no discriminatorio. No pueden establecer diferencias basadas en pautas contrarias a la garantía constitucional de igualdad, en especial, la de la nacionalidad de los consumidores.
+
+ARTICULO 1099.- Libertad de contratar. Están prohibidas las prácticas que limitan la libertad de contratar del consumidor, en especial, las que subordinan la provisión de productos o servicios a la adquisición simultánea de otros, y otras similares que persigan el mismo objetivo.
+
+SECCION 2ª
+
+Información y publicidad dirigida a los consumidores
+
+ARTICULO 1100.- Información. El proveedor está obligado a suministrar información al, consumidor en forma cierta y detallada, respecto de todo lo relacionado con las características esenciales de los bienes y servicios que provee, las condiciones de su comercialización y toda otra circunstancia relevante para el contrato. La información debe ser siempre gratuita para el consumidor y proporcionada con la claridad necesaria que permita su comprensión.
+
+ARTICULO 1101.- Publicidad. Está prohibida toda publicidad que:
+
+a) contenga indicaciones falsas o de tal naturaleza que induzcan o puedan inducir a error al consumidor, cuando recaigan sobre elementos esenciales del producto o servicio;
+
+b) efectúe comparaciones de bienes o servicios cuando sean de naturaleza tal que conduzcan a error al consumidor;
+
+c) sea abusiva, discriminatoria o induzca al consumidor a comportarse de forma perjudicial o peligrosa para su salud o seguridad.
+
+ARTICULO 1102.- Acciones. Los consumidores afectados o quienes resulten legalmente legitimados pueden solicitar al juez: la cesación de la publicidad ilícita, la publicación, a cargo del demandado, de anuncios rectificatorios y, en su caso, de la sentencia condenatoria.
+
+ARTICULO 1103.- Efectos de la publicidad. Las precisiones formuladas en la publicidad o en anuncios, prospectos, circulares u otros medios de difusión se tienen por incluidas en el contrato con el consumidor y obligan al oferente.
+
+CAPITULO 3
+
+Modalidades especiales
+
+ARTICULO 1104.- Contratos celebrados fuera de los establecimientos comerciales. Está comprendido en la categoría de contrato celebrado fuera de los establecimientos comerciales del proveedor el que resulta de una oferta o propuesta sobre un bien o servicio concluido en el domicilio o lugar de trabajo del consumidor, en la vía pública, o por medio de correspondencia, los que resultan de una convocatoria al consumidor o usuario al establecimiento del proveedor o a otro sitio, cuando el objetivo de dicha convocatoria sea total o parcialmente distinto al de la contratación, o se trate de un premio u obsequio.
+
+ARTICULO 1105.- Contratos celebrados a distancia. Contratos celebrados a distancia son aquellos concluidos entre un proveedor y un consumidor con el uso exclusivo de medios de comunicación a distancia, entendiéndose por tales los que pueden ser utilizados sin la presencia física simultánea de las partes contratantes. En especial, se consideran los medios postales, electrónicos, telecomunicaciones, así como servicios de radio, televisión o prensa.
+
+ARTICULO 1106.- Utilización de medios electrónicos. Siempre que en este Código o en leyes especiales se exija que el contrato conste por escrito, este requisito se debe entender satisfecho si el contrato con el consumidor o usuario contiene un soporte electrónico u otra tecnología similar.
+
+ARTICULO 1107.- Información sobre los medios electrónicos. Si las partes se valen de técnicas de comunicación electrónica o similares para la celebración de un contrato de consumo a distancia, el proveedor debe informar al consumidor, además del contenido mínimo del contrato y la facultad de revocar, todos los datos necesarios para utilizar correctamente el medio elegido, para comprender los riesgos derivados de su empleo, y para tener absolutamente claro quién asume esos riesgos.
+
+ARTICULO 1108.- Ofertas por medios electrónicos. Las ofertas de contratación por medios electrónicos o similares deben tener vigencia durante el período que fije el oferente o, en su defecto, durante todo el tiempo que permanezcan accesibles al destinatario. El oferente debe confirmar por vía electrónica y sin demora la llegada de la aceptación.
+
+ARTICULO 1109.- Lugar de cumplimiento. En los contratos celebrados fuera de los establecimientos comerciales, a distancia, y con utilización de medios electrónicos o similares, se considera lugar de cumplimiento aquel en el que el consumidor recibió o debió recibir la prestación. Ese lugar fija la jurisdicción aplicable a los conflictos derivados del contrato. La cláusula de prórroga de jurisdicción se tiene por no escrita.
+
+ARTICULO 1110.- Revocación. En los contratos celebrados fuera de los establecimientos comerciales y a distancia, el consumidor tiene el derecho irrenunciable de revocar la aceptación dentro de los diez días computados a partir de la celebración del contrato.
+
+Si la aceptación es posterior a la entrega del bien, el plazo debe comenzar a correr desde que esta última se produce.
+
+Si el plazo vence en día inhábil, se prorroga hasta el primer día hábil siguiente.
+
+Las cláusulas, pactos o cualquier modalidad aceptada por el consumidor durante este período que tengan por resultado la imposibilidad de ejercer el derecho de revocación se tienen por no escritos.
+
+ARTICULO 1111.- Deber de informar el derecho a la revocación. El proveedor debe informar al consumidor sobre la facultad de revocación mediante su inclusión en caracteres destacados en todo documento que presenta al consumidor en la etapa de negociaciones o en el documento que instrumenta el contrato concluido, ubicada como disposición inmediatamente anterior a la firma del consumidor o usuario. El derecho de revocación no se extingue si el consumidor no ha sido informado debidamente sobre su derecho.
+
+ARTICULO 1112.- Forma y plazo para notificar la revocación. La revocación debe ser notificada al proveedor por escrito o medios electrónicos o similares, o mediante la devolución de la cosa dentro del plazo de diez días computados conforme a lo previsto en el artículo 1110.
+
+ARTICULO 1113.- Efectos del ejercicio del derecho de revocación. Si el derecho de revocar es ejercido en tiempo y forma por el consumidor, las partes quedan liberadas de sus obligaciones correspectivas y deben restituirse recíproca y simultáneamente las prestaciones que han cumplido.
+
+ARTICULO 1114.- Imposibilidad de devolución. La imposibilidad de devolver la prestación objeto del contrato no priva al consumidor de su derecho a revocar. Si la imposibilidad le es imputable, debe pagar al proveedor el valor de mercado que la prestación tiene al momento del ejercicio del derecho a revocar, excepto que dicho valor sea superior al precio de adquisición, en cuyo caso la obligación queda limitada a este último.
+
+ARTICULO 1115.- Gastos. El ejercicio del derecho de revocación no debe implicar gasto alguno para el consumidor. En particular, el consumidor no tiene que reembolsar cantidad alguna por la disminución del valor de la cosa que sea consecuencia de su uso conforme a lo pactado o a su propia naturaleza, y tiene derecho al reembolso de los gastos necesarios y útiles que realizó en ella.
+
+ARTICULO 1116.- Excepciones al derecho de revocar. Excepto pacto en contrario, el derecho de revocar no es aplicable a los siguientes contratos:
+
+a) los referidos a productos confeccionados conforme a las especificaciones suministradas por el consumidor o claramente personalizados o que, por su naturaleza, no pueden ser devueltos o puedan deteriorarse con rapidez;
+
+b) los de suministro de grabaciones sonoras o de video, de discos y de programas informáticos que han sido decodificados por el consumidor, así como de ficheros informáticos, suministrados por vía electrónica, susceptibles de ser descargados o reproducidos con carácter inmediato para su uso permanente;
+
+c) los de suministro de prensa diaria, publicaciones periódicas y revistas.
+
+CAPITULO 4
+
+Cláusulas abusivas
+
+ARTICULO 1117.- Normas aplicables. Se aplican en este Capítulo lo dispuesto por las leyes especiales y los artículos 985, 986, 987 y 988, existan o no cláusulas generales predispuestas por una de las partes.
+
+ARTICULO 1118.- Control de incorporación. Las cláusulas incorporadas a un contrato de consumo pueden ser declaradas abusivas aun cuando sean negociadas individualmente o aprobadas expresamente por el consumidor.
+
+ARTICULO 1119.- Regla general. Sin perjuicio de lo dispuesto en las leyes especiales, es abusiva la cláusula que, habiendo sido o no negociada individualmente, tiene por objeto o por efecto provocar un desequilibrio significativo entre los derechos y las obligaciones de las partes, en perjuicio del consumidor.
+
+ARTICULO 1120.- Situación jurídica abusiva. Se considera que existe una situación jurídica abusiva cuando el mismo resultado se alcanza a través de la predisposición de una pluralidad de actos jurídicos conexos.
+
+ARTICULO 1121.- Límites. No pueden ser declaradas abusivas:
+
+a) las cláusulas relativas a la relación entre el precio y el bien o el servicio procurado;
+
+b) las que reflejan disposiciones vigentes en tratados internacionales o en normas legales imperativas.
+
+ARTICULO 1122.- Control judicial. El control judicial de las cláusulas abusivas se rige, sin perjuicio de lo dispuesto en la ley especial, por las siguientes reglas:
+
+a) la aprobación administrativa de los contratos o de sus cláusulas no obsta al control;
+
+b) las cláusulas abusivas se tienen por no convenidas;
+
+c) si el juez declara la nulidad parcial del contrato, simultáneamente lo debe integrar, si no puede subsistir sin comprometer su finalidad;
+
+d) cuando se prueba una situación jurídica abusiva derivada de contratos conexos, el juez debe aplicar lo dispuesto en el artículo 1075.

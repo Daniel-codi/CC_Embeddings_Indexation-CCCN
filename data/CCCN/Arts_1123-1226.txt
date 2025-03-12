@@ -1,0 +1,518 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO TERCERO - DERECHOS PERSONALES - TITULO 4
+TITULO 1: Contratos en particular
+Articulos: 1123 a 1226
+
+Contenido:
+Capitulo 1 - Compraventa
+Capitulo 2 - Permuta 
+Capitulo 3 - Suministro
+Capitulo 4 - Locación
+
+-----------------------------------------
+TITULO IV
+
+Contratos en particular
+
+CAPITULO 1
+
+Compraventa
+
+SECCION 1ª
+
+Disposiciones generales
+
+ARTICULO 1123.- Definición. Hay compraventa si una de las partes se obliga a transferir la propiedad de una cosa y la otra a pagar un precio en dinero.
+
+ARTICULO 1124.- Aplicación supletoria a otros contratos. Las normas de este Capítulo se aplican supletoriamente a los contratos por los cuales una parte se obliga a:
+
+a) transferir a la otra derechos reales de condominio, propiedad horizontal, superficie, usufructo o uso, o a constituir los derechos reales de condominio, superficie, usufructo, uso, habitación, conjuntos inmobiliarios o servidumbre, y dicha parte, a pagar un precio en dinero;
+
+b) transferir la titularidad de títulos valores por un precio en dinero.
+
+ARTICULO 1125.- Compraventa y contrato de obra. Cuando una de las partes se compromete a entregar cosas por un precio, aunque éstas hayan de ser manufacturadas o producidas, se aplican las reglas de la compraventa, a menos que de las circunstancias resulte que la principal de las obligaciones consiste en suministrar mano de obra o prestar otros servicios. Si la parte que encarga la manufactura o producción de las cosas asume la obligación de proporcionar una porción substancial de los materiales necesarios, se aplican las reglas del contrato de obra.
+
+ARTICULO 1126.- Compraventa y permuta. Si el precio consiste parte en dinero y parte en otra cosa, el contrato es de permuta si es mayor el valor de la cosa y de compraventa en los demás casos.
+
+ARTICULO 1127.- Naturaleza del contrato. El contrato no debe ser juzgado como de compraventa, aunque las partes así lo estipulen, si para ser tal le falta algún requisito esencial.
+
+ARTICULO 1128.- Obligación de vender. Nadie está obligado a vender, excepto que se encuentre sometido a la necesidad jurídica de hacerlo.
+
+SECCION 2ª
+
+Cosa vendida
+
+ARTICULO 1129.- Cosa vendida. Pueden venderse todas las cosas que pueden ser objeto de los contratos.
+
+ARTICULO 1130.- Cosa cierta que ha dejado de existir. Si la venta es de cosa cierta que ha dejado de existir al tiempo de perfeccionarse el contrato, éste no produce efecto alguno. Si ha dejado de existir parcialmente, el comprador puede demandar la parte existente con reducción del precio.
+
+Puede pactarse que el comprador asuma el riesgo de que la cosa cierta haya perecido o esté dañada al celebrarse el contrato. El vendedor no puede exigir el cumplimiento del contrato si al celebrarlo sabía que la cosa había perecido o estaba dañada.
+
+ARTICULO 1131.- Cosa futura. Si se vende cosa futura, se entiende sujeta a la condición suspensiva de que la cosa llegue a existir.
+
+El vendedor debe realizar las tareas, y esfuerzos que resulten del contrato, o de las circunstancias, para que ésta llegue a existir en las condiciones y tiempo convenidos.
+
+El comprador puede asumir, por cláusula expresa, el riesgo de que la cosa no llegue a existir sin culpa del vendedor.
+
+ARTICULO 1132.- Cosa ajena. La venta de la cosa total o parcialmente ajena es válida, en los términos del artículo 1008. El vendedor se obliga a transmitir o hacer transmitir su dominio al comprador.
+
+SECCION 3ª
+
+Precio
+
+ARTICULO 1133.- Determinación del precio. El precio es determinado cuando las partes lo fijan en una suma que el comprador debe pagar, cuando se deja su indicación al arbitrio de un tercero designado o cuando lo sea con referencia a otra cosa cierta. En cualquier otro caso, se entiende que hay precio válido si las partes previeron el procedimiento para determinarlo.
+
+ARTICULO 1134.- Precio determinado por un tercero. El precio puede ser determinado por un tercero designado en el contrato o después de su celebración. Si las partes no llegan a un acuerdo sobre su designación o sustitución, o si el tercero no quiere o no puede realizar la determinación, el precio lo fija el juez por el procedimiento más breve que prevea la ley local.
+
+ARTICULO 1135.- Precio no convenido por unidad de medida de superficie. Si el objeto principal de la venta es una fracción de tierra, aunque esté edificada, no habiendo sido convenido el precio por unidad de medida de superficie y la superficie de terreno tiene una diferencia mayor del cinco por ciento con la acordada, el vendedor o el comprador, según los casos, tiene derecho de pedir el ajuste de la diferencia. El comprador que por aplicación de esta regla debe pagar un mayor precio puede resolver la compra.
+
+ARTICULO 1136.- Precio convenido por unidad de medida de superficie. Si el precio es convenido por unidad de medida de superficie, el precio total es el que resulta en función de la superficie real del inmueble. Si lo vendido es una extensión determinada, y la superficie total excede en más de un cinco por ciento a la expresada en el contrato, el comprador tiene derecho a resolver.
+
+SECCION 4ª
+
+Obligaciones del vendedor
+
+ARTICULO 1137.- Obligación de transferir. El vendedor debe transferir al comprador la propiedad de la cosa vendida. También está obligado a poner a disposición del comprador los instrumentos requeridos por los usos o las particularidades de la venta, y a prestar toda cooperación que le sea exigible para que la transferencia dominial se concrete.
+
+ARTICULO 1138.- Gastos de entrega. Excepto pacto en contrario, están a cargo del vendedor los gastos de la entrega de la cosa vendida y los que se originen en la obtención de los instrumentos referidos en el artículo 1137. En la compraventa de inmuebles también están a su cargo los del estudio del título y sus antecedentes y, en su caso, los de mensura y los tributos que graven la venta.
+
+ARTICULO 1139.- Tiempo de entrega del inmueble. El vendedor debe entregar el inmueble inmediatamente de la escrituración, excepto convención en contrario.
+
+ARTICULO 1140.- Entrega de la cosa. La cosa debe entregarse con sus accesorios, libre de toda relación de poder y de oposición de tercero.
+
+SECCION 5ª
+
+Obligaciones del comprador
+
+ARTICULO 1141.- Enumeración. Son obligaciones del comprador:
+
+a) pagar el precio en el lugar y tiempo convenidos. Si nada se pacta, se entiende que la venta es de contado;
+
+b) recibir la cosa y los documentos vinculados con el contrato. Esta obligación de recibir consiste en realizar todos los actos que razonablemente cabe esperar del comprador para que el vendedor pueda efectuar la entrega, y hacerse cargo de la cosa;
+
+c) pagar los gastos de recibo, incluidos los de testimonio de la escritura pública y los demás posteriores a la venta.
+
+SECCION 6ª
+
+Compraventa de cosas muebles
+
+ARTICULO 1142.- Regla de interpretación. Las disposiciones de esta Sección no excluyen la aplicación de las demás normas del Capítulo en cuanto sean compatibles.
+
+Parágrafo 1°
+
+Precio
+
+ARTICULO 1143.- Silencio sobre el precio. Cuando el contrato ha sido válidamente celebrado, pero el precio no se ha señalado ni expresa ni tácitamente, ni se ha estipulado un medio para determinarlo, se considera, excepto indicación en contrario, que las partes han hecho referencia al precio generalmente cobrado en el momento de la celebración del contrato para tales mercaderías, vendidas en circunstancias semejantes, en el tráfico mercantil de que se trate.
+
+ARTICULO 1144.- Precio fijado por peso, número o medida. Si el precio se fija con relación al peso, número o medida, es debido el precio proporcional al número, peso o medida real de las cosas vendidas. Si el precio se determina en función del peso de las cosas, en caso de duda, se lo calcula por el peso neto.
+
+Parágrafo 2°
+
+Entrega de la documentación
+
+ARTICULO 1145.- Entrega de factura. El vendedor debe entregar al comprador una factura que describa la cosa vendida, su precio, o la parte de éste que ha sido pagada y los demás términos de la venta. Si la factura no indica plazo para el pago del precio se presume que la venta es de contado. La factura no observada dentro de los diez días de recibida se presume aceptada en todo su contenido.
+
+Excepto disposición legal, si es de uso no emitir factura, el vendedor debe entregar un documento que acredite la venta.
+
+ARTICULO 1146.- Obligación de entregar documentos. Si el vendedor está obligado a entregar documentos relacionados con las cosas vendidas, debe hacerlo en el momento, lugar y forma fijados por el contrato. En caso de entrega anticipada de documentos, el vendedor puede, hasta el momento fijado para la entrega, subsanar cualquier falta de conformidad de ellos, si el ejercicio de ese derecho no ocasiona inconvenientes ni gastos excesivos al comprador.
+
+Parágrafo 3°
+
+Entrega de la cosa
+
+ARTICULO 1147.- Plazo para la entrega de la cosa. La entrega debe hacerse dentro de las veinticuatro horas de celebrado el contrato, excepto que de la convención o los usos resulte otro plazo.
+
+ARTICULO 1148.- Lugar de entrega de la cosa. El lugar de la entrega es el que se convino, o el que determinen los usos o las particularidades de la venta. En su defecto, la entrega debe hacerse en el lugar en que la cosa cierta se encontraba al celebrarse el contrato.
+
+ARTICULO 1149.- Puesta a disposición de las cosas vendidas. Endoso de mercaderías en tránsito. Las partes pueden pactar que la puesta a disposición de la mercadería vendida en lugar cierto y en forma incondicional tenga los efectos de la entrega, sin perjuicio de los derechos del comprador de revisarla y expresar su no conformidad dentro de los diez días de retirada. También pueden pactar que la entrega de la mercadería en tránsito tenga lugar por el simple consentimiento de las partes materializado en la cesión o el endoso de los documentos de transporte desde la fecha de su cesión o endoso.
+
+ARTICULO 1150.- Entrega anticipada de cosas no adecuadas al contrato. En caso de entrega anticipada de cosas no adecuadas al contrato, sea en cantidad o calidad, el vendedor puede, hasta la fecha fijada:
+
+a) entregar la parte o cantidad que falte de las cosas;
+
+b) entregar otras cosas en sustitución de las dadas o subsanar cualquier falta de adecuación de las cosas entregadas a lo convenido, siempre que el ejercicio de ese derecho no ocasione al comprador inconvenientes ni gastos excesivos; no obstante, el comprador conserva el derecho de exigir la indemnización de los daños.
+
+ARTICULO 1151.- Riesgos de daños o pérdida de las cosas. Están a cargo del vendedor los riesgos de daños o pérdida de las cosas, y los gastos incurridos hasta ponerla a disposición del comprador en los términos del artículo 1149 o, en su caso, del transportista u otro tercero, pesada o medida y en las demás condiciones pactadas o que resulten de los usos aplicables o de las particularidades de la venta.
+
+Parágrafo 4°
+
+Recepción de la cosa y pago del precio
+
+ARTICULO 1152.- Tiempo del pago. El pago se hace contra la entrega de la cosa, excepto pacto en contrario. El comprador no está obligado a pagar el precio mientras no tiene la posibilidad de examinar las cosas, a menos que las modalidades de entrega o de pago pactadas por las partes sean incompatibles con esta posibilidad.
+
+ARTICULO 1153.- Compraventa sobre muestras. Si la compraventa se hace sobre muestras, el comprador no puede rehusar la recepción si la cosa es de igual calidad que la muestra.
+
+ARTICULO 1154.- Compraventa de cosas que no están a la vista. En los casos de cosas que no están a la vista y deben ser remitidas por el vendedor al comprador, la cosa debe adecuarse al contrato al momento de su entrega al comprador, al transportista o al tercero designado para recibirla.
+
+ARTICULO 1155.- Cosas que se entregan en fardos o bajo cubierta. Si las cosas muebles se entregan en fardo o bajo cubierta que impiden su examen y reconocimiento, el comprador puede reclamar en los diez días inmediatos a la entrega, cualquier falta en la cantidad o la inadecuación de las cosas al contrato.
+
+El vendedor puede exigir que en el acto de la entrega se haga el reconocimiento íntegro de la cantidad y de la adecuación de las cosas entregadas al contrato, y en ese caso no hay lugar a reclamos después de recibidas.
+
+ARTICULO 1156.- Adecuación de las cosas muebles a lo convenido. Se considera que las cosas muebles son adecuadas al contrato si:
+
+a) son aptas para los fines a que ordinariamente se destinan cosas del mismo tipo;
+
+b) son aptas para cualquier fin especial que expresa o tácitamente se haya hecho saber al vendedor en el momento de la celebración del contrato, excepto que de las circunstancias resulte que el comprador no confió o no era razonable que confiara, en la idoneidad y criterio del vendedor;
+
+c) están envasadas o embaladas de la manera habitual para tales mercaderías o, si no la hay, de una adecuada para conservarlas y protegerlas;
+
+d) responden a lo previsto en el artículo 1153.
+
+El vendedor no es responsable, a tenor de lo dispuesto en los incisos a) y c) de este artículo, de la inadecuación de la cosa que el comprador conocía o debía conocer en el momento de la celebración del contrato.
+
+ARTICULO 1157.- Determinación de la adecuación de las cosas al contrato. En los casos de los artículos 1153 y 1154 el comprador debe informar al vendedor sin demora de la falta de adecuación de las cosas a lo convenido.
+
+La determinación de si la cosa remitida por el vendedor es adecuada al contrato se hace por peritos arbitradores, excepto estipulación contraria.
+
+Si las partes no acuerdan sobre la designación del perito arbitrador, cualquiera de ellas puede demandar judicialmente su designación dentro del plazo de caducidad de treinta días de entrega de la cosa. El juez designa el arbitrador.
+
+ARTICULO 1158.- Plazo para reclamar por los defectos de las cosas. Si la venta fue convenida mediante entrega a un transportista o a un tercero distinto del comprador y no ha habido inspección de la cosa, los plazos para reclamar por las diferencias de cantidad o por su no adecuación al contrato se cuentan desde su recepción por el comprador.
+
+ARTICULO 1159.- Compraventa por junto. Si la venta es por una cantidad de cosas “por junto” el comprador no está obligado a recibir sólo una parte de ellas, excepto pacto en contrario. Si la recibe, la venta y transmisión del dominio quedan firmes a su respecto.
+
+ARTICULO 1160.- Compraventas sujetas a condición suspensiva. La compraventa está sujeta a la condición suspensiva de la aceptación de la cosa por el comprador si:
+
+a) el comprador se reserva la facultad de probar la cosa;
+
+b) la compraventa se conviene o es, de acuerdo con los usos, “a satisfacción del comprador”.
+
+El plazo para aceptar es de diez días, excepto que otro se haya pactado o emane de los usos. La cosa se considera aceptada y el contrato se juzga concluido cuando el comprador paga el precio sin reserva o deja transcurrir el plazo sin pronunciarse.
+
+ARTICULO 1161.- Cláusulas de difusión general en los usos internacionales. Las cláusulas que tengan difusión en los usos internacionales se presumen utilizadas con el significado que les adjudiquen tales usos, aunque la venta no sea internacional, siempre que de las circunstancias no resulte lo contrario.
+
+ARTICULO 1162.- Compraventa con cláusula pago contra documentos. En la compraventa de cosas muebles con cláusula “pago contra documentos”, “aceptación contra documentos” u otras similares, el pago, aceptación o acto de que se trate sólo puede ser rehusado por falta de adecuación de los documentos con el contrato, con independencia de la inspección o aceptación de la cosa vendida, excepto que lo contrario resulte de la convención o de los usos, o que su falta de identidad con la cosa vendida esté ya demostrada.
+
+Si el pago, aceptación o acto de que se trate debe hacerse por medio de un banco, el vendedor no tiene acción contra el comprador hasta que el banco rehúse hacerlo.
+
+SECCION 7ª
+
+Algunas cláusulas que pueden ser agregadas al contrato de compraventa
+
+ARTICULO 1163.- Pacto de retroventa. Pacto de retroventa es aquel por el cual el vendedor se reserva el derecho de recuperar la cosa vendida y entregada al comprador contra restitución del precio, con el exceso o disminución convenidos.
+
+El contrato sujeto a este pacto se rige por las reglas de la compraventa sometida a condición resolutoria.
+
+ARTICULO 1164.- Pacto de reventa. Pacto de reventa es aquel por el cual el comprador se reserva el derecho de devolver la cosa comprada. Ejercido el derecho, el vendedor debe restituir el precio, con el exceso o disminución convenidos.
+
+Se aplican las reglas de la compraventa bajo condición resolutoria.
+
+ARTICULO 1165.- Pacto de preferencia. Pacto de preferencia es aquel por el cual el vendedor tiene derecho a recuperar la cosa con prelación a cualquier otro adquirente si el comprador decide enaje-narla. El derecho que otorga es personal y no puede cederse ni pasa a los herederos.
+
+El comprador debe comunicar oportunamente al vendedor su decisión de enajenar la cosa y todas las particularidades de la operación proyectada o, en su caso, el lugar y tiempo en que debe celebrarse la subasta.
+
+Excepto que otro plazo resulte de la convención, los usos o las circunstancias del caso, el vendedor debe ejercer su derecho de preferencia dentro de los diez días de recibida dicha comunicación.
+
+Se aplican las reglas de la compraventa bajo condición resolutoria.
+
+ARTICULO 1166.- Pactos agregados a la compraventa de cosas registrables. Los pactos regulados en los artículos precedentes pueden agregarse a la compraventa de cosas muebles e inmuebles. Si la cosa vendida es registrable, los pactos de retroventa, de reventa y de preferencia son oponibles a terceros interesados si resultan de los documentos inscriptos en el registro correspondiente, o si de otro modo el tercero ha tenido conocimiento efectivo.
+
+Si las cosas vendidas son muebles no registrables, los pactos no son oponibles a terceros adquirentes de buena fe y a título oneroso.
+
+ARTICULO 1167.- Plazos. Los pactos regulados en los artículos precedentes pueden ser convenidos por un plazo que no exceda de cinco años si se trata de cosas inmuebles, y de dos años si se trata de cosas muebles, contados desde la celebración del contrato.
+
+Si las partes convienen un plazo mayor se reduce al máximo legal. El plazo establecido por la ley es perentorio e improrrogable.
+
+ARTICULO 1168.- Venta condicional. Presunción. En caso de duda, la venta condicional se reputa hecha bajo condición resolutoria, si antes del cumplimiento de la condición el vendedor hace tradición de la cosa al comprador.
+
+ARTICULO 1169.- Efecto de la compraventa sujeta a condición resolutoria. La compraventa sujeta a condición resolutoria produce los efectos propios del contrato, pero la tradición o, en su caso, la inscripción registral, sólo transmite el dominio revocable.
+
+SECCION 8ª
+
+Boleto de compraventa
+
+ARTICULO 1170.- Boleto de compraventa de inmuebles. El derecho del comprador de buena fe tiene prioridad sobre el de terceros que hayan trabado cautelares sobre el inmueble vendido si:
+
+a) el comprador contrató con el titular registral, o puede subrogarse en la posición jurídica de quien lo hizo mediante un perfecto eslabonamiento con los adquirentes sucesivos;
+
+b) el comprador pagó como mínimo el veinticinco por ciento del precio con anterioridad a la traba de la cautelar;
+
+c) el boleto tiene fecha cierta;
+
+d) la adquisición tiene publicidad suficiente, sea registral, sea posesoria.
+
+ARTICULO 1171.- Oponibilidad del boleto en el concurso o quiebra. Los boletos de compraventa de inmuebles de fecha cierta otorgados a favor de adquirentes de buena fe son oponibles al concurso o quiebra del vendedor si se hubiera abonado como mínimo el veinticinco por ciento del precio. El juez debe disponer que se otorgue la respectiva escritura pública. El comprador puede cumplir sus obligaciones en el plazo convenido. En caso de que la prestación a cargo del comprador sea a plazo, debe constituirse hipoteca en primer grado sobre el bien, en garantía del saldo de precio.
+
+CAPITULO 2
+
+Permuta
+
+ARTICULO 1172.- Definición. Hay permuta si las partes se obligan recíprocamente a transferirse el dominio de cosas que no son dinero.
+
+ARTICULO 1173.- Gastos. Excepto pacto en contrario, los gastos previstos en el artículo 1138 y todos los demás gastos que origine la permuta, son soportados por los contratantes por partes iguales.
+
+ARTICULO 1174.- Evicción. El permutante que es vencido en la propiedad de la cosa que le fue transmitida puede pedir la restitución de la que dio a cambio o su valor al tiempo de la evicción, y los daños. Puede optar por hacer efectiva la responsabilidad por saneamiento prevista en este Código.
+
+ARTICULO 1175.- Norma supletoria. En todo lo no previsto por el presente Capítulo se aplican supletoriamente las normas de la compraventa.
+
+CAPITULO 3
+
+Suministro
+
+ARTICULO 1176.- Definición. Suministro es el contrato por el cual el suministrante se obliga a entregar bienes, incluso servicios sin relación de dependencia, en forma periódica o continuada, y el suministrado a pagar un precio por cada entrega o grupo de ellas.
+
+ARTICULO 1177.- Plazo máximo. El contrato de suministro puede ser convenido por un plazo máximo de veinte años, si se trata de frutos o productos del suelo o del subsuelo, con proceso de elaboración o sin él, y de diez años en los demás casos. El plazo máximo se computa a partir de la primera entrega ordinaria.
+
+ARTICULO 1178.- Cantidades. Si no se conviene la entidad de las prestaciones a ser cumplidas por el suministrante durante períodos determinados, el contrato se entiende celebrado según las necesidades normales del suministrado al tiempo de su celebración.
+
+Si sólo se convinieron cantidades máximas y mínimas, el suministrado tiene el derecho de determinar la cantidad en cada oportunidad que corresponda, dentro de esos límites. Igual derecho tiene cuando se haya establecido solamente un mínimo, entre esta cantidad y las necesidades normales al tiempo del contrato.
+
+ARTICULO 1179.- Aviso. Si las cantidades a entregar en cada período u oportunidad pueden variarse, cada parte debe dar aviso a la otra de la modificación en sus necesidades de recepción o posibilidades de entrega, en la forma y oportunidades que pacten. No habiendo convención, debe avisarse con una anticipación que permita a la otra parte prever las acciones necesarias para una eficiente operación.
+
+ARTICULO 1180.- Plazo en prestaciones singulares. El plazo legal o convencional para el cumplimiento de las prestaciones singulares se presume establecido en interés de ambas partes, excepto pacto en contrario.
+
+ARTICULO 1181.- Precio. A falta de convención o uso en contrario, en las prestaciones singulares, el precio:
+
+a) se determina según el precio de prestaciones similares que el suministrante efectúe en el tiempo y lugar de cada entrega, si la prestación es de aquellas que hacen a su giro ordinario de negocios o modo de vida;
+
+b) en su defecto, se determina por el valor corriente de plaza en la fecha y lugar de cada entrega;
+
+c) debe ser pagado dentro de los primeros diez días del mes calendario siguiente a aquel en que ocurrió la entrega.
+
+ARTICULO 1182.- Pacto de preferencia. El pacto mediante el cual una de las partes se obliga a dar preferencia a la otra en la celebración de un contrato sucesivo relativo al mismo o similar objeto, es válido siempre que la duración de la obligación no exceda de tres años.
+
+La parte que desee contratar con terceros el reemplazo total o parcial del suministro cuyo plazo ha expirado o expirará en fecha próxima, debe dar aviso a la otra de las condiciones en que proyecta contratar con terceros, en la forma y condiciones pactadas en el contrato. La otra parte debe hacer uso de la preferencia, haciéndolo saber según lo acordado. A falta de estipulación en el contrato, se aplican la forma y condiciones de uso. En su defecto, una parte debe notificar por medio fehaciente las condiciones del nuevo contrato con una antelación de treinta días a su terminación y la otra debe hacer saber por igual medio si utilizará el pacto de preferencia dentro de los quince días de recibida la notificación. En caso de silencio de ésta, expira su derecho de preferencia.
+
+ARTICULO 1183.- Contrato por tiempo indeterminado. Si la duración del suministro no ha sido establecida expresamente, cualquiera de las partes puede resolverlo, dando aviso previo en las condiciones pactadas. De no existir pacto se aplican los usos. En su defecto, el aviso debe cursarse en un término razonable según las circunstancias y la naturaleza del suministro, que en ningún caso puede ser inferior a sesenta días.
+
+ARTICULO 1184.- Resolución. En caso de incumplimiento de las obligaciones de una de las partes en cada prestación singular, la otra sólo puede resolver el contrato de suministro, en los términos de los artículos 1077 y siguientes si el incumplimiento es de notable importancia, de forma tal de poner razonablemente en duda la posibilidad del incumplidor de atender con exactitud los posteriores vencimientos.
+
+ARTICULO 1185.- Suspensión del suministro. Si los incumplimientos de una parte no tienen las características del artículo 1184, la otra parte sólo puede suspender sus prestaciones hasta tanto se subsane el incumplimiento, si ha advertido al incumplidor mediante un preaviso otorgado en los términos pactados o, en su defecto, con una anticipación razonable atendiendo a las circunstancias.
+
+ARTICULO 1186.- Normas supletorias. En tanto no esté previsto en el contrato o en las normas precedentes, se aplican a las prestaciones singulares las reglas de los contratos a las que ellas correspondan, que sean compatibles.
+
+CAPITULO 4
+
+Locación
+
+SECCION 1ª
+
+Disposiciones generales
+
+ARTICULO 1187.- Definición. Hay contrato de locación si una parte se obliga a otorgar a otra el uso y goce temporario de una cosa, a cambio del pago de un precio en dinero.
+
+Al contrato de locación se aplica en subsidio lo dispuesto con respecto al consentimiento, precio y objeto del contrato de compraventa.
+
+ARTICULO 1188.- Forma. Oponibilidad. El contrato de locación de cosa inmueble o mueble registrable, de una universalidad que incluya a alguna de ellas, o de parte material de un inmueble, debe ser hecho por escrito.
+
+Esta regla se aplica también a sus prórrogas y modificaciones.
+
+ARTICULO 1189.- Transmisión por causa de muerte. Enajenación de la cosa locada. Excepto pacto en contrario, la locación:
+
+a) se transmite activa y pasivamente por causa de muerte;
+
+b) subsiste durante el tiempo convenido, aunque la cosa locada sea enajenada.
+
+ARTICULO 1190.- Continuador de la locación. Si la cosa locada es inmueble, o parte material de un inmueble, destinado a habitación, en caso de abandono o fallecimiento del locatario, la locación puede ser continuada en las mismas condiciones pactadas, y hasta el vencimiento del plazo contractual, por quien lo habite y acredite haber recibido del locatario ostensible trato familiar durante el año previo al abandono o fallecimiento.
+
+El derecho del continuador en la locación prevalece sobre el del heredero del locatario.
+
+ARTICULO 1191.- Facultades del representante. Para celebrar contrato de locación por más de tres años, o cobrar alquileres anticipados por el mismo período, se requiere facultad expresa.
+
+SECCION 2ª
+
+Objeto y destino
+
+ARTICULO 1192.- Cosas. Toda cosa presente o futura, cuya tenencia esté en el comercio, puede ser objeto del contrato de locación, si es determinable, aunque sea sólo en su especie. Se comprenden en el contrato, a falta de previsión en contrario, los productos y los frutos ordinarios.
+
+ARTICULO 1193.- Contrato reglado por normas administrativas. Si el locador es una persona jurídica de derecho público, el contrato se rige en lo pertinente por las normas administrativas y, en subsidio, por las de este Capítulo.
+
+ARTICULO 1194.- Destino de la cosa locada. El locatario debe dar a la cosa locada el destino acordado en el contrato.
+
+A falta de convención, puede darle el destino que tenía al momento de locarse, el que se da a cosas análogas en el lugar donde la cosa se encuentra o el que corresponde a su naturaleza.
+
+A los efectos de este Capítulo, si el destino es mixto se aplican las normas correspondientes al habitacional.
+
+ARTICULO 1195.- Habitación de personas incapaces o con capacidad restringida. Es nula la cláusula que impide el ingreso, o excluye del inmueble alquilado, cualquiera sea su destino, a una persona incapaz o con capacidad restringida que se encuentre bajo la guarda, asistencia o representación del locatario o sublocatario, aunque éste no habite el inmueble.
+
+ARTICULO 1196.- Fianza, garantía y periodicidad del pago. Las partes pueden determinar libremente las cantidades y moneda entregadas en concepto de fianza o depósito en garantía, y la forma en que serán devueltas al finalizar la locación.
+
+Las partes pactaran libremente la periodicidad del pago, que no podrá ser inferior a mensual.
+
+(Artículo sustituido por art. 255 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+SECCION 3ª
+
+Tiempo de la locación
+
+ARTICULO 1197.- Plazo máximo. El tiempo de la locación, cualquiera sea su objeto, no puede exceder de veinte años para el destino habitacional y cincuenta años para los otros destinos.
+
+El contrato es renovable expresamente por un lapso que no exceda de los máximos previstos contados desde su inicio.
+
+ARTICULO 1198.- Plazo de la locación de inmueble. El plazo de las locaciones con cualquier destino será el que las partes hayan establecido.
+
+En caso que no se haya establecido plazo, (i) en los casos de locación temporal, se estará al que establezcan los usos y costumbres del lugar donde se asiente el inmueble locado, (ii) en los contratos de locación con destino a vivienda permanente, con o sin muebles, será de dos (2) años y (iii) para los restantes destinos será de tres (3) años.
+
+(Artículo sustituido por art. 256 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+ARTICULO 1199.- Moneda de pago y actualización. Los alquileres podrán establecerse en moneda de curso legal o en moneda extranjera, al libre arbitrio de las partes. El locatario no podrá exigir que se le acepte el pago en una moneda diferente a la establecida en el contrato.
+
+Las partes podrán pactar el ajuste del valor de los alquileres. Será válido el uso de cualquier índice pactado por las partes, público o privado, expresado en la misma moneda en la que se pactaron los alquileres. Si el índice elegido dejara de publicarse durante la vigencia del contrato, se utilizará un índice oficial de características similares que publique el Instituto Nacional de Estadística y Censos si el precio estuviera fijado en moneda nacional, o el que cumpla las mismas funciones en el país que emita la moneda de pago pactada.
+
+No será de aplicación a los contratos incluidos en este Capítulo el artículo 10 de la Ley N° 23.928.
+
+(Artículo sustituido por art. 257 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+SECCION 4ª
+
+Efectos de la locación
+
+Parágrafo 1°
+
+Obligaciones del locador
+
+ARTICULO 1200.- Entregar la cosa. El locador debe entregar la cosa conforme a lo acordado. A falta de previsión contractual debe entregarla en estado apropiado para su destino, excepto los defectos que el locatario conoció o pudo haber conocido.
+
+ARTICULO 1201.- Conservar la cosa con aptitud para el uso convenido. El locador debe conservar la cosa locada en estado de servir al uso y goce convenido y efectuar a su cargo la reparación que exija el deterioro en su calidad o defecto, originado por cualquier causa no imputable al locatario.
+
+En caso de negativa o silencio del locador ante un reclamo del locatario debidamente notificado, para que efectúe alguna reparación urgente, el locatario puede realizar por sí, con cargo al locador, una vez transcurridas al menos veinticuatro (24) horas corridas, contadas a partir de la recepción de la notificación.
+
+Si las reparaciones no fueran urgentes, el locatario debe intimar al locador para que realice las mismas dentro de un plazo que no podrá ser inferior a diez (10) días corridos, contados a partir de la recepción de la intimación, cumplido el cual podrá proceder en la forma indicada en el párrafo precedente. En todos los casos, la notificación remitida al domicilio denunciado por el locador en el contrato se tendrá por válida, aun si el locador se negara a recibirla o no pudiese perfeccionarse por motivos imputables al mismo.
+
+(Artículo sustituido por art. 3º de la Ley Nº 27.737 B.O. 17/10/2023. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial y resultará de aplicación para los ejercicios fiscales 2023 y siguientes.)
+
+ARTICULO 1202.- (Artículo derogado por art. 258 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+ARTICULO 1203.- Frustración del uso o goce de la cosa. Si por causas no imputables al locatario, éste se ve impedido de usar o gozar de la cosa, o ésta no puede servir para el objeto de la convención, puede pedir la rescisión del contrato, o la cesación del pago del precio por el tiempo que no pueda usar o gozar de la cosa. Si no se viese afectada directa o indirectamente la cosa misma, sus obligaciones continúan como antes.
+
+(Artículo sustituido por art. 6º de la Ley Nº 27.551 B.O. 30/6/2020. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina y serán aplicables para los contratos que se celebren a partir de su entrada en vigencia. Ley N° 27.551 abrogada por art. 249 del Decreto N° 70/2023 B.O. 27/12/2023)
+
+ARTICULO 1204.- (Artículo derogado por art. 259 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+ARTICULO 1204 bis.- (Artículo derogado por art. 259 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+Parágrafo 2°
+
+Obligaciones del locatario
+
+ARTICULO 1205.- Prohibición de variar el destino. El locatario puede usar y gozar de la cosa conforme a derecho y exclusivamente para el destino correspondiente. No puede variarlo aunque ello no cause perjuicio al locador.
+
+ARTICULO 1206.- Conservar la cosa en buen estado. Destrucción. El locatario debe mantener la cosa y conservarla en el estado en que la recibió. No cumple con esta obligación si la abandona sin dejar quien haga sus veces.
+
+Responde por cualquier deterioro causado a la cosa, incluso por visitantes ocasionales, pero no por acción del locador o sus dependientes; asimismo responde por la destrucción de la cosa por incendio no originado en caso fortuito.
+
+ARTICULO 1207.- Mantener la cosa en buen estado. Reparaciones. Si la cosa es mueble, el locatario tiene a su cargo el gasto de su conservación y las mejoras de mero mantenimiento; y sólo éstas si es inmueble.
+
+Si es urgente realizar reparaciones necesarias puede efectuarlas a costa del locador dándole aviso previo.
+
+ARTICULO 1208.- Pagar el canon convenido. La prestación dineraria a cargo del locatario se integra con el precio de la locación y toda otra prestación de pago periódico asumida convencionalmente por el locatario. Para su cobro se concede vía ejecutiva.
+
+A falta de convención, el pago debe ser hecho por anticipado: si la cosa es mueble, de contado; y si es inmueble, por período mensual.
+
+ARTICULO 1209.- Pagar cargas y contribuciones por la actividad. El locatario tiene a su cargo el pago de las cargas y contribuciones que se originen en el destino que dé a la cosa locada. No tiene a su cargo el pago de las que graven la cosa ni las expensas comunes extraordinarias. Solo puede establecerse que estén a cargo del locatario aquellas expensas que deriven de gastos habituales, entendiéndose por tales aquellos que se vinculan a los servicios normales y permanentes a disposición del locatario, independientemente de que sean considerados como expensas comunes ordinarias o extraordinarias.
+
+(Artículo sustituido por art. 8º de la Ley Nº 27.551 B.O. 30/6/2020. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina y serán aplicables para los contratos que se celebren a partir de su entrada en vigencia. Ley N° 27.551 abrogada por art. 249 del Decreto N° 70/2023 B.O. 27/12/2023)
+
+ARTICULO 1210.- Restituir la cosa. El locatario, al concluir el contrato, debe restituir al locador la cosa en el estado en que la recibió, excepto los deterioros provenientes del mero transcurso del tiempo y el uso regular.
+
+También debe entregarle las constancias de los pagos que efectuó en razón de la relación locativa y que resulten atinentes a la cosa o a los servicios que tenga.
+
+Parágrafo 3°
+
+Régimen de mejoras
+
+ARTICULO 1211.- Regla. El locatario puede realizar mejoras en la cosa locada, excepto que esté prohibido en el contrato, alteren la substancia o forma de la cosa, o haya sido interpelado a restituirla.
+
+No tiene derecho a reclamar el pago de mejoras útiles y de mero lujo o suntuarias, pero, si son mejoras necesarias, puede reclamar su valor al locador.
+
+ARTICULO 1212.- Violación al régimen de mejoras. La realización de mejoras prohibidas en el artículo 1211 viola la obligación de conservar la cosa en el estado en que se recibió.
+
+SECCION 5ª
+
+Cesión y sublocación
+
+ARTICULO 1213.- Cesión. El locatario sólo puede ceder su posición contractual en los términos previstos en los artículos 1636 y siguientes. La cesión que no reúna tales requisitos viola la prohibición de variar el destino de la cosa locada.
+
+La prohibición contractual de ceder importa la de sublocar y viceversa.
+
+Se considera cesión a la sublocación de toda la cosa.
+
+ARTICULO 1214.- Sublocación. El locatario puede dar en sublocación parte de la cosa locada, si no hay pacto en contrario. Para ello debe comunicar al locador, por medio fehaciente, su intención de sublocar e indicarle el nombre y domicilio de la persona con quien se propone contratar, y el destino que el sublocatario asignará a la cosa.
+
+El locador sólo puede oponerse por medio fehaciente, dentro del plazo de diez días de notificado. El silencio del locador importa su conformidad con la sublocación propuesta.
+
+La sublocación contratada pese la oposición del locador, o con apartamiento de los términos que se le comunicaron, viola la prohibición de variar el destino de la cosa locada.
+
+ARTICULO 1215.- Relaciones entre sublocador y sublocatario. Entre sublocador y sublocatario rigen las normas previstas en el contrato respectivo y las de este Capítulo. Está implícita la cláusula de usar y gozar de la cosa sin transgredir el contrato principal.
+
+ARTICULO 1216.- Acciones directas. Sin perjuicio de sus derechos respecto al locatario, el locador tiene acción directa contra el sublocatario para cobrar el alquiler adeudado por el locatario, en la medida de la deuda del sublocatario. También puede exigir de éste el cumplimiento de las obligaciones que la sublocación le impone, inclusive el resarcimiento de los daños causados por uso indebido de la cosa.
+
+Recíprocamente, el sublocatario tiene acción directa contra el locador para obtener a su favor el cumplimiento de las obligaciones asumidas en el contrato de locación.
+
+La conclusión de la locación determina la cesación del subarriendo, excepto que se haya producido por confusión.
+
+SECCION 6ª
+
+Extinción
+
+ARTICULO 1217.- Extinción de la locación. Son modos especiales de extinción de la locación:
+
+a) el cumplimiento del plazo convenido, o requerimiento previsto en el artículo 1218, según el caso;
+
+b) la resolución anticipada.
+
+ARTICULO 1218.- Continuación de la locación concluida. Si vence el plazo convenido o el plazo mínimo legal en ausencia de convención, y el locatario continúa en la tenencia de la cosa, no hay tácita reconducción, sino la continuación de la locación en los mismos términos contratados, hasta que cualquiera de las partes dé por concluido el contrato mediante comunicación fehaciente.
+
+La recepción de pagos durante la continuación de la locación no altera lo dispuesto en el primer párrafo.
+
+ARTICULO 1219.- Resolución imputable al locatario. El locador puede resolver el contrato:
+
+a) por cambio de destino o uso irregular en los términos del artículo 1205;
+
+b) por falta de conservación de la cosa locada, o su abandono sin dejar quien haga sus veces;
+
+c) por falta de pago de la prestación dineraria convenida, durante dos períodos consecutivos.
+
+d) por cualquier causa fijada en el contrato. (Inciso incorporado por art. 260 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+ARTICULO 1220.- Resolución imputable al locador. El locatario puede resolver el contrato si el locador incumple:
+
+a) la obligación de conservar la cosa con aptitud para el uso y goce convenido, salvo cuando el daño haya sido ocasionado directa o indirectamente por el locatario;
+
+b) la garantía de evicción o la de vicios redhibitorios.
+
+(Artículo sustituido por art. 261 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+ARTICULO 1221.- Resolución anticipada. El locatario podrá, en cualquier momento, resolver la contratación abonando el equivalente al diez por ciento (10%) del saldo del canon locativo futuro, calculado desde la fecha de la notificación de la rescisión hasta la fecha de finalización pactada en el contrato.
+
+(Artículo sustituido por art. 262 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+ARTICULO 1221 bis.- (Artículo derogado por art. 263 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+SECCION 7ª
+
+Efectos de la extinción
+
+ARTICULO 1222.- Intimación de pago y desalojo de viviendas. Si el destino es habitacional, previamente a la demanda de desalojo por falta de pago de alquileres, el locador debe intimar fehacientemente al locatario al pago de la cantidad debida, otorgando para ello un plazo que nunca debe ser inferior a diez (10) días corridos contados a partir de la recepción de la intimación, especificando el lugar de pago.
+
+La notificación remitida al domicilio denunciado en el contrato por el locatario se tiene por válida, aun si éste se negara a recibirla o no pudiese perfeccionarse por motivos imputables al mismo.
+
+Cumplido el plazo previsto en el primer párrafo de este artículo, o habiéndose verificado la extinción de la locación por cualquier motivo, el locatario debe restituir la tenencia del inmueble locado. Ante el incumplimiento del locatario, el locador puede iniciar la acción judicial de desalojo, la que debe sustanciarse por el proceso previsto al efecto en cada jurisdicción y en caso de no prever un procedimiento especial, el más abreviado que establezcan sus leyes procesales o especiales.
+
+En ningún caso el locador puede negarse a recibir las llaves del inmueble o condicionar la misma, sin perjuicio de la reserva por las obligaciones pendientes a cargo del locatario. En caso de negativa o silencio frente al requerimiento por parte del inquilino a efectos de que se le reciba la llave del inmueble, éste puede realizar la consignación judicial de las mismas, siendo los gastos y costas a cargo del locador. En ningún caso se adeudarán alquileres ni ningún tipo de obligación accesoria a partir del día de la notificación fehaciente realizada al locador a efectos de que reciba las llaves del inmueble, siempre que el locatario efectúe la consignación judicial dentro de los diez (10) días hábiles siguientes a la misma, o desde que le fuera notificado al locador el depósito judicial de la llave si la consignación se hubiese iniciado después del vencimiento de dicho plazo.
+
+(Artículo sustituido por art. 11 de la Ley Nº 27.551 B.O. 30/6/2020. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina y serán aplicables para los contratos que se celebren a partir de su entrada en vigencia. Ley N° 27.551 abrogada por art. 249 del Decreto N° 70/2023 B.O. 27/12/2023)
+
+ARTICULO 1223.- Desalojo. Al extinguirse la locación debe restituirse la tenencia de la cosa locada.
+
+El procedimiento previsto en este Código para la cláusula resolutoria implícita no se aplica a la demanda de desalojo por las causas de los artículos 1217 y 1219, inciso c).
+
+El plazo de ejecución de la sentencia de desalojo no puede ser menor a diez días.
+
+ARTICULO 1224.- Facultades sobre las mejoras útiles o suntuarias. El locatario puede retirar la mejora útil o suntuaria al concluir la locación; pero no puede hacerlo si acordó que quede en beneficio de la cosa, si de la separación se sigue daño para ella, o separarla no le ocasiona provecho alguno.
+
+El locador puede adquirir la mejora hecha en violación a una prohibición contractual, pagando el mayor valor que adquirió la cosa.
+
+ARTICULO 1225.- Caducidad de la fianza. Renovación. Las obligaciones del fiador cesan automáticamente al vencimiento del plazo de la locación, excepto la que derive de la no restitución en tiempo del inmueble locado.
+
+Se exige el consentimiento expreso del fiador para obligarse en la renovación o prórroga expresa o tácita, una vez vencido el plazo del contrato de locación.
+
+Es nula toda disposición anticipada que extienda la fianza, sea simple, solidaria como codeudor o principal pagador, del contrato de locación original.
+
+ARTICULO 1226.- Facultad de retención. El ejercicio del derecho de retención por el locatario lo faculta a percibir los frutos naturales que la cosa produzca. Si lo hace, al momento de la percepción debe compensar ese valor con la suma que le es debida.

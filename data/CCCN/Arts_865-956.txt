@@ -1,0 +1,432 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO TERCERO - DERECHOS PERSONALES - TITULO 1
+TITULO 1: Obligaciones en General
+Articulos: 865 a 956
+
+Contenido:
+Capitulo 4 - Pago
+Capitulo 5 - Otros modos de extinción
+
+-----------------------------------------
+LIBRO TERCERO
+
+DERECHOS PERSONALES
+
+TITULO I
+
+Obligaciones en general
+
+CAPITULO 4
+
+Pago
+
+SECCION 1ª
+
+Disposiciones generales
+
+ARTICULO 865.- Definición. Pago es el cumplimiento de la prestación que constituye el objeto de la obligación.
+
+ARTICULO 866.- Reglas aplicables. Las reglas de los actos jurídicos se aplican al pago, con sujeción a las disposiciones de este Capítulo.
+
+ARTICULO 867.- Objeto del pago. El objeto del pago debe reunir los requisitos de identidad, integridad, puntualidad y localización.
+
+ARTICULO 868.- Identidad. El acreedor no está obligado a recibir y el deudor no tiene derecho a cumplir una prestación distinta a la debida, cualquiera sea su valor.
+
+ARTICULO 869.- Integridad. El acreedor no está obligado a recibir pagos parciales, excepto disposición legal o convencional en contrario. Si la obligación es en parte líquida y en parte ilíquida, el deudor puede pagar la parte líquida.
+
+ARTICULO 870.- Obligación con intereses. Si la obligación es de dar una suma de dinero con intereses, el pago sólo es íntegro si incluye el capital más los intereses.
+
+ARTICULO 871.- Tiempo del pago. El pago debe hacerse:
+
+a) si la obligación es de exigibilidad inmediata, en el momento de su nacimiento;
+
+b) si hay un plazo determinado, cierto o incierto, el día de su vencimiento;
+
+c) si el plazo es tácito, en el tiempo en que, según la naturaleza y circunstancias de la obligación, debe cumplirse;
+
+d) si el plazo es indeterminado, en el tiempo que fije el juez, a solicitud de cualquiera de las partes, mediante el procedimiento más breve que prevea la ley local.
+
+ARTICULO 872.- Pago anticipado. El pago anterior al vencimiento del plazo no da derecho a exigir descuentos.
+
+ARTICULO 873.- Lugar de pago designado. El lugar de pago puede ser establecido por acuerdo de las partes, de manera expresa o tácita.
+
+ARTICULO 874.- Lugar de pago no designado. Si nada se ha indicado, el lugar de pago es el domicilio del deudor al tiempo del nacimiento de la obligación. Si el deudor se muda, el acreedor tiene derecho a exigir el pago en el domicilio actual o en el anterior. Igual opción corresponde al deudor, cuando el lugar de pago sea el domicilio del acreedor.
+
+Esta regla no se aplica a las obligaciones:
+
+a) de dar cosa cierta; en este caso, el lugar de pago es donde la cosa se encuentra habitualmente;
+
+b) de obligaciones bilaterales de cumplimiento simultáneo; en este supuesto, lugar de pago es donde debe cumplirse la prestación principal.
+
+ARTICULO 875.- Validez. El pago debe ser realizado por persona con capacidad para disponer.
+
+ARTICULO 876.- Pago en fraude a los acreedores. El pago debe hacerse sin fraude a los acreedores. En este supuesto, se aplica la normativa de la acción revocatoria y, en su caso, la de la ley concursal.
+
+ARTICULO 877.- Pago de créditos embargados o prendados. El crédito debe encontrarse expedito. El pago de un crédito embargado o prendado es inoponible al acreedor prendario o embargante.
+
+ARTICULO 878.- Propiedad de la cosa. El cumplimiento de una obligación de dar cosas ciertas para constituir derechos reales requiere que el deudor sea propietario de la cosa. El pago mediante una cosa que no pertenece al deudor se rige por las normas relativas a la compraventa de cosa ajena.
+
+ARTICULO 879.- Legitimación activa. El deudor tiene el derecho de pagar. Si hay varios deudores, el derecho de pagar de cada uno de ellos se rige por las disposiciones correspondientes a la categoría de su obligación.
+
+ARTICULO 880.- Efectos del pago por el deudor. El pago realizado por el deudor que satisface el interés del acreedor, extingue el crédito y lo libera.
+
+ARTICULO 881.- Ejecución de la prestación por un tercero. La prestación también puede ser ejecutada por un tercero, excepto que se hayan tenido en cuenta las condiciones especiales del deudor, o hubiere oposición conjunta del acreedor y del deudor. Tercero interesado es la persona a quien el incumplimiento del deudor puede causar un menoscabo patrimonial, y puede pagar contra la oposición individual o conjunta del acreedor y del deudor.
+
+ARTICULO 882.- Efectos que produce la ejecución de la prestación por un tercero. La ejecución de la prestación por un tercero no extingue el crédito. El tercero tiene acción contra el deudor con los mismos alcances que:
+
+a) el mandatario que ejecuta la prestación con asentimiento del deudor;
+
+b) el gestor de negocios que obra con ignorancia de éste;
+
+c) quien interpone la acción de enriquecimiento sin causa, si actúa contra la voluntad del deudor.
+
+Puede también ejercitar la acción que nace de la subrogación por ejecución de la prestación por un tercero.
+
+ARTICULO 883.- Legitimación para recibir pagos. Tiene efecto extintivo del crédito el pago hecho:
+
+a) al acreedor, o a su cesionario o subrogante; si hay varios acreedores, el derecho al cobro de cada uno de ellos se rige por las disposiciones correspondientes a la categoría de su obligación;
+
+b) a la orden del juez que dispuso el embargo del crédito;
+
+c) al tercero indicado para recibir el pago, en todo o en parte;
+
+d) a quien posee el título de crédito extendido al portador, o endosado en blanco, excepto sospecha fundada de no pertenecerle el documento, o de no estar autorizado para el cobro;
+
+e) al acreedor aparente, si quien realiza el pago actúa de buena fe y de las circunstancias resulta verosímil el derecho invocado; el pago es válido, aunque después sea vencido en juicio sobre el derecho que invoca.
+
+ARTICULO 884.- Derechos del acreedor contra el tercero. El acreedor tiene derecho a reclamar al tercero el valor de lo que ha recibido:
+
+a) en el caso del inciso c) del artículo 883, conforme a los términos de la relación interna entre ambos;
+
+b) en los casos de los incisos d) y e) del artículo 883, conforme a las reglas del pago indebido.
+
+ARTICULO 885.- Pago a persona incapaz o con capacidad restringida y a tercero no legitimado. No es válido el pago realizado a una persona incapaz, ni con capacidad restringida no autorizada por el juez para recibir pagos, ni a un tercero no autorizado por el acreedor para recibirlo, excepto que medie ratificación del acreedor.
+
+No obstante, el pago produce efectos en la medida en que el acreedor se ha beneficiado.
+
+SECCION 2ª
+
+Mora
+
+ARTICULO 886.- Mora del deudor. Principio. Mora automática. Mora del acreedor. La mora del deudor se produce por el solo transcurso del tiempo fijado para el cumplimiento de la obligación.
+
+El acreedor incurre en mora si el deudor le efectúa una oferta de pago de conformidad con el artículo 867 y se rehúsa injustificadamente a recibirlo.
+
+ARTICULO 887.- Excepciones al principio de la mora automática. La regla de la mora automática no rige respecto de las obligaciones:
+
+a) sujetas a plazo tácito; si el plazo no está expresamente determinado, pero resulta tácitamente de la naturaleza y circunstancias de la obligación, en la fecha que conforme a los usos y a la buena fe, debe cumplirse;
+
+b) sujetas a plazo indeterminado propiamente dicho; si no hay plazo, el juez a pedido de parte, lo debe fijar mediante el procedimiento más breve que prevea la ley local, a menos que el acreedor opte por acumular las acciones de fijación de plazo y de cumplimiento, en cuyo caso el deudor queda constituido en mora en la fecha indicada por la sentencia para el cumplimiento de la obligación.
+
+En caso de duda respecto a si el plazo es tácito o indeterminado propiamente dicho, se considera que es tácito.
+
+ARTICULO 888.- Eximición. Para eximirse de las consecuencias jurídicas derivadas de la mora, el deudor debe probar que no le es imputable, cualquiera sea el lugar de pago de la obligación.
+
+SECCION 3ª
+
+Pago a mejor fortuna
+
+ARTICULO 889.- Principio. Las partes pueden acordar que el deudor pague cuando pueda, o mejore de fortuna; en este supuesto, se aplican las reglas de las obligaciones a plazo indeterminado.
+
+ARTICULO 890.- Carga de la prueba. El acreedor puede reclamar el cumplimiento de la prestación, y corresponde al deudor demostrar que su estado patrimonial le impide pagar. En caso de condena, el juez puede fijar el pago en cuotas.
+
+ARTICULO 891.- Muerte del deudor. Se presume que la cláusula de pago a mejor fortuna se establece en beneficio exclusivo del deudor; la deuda se transmite a los herederos como obligación pura y simple.
+
+SECCION 4ª
+
+Beneficio de competencia
+
+ARTICULO 892.- Definición. El beneficio de competencia es un derecho que se otorga a ciertos deudores, para que paguen lo que buenamente puedan, según las circunstancias, y hasta que mejoren de fortuna.
+
+ARTICULO 893.- Personas incluidas. El acreedor debe conceder este beneficio:
+
+a) a sus ascendientes, descendientes y colaterales hasta el segundo grado, si no han incurrido en alguna causal de indignidad para suceder;
+
+b) a su cónyuge o conviviente;
+
+c) al donante en cuanto a hacerle cumplir la donación.
+
+SECCION 5ª
+
+Prueba del pago
+
+ARTICULO 894.- Carga de la prueba. La carga de la prueba incumbe:
+
+a) en las obligaciones de dar y de hacer, sobre quien invoca el pago;
+
+b) en las obligaciones de no hacer, sobre el acreedor que invoca el incumplimiento.
+
+ARTICULO 895.- Medios de prueba. El pago puede ser probado por cualquier medio excepto que de la estipulación o de la ley resulte previsto el empleo de uno determinado, o revestido de ciertas formalidades.
+
+ARTICULO 896.- Recibo. El recibo es un instrumento público o privado en el que el acreedor reconoce haber recibido la prestación debida.
+
+ARTICULO 897.- Derecho de exigir el recibo. El cumplimiento de la obligación confiere al deudor derecho de obtener la constancia de la liberación correspondiente. El acreedor también puede exigir un recibo que pruebe la recepción.
+
+ARTICULO 898.- Inclusión de reservas. El deudor puede incluir reservas de derechos en el recibo y el acreedor está obligado a consignarlas. La inclusión de estas reservas no perjudica los derechos de quien extiende el recibo.
+
+ARTICULO 899.- Presunciones relativas al pago. Se presume, excepto prueba en contrario que:
+
+a) si se otorga un recibo por saldo, quedan canceladas todas las deudas correspondientes a la obligación por la cual fue otorgado;
+
+b) si se recibe el pago correspondiente a uno de los periodos, están cancelados los anteriores, sea que se deba una prestación única de ejecución diferida cuyo cumplimiento se realiza mediante pagos parciales, o que se trate de prestaciones sucesivas que nacen por el transcurso del tiempo;
+
+c) si se extiende recibo por el pago de la prestación principal, sin los accesorios del crédito, y no se hace reserva, éstos quedan extinguidos;
+
+d) si se debe daño moratorio, y al recibir el pago el acreedor no hace reserva a su respecto, la deuda por ese daño está extinguida.
+
+SECCION 6ª
+
+Imputación del pago
+
+ARTICULO 900.- Imputación por el deudor. Si las obligaciones para con un solo acreedor tienen por objeto prestaciones de la misma naturaleza, el deudor tiene la facultad de declarar, al tiempo de hacer el pago, por cuál de ellas debe entenderse que lo hace. La elección debe recaer sobre deuda líquida y de plazo vencido. Si adeuda capital e intereses, el pago no puede imputarse a la deuda principal sin consentimiento del acreedor.
+
+ARTICULO 901.- Imputación por el acreedor. Si el deudor no imputa el pago, el acreedor se encuentra facultado a hacerlo en el momento de recibirlo, conforme a estas reglas:
+
+a) debe imputarlo a alguna de las deudas líquidas y exigibles;
+
+b) una vez canceladas totalmente una o varias deudas, puede aplicar el saldo a la cancelación parcial de cualquiera de las otras.
+
+ARTICULO 902.- Imputación legal. Si el deudor o el acreedor no hacen imputación del pago, se lo imputa:
+
+a) en primer término, a la obligación de plazo vencido más onerosa para el deudor;
+
+b) cuando las deudas son igualmente onerosas, el pago se imputa a prorrata.
+
+ARTICULO 903.- Pago a cuenta de capital e intereses. Si el pago se hace a cuenta de capital e intereses y no se precisa su orden, se imputa en primer término a intereses, a no ser que el acreedor dé recibo por cuenta de capital.
+
+SECCION 7ª
+
+Pago por consignación
+
+Parágrafo 1°
+
+Consignación judicial
+
+ARTICULO 904.- Casos en que procede. El pago por consignación procede cuando:
+
+a) el acreedor fue constituido en mora;
+
+b) existe incertidumbre sobre la persona del acreedor;
+
+c) el deudor no puede realizar un pago seguro y válido por causa que no le es imputable.
+
+ARTICULO 905.- Requisitos. El pago por consignación está sujeto a los mismos requisitos del pago.
+
+ARTICULO 906.- Forma. El pago por consignación se rige por las siguientes reglas:
+
+a) si la prestación consiste en una suma de dinero, se requiere su depósito a la orden del juez interviniente, en el banco que dispongan las normas procesales;
+
+b) si se debe una cosa indeterminada a elección del acreedor y éste es moroso en practicar la elección, una vez vencido el término del emplazamiento judicial hecho al acreedor, el juez autoriza al deudor a realizarla;
+
+c) si las cosas debidas no pueden ser conservadas o su custodia origina gastos excesivos, el juez puede autorizar la venta en subasta, y ordenar el depósito del precio que se obtenga.
+
+ARTICULO 907.- Efectos. La consignación judicial, no impugnada por el acreedor, o declarada válida por reunir los requisitos del pago, extingue la deuda desde el día en que se notifica la demanda.
+
+Si la consignación es defectuosa, y el deudor subsana ulteriormente sus defectos, la extinción de la deuda se produce desde la fecha de notificación de la sentencia que la admite.
+
+ARTICULO 908.- Deudor moroso. El deudor moroso puede consignar la prestación debida con los accesorios devengados hasta el día de la consignación.
+
+ARTICULO 909.- Desistimiento. El deudor tiene derecho a desistir de la consignación antes de que la acepte el acreedor o de que haya sido declarada válida. Con posterioridad sólo puede desistir con la conformidad expresa del acreedor, quien en ese caso pierde la acción contra los codeudores, los garantes y los fiadores.
+
+Parágrafo 2°
+
+Consignación extrajudicial
+
+ARTICULO 910.- Procedencia y trámite. Sin perjuicio de las disposiciones del Parágrafo 1°, el deudor de una suma de dinero puede optar por el trámite de consignación extrajudicial. A tal fin, debe depositar la suma adeudada ante un escribano de registro, a nombre y a disposición del acreedor, cumpliendo los siguientes recaudos:
+
+a) notificar previamente al acreedor, en forma fehaciente, del día, la hora y el lugar en que será efectuado el depósito;
+
+b) efectuar el depósito de la suma debida con más los intereses devengados hasta el día del depósito; este depósito debe ser notificado fehacientemente al acreedor por el escribano dentro de las cuarenta y ocho horas hábiles de realizado; si es imposible practicar la notificación, el deudor debe consignar judicialmente.
+
+ARTICULO 911.- Derechos del acreedor. Una vez notificado del depósito, dentro del quinto día hábil de notificado, el acreedor tiene derecho a:
+
+a) aceptar el procedimiento y retirar el depósito, estando a cargo del deudor el pago de los gastos y honorarios del escribano;
+
+b) rechazar el procedimiento y retirar el depósito, estando a cargo del acreedor el pago de los gastos y honorarios del escribano;
+
+c) rechazar el procedimiento y el depósito, o no expedirse. En ambos casos el deudor puede disponer de la suma depositada para consignarla judicialmente.
+
+ARTICULO 912.- Derechos del acreedor que retira el depósito. Si el acreedor retira lo depositado y rechaza el pago, puede reclamar judicialmente un importe mayor o considerarlo insuficiente o exigir la repetición de lo pagado por gastos y honorarios por considerar que no se encontraba en mora, o ambas cosas. En el recibo debe hacer reserva de su derecho, caso contrario se considera que el pago es liberatorio desde el día del depósito. Para demandar tiene un término de caducidad de treinta días computados a partir del recibo con reserva.
+
+ARTICULO 913.- Impedimentos. No se puede acudir al procedimiento previsto en este Parágrafo si antes del depósito, el acreedor optó por la resolución del contrato o demandó el cumplimiento de la obligación.
+
+SECCION 8ª
+
+Pago por subrogación
+
+ARTICULO 914.- Pago por subrogación. El pago por subrogación transmite al tercero que paga todos los derechos y acciones del acreedor. La subrogación puede ser legal o convencional.
+
+ARTICULO 915.- Subrogación legal. La subrogación legal tiene lugar a favor:
+
+a) del que paga una deuda a la que estaba obligado con otros, o por otros;
+
+b) del tercero, interesado o no, que paga con asentimiento del deudor o en su ignorancia;
+
+c) del tercero interesado que paga aun con la oposición del deudor;
+
+d) del heredero con responsabilidad limitada que paga con fondos propios una deuda del causante.
+
+ARTICULO 916.- Subrogación convencional por el acreedor. El acreedor puede subrogar en sus derechos al tercero que paga.
+
+ARTICULO 917.- Subrogación convencional por el deudor. El deudor que paga al acreedor con fondos de terceros puede subrogar al prestamista. Para que tenga los efectos previstos en estas normas es necesario que:
+
+a) tanto el préstamo como el pago consten en instrumentos con fecha cierta anterior;
+
+b) en el recibo conste que los fondos pertenecen al subrogado;
+
+c) en el instrumento del préstamo conste que con ese dinero se cumplirá la obligación del deudor.
+
+ARTICULO 918.- Efectos. El pago por subrogación transmite al tercero todos los derechos y acciones del acreedor, y los accesorios del crédito. El tercero subrogante mantiene las acciones contra los coobligados, fiadores, y garantes personales y reales, y los privilegios y el derecho de retención si lo hay.
+
+ARTICULO 919.- Límites. La transmisión del crédito tiene las siguientes limitaciones:
+
+a) el subrogado sólo puede ejercer el derecho transferido hasta el valor de lo pagado;
+
+b) el codeudor de una obligación de sujeto plural solamente puede reclamar a los demás codeudores la parte que a cada uno de ellos les corresponde cumplir;
+
+c) la subrogación convencional puede quedar limitada a ciertos derechos o acciones.
+
+ARTICULO 920.- Subrogación parcial. Si el pago es parcial, el tercero y el acreedor concurren frente al deudor de manera proporcional.
+
+CAPITULO 5
+
+Otros modos de extinción
+
+SECCION 1ª
+
+Compensación
+
+ARTICULO 921.- Definición. La compensación de las obligaciones tiene lugar cuando dos personas, por derecho propio, reúnen la calidad de acreedor y deudor recíprocamente, cualesquiera que sean las causas de una y otra deuda. Extingue con fuerza de pago las dos deudas, hasta el monto de la menor, desde el tiempo en que ambas obligaciones comenzaron a coexistir en condiciones de ser compensables.
+
+ARTICULO 922.- Especies. La compensación puede ser legal, convencional, facultativa o judicial.
+
+ARTICULO 923.- Requisitos de la compensación legal. Para que haya compensación legal:
+
+a) ambas partes deben ser deudoras de prestaciones de dar;
+
+b) los objetos comprendidos en las prestaciones deben ser homogéneos entre sí;
+
+c) los créditos deben ser exigibles y disponibles libremente, sin que resulte afectado el derecho de terceros.
+
+ARTICULO 924.- Efectos. Una vez opuesta, la compensación legal produce sus efectos a partir del momento en que ambas deudas reciprocas coexisten en condiciones de ser compensadas, aunque el crédito no sea líquido o sea impugnado por el deudor.
+
+ARTICULO 925.- Fianza. El fiador puede oponer la compensación de lo que el acreedor le deba a él o al deudor principal. Pero éste no puede oponer al acreedor la compensación de su deuda con la deuda del acreedor al fiador.
+
+ARTICULO 926.- Pluralidad de deudas del mismo deudor. Si el deudor tiene varias deudas compensables con el mismo acreedor, se aplican las reglas de la imputación del pago.
+
+ARTICULO 927.- Compensación facultativa. La compensación facultativa actúa por la voluntad de una sola de las partes cuando ella renuncia a un requisito faltante para la compensación legal que juega a favor suyo. Produce sus efectos desde el momento en que es comunicada a la otra parte.
+
+ARTICULO 928.- Compensación judicial. Cualquiera de las partes tiene derecho a requerir a un juez la declaración de la compensación que se ha producido. La pretensión puede ser deducida simultáneamente con las defensas relativas al crédito de la otra parte o, subsidiariamente, para el caso de que esas defensas no prosperen.
+
+ARTICULO 929.- Exclusión convencional. La compensación puede ser excluida convencionalmente.
+
+ARTICULO 930.- Obligaciones no compensables. No son compensables:
+
+a) las deudas por alimentos;
+
+b) las obligaciones de hacer o no hacer;
+
+c) la obligación de pagar daños e intereses por no poderse restituir la cosa de que el propietario o poseedor legítimo fue despojado;
+
+d) las deudas que el legatario tenga con el causante si los bienes de la herencia son insuficientes para satisfacer las obligaciones y los legados restantes;
+
+e) las deudas y créditos entre los particulares y el Estado nacional, provincial o municipal, cuando:
+
+i) las deudas de los particulares provienen del remate de bienes pertenecientes a la Nación, provincia o municipio; de rentas fiscales, contribuciones directas o indirectas o de otros pagos que deben efectuarse en las aduanas, como los derechos de almacenaje o depósito;
+
+ii) las deudas y créditos pertenecen a distintos ministerios o departamentos;
+
+iii) los créditos de los particulares se hallan comprendidos en la consolidación de acreencias contra el Estado dispuesta por ley.
+
+f) los créditos y las deudas en el concurso y quiebra, excepto en los alcances en que lo prevé la ley especial;
+
+g) la deuda del obligado a restituir un depósito irregular.
+
+SECCION 2ª
+
+Confusión
+
+ARTICULO 931.- Definición. La obligación se extingue por confusión cuando las calidades de acreedor y de deudor se reúnen en una misma persona y en un mismo patrimonio.
+
+ARTICULO 932.- Efectos. La obligación queda extinguida, total o parcialmente, en proporción a la parte de la deuda en que se produce la confusión.
+
+SECCION 3ª
+
+Novación
+
+ARTICULO 933.- Definición. La novación es la extinción de una obligación por la creación de otra nueva, destinada a reemplazarla.
+
+ARTICULO 934.- Voluntad de novar. La voluntad de novar es requisito esencial de la novación. En caso de duda, se presume que la nueva obligación contraída para cumplir la anterior no causa su extinción.
+
+ARTICULO 935.- Modificaciones que no importan novación. La entrega de documentos suscriptos por el deudor en pago de la deuda y, en general, cualquier modificación accesoria de la obligación primitiva, no comporta novación.
+
+ARTICULO 936.- Novación por cambio de deudor. La novación por cambio de deudor requiere el consentimiento del acreedor.
+
+ARTICULO 937.- Novación por cambio de acreedor. La novación por cambio de acreedor requiere el consentimiento del deudor. Si este consentimiento no es prestado, hay cesión de crédito.
+
+ARTICULO 938.- Circunstancias de la obligación anterior. No hay novación, si la obligación anterior:
+
+a) está extinguida, o afectada de nulidad absoluta; cuando se trata de nulidad relativa, la novación vale, si al mismo tiempo se la confirma;
+
+b) estaba sujeta a condición suspensiva y, después de la novación, el hecho condicionante fracasa; o a condición resolutoria retroactiva, y el hecho condicionante se cumple; en estos casos, la nueva obligación produce los efectos que, como tal, le corresponden, pero no sustituye a la anterior.
+
+ARTICULO 939.- Circunstancias de la nueva obligación. No hay novación y subsiste la obligación anterior, si la nueva:
+
+a) está afectada de nulidad absoluta, o de nulidad relativa y no se la confirma ulteriormente;
+
+b) está sujeta a condición suspensiva, y el hecho condicionante fracasa; o a condición resolutoria retroactiva y el hecho condicionante se cumple.
+
+ARTICULO 940.- Efectos. La novación extingue la obligación originaria con sus accesorios. El acreedor puede impedir la extinción de las garantías personales o reales del antiguo crédito mediante reserva; en tal caso, las garantías pasan a la nueva obligación sólo si quien las constituyó participó en el acuerdo novatorio.
+
+ARTICULO 941.- Novación legal. Las disposiciones de esta Sección se aplican supletoriamente cuando la novación se produce por disposición de la ley.
+
+SECCION 4ª
+
+Dación en pago
+
+ARTICULO 942.- Definición. La obligación se extingue cuando el acreedor voluntariamente acepta en pago una prestación diversa de la adeudada.
+
+ARTICULO 943.- Reglas aplicables. La dación en pago se rige por las disposiciones aplicables al contrato con el que tenga mayor afinidad.
+
+El deudor responde por la evicción y los vicios redhibitorios de lo entregado; estos efectos no hacen renacer la obligación primitiva, excepto pacto expreso y sin perjuicio de terceros.
+
+SECCION 5ª
+
+Renuncia y remisión
+
+ARTICULO 944.- Caracteres. Toda persona puede renunciar a los derechos conferidos por la ley cuando la renuncia no está prohibida y sólo afecta intereses privados. No se admite la renuncia anticipada de las defensas que puedan hacerse valer en juicio.
+
+ARTICULO 945.- Renuncia onerosa y gratuita. Si la renuncia se hace por un precio, o a cambio de una ventaja cualquiera, es regida por los principios de los contratos onerosos. La renuncia gratuita de un derecho sólo puede ser hecha por quien tiene capacidad para donar.
+
+ARTICULO 946.- Aceptación. La aceptación de la renuncia por el beneficiario causa la extinción del derecho.
+
+ARTICULO 947.- Retractación. La renuncia puede ser retractada mientras no haya sido aceptada, quedando a salvo los derechos adquiridos por terceros.
+
+ARTICULO 948.- Prueba. La voluntad de renunciar no se presume y la interpretación de los actos que permiten inducirla es restrictiva.
+
+ARTICULO 949.- Forma. La renuncia no está sujeta a formas especiales, aun cuando se refiera a derechos que constan en un instrumento público.
+
+ARTICULO 950.- Remisión. Se considera remitida la deuda, excepto prueba en contrario, cuando el acreedor entrega voluntariamente al deudor el documento original en que consta la deuda. Si el documento es un instrumento protocolizado y su testimonio o copia se halla en poder del deudor sin anotación del pago o remisión, y tampoco consta el pago o la remisión en el documento original, el deudor debe probar que el acreedor le entregó el testimonio de la copia como remisión de la deuda.
+
+ARTICULO 951.- Normas aplicables. Las disposiciones sobre la renuncia se aplican a la remisión de la deuda hecha por el acreedor.
+
+ARTICULO 952.- Efectos. La remisión de la deuda produce los efectos del pago. Sin embargo, la remisión en favor del fiador no aprovecha al deudor. La hecha a favor de uno de varios fiadores no aprovecha a los demás.
+
+ARTICULO 953.- Pago parcial del fiador. El fiador que pagó una parte de la deuda antes de la remisión hecha al deudor, no puede repetir el pago contra el acreedor.
+
+ARTICULO 954.- Entrega de la cosa dada en prenda. La restitución al deudor de la cosa dada en prenda causa sólo la remisión de la prenda, pero no la remisión de la deuda.
+
+SECCION 6ª
+
+Imposibilidad de cumplimiento
+
+ARTICULO 955.- Definición. La imposibilidad sobrevenida, objetiva, absoluta y definitiva de la prestación, producida por caso fortuito o fuerza mayor, extingue la obligación, sin responsabilidad. Si la imposibilidad sobreviene debido a causas imputables al deudor, la obligación modifica su objeto y se convierte en la de pagar una indemnización de los daños causados.
+
+ARTICULO 956.- Imposibilidad temporaria. La imposibilidad sobrevenida, objetiva, absoluta y temporaria de la prestación tiene efecto extintivo cuando el plazo es esencial, o cuando su duración frustra el interés del acreedor de modo irreversible.

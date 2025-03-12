@@ -1,0 +1,667 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO TERCERO - DERECHOS PERSONALES - TITULO 1
+TITULO 1: Obligaciones en General
+Articulos: 724 a 864
+
+
+Contenido: 
+Capitulo 1 - Disposiciones generales
+Capitulo 2 - Acciones y garantía común de los acreedores
+Capitulo 3 - Clases de obligaciones 
+
+-----------------------------------------
+LIBRO TERCERO
+
+DERECHOS PERSONALES
+
+TITULO I
+
+Obligaciones en general
+
+CAPITULO 1
+
+Disposiciones generales
+
+ARTICULO 724.- Definición. La obligación es una relación jurídica en virtud de la cual el acreedor tiene el derecho a exigir del deudor una prestación destinada a satisfacer un interés lícito y, ante el incumplimiento, a obtener forzadamente la satisfacción de dicho interés.
+
+ARTICULO 725.- Requisitos. La prestación que constituye el objeto de la obligación debe ser material y jurídicamente posible, lícita, determinada o determinable, susceptible de valoración económica y debe corresponder a un interés patrimonial o extrapatrimonial del acreedor.
+
+ARTICULO 726.- Causa. No hay obligación sin causa, es decir, sin que derive de algún hecho idóneo para producirla, de conformidad con el ordenamiento jurídico.
+
+ARTICULO 727.- Prueba de la existencia de la obligación. Presunción de fuente legítima. La existencia de la obligación no se presume. La interpretación respecto de la existencia y extensión de la obligación es restrictiva. Probada la obligación, se presume que nace de fuente legítima mientras no se acredite lo contrario.
+
+ARTICULO 728.- Deber moral. Lo entregado en cumplimiento de deberes morales o de conciencia es irrepetible.
+
+ARTICULO 729.- Buena fe. Deudor y acreedor deben obrar con cuidado, previsión y según las exigencias de la buena fe.
+
+ARTICULO 730.- Efectos con relación al acreedor. La obligación da derecho al acreedor a:
+
+a) emplear los medios legales para que el deudor le procure aquello a que se ha obligado;
+
+b) hacérselo procurar por otro a costa del deudor;
+
+c) obtener del deudor las indemnizaciones correspondientes.
+
+Si el incumplimiento de la obligación, cualquiera sea su fuente, deriva en litigio judicial o arbitral, la responsabilidad por el pago de las costas, incluidos los honorarios profesionales, de todo tipo, allí devengados y correspondientes a la primera o única instancia, no debe exceder del veinticinco por ciento del monto de la sentencia, laudo, transacción o instrumento que ponga fin al diferendo. Si las regulaciones de honorarios practicadas conforme a las leyes arancelarias o usos locales, correspondientes a todas las profesiones y especialidades, superan dicho porcentaje, el juez debe proceder a prorratear los montos entre los beneficiarios. Para el cómputo del porcentaje indicado, no se debe tener en cuenta el monto de los honorarios de los profesionales que han representado, patrocinado o asistido a la parte condenada en costas.
+
+ARTICULO 731.- Efectos con relación al deudor. El cumplimiento exacto de la obligación confiere al deudor el derecho a obtener la liberación y el de rechazar las acciones del acreedor.
+
+ARTICULO 732.- Actuación de auxiliares. Principio de equiparación. El incumplimiento de las personas de las que el deudor se sirve para la ejecución de la obligación se equipara al derivado del propio hecho del obligado.
+
+ARTICULO 733.- Reconocimiento de la obligación. El reconocimiento consiste en una manifestación de voluntad, expresa o tácita, por la que el deudor admite estar obligado al cumplimiento de una prestación.
+
+ARTICULO 734.- Reconocimiento y promesa autónoma. El reconocimiento puede referirse a un título o causa anterior; también puede constituir una promesa autónoma de deuda.
+
+ARTICULO 735.- Reconocimiento causal. Si el acto del reconocimiento agrava la prestación original, o la modifica en perjuicio del deudor, debe estarse al título originario, si no hay una nueva y lícita causa de deber.
+
+CAPITULO 2
+
+Acciones y garantía común de los acreedores
+
+SECCION 1ª
+
+Acción directa
+
+ARTICULO 736.- Acción directa. Acción directa es la que compete al acreedor para percibir lo que un tercero debe a su deudor, hasta el importe del propio crédito. El acreedor la ejerce por derecho propio y en su exclusivo beneficio. Tiene carácter excepcional, es de interpretación restrictiva, y sólo procede en los casos expresamente previstos por la ley.
+
+ARTICULO 737.- Requisitos de ejercicio. El ejercicio de la acción directa por el acreedor requiere el cumplimiento de los siguientes requisitos:
+
+a) un crédito exigible del acreedor contra su propio deudor;
+
+b) una deuda correlativa exigible del tercero demandado a favor del deudor;
+
+c) homogeneidad de ambos créditos entre sí;
+
+d) ninguno de los dos créditos debe haber sido objeto de embargo anterior a la promoción de la acción directa;
+
+e) citación del deudor a juicio.
+
+ARTICULO 738.- Efectos. La acción directa produce los siguientes efectos:
+
+a) la notificación de la demanda causa el embargo del crédito a favor del demandante;
+
+b) el reclamo sólo puede prosperar hasta el monto menor de las dos obligaciones;
+
+c) el tercero demandado puede oponer al progreso de la acción todas las defensas que tenga contra su propio acreedor y contra el demandante;
+
+d) el monto percibido por el actor ingresa directamente a su patrimonio;
+
+e) el deudor se libera frente a su acreedor en la medida en que corresponda en función del pago efectuado por el demandado.
+
+SECCION 2ª
+
+Acción subrogatoria
+
+ARTICULO 739.- Acción subrogatoria. El acreedor de un crédito cierto, exigible o no, puede ejercer judicialmente los derechos patrimoniales de su deudor, si éste es remiso en hacerlo y esa omisión afecta el cobro de su acreencia.
+
+El acreedor no goza de preferencia alguna sobre los bienes obtenidos por ese medio.
+
+ARTICULO 740.- Citación del deudor. El deudor debe ser citado para que tome intervención en el juicio respectivo.
+
+ARTICULO 741.- Derechos excluidos. Están excluidos de la acción subrogatoria:
+
+a) los derechos y acciones que, por su naturaleza o por disposición de la ley, sólo pueden ser ejercidos por su titular;
+
+b) los derechos y acciones sustraídos de la garantía colectiva de los acreedores;
+
+c) las meras facultades, excepto que de su ejercicio pueda resultar una mejora en la situación patrimonial del deudor.
+
+ARTICULO 742.- Defensas oponibles. Pueden oponerse al acreedor todas las excepciones y causas de extinción de su crédito, aun cuando provengan de hechos del deudor posteriores a la demanda, siempre que éstos no sean en fraude de los derechos del acreedor.
+
+SECCION 3ª
+
+Garantía común de los acreedores
+
+ARTICULO 743.- Bienes que constituyen la garantía. Los bienes presentes y futuros del deudor constituyen la garantía común de sus acreedores. El acreedor puede exigir la venta judicial de los bienes del deudor, pero sólo en la medida necesaria para satisfacer su crédito. Todos los acreedores pueden ejecutar estos bienes en posición igualitaria, excepto que exista una causa legal de preferencia.
+
+ARTICULO 744.- Bienes excluidos de la garantía común. Quedan excluidos de la garantía prevista en el artículo 743:
+
+a) las ropas y muebles de uso indispensable del deudor, de su cónyuge o conviviente, y de sus hijos;
+
+b) los instrumentos necesarios para el ejercicio personal de la profesión, arte u oficio del deudor;
+
+c) los sepulcros afectados a su destino, excepto que se reclame su precio de venta, construcción o reparación;
+
+d) los bienes afectados a cualquier religión reconocida por el Estado;
+
+e) los derechos de usufructo, uso y habitación, así como las servidumbres prediales, que sólo pueden ejecutarse en los términos de los artículos 2144, 2157 y 2178;
+
+f) las indemnizaciones que corresponden al deudor por daño moral y por daño material derivado de lesiones a su integridad psicofísica;
+
+g) la indemnización por alimentos que corresponde al cónyuge, al conviviente y a los hijos con derecho alimentario, en caso de homicidio;
+
+h) los demás bienes declarados inembargables o excluidos por otras leyes.
+
+ARTICULO 745.- Prioridad del primer embargante. El acreedor que obtuvo el embargo de bienes de su deudor tiene derecho a cobrar su crédito, intereses y costas, con preferencia a otros acreedores.
+
+Esta prioridad sólo es oponible a los acreedores quirografarios en los procesos individuales.
+
+Si varios acreedores embargan el mismo bien del deudor, el rango entre ellos se determina por la fecha de la traba de la medida.
+
+Los embargos posteriores deben afectar únicamente el sobrante que quede después de pagados los créditos que hayan obtenido embargos anteriores.
+
+CAPITULO 3
+
+Clases de obligaciones
+
+SECCION 1ª
+
+Obligaciones de dar
+
+Parágrafo 1°
+
+Disposiciones generales
+
+ARTICULO 746.- Efectos. El deudor de una cosa cierta está obligado a conservarla en el mismo estado en que se encontraba cuando contrajo la obligación, y entregarla con sus accesorios, aunque hayan sido momentáneamente separados de ella.
+
+ARTICULO 747.- Entrega. Cualquiera de las partes tiene derecho a requerir la inspección de la cosa en el acto de su entrega. La recepción de la cosa por el acreedor hace presumir la inexistencia de vicios aparentes y la calidad adecuada de la cosa, sin perjuicio de lo dispuesto sobre la obligación de saneamiento en la Sección 4ª, Capítulo 9, Título II del Libro Tercero.
+
+ARTICULO 748.- Entrega de cosa mueble cerrada o bajo cubierta. Cuando se entrega una cosa mueble bajo cubierta y sin inspeccionar al tiempo de la tradición, el acreedor tiene un plazo de caducidad de tres días desde la recepción para reclamar por defectos de cantidad, calidad o vicios aparentes.
+
+ARTICULO 749.- Obligación de dar cosas ciertas para transferir el uso o la tenencia. Remisión. Cuando la obligación de dar una cosa determinada tenga por objeto transferir solamente el uso o la tenencia de ella, se aplican las normas contenidas en los títulos especiales.
+
+Parágrafo 2°
+
+Obligaciones de dar cosa cierta para constituir derechos reales
+
+ARTICULO 750.- Tradición. El acreedor no adquiere ningún derecho real sobre la cosa antes de la tradición, excepto disposición legal en contrario.
+
+ARTICULO 751.- Mejoras. Concepto y clases. Mejora es el aumento del valor intrínseco de la cosa. Las mejoras pueden ser naturales o artificiales. Las artificiales, provenientes de hecho del hombre, se clasifican en necesarias, útiles y de mero lujo, recreo o suntuarias.
+
+ARTICULO 752.- Mejora natural. Efectos. La mejora natural autoriza al deudor a exigir un mayor valor. Si el acreedor no lo acepta, la obligación queda extinguida, sin responsabilidad para ninguna de las partes.
+
+ARTICULO 753.- Mejoras artificiales. El deudor está obligado a realizar las mejoras necesarias, sin derecho a percibir su valor. No tiene derecho a reclamar indemnización por las mejoras útiles ni por las de mero lujo, recreo o suntuarias, pero puede retirarlas en tanto no deterioren la cosa.
+
+ARTICULO 754.- Frutos. Hasta el día de la tradición los frutos percibidos le pertenecen al deudor; a partir de esa fecha, los frutos devengados y los no percibidos le corresponden al acreedor.
+
+ARTICULO 755.- Riesgos de la cosa. El propietario soporta los riesgos de la cosa. Los casos de deterioro o pérdida, con o sin culpa, se rigen por lo dispuesto sobre la imposibilidad de cumplimiento.
+
+ARTICULO 756.- Concurrencia de varios acreedores. Bienes inmuebles. Si varios acreedores reclaman la misma cosa inmueble prometida por el deudor, son todos de buena fe y a título oneroso, tiene mejor derecho:
+
+a) el que tiene emplazamiento registral y tradición;
+
+b) el que ha recibido la tradición;
+
+c) el que tiene emplazamiento registral precedente;
+
+d) en los demás supuestos, el que tiene título de fecha cierta anterior.
+
+ARTICULO 757.- Concurrencia de varios acreedores. Bienes muebles. Si varios acreedores reclaman la misma cosa mueble prometida por el deudor, son todos de buena fe y a título oneroso, tiene mejor derecho:
+
+a) el que tiene emplazamiento registral precedente, si se trata de bienes muebles registrables;
+
+b) el que ha recibido la tradición, si fuese no registrable;
+
+c) en los demás supuestos, el que tiene título de fecha cierta anterior.
+
+ARTICULO 758.- Acreedor frustrado. El acreedor de buena fe que resulta frustrado en su derecho, conserva su acción contra el deudor para reclamar los daños y perjuicios sufridos.
+
+Parágrafo 3º
+
+Obligaciones de dar para restituir
+
+ARTICULO 759.- Regla general. En la obligación de dar para restituir, el deudor debe entregar la cosa al acreedor, quien por su parte puede exigirla.
+
+Si quien debe restituir se obligó a entregar la cosa a más de un acreedor, el deudor debe entregarla al dueño, previa citación fehaciente a los otros que la hayan pretendido.
+
+ARTICULO 760.- Entrega de la cosa a quien no es propietario. Bienes no registrables. Con relación a terceros, cuando la obligación de dar cosas ciertas tiene por fin restituirlas a su dueño, si la cosa es mueble no registrable y el deudor hace, a título oneroso, tradición de ella a otro por transferencia o constitución de prenda, el acreedor no tiene derecho contra los poseedores de buena fe, sino solamente cuando la cosa le fue robada o se ha perdido. En todos los casos lo tiene contra los poseedores de mala fe.
+
+ARTICULO 761.- Entrega de la cosa a quien no es propietario. Bienes registrables. Si la cosa es inmueble o mueble registrable, el acreedor tiene acción real contra terceros que sobre ella aparentemente adquirieron derechos reales, o que la tengan en su posesión por cualquier contrato hecho con el deudor.
+
+Parágrafo 4°
+
+Obligaciones de género
+
+ARTICULO 762,- Individualización. La obligación de dar es de género si recae sobre cosas determinadas sólo por su especie y cantidad.
+
+Las cosas debidas en una obligación de género deben ser individualizadas. La elección corresponde al deudor, excepto que lo contrario resulte de la convención de las partes. La elección debe recaer sobre cosa de calidad media, y puede ser hecha mediante manifestación de voluntad expresa o tácita.
+
+ARTICULO 763.- Período anterior a la individualización. Antes de la individualización de la cosa debida, el caso fortuito no libera al deudor. Después de hecha la elección, se aplican las reglas sobre la obligación de dar cosas ciertas.
+
+Parágrafo 5°
+
+Obligaciones relativas a bienes que no son cosas
+
+ARTICULO 764.- Aplicación de normas. Las normas de los Parágrafos 1°, 2°, 3° y 4° de esta Sección se aplican, en lo pertinente, a los casos en que la prestación debida consiste en transmitir, o poner a disposición del acreedor, un bien que no es cosa.
+
+Parágrafo 6°
+
+Obligaciones de dar dinero
+
+ARTICULO 765.- Concepto. La obligación es de dar dinero si el deudor debe cierta cantidad de moneda, determinada o determinable, al momento de constitución de la obligación, sea o no de curso legal en el país. El deudor solo se libera si entrega las cantidades comprometidas en la moneda pactada. Los jueces no pueden modificar la forma de pago o la moneda pactada por las partes.
+
+(Artículo sustituido por art. 250 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+ARTICULO 766.- Obligación del deudor. El deudor debe entregar la cantidad correspondiente de la especie designada, tanto si la moneda tiene curso legal en la República como si no lo tiene.
+
+(Artículo sustituido por art. 251 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+ARTICULO 767.- Intereses compensatorios. La obligación puede llevar intereses y son válidos los que se han convenido entre el deudor y el acreedor, como también la tasa fijada para su liquidación. Si no fue acordada por las partes, ni por las leyes, ni resulta de los usos, la tasa de interés compensatorio puede ser fijada por los jueces.
+
+ARTICULO 768.- Intereses moratorios. A partir de su mora el deudor debe los intereses correspondientes. La tasa se determina:
+
+a) por lo que acuerden las partes;
+
+b) por lo que dispongan las leyes especiales;
+
+c) en subsidio, por tasas que se fijen según las reglamentaciones del Banco Central.
+
+ARTICULO 769.- Intereses punitorios. Los intereses punitorios convencionales se rigen por las normas que regulan la cláusula penal.
+
+ARTICULO 770.- Anatocismo. No se deben intereses de los intereses, excepto que:
+
+a) una cláusula expresa autorice la acumulación de los intereses al capital con una periodicidad no inferior a seis meses;
+
+b) la obligación se demande judicialmente; en este caso, la acumulación opera desde la fecha de la notificación de la demanda;
+
+c) la obligación se liquide judicialmente; en este caso, la capitalización se produce desde que el juez manda pagar la suma resultante y el deudor es moroso en hacerlo;
+
+d) otras disposiciones legales prevean la acumulación.
+
+ARTICULO 771.- Facultades judiciales. Los jueces pueden reducir los intereses cuando la tasa fijada o el resultado que provoque la capitalización de intereses excede, sin justificación y desproporcionadamente, el costo medio del dinero para deudores y operaciones similares en el lugar donde se contrajo la obligación.
+
+Los intereses pagados en exceso se imputan al capital y, una vez extinguido éste, pueden ser repetidos.
+
+ARTICULO 772.- Cuantificación de un valor. Si la deuda consiste en cierto valor, el monto resultante debe referirse al valor real al momento que corresponda tomar en cuenta para la evaluación de la deuda. Puede ser expresada en una moneda sin curso legal que sea usada habitualmente en el tráfico. Una vez que el valor es cuantificado en dinero se aplican las disposiciones de esta Sección.
+
+SECCION 2ª
+
+Obligaciones de hacer y de no hacer
+
+ARTICULO 773.- Concepto. La obligación de hacer es aquella cuyo objeto consiste en la prestación de un servicio o en la realización de un hecho, en el tiempo, lugar y modo acordados por las partes.
+
+ARTICULO 774.- Prestación de un servicio. La prestación de un servicio puede consistir:
+
+a) en realizar cierta actividad, con la diligencia apropiada, independientemente de su éxito. Las cláusulas que comprometen a los buenos oficios, o a aplicar los mejores esfuerzos están comprendidas en este inciso;
+
+b) en procurar al acreedor cierto resultado concreto, con independencia de su eficacia;
+
+c) en procurar al acreedor el resultado eficaz prometido. La cláusula llave en mano o producto en mano está comprendida en este inciso.
+
+Si el resultado de la actividad del deudor consiste en una cosa, para su entrega se aplican las reglas de las obligaciones de dar cosas ciertas para constituir derechos reales.
+
+ARTICULO 775.- Realización de un hecho. El obligado a realizar un hecho debe cumplirlo en tiempo y modo acordes con la intención de las partes o con la índole de la obligación. Si lo hace de otra manera, la prestación se tiene por incumplida, y el acreedor puede exigir la destrucción de lo mal hecho, siempre que tal exigencia no sea abusiva.
+
+ARTICULO 776.- Incorporación de terceros. La prestación puede ser ejecutada por persona distinta del deudor, a no ser que de la convención, de la naturaleza de la obligación o de las circunstancias resulte que éste fue elegido por sus cualidades para realizarla personalmente. Esta elección se presume en los contratos que suponen una confianza especial.
+
+ARTICULO 777.- Ejecución forzada. El incumplimiento imputable de la prestación le da derecho al acreedor a:
+
+a) exigir el cumplimiento específico;
+
+b) hacerlo cumplir por terceros a costa del deudor;
+
+c) reclamar los daños y perjuicios.
+
+ARTICULO 778.- Obligación de no hacer. Es aquella que tiene por objeto una abstención del deudor o tolerar una actividad ajena. Su incumplimiento imputable permite reclamar la destrucción física de lo hecho, y los daños y perjuicios.
+
+SECCION 3ª
+
+Obligaciones alternativas
+
+ARTICULO 779.- Concepto. La obligación alternativa tiene por objeto una prestación entre varias que son independientes y distintas entre sí. El deudor está obligado a cumplir una sola de ellas.
+
+ARTICULO 780.- Elección. Sujetos. Efectos. Excepto estipulación en contrario, la facultad de elegir corresponde al deudor. La opción que corresponde a varias personas requiere unanimidad. Si la parte a quien corresponde la elección no se pronuncia oportunamente, la facultad de opción pasa a la otra. Si esa facultad se ha deferido a un tercero y éste no opta en el plazo fijado, corresponde al deudor designar el objeto del pago.
+
+En las obligaciones periódicas, la elección realizada una vez no implica renuncia a la facultad de optar en lo sucesivo.
+
+La elección es irrevocable desde que se la comunica a la otra parte o desde que el deudor ejecuta alguna de las prestaciones, aunque sea parcialmente.
+
+Una vez realizada, la prestación escogida se considera única desde su origen, y se aplican las reglas de las obligaciones de dar, de hacer o de no hacer, según corresponda.
+
+ARTICULO 781.- Obligación alternativa regular. En los casos en que la elección corresponde al deudor y la alternativa se da entre dos prestaciones, se aplican las siguientes reglas:
+
+a) si una de las prestaciones resulta imposible por causas ajenas a la responsabilidad de las partes, o atribuibles a la responsabilidad del deudor, la obligación se concentra en la restante; si la imposibilidad proviene de causas atribuibles a la responsabilidad del acreedor, el deudor tiene derecho a optar entre dar por cumplida su obligación; o cumplir la prestación que todavía es posible y reclamar los daños y perjuicios emergentes de la mayor onerosidad que le cause el pago realizado, con relación al que resultó imposible;
+
+b) si todas las prestaciones resultan imposibles, y la imposibilidad es sucesiva, la obligación se concentra en esta última, excepto si la imposibilidad de alguna de ellas obedece a causas que comprometen la responsabilidad del acreedor; en este caso, el deudor tiene derecho a elegir con cuál queda liberado;
+
+c) si todas las prestaciones resultan imposibles por causas atribuibles a la responsabilidad del deudor, y la imposibilidad es simultánea, se libera entregando el valor de cualquiera de ella; si lo son por causas atribuibles a la responsabilidad del acreedor, el deudor tiene derecho a dar por cumplida su obligación con una y reclamar los daños y perjuicios emergentes de la mayor onerosidad que le ocasione el pago realizado, con relación al que resultó imposible;
+
+d) si todas las prestaciones resultan imposibles por causas ajenas a la responsabilidad de las partes, la obligación se extingue.
+
+ARTICULO 782.- Obligación alternativa irregular. En los casos en que la elección corresponde al acreedor y la alternativa se da entre dos prestaciones, se aplican las siguientes reglas:
+
+a) si una de las prestaciones resulta imposible por causas ajenas a la responsabilidad de las partes, o atribuibles a la responsabilidad del acreedor, la obligación se concentra en la restante; si la imposibilidad proviene de causas atribuibles a la responsabilidad del deudor, el acreedor tiene derecho a optar entre reclamar la prestación que es posible, o el valor de la que resulta imposible;
+
+b) si todas las prestaciones resultan imposibles y la imposibilidad es sucesiva, la obligación se concentra en la última, excepto que la imposibilidad de la primera obedezca a causas que comprometan la responsabilidad del deudor; en este caso el acreedor tiene derecho a reclamar el valor de cualquiera de las prestaciones;
+
+c) si todas las prestaciones resultan imposibles por causas atribuibles a la responsabilidad del acreedor, y la imposibilidad es simultánea, el acreedor tiene derecho a elegir con cuál de ellas queda satisfecho, y debe al deudor los daños y perjuicios emergentes de la mayor onerosidad que le reporte el pago realizado; si lo son por causas atribuibles a la responsabilidad del deudor, el acreedor tiene derecho a elegir con el valor de cuál de ellas queda satisfecho;
+
+d) si todas las prestaciones resultan imposibles por causas ajenas a la responsabilidad de las partes, la obligación se extingue.
+
+ARTICULO 783.- Elección por un tercero. Las opciones conferidas al deudor y al acreedor en los artículos 781 y 782 también pueden ser ejercidas, a favor de aquéllos, por un tercero a quien le haya sido encargada la elección.
+
+ARTICULO 784.- Elección de modalidades o circunstancias. Si en la obligación se autoriza la elección respecto de sus modalidades o circunstancias, se aplican las reglas precedentes sobre el derecho de realizar la opción y sus efectos legales.
+
+ARTICULO 785.- Obligaciones de género limitado. Las disposiciones de esta Sección se aplican a las obligaciones en las que el deudor debe entregar una cosa incierta pero comprendida dentro de un número de cosas ciertas de la misma especie.
+
+SECCION 4ª
+
+Obligaciones facultativas
+
+ARTICULO 786.- Concepto. La obligación facultativa tiene una prestación principal y otra accesoria. El acreedor solo puede exigir la principal, pero el deudor puede liberarse cumpliendo la accesoria. El deudor dispone hasta el momento del pago para ejercitar la facultad de optar.
+
+ARTICULO 787.- Extinción. La obligación facultativa se extingue si la prestación principal resulta imposible, sin perjuicio de la responsabilidad que pueda corresponder.
+
+ARTICULO 788.- Caso de duda. En caso de duda respecto a si la obligación es alternativa o facultativa, se la tiene por alternativa.
+
+ARTICULO 789.- Opción entre modalidades y circunstancias. Si en la obligación se autoriza la opción respecto de sus modalidades o circunstancias, se aplican las reglas precedentes.
+
+SECCION 5ª
+
+Obligaciones con cláusula penal y sanciones conminatorias
+
+ARTICULO 790.- Concepto. La cláusula penal es aquella por la cual una persona, para asegurar el cumplimiento de una obligación, se sujeta a una pena o multa en caso de retardar o de no ejecutar la obligación.
+
+ARTICULO 791.- Objeto. La cláusula penal puede tener por objeto el pago de una suma de dinero, o cualquiera otra prestación que pueda ser objeto de las obligaciones, bien sea en beneficio del acreedor o de un tercero.
+
+ARTICULO 792.- Incumplimiento. El deudor que no cumple la obligación en el tiempo convenido debe la pena, si no prueba la causa extraña que suprime la relación causal. La eximente del caso fortuito debe ser interpretada y aplicada restrictivamente.
+
+ARTICULO 793.- Relación con la indemnización. La pena o multa impuesta en la obligación suple la indemnización de los daños cuando el deudor se constituyó en mora; y el acreedor no tiene derecho a otra indemnización, aunque pruebe que la pena no es reparación suficiente.
+
+ARTICULO 794.- Ejecución. Para pedir la pena, el acreedor no está obligado a probar que ha sufrido perjuicios, ni el deudor puede eximirse de satisfacerla, acreditando que el acreedor no sufrió perjuicio alguno.
+
+Los jueces pueden reducir las penas cuando su monto desproporcionado con la gravedad de la falta que sancionan, habida cuenta del valor de las prestaciones y demás circunstancias del caso, configuran un abusivo aprovechamiento de la situación del deudor.
+
+ARTICULO 795.- Obligaciones de no hacer. En las obligaciones de no hacer el deudor incurre en la pena desde el momento que ejecuta el acto del cual se obligó a abstenerse.
+
+ARTICULO 796.- Opciones del deudor. El deudor puede eximirse de cumplir la obligación con el pago de la pena únicamente si se reservó expresamente este derecho.
+
+ARTICULO 797.- Opciones del acreedor. El acreedor no puede pedir el cumplimiento de la obligación y la pena, sino una de las dos cosas, a su arbitrio, a menos que se haya estipulado la pena por el simple retardo, o que se haya estipulado que por el pago de la pena no se entienda extinguida la obligación principal.
+
+ARTICULO 798.- Disminución proporcional. Si el deudor cumple sólo una parte de la obligación, o la cumple de un modo irregular, o fuera del lugar o del tiempo a que se obligó, y el acreedor la acepta, la pena debe disminuirse proporcionalmente.
+
+ARTICULO 799.- Divisibilidad. Sea divisible o indivisible la obligación principal, cada uno de los codeudores o de los herederos del deudor no incurre en la pena sino en proporción de su parte, siempre que sea divisible la obligación de la cláusula penal.
+
+ARTICULO 800.- Indivisibilidad. Si la obligación de la cláusula penal es indivisible, o si es solidaria aunque divisible, cada uno de los codeudores, o de los coherederos del deudor, queda obligado a satisfacer la pena entera.
+
+ARTICULO 801.- Nulidad. La nulidad de la obligación con cláusula penal no causa la de la principal. La nulidad de la principal causa la de la cláusula penal, excepto si la obligación con cláusula penal fue contraída por otra persona, para el caso que la principal fuese nula por falta de capacidad del deudor.
+
+ARTICULO 802.- Extinción de la obligación principal. Si la obligación principal se extingue sin culpa del deudor queda también extinguida la cláusula penal.
+
+ARTICULO 803.- Obligación no exigible. La cláusula penal tiene efecto, aunque sea puesta para asegurar el cumplimiento de una obligación que al tiempo de concertar la accesoria no podía exigirse judicialmente, siempre que no sea reprobada por la ley.
+
+ARTICULO 804.- Sanciones conminatorias. Los jueces pueden imponer en beneficio del titular del derecho, condenaciones conminatorias de carácter pecuniario a quienes no cumplen deberes jurídicos impuestos en una resolución judicial. Las condenas se deben graduar en proporción al caudal económico de quien debe satisfacerlas y pueden ser dejadas sin efecto o reajustadas si aquél desiste de su resistencia y justifica total o parcialmente su proceder.
+
+La observancia de los mandatos judiciales impartidos a las autoridades públicas se rige por las normas propias del derecho administrativo.
+
+SECCION 6ª
+
+Obligaciones divisibles e indivisibles
+
+Parágrafo 1°
+
+Obligaciones divisibles
+
+ARTICULO 805.- Concepto. Obligación divisible es la que tiene por objeto prestaciones susceptibles de cumplimiento parcial.
+
+ARTICULO 806.- Requisitos. La prestación jurídicamente divisible exige la concurrencia de los siguientes requisitos:
+
+a) ser materialmente fraccionable, de modo que cada una de sus partes tenga la misma calidad del todo;
+
+b) no quedar afectado significativamente el valor del objeto, ni ser antieconómico su uso y goce, por efecto de la división.
+
+ARTICULO 807.- Deudor y acreedor singulares. Si solo hay un deudor y un acreedor, la prestación debe ser cumplida por entero, aunque su objeto sea divisible.
+
+ARTICULO 808.- Principio de división. Si la obligación divisible tiene más de un acreedor o más de un deudor, se debe fraccionar en tantos créditos o deudas iguales, como acreedores o deudores haya, siempre que el título constitutivo no determine proporciones distintas.
+
+Cada una de las partes equivale a una prestación diversa e independiente. Los acreedores tienen derecho a su cuota y los deudores no responden por la insolvencia de los demás.
+
+ARTICULO 809.- Límite de la divisibilidad. La divisibilidad de la obligación no puede invocarse por el codeudor a cuyo cargo se deja el pago de toda la deuda.
+
+ARTICULO 810.- Derecho al reintegro. En los casos en que el deudor paga más de su parte en la deuda:
+
+a) si lo hace sabiendo que en la demasía paga una deuda ajena, se aplican las reglas de la subrogación por ejecución de la prestación por un tercero;
+
+b) si lo hace sin causa, porque cree ser deudor del todo, o porque el acreedor ya percibió la demasía, se aplican las reglas del pago indebido.
+
+ARTICULO 811.- Participación. La participación entre los acreedores de lo que uno de ellos percibe de más se determina conforme a lo dispuesto por el artículo 841.
+
+ARTICULO 812.- Caso de solidaridad. Si la obligación divisible es además solidaria, se aplican las reglas de las obligaciones solidarias, y la solidaridad activa o pasiva, según corresponda.
+
+Parágrafo 2°
+
+Obligaciones indivisibles
+
+ARTICULO 813.- Concepto. Son indivisibles las obligaciones no susceptibles de cumplimiento parcial.
+
+ARTICULO 814.- Casos de indivisibilidad. Hay indivisibilidad:
+
+a) si la prestación no puede ser materialmente dividida;
+
+b) si la indivisibilidad es convenida; en caso de duda sobre si se convino que la obligación sea indivisible o solidaria, se considera solidaria;
+
+c) si lo dispone la ley.
+
+ARTICULO 815.- Prestaciones indivisibles. Se consideran indivisibles las prestaciones correspondientes a las obligaciones:
+
+a) de dar una cosa cierta;
+
+b) de hacer, excepto si han sido convenidas por unidad de medida y el deudor tiene derecho a la liberación parcial;
+
+c) de no hacer;
+
+d) accesorias, si la principal es indivisible.
+
+ARTICULO 816.- Derecho de los acreedores al pago total. Cada uno de los acreedores tiene derecho de exigir la totalidad del pago a cualquiera de los codeudores, o a todos ellos, simultánea o sucesivamente.
+
+ARTICULO 817.- Derecho a pagar. Cualquiera de los codeudores tiene derecho a pagar la totalidad de la deuda a cualquiera de los acreedores.
+
+ARTICULO 818.- Modos extintivos. La unanimidad de los acreedores es requerida para extinguir el crédito por transacción, novación, dación en pago y remisión. Igual recaudo exige la cesión del crédito, no así la compensación.
+
+ARTICULO 819.- Responsabilidad de cada codeudor. La mora de uno de los deudores o de uno de los acreedores, y los factores de atribución de responsabilidad de uno u otro, no perjudican a los demás.
+
+ARTICULO 820.- Contribución. Si uno de los deudores paga la totalidad de la deuda, o repara la totalidad de los daños, o realiza gastos en interés común, tiene derecho a reclamar a los demás la contribución del valor de lo que ha invertido en interés de ellos, con los alcances que determina el artículo 841.
+
+ARTICULO 821.- Participación. Si uno de los acreedores recibe la totalidad del crédito o de la reparación de los daños, o más que su cuota, los demás tienen derecho a que les pague el valor de lo que les corresponde conforme a la cuota de participación de cada uno de ellos, con los alcances que determina el artículo 841.
+
+Tienen igual derecho si el crédito se extingue total o parcialmente, por compensación legal.
+
+ARTICULO 822.- Prescripción extintiva. La prescripción extintiva cumplida es invocable por cualquiera de los deudores contra cualquiera de los acreedores.
+
+La interrupción y la suspensión del curso de la prescripción extintiva se rigen por lo dispuesto en el Libro Sexto.
+
+ARTICULO 823.- Normas subsidiarias. Las normas relativas a las obligaciones solidarias son subsidiariamente aplicables a las obligaciones indivisibles.
+
+ARTICULO 824.- Indivisibilidad impropia. Las disposiciones de este parágrafo se aplican a las obligaciones cuyo cumplimiento sólo puede ser exigido por todos los acreedores en conjunto, o realizado por todos los deudores en conjunto, excepto las que otorgan a cada uno el derecho de cobrar o a pagar individualmente.
+
+SECCION 7ª
+
+Obligaciones de sujeto plural
+
+Parágrafo 1°
+
+Obligaciones simplemente mancomunadas
+
+ARTICULO 825.- Concepto. La obligación simplemente mancomunada es aquella en la que el crédito o la deuda se fracciona en tantas relaciones particulares independientes entre sí como acreedores o deudores haya. Las cuotas respectivas se consideran deudas o créditos distintos los unos de los otros.
+
+ARTICULO 826.- Efectos. Los efectos de la obligación simplemente mancomunada se rigen por lo dispuesto en la Sección 6a de este Capítulo, según que su objeto sea divisible o indivisible.
+
+Parágrafo 2°
+
+Obligaciones solidarias. Disposiciones generales
+
+ARTICULO 827.- Concepto. Hay solidaridad en las obligaciones con pluralidad de sujetos y originadas en una causa única cuando, en razón del título constitutivo o de la ley, su cumplimiento total puede exigirse a cualquiera de los deudores, por cualquiera de los acreedores.
+
+ARTICULO 828.- Fuentes. La solidaridad no se presume y debe surgir inequívocamente de la ley o del título constitutivo de la obligación.
+
+ARTICULO 829.- Criterio de aplicación. Con sujeción a lo dispuesto en este Parágrafo y en los dos siguientes, se considera que cada uno de los codeudores solidarios, en la solidaridad pasiva, y cada uno de los coacreedores, en la solidaridad activa, representa a los demás en los actos que realiza como tal.
+
+ARTICULO 830.- Circunstancias de los vínculos. La incapacidad y la capacidad restringida de alguno de los acreedores o deudores solidarios no perjudica ni beneficia la situación de los demás; tampoco la existencia de modalidades a su respecto.
+
+ARTICULO 831.- Defensas. Cada uno de los deudores puede oponer al acreedor las defensas comunes a todos ellos.
+
+Las defensas personales pueden oponerse exclusivamente por el deudor o acreedor a quien correspondan, y sólo tienen valor frente al coacreedor a quien se refieran. Sin embargo, pueden expandir limitadamente sus efectos hacia los demás codeudores, y posibilitar una reducción del monto total de la deuda que se les reclama, hasta la concurrencia de la parte perteneciente en la deuda al codeudor que las puede invocar.
+
+ARTICULO 832.- Cosa juzgada. La sentencia dictada contra uno de los codeudores no es oponible a los demás, pero éstos pueden invocarla cuando no se funda en circunstancias personales del codeudor demandado.
+
+El deudor no puede oponer a los demás coacreedores la sentencia obtenida contra uno de ellos; pero los coacreedores pueden oponerla al deudor, sin perjuicio de las excepciones personales que éste tenga frente a cada uno de ellos.
+
+Parágrafo 3°
+
+Solidaridad pasiva
+
+ARTICULO 833.- Derecho a cobrar. El acreedor tiene derecho a requerir el pago a uno, a varios o a todos los codeudores, simultánea o sucesivamente.
+
+ARTICULO 834.- Derecho a pagar. Cualquiera de los deudores solidarios tiene derecho a pagar la totalidad de la deuda, sin perjuicio de lo dispuesto en el artículo 837.
+
+ARTICULO 835.- Modos extintivos. Con sujeción a disposiciones especiales, los modos extintivos inciden, según el caso, sobre la obligación, o sobre la cuota de algún deudor solidario, conforme a las siguientes reglas:
+
+a) la obligación se extingue en el todo cuando uno de los deudores solidarios paga la deuda;
+
+b) la obligación también se extingue en el todo si el acreedor renuncia a su crédito a favor de uno de los deudores solidarios, o si se produce novación, dación en pago o compensación entre el acreedor y uno de los deudores solidarios;
+
+c) la confusión entre el acreedor y uno de los deudores solidarios sólo extingue la cuota de la deuda que corresponde a éste. La obligación subsistente conserva el carácter solidario;
+
+d) la transacción hecha con uno de los codeudores solidarios, aprovecha a los otros, pero no puede serles opuesta.
+
+ARTICULO 836.- Extinción absoluta de la solidaridad. Si el acreedor, sin renunciar al crédito, renuncia expresamente a la solidaridad en beneficio de todos los deudores solidarios, consintiendo la división de la deuda, ésta se transforma en simplemente mancomunada.
+
+ARTICULO 837.- Extinción relativa de la solidaridad. Si el acreedor, sin renunciar al crédito, renuncia expresa o tácitamente a la solidaridad en beneficio de uno solo de los deudores solidarios, la deuda continúa siendo solidaria respecto de los demás, con deducción de la cuota correspondiente al deudor beneficiario.
+
+ARTICULO 838.- Responsabilidad. La mora de uno de los deudores solidarios perjudica a los demás. Si el cumplimiento se hace imposible por causas imputables a un codeudor, los demás responden por el equivalente de la prestación debida y la indemnización de daños y perjuicios. Las consecuencias propias del incumplimiento doloso de uno de los deudores no son soportadas por los otros.
+
+ARTICULO 839.- Interrupción y suspensión de la prescripción. La interrupción y la suspensión del curso de la prescripción extintiva están regidas por lo dispuesto en el Título I del Libro Sexto.
+
+ARTICULO 840.- Contribución. El deudor que efectúa el pago puede repetirlo de los demás codeudores según la participación que cada uno tiene en la deuda. La acción de regreso no procede en caso de haberse remitido gratuitamente la deuda.
+
+ARTICULO 841.- Determinación de la cuota de contribución. Las cuotas de contribución se determinan sucesivamente de acuerdo con:
+
+a) lo pactado;
+
+b) la fuente y la finalidad de la obligación o, en su caso, la causa de la responsabilidad;
+
+c) las relaciones de los interesados entre sí;
+
+d) las demás circunstancias.
+
+Si por aplicación de estos criterios no es posible determinar las cuotas de contribución, se entiende que participan en partes iguales.
+
+ARTICULO 842.- Caso de insolvencia. La cuota correspondiente a los codeudores insolventes es cubierta por todos los obligados.
+
+ARTICULO 843.- Muerte de un deudor. Si muere uno de los deudores solidarios y deja varios herederos, la deuda ingresa en la masa indivisa y cualquiera de los acreedores puede oponerse a que los bienes se entreguen a los herederos o legatarios sin haber sido previamente pagado. Después de la partición, cada heredero está obligado a pagar según la cuota que le corresponde en el haber hereditario.
+
+Parágrafo 4°
+
+Solidaridad activa
+
+ARTICULO 844.- Derecho al cobro. El acreedor, o cada acreedor, o todos ellos conjuntamente, pueden reclamar al deudor la totalidad de la obligación.
+
+ARTICULO 845.- Prevención de un acreedor. Si uno de los acreedores solidarios ha demandado judicialmente el cobro al deudor, el pago sólo puede ser hecho por éste al acreedor demandante.
+
+ARTICULO 846.- Modos extintivos. Sujeto a disposiciones especiales, los modos extintivos inciden, según el caso, sobre la obligación, o sobre la cuota de algún acreedor solidario, conforme a las siguientes reglas:
+
+a) la obligación se extingue en el todo cuando uno de los acreedores solidarios recibe el pago del crédito;
+
+b) en tanto alguno de los acreedores solidarios no haya demandado el pago al deudor, la obligación también se extingue en el todo si uno de ellos renuncia a su crédito a favor del deudor, o si se produce novación, dación en pago o compensación entre uno de ellos y el deudor;
+
+c) la confusión entre el deudor y uno de los acreedores solidarios sólo extingue la cuota del crédito que corresponde a éste;
+
+d) la transacción hecha por uno de los coacreedores solidarios con el deudor no es oponible a los otros acreedores, excepto que éstos quieran aprovecharse de ésta.
+
+ARTICULO 847.- Participación. Los acreedores solidarios tienen derecho a la participación con los siguientes alcances:
+
+a) si uno de los acreedores solidarios recibe la totalidad del crédito o de la reparación del daño, o más que su cuota, los demás tienen derecho a que les pague el valor de lo que les corresponde conforme a la cuota de participación de cada uno;
+
+b) en los casos del inciso b) del artículo 846, los demás acreedores solidarios tienen derecho a la participación, si hubo renuncia al crédito o compensación legal por la cuota de cada uno en el crédito original; y si hubo compensación convencional o facultativa, novación, dación en pago o transacción, por la cuota de cada uno en el crédito original, o por la que correspondería a cada uno conforme lo resultante de los actos extintivos, a su elección;
+
+c) el acreedor solidario que realiza gastos razonables en interés común tiene derecho a reclamar a los demás la participación en el reembolso de su valor.
+
+ARTICULO 848.- Cuotas de participación. Las cuotas de participación de los acreedores solidarios se determinan conforme lo dispuesto en el artículo 841.
+
+ARTICULO 849.- Muerte de un acreedor. Si muere uno de los acreedores solidarios, el crédito se divide entre sus herederos en proporción a su participación en la herencia. Después de la partición, cada heredero tiene derecho a percibir según la cuota que le corresponde en el haber hereditario.
+
+SECCION 8ª
+
+Obligaciones concurrentes
+
+ARTICULO 850.- Concepto. Obligaciones concurrentes son aquellas en las que varios deudores deben el mismo objeto en razón de causas diferentes.
+
+ARTICULO 851.- Efectos. Excepto disposición especial en contrario, las obligaciones concurrentes se rigen por las siguientes reglas:
+
+a) el acreedor tiene derecho a requerir el pago a uno, a varios o a todos los codeudores, simultánea o sucesivamente;
+
+b) el pago realizado por uno de los deudores extingue la obligación de los otros obligados concurrentes;
+
+c) la dación en pago, la transacción, la novación y la compensación realizadas con uno de los deudores concurrentes, en tanto satisfagan íntegramente el interés del acreedor, extinguen la obligación de los otros obligados concurrentes o, en su caso, la extinguen parcialmente en la medida de lo satisfecho;
+
+d) la confusión entre el acreedor y uno de los deudores concurrentes y la renuncia al crédito a favor de uno de los deudores no extingue la deuda de los otros obligados concurrentes;
+
+e) la prescripción cumplida y la interrupción y suspensión de su curso no producen efectos expansivos respecto de los otros obligados concurrentes;
+
+f) la mora de uno de los deudores no produce efectos expansivos con respecto a los otros codeudores;
+
+g) la sentencia pasada en autoridad de cosa juzgada dictada contra uno de los codeudores no es oponible a los demás, pero éstos pueden invocarla cuando no se funda en circunstancias personales del codeudor demandado;
+
+h) la acción de contribución del deudor que paga la deuda contra los otros obligados concurrentes se rige por las relaciones causales que originan la concurrencia.
+
+ARTICULO 852.- Normas subsidiarias. Las normas relativas a las obligaciones solidarias son subsidiariamente aplicables a las obligaciones concurrentes.
+
+SECCION 9ª
+
+Obligaciones disyuntivas
+
+ARTICULO 853.- Alcances. Si la obligación debe ser cumplida por uno de varios sujetos, excepto estipulación en contrario, el acreedor elige cuál de ellos debe realizar el pago. Mientras el acreedor no demande a uno de los sujetos, cualquiera de ellos tiene derecho de pagar. El que paga no tiene derecho de exigir contribución o reembolso de los otros sujetos obligados.
+
+ARTICULO 854.- Disyunción activa. Si la obligación debe ser cumplida a favor de uno de varios sujetos, excepto estipulación en contrario, el deudor elige a cuál de éstos realiza el pago. La demanda de uno de los acreedores al deudor no extingue el derecho de éste a pagar a cualquiera de ellos. El que recibe el pago no está obligado a participarlo con los demás.
+
+ARTICULO 855.- Reglas aplicables. Se aplican, subsidiariamente, las reglas de las obligaciones simplemente mancomunadas.
+
+SECCION 10ª
+
+Obligaciones principales y accesorias
+
+ARTICULO 856.- Definición. Obligaciones principales son aquellas cuya existencia, régimen jurídico, eficacia y desarrollo funcional son autónomos e independientes de cualquier otro vínculo obligacional. Los derechos y obligaciones son accesorios a una obligación principal cuando dependen de ella en cualquiera de los aspectos precedentemente indicados, o cuando resultan esenciales para satisfacer el interés del acreedor.
+
+ARTICULO 857.- Efectos. La extinción, nulidad o ineficacia del crédito principal, extinguen los derechos y obligaciones accesorios, excepto disposición legal o convencional en contrario.
+
+SECCION 11ª
+
+Rendición de cuentas
+
+ARTICULO 858.- Definiciones. Se entiende por cuenta la descripción de los antecedentes, hechos y resultados pecuniarios de un negocio, aunque consista en un acto singular.
+
+Hay rendición de cuentas cuando se las pone en conocimiento de la persona interesada, conforme a lo dispuesto en los artículos siguientes.
+
+ARTICULO 859.- Requisitos. La rendición de cuentas debe:
+
+a) ser hecha de modo descriptivo y documentado;
+
+b) incluir las referencias y explicaciones razonablemente necesarias para su comprensión;
+
+c) acompañar los comprobantes de los ingresos y de los egresos, excepto que sea de uso no extenderlos;
+
+d) concordar con los libros que lleve quien las rinda.
+
+ARTICULO 860.- Obligación de rendir cuentas. Están obligados a rendir cuentas, excepto renuncia expresa del interesado:
+
+a) quien actúa en interés ajeno, aunque sea en nombre propio;
+
+b) quienes son parte en relaciones de ejecución continuada, cuando la rendición es apropiada a la naturaleza del negocio;
+
+c) quien debe hacerlo por disposición legal.
+
+La rendición de cuentas puede ser privada, excepto si la ley dispone que debe ser realizada ante un juez.
+
+ARTICULO 861.- Oportunidad. Las cuentas deben ser rendidas en la oportunidad en que estipulan las partes, o dispone la ley. En su defecto, la rendición de cuentas debe ser hecha:
+
+a) al concluir el negocio;
+
+b) si el negocio es de ejecución continuada, también al concluir cada uno de los períodos o al final de cada año calendario.
+
+ARTICULO 862.- Aprobación. La rendición de cuentas puede ser aprobada expresa o tácitamente. Hay aprobación tácita si no es observada en el plazo convenido o dispuesto por la ley o, en su defecto, en el de treinta días de presentadas en debida forma. Sin embargo, puede ser observada por errores de cálculo o de registración dentro del plazo de caducidad de un año de recibida.
+
+ARTICULO 863.- Relaciones de ejecución continuada. En relaciones de ejecución continuada si la rendición de cuentas del último período es aprobada, se presume que también lo fueron las rendiciones correspondientes a los periodos anteriores.
+
+ARTICULO 864.- Saldos y documentos del interesado. Una vez aprobadas las cuentas:
+
+a) su saldo debe ser pagado en el plazo convenido o dispuesto por la ley o, en su defecto, en el de diez días;
+
+b) el obligado a rendirlas debe devolver al interesado los títulos y documentos que le hayan sido entregados, excepto las instrucciones de carácter personal.
+

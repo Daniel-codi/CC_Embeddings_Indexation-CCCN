@@ -2,27 +2,27 @@
 INDICE TEMATICO (para el humano)
 
 TÍTULO PRELIMINAR
-Capítulo 1 - Derecho - arts. 1 a 3
-Capítulo 2 - Ley - arts. 4 a 8
-Capítulo 3 - Ejercicio de los derechos - arts. 9 a 14
-Capítulo 4 - Derechos y bienes - arts. 15 a 18
+Capítulo 1 - Derecho - Arts_1-18.txt
+Capítulo 2 - Ley - Arts_1-18.txt
+Capítulo 3 - Ejercicio de los derechos -Arts_1-18.txt
+Capítulo 4 - Derechos y bienes - Arts_1-18.txt
 
 LIBRO PRIMERO - PARTE GENERAL
-Título I - Persona humana - arts. 19 a 140
-Título II - Persona jurídica - arts. 141 a 224
-Título III - Bienes - arts. 225 a 256
-Título IV - Hechos y actos jurídicos - arts. 257 a 397
-Título V - Transmisión de los derechos - arts. 398 a 400
+Título I - Persona humana - Arts_19-140.txt
+Título II - Persona jurídica - Arts_141-224.txt
+Título III - Bienes - Arts_225-256.txt
+Título IV - Hechos y actos jurídicos - Arts_257-400.txt
+Título V - Transmisión de los derechos - Arts_257-400.txt
 
 LIBRO SEGUNDO - RELACIONES DE FAMILIA
-Título I - Matrimonio - arts. 401 a  445
-Título II - Régimen patrimonial del matrimonio - arts. 446 a 508
-Título III - Uniones convivenciales - arts. 509 a 528
-Título IV - Parentesco - arts. 529 a 557
-Título V - Filiación - arts. 558 a 593
-Título VI - Adopción - arts. 594 a 637
-Título VII - Responsabilidad parental - arts. 638 a 704
-Título VIII - Procesos de familia - arts. 705 a 723
+Título I - Matrimonio - Arts_401-445.txt
+Título II - Régimen patrimonial del matrimonio - Arts_446-508.txt
+Título III - Uniones convivenciales - Arts_509-528.txt
+Título IV - Parentesco - Arts_529-593.txt
+Título V - Filiación - Arts_529-593.txt
+Título VI - Adopción - Arts_594-637.txt
+Título VII - Responsabilidad parental - Arts_638-704.txt
+Título VIII - Procesos de familia - Arts_705-723.txt
 
 LIBRO TERCERO - DERECHOS PERSONALES
 Título I - Obligaciones en general - arts. 724 a 956
@@ -68,9 +68,12 @@ Título IV - Disposiciones de derecho internacional privado - arts. 2594 a 2671
 
 INDICE (según Concept Curve Embeddings Indexation)
 
-Se debe responder listando los File desde Arts_1-18.txt, Arts_19-140.txt ... hasta Arts_ 
-Debajo de cada File está el conjunto de conceptos que representan a ese File, conforme al método de CC-EI.
-Se responde dando como output el nombre de cada File separado por una coma, sin punto final
+Se debe responder listando los archivos desde Arts_1-18.txt, Arts_19-140.txt ... hasta Arts_705-723.txt 
+
+Debajo de cada archivo (File) está el conjunto de conceptos que representan a ese File, conforme al método de CC-EI.
+Se responde dando como output el nombre de cada File separado por una coma, sin punto final. No escribas "File: "
+
+
 
 File: Arts_1-18.txt
 Fuentes-jurídicas

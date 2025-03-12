@@ -187,7 +187,7 @@ async function construirRespuesta(archivos, textoConsulta, maxRespuestas) {
                 respuestaFinal += `${respuestaChunk}\n\n`;
                 cantRespPositivas++;
                 console.log(`Respuesta del chunk [${archivo}] -> positiva`);
-                //console.log(`Contenido:\n${respuestaChunk}\n`);
+                //console.log(`Contenido:\n${respuestaChunk}\n`);//*******************************************
             } else {
                 console.log(`Respuesta del chunk [${archivo}] -> -`);
             }
@@ -222,11 +222,11 @@ async function pulirRespuesta(pregunta, contextoPermitido, respuestaFinal) {
                 - Usa viñetas y saltos de línea para mejorar la legibilidad, pero NO uses encabezados (#, ##, ###).
                 - Mantén todo en el mismo tamaño de fuente sin títulos grandes. **No generes información fuera del contexto permitido**.
 				- Solo puedes responder en base a los siguientes contextos: ${contextoPermitido}.
-                - Si la respuesta no pertenece a estos contextos, indica que no hay información disponible en los textos consultados.` },
+                - Si la respuesta no pertenece a estos contextos, indica que la consulta está fuera del contexto permitido.` },
             { role: "user", content: `Pregunta: ${pregunta}. 
-                Si hubo más de una respuesta válida: ${respuestaFinal}, elimina las referencias negativas si hay respuestas positivas.
-                **IMPORTANTE:** Mantente dentro del siguiente contexto permitido: ${contextoPermitido}.
-                Si la respuesta no corresponde a este contexto, indica que no se encontró información válida.` }
+                Organiza esta respuesta y No agregues ningún dato fuera de lo que está aquí: ${respuestaFinal},
+				- elimina las referencias negativas si hay respuestas positivas.
+                - No autocomplete, no agregues opinion ni suposiciones.` }
         ],
         max_tokens: outputTokens,
         temperature: 0.2

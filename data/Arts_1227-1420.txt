@@ -1,0 +1,836 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO TERCERO - DERECHOS PERSONALES - TITULO 4
+TITULO 4: Contratos en particular
+Articulos: 1227 a 1420
+
+Contenido:
+Capitulo 5 - Leasing
+Capitulo 6 - Obra y servicios
+Capitulo 7 - Transporte
+Capitulo 8 - Mandato
+Capitulo 9 - Contrato de consignación
+Capitulo 10 - Corretaje
+Capitulo 11 - Depósito
+Capitulo 12 - Contratos bancarios
+-----------------------------------------
+
+CAPITULO 5
+
+Leasing
+
+ARTICULO 1227.- Concepto. En el contrato de leasing el dador conviene transferir al tomador la tenencia de un bien cierto y determinado para su uso y goce, contra el pago de un canon y le confiere una opción de compra por un precio.
+
+ARTICULO 1228.- Objeto. Pueden ser objeto del contrato cosas muebles e inmuebles, marcas, patentes o modelos industriales y software, de propiedad del dador o sobre los que el dador tenga la facultad de dar en leasing.
+
+ARTICULO 1229.- Canon. El monto y la periodicidad de cada canon se determina convencionalmente.
+
+ARTICULO 1230.- Precio de ejercicio de la opción. El precio de ejercicio de la opción de compra debe estar fijado en el contrato o ser determinable según procedimientos o pautas pactadas.
+
+ARTICULO 1231.- Modalidades en la elección del bien. El bien objeto del contrato puede:
+
+a) comprarse por el dador a persona indicada por el tomador;
+
+b) comprarse por el dador según especificaciones del tomador o según catálogos, folletos o descripciones identificadas por éste;
+
+c) comprarse por el dador, quien sustituye al tomador, al efecto, en un contrato de compraventa que éste haya celebrado;
+
+d) ser de propiedad del dador con anterioridad a su vinculación contractual con el tomador;
+
+e) adquirirse por el dador al tomador por el mismo contrato o habérselo adquirido con anterioridad;
+
+f) estar a disposición jurídica del dador por título que le permita constituir leasing sobre él.
+
+ARTICULO 1232.- Responsabilidades, acciones y garantías en la adquisición del bien. En los casos de los incisos a), b) y c) del artículo 1231, el dador cumple el contrato adquiriendo los bienes indicados por el tomador. El tomador puede reclamar del vendedor, sin necesidad de cesión, todos los derechos que emergen del contrato de compraventa. El dador puede liberarse convencionalmente de las responsabilidades de entrega y de la obligación de saneamiento.
+
+En los casos del inciso d) del artículo 1231, así como en aquellos casos en que el dador es fabricante, importador, vendedor o constructor del bien dado en leasing, el dador no puede liberarse de la obligación de entrega y de la obligación de saneamiento.
+
+En los casos del inciso e) del mismo artículo, el dador no responde por la obligación de entrega ni por garantía de saneamiento, excepto pacto en contrario.
+
+En los casos del inciso f) se deben aplicar las reglas de los párrafos anteriores de este artículo, según corresponda a la situación concreta.
+
+ARTICULO 1233.- Servicios y accesorios. Pueden incluirse en el contrato los servicios y accesorios necesarios para el diseño, la instalación, puesta en marcha y puesta a disposición de los bienes dados en leasing, y su precio integrar el cálculo del canon.
+
+ARTICULO 1234.- Forma e inscripción. El leasing debe instrumentarse en escritura pública si tiene como objeto inmuebles, buques o aeronaves. En los demás casos puede celebrarse por instrumento público o privado.
+
+A los efectos de su oponibilidad frente a terceros, el contrato debe inscribirse en el registro que corresponda según la naturaleza de la cosa que constituye su objeto. La inscripción en el registro puede efectuarse a partir de la celebración del contrato de leasing, y con prescindencia de la fecha en que corresponda hacer entrega de la cosa objeto de la prestación comprometida. Para que produzca efectos contra terceros desde la entrega del bien objeto del leasing, la inscripción debe solicitarse dentro de los cinco días hábiles posteriores. Pasado ese término, produce ese efecto desde que el contrato se presente para su registración. Si se trata de cosas muebles no registrables o de un software, deben inscribirse en el Registro de Créditos Prendarios del lugar donde la cosa se encuentre o, en su caso, donde ésta o el software se deba poner a disposición del tomador. En el caso de inmuebles, la inscripción se mantiene por el plazo de veinte años; en los demás bienes se mantiene por diez años. En ambos casos puede renovarse antes de su vencimiento, por rogación del dador u orden judicial.
+
+ARTICULO 1235.- Modalidades de los bienes. A los efectos de la registración del contrato de leasing son aplicables las normas legales y reglamentarias que correspondan según la naturaleza de los bienes.
+
+En el caso de cosas muebles no registrables o software, se aplican las normas registrales de la Ley de Prenda con Registro y las demás que rigen el funcionamiento del Registro de Créditos Prendarios.
+
+Cuando el leasing comprenda a cosas muebles situadas en distintas jurisdicciones, se aplica lo dispuesto en la Ley de Prenda con Registro para iguales circunstancias.
+
+El registro debe expedir certificados e informes. El certificado que indique que sobre determinados bienes no aparece inscrito ningún contrato de leasing tiene eficacia legal hasta veinticuatro horas de expedido.
+
+ARTICULO 1236.- Traslado de los bienes. El tomador no puede sustraer los bienes muebles del lugar en que deben encontrarse de acuerdo a lo estipulado en el contrato inscrito. Sólo puede trasladarlos con la conformidad expresa del dador, otorgada en el contrato o por acto escrito posterior, y después de haberse inscrito el traslado y la conformidad del dador en los registros correspondientes. Se aplican las normas pertinentes de la Ley de Prenda con Registro al respecto.
+
+ARTICULO 1237.- Oponibilidad. Subrogación. El contrato debidamente inscrito es oponible a los acreedores de las partes. Los acreedores del tomador pueden subrogarse en los derechos de éste para ejercer la opción de compra.
+
+ARTICULO 1238.- Uso y goce del bien. El tomador puede usar y gozar del bien objeto del leasing conforme a su destino, pero no puede venderlo, gravarlo ni disponer de él. Los gastos ordinarios y extraordinarios de conservación y uso, incluyendo seguros, impuestos y tasas, que recaigan sobre los bienes y las sanciones ocasionadas por su uso, son a cargo del tomador, excepto convención en contrario.
+
+El tomador puede arrendar el bien objeto del leasing, excepto pacto en contrario. En ningún caso el locatario o arrendatario puede pretender derechos sobre el bien que impidan o limiten en modo alguno los derechos del dador.
+
+ARTICULO 1239.- Acción reivindicatoria. La venta o gravamen consentido por el tomador es inoponible al dador.
+
+El dador tiene acción reivindicatoria sobre la cosa mueble que se encuentre en poder de cualquier tercero, pudiendo hacer aplicación directa de lo dispuesto en el artículo 1249 inciso a), sin perjuicio de la responsabilidad del tomador.
+
+ARTICULO 1240.- Opción de compra. Ejercicio. La opción de compra puede ejercerse por el tomador una vez que haya pagado tres cuartas partes del canon total estipulado, o antes si así lo convinieron las partes.
+
+ARTICULO 1241.- Prórroga del contrato. El contrato puede prever su prórroga a opción del tomador y las condiciones de su ejercicio.
+
+ARTICULO 1242.- Transmisión del dominio. El derecho del tomador a la transmisión del dominio nace con el ejercicio de la opción de compra y el pago del precio del ejercicio de la opción conforme a lo determinado en el contrato. El dominio se adquiere cumplidos esos requisitos, excepto que la ley exija otros de acuerdo con la naturaleza del bien de que se trate, a cuyo efecto las partes deben otorgar la documentación y efectuar los demás actos necesarios.
+
+ARTICULO 1243.- Responsabilidad objetiva. La responsabilidad objetiva emergente del artículo 1757 recae exclusivamente sobre el tomador o guardián de las cosas dadas en leasing.
+
+ARTICULO 1244.- Cancelación de la inscripción. Supuestos. La inscripción del leasing sobre cosas muebles no registrables y software se cancela:
+
+a) por orden judicial, dictada en un proceso en el que el dador tuvo oportunidad de tomar la debida participación;
+
+b) a petición del dador o su cesionario.
+
+ARTICULO 1245.- Cancelación a pedido del tomador. El tomador puede solicitar la cancelación de la inscripción del leasing sobre cosas muebles no registrables y software si acredita:
+
+a) el cumplimiento de los recaudos previstos en el contrato inscrito para ejercer la opción de compra;
+
+b) el depósito del monto total de los cánones que restaban pagar y del precio de ejercicio de la opción, con sus accesorios, en su caso;
+
+c) la interpelación fehaciente al dador, por un plazo no inferior a quince días hábiles, ofreciéndole los pagos y solicitándole la cancelación de la inscripción;
+
+d) el cumplimiento de las demás obligaciones contractuales exigibles a su cargo.
+
+ARTICULO 1246.- Procedimiento de cancelación. Solicitada la cancelación, el encargado del registro debe notificar al dador, en el domicilio constituido en el contrato, por carta certificada:
+
+a) si el notificado manifiesta conformidad, se cancela la inscripción;
+
+b) si el dador no formula observaciones dentro de los quince días hábiles desde la notificación, y el encargado estima que el depósito se ajusta a lo previsto en el contrato, procede a la cancelación y notifica al dador y al tomador;
+
+c) si el dador formula observaciones o el encargado estima insuficiente el depósito, lo comunica al tomador, quien tiene expeditas las acciones pertinentes.
+
+ARTICULO 1247.- Cesión de contratos o de créditos del dador. El dador siempre puede ceder los créditos actuales o futuros por canon o precio de ejercicio de la opción de compra. A los fines de su titulización puede hacerlo en los términos de los artículos 1614 y siguientes de este Código o en la forma prevista por la ley especial. Esta cesión no perjudica los derechos del tomador respecto del ejercicio o no ejercicio de la opción de compra o, en su caso, a la cancelación anticipada de los cánones, todo ello según lo pactado en el contrato.
+
+ARTICULO 1248.- Incumplimiento y ejecución en caso de inmuebles. Cuando el objeto del leasing es una cosa inmueble, el incumplimiento de la obligación del tomador de pagar el canon produce los siguientes efectos:
+
+a) si el tomador ha pagado menos de un cuarto del monto del canon total convenido, la mora es automática y el dador puede demandar judicialmente el desalojo. Se debe dar vista por cinco días al tomador, quien puede probar documentalmente el pago de los períodos que se le reclaman o paralizar el trámite, por única vez, mediante el pago de lo adeudado, con más sus intereses y costas. Caso contrario, el juez debe disponer el lanzamiento sin más trámite;
+
+b) si el tomador ha pagado un cuarto o más pero menos de tres cuartas partes del canon convenido, la mora es automática; el dador debe intimarlo al pago del o de los períodos adeudados con más sus intereses y el tomador dispone por única vez de un plazo no menor de sesenta días, contados a partir de la recepción de la notificación, para el pago del o de los períodos adeudados con más sus intereses. Pasado ese plazo sin que el pago se verifique, el dador puede demandar el desalojo, de lo que se debe dar vista por cinco días al tomador. Dentro de ese plazo, el tomador puede demostrar el pago de lo reclamado, o paralizar el procedimiento mediante el pago de lo adeudado con más sus intereses y costas, si antes no hubiese recurrido a este procedimiento. Si, según el contrato, el tomador puede hacer ejercicio de la opción de compra, en el mismo plazo puede pagar, además, el precio de ejercicio de esa opción, con sus accesorios contractuales y legales. En caso contrario, el juez debe disponer el lanzamiento sin más trámite;
+
+c) Si el incumplimiento se produce después de haber pagado las tres cuartas partes del canon, la mora es automática; el dador debe intimarlo al pago y el tomador tiene la opción de pagar lo adeudado más sus intereses dentro de los noventa días, contados a partir de la recepción de la notificación si antes no hubiera recurrido a ese procedimiento, o el precio de ejercicio de la opción de compra que resulte de la aplicación del contrato, a la fecha de la mora, con sus intereses. Pasado ese plazo sin que el pago se verifique, el dador puede demandar el desalojo, de lo que debe darse vista al tomador por cinco días, quien sólo puede paralizarlo ejerciendo alguna de las opciones previstas en este inciso, agregándole las costas del proceso;
+
+d) producido el desalojo, el dador puede reclamar el pago de los períodos de canon adeudados hasta el momento del lanzamiento, con más sus intereses y costas, por la vía ejecutiva. El dador puede también reclamar los daños y perjuicios que resulten del deterioro anormal de la cosa imputable al tomador por dolo, culpa o negligencia por la vía procesal pertinente.
+
+ARTICULO 1249.- Secuestro y ejecución en caso de muebles. Cuando el objeto de leasing es una cosa mueble, ante la mora del tomador en el pago del canon, el dador puede:
+
+a) obtener el inmediato secuestro del bien, con la sola presentación del contrato inscrito, y la prueba de haber interpelado al tomador por un plazo no menor de cinco días para la regularización. Producido el secuestro, queda resuelto el contrato. El dador puede promover ejecución por el cobro del canon que se haya devengado ordinariamente hasta el período íntegro en que se produjo el secuestro, la cláusula penal pactada en el contrato y sus intereses; todo ello sin perjuicio de la acción del dador por los daños y perjuicios, y la acción del tomador si correspondieran; o
+
+b) accionar por vía ejecutiva por el cobro del canon no pagado, incluyendo la totalidad del canon pendiente; si así se hubiera convenido, con la sola presentación del contrato inscripto y sus accesorios. En este caso, sólo procede el secuestro cuando ha vencido el plazo ordinario del leasing sin haberse pagado el canon íntegro y el precio de la opción de compra, o cuando se demuestre sumariamente el peligro en la conservación del bien, debiendo el dador otorgar caución suficiente. En el juicio ejecutivo previsto en ambos incisos, puede incluirse la ejecución contra los fiadores o garantes del tomador. El domicilio constituido es el fijado en el contrato.
+
+ARTICULO 1250.- Normas supletorias. En todo lo no previsto por el presente Capítulo, al contrato de leasing se le aplican subsidiariamente las reglas del contrato de locación, en cuanto sean compatibles, mientras el tomador no ha pagado la totalidad del canon y ejercido la opción, con pago de su precio. No son aplicables al leasing las disposiciones relativas a plazos mínimos y máximos de la locación de cosas ni las excluidas convencionalmente. Se le aplican subsidiariamente las normas del contrato de compraventa para la determinación del precio de ejercicio de la opción de compra y para los actos posteriores a su ejercicio y pago.
+
+CAPITULO 6
+
+Obra y servicios
+
+SECCION 1ª
+
+Disposiciones comunes a las obras y a los servicios
+
+ARTICULO 1251.- Definición. Hay contrato de obra o de servicios cuando una persona, según el caso el contratista o el prestador de servicios, actuando independientemente, se obliga a favor de otra, llamada comitente, a realizar una obra material o intelectual o a proveer un servicio mediante una retribución.
+
+El contrato es gratuito si las partes así lo pactan o cuando por las circunstancias del caso puede presumirse la intención de beneficiar.
+
+ARTICULO 1252.- Calificación del contrato. Si hay duda sobre la calificación del contrato, se entiende que hay contrato de servicios cuando la obligación de hacer consiste en realizar cierta actividad independiente de su eficacia. Se considera que el contrato es de obra cuando se promete un resultado eficaz, reproducible o susceptible de entrega.
+
+Los servicios prestados en relación de dependencia se rigen por las normas del derecho laboral.
+
+Las disposiciones de este Capítulo se integran con las reglas específicas que resulten aplicables a servicios u obras especialmente regulados.
+
+ARTICULO 1253.- Medios utilizados. A falta de ajuste sobre el modo de hacer la obra, el contratista o prestador de los servicios elige libremente los medios de ejecución del contrato.
+
+ARTICULO 1254.- Cooperación de terceros. El contratista o prestador de servicios puede valerse de terceros para ejecutar el servicio, excepto que de lo estipulado o de la índole de la obligación resulte que fue elegido por sus cualidades para realizarlo personalmente en todo o en parte. En cualquier caso, conserva la dirección y la responsabilidad de la ejecución.
+
+ARTICULO 1255.- Precio. El precio se determina por el contrato, la ley, los usos o, en su defecto, por decisión judicial.
+
+Las leyes arancelarias no pueden cercenar la facultad de las partes de determinar el precio de las obras o de los servicios. Cuando dicho precio debe ser establecido judicialmente sobre la base de la aplicación de dichas leyes, su determinación debe adecuarse a la labor cumplida por el prestador. Si la aplicación estricta de los aranceles locales conduce a una evidente e injustificada desproporción entre la retribución resultante y la importancia de la labor cumplida, el juez puede fijar equitativamente la retribución.
+
+Si la obra o el servicio se ha contratado por un precio global o por una unidad de medida, ninguna de las partes puede pretender la modificación del precio total o de la unidad de medida, respectivamente, con fundamento en que la obra, el servicio o la unidad exige menos o más trabajo o que su costo es menor o mayor al previsto, excepto lo dispuesto en el artículo 1091.
+
+ARTICULO 1256.- Obligaciones del contratista y del prestador. El contratista o prestador de servicios está obligado a:
+
+a) ejecutar el contrato conforme a las previsiones contractuales y a los conocimientos razonablemente requeridos al tiempo de su realización por el arte, la ciencia y la técnica correspondientes a la actividad desarrollada;
+
+b) informar al comitente sobre los aspectos esenciales del cumplimiento de la obligación comprometida;
+
+c) proveer los materiales adecuados que son necesarios para la ejecución de la obra o del servicio, excepto que algo distinto se haya pactado o resulte de los usos;
+
+d) usar diligentemente los materiales provistos por el comitente e informarle inmediatamente en caso de que esos materiales sean impropios o tengan vicios que el contratista o prestador debiese conocer;
+
+e) ejecutar la obra o el servicio en el tiempo convenido o, en su defecto, en el que razonablemente corresponda según su índole.
+
+ARTICULO 1257.- Obligaciones del comitente. El comitente está obligado a:
+
+a) pagar la retribución;
+
+b) proporcionar al contratista o al prestador la colaboración necesaria, conforme a las características de la obra o del servicio;
+
+c) recibir la obra si fue ejecutada conforme a lo dispuesto en el artículo 1256.
+
+ARTICULO 1258.- Riesgos de la contratación. Si los bienes necesarios para la ejecución de la obra o del servicio perecen por fuerza mayor, la pérdida la soporta la parte que debía proveerlos.
+
+ARTICULO 1259.- Muerte del comitente. La muerte del comitente no extingue el contrato, excepto que haga imposible o inútil la ejecución.
+
+ARTICULO 1260.- Muerte del contratista o prestador. La muerte del contratista o prestador extingue el contrato, excepto que el comitente acuerde continuarlo con los herederos de aquél. En caso de extinción, el comitente debe pagar el costo de los materiales aprovechables y el valor de la parte realizada en proporción al precio total convenido.
+
+ARTICULO 1261.- Desistimiento unilateral. El comitente puede desistir del contrato por su sola voluntad, aunque la ejecución haya comenzado; pero debe indemnizar al prestador todos los gastos y trabajos realizados y la utilidad que hubiera podido obtener. El juez puede reducir equitativamente la utilidad si la aplicación estricta de la norma conduce a una notoria injusticia.
+
+SECCION 2ª
+
+Disposiciones especiales para las obras
+
+ARTICULO 1262.- Sistemas de contratación. La obra puede ser contratada por ajuste alzado, también denominado “retribución global”, por unidad de medida, por coste y costas o por cualquier otro sistema convenido por las partes. La contratación puede hacerse con o sin provisión de materiales por el comitente. Si se trata de inmuebles, la obra puede realizarse en terreno del comitente o de un tercero. Si nada se convino ni surge de los usos, se presume, excepto prueba en contrario, que la obra fue contratada por ajuste alzado y que es el contratista quien provee los materiales.
+
+ARTICULO 1263.- Retribución. Si la obra se contrata por el sistema de ejecución a coste y costas, la retribución se determina sobre el valor de los materiales, de la mano de obra y de otros gastos directos o indirectos.
+
+ARTICULO 1264.- Variaciones del proyecto convenido. Cualquiera sea el sistema de contratación, el contratista no puede variar el proyecto ya aceptado sin autorización escrita del comitente, excepto que las modificaciones sean necesarias para ejecutar la obra conforme a las reglas del arte y no hubiesen podido ser previstas al momento de la contratación; la necesidad de tales modificaciones debe ser comunicada inmediatamente al comitente con indicación de su costo estimado. Si las variaciones implican un aumento superior a la quinta parte del precio pactado, el comitente puede extinguirlo comunicando su decisión dentro del plazo de diez días de haber conocido la necesidad de la modificación y su costo estimado.
+
+El comitente puede introducir variantes al proyecto siempre que no impliquen cambiar sustancialmente la naturaleza de la obra.
+
+ARTICULO 1265.- Diferencias de retribución surgidas de modificaciones autorizadas. A falta de acuerdo, las diferencias de precio surgidas de las modificaciones autorizadas en este Capítulo se fijan judicialmente.
+
+ARTICULO 1266.- Obra por pieza o medida. Si la obra fue pactada por pieza o medida sin designación del número de piezas o de la medida total, el contrato puede ser extinguido por cualquiera de los contratantes concluidas que sean las partes designadas como límite mínimo, debiéndose las prestaciones correspondientes a la parte concluida.
+
+Si se ha designado el número de piezas o la medida total, el contratista está obligado a entregar la obra concluida y el comitente a pagar la retribución que resulte del total de las unidades pactadas.
+
+ARTICULO 1267.- Imposibilidad de ejecución de la prestación sin culpa. Si la ejecución de una obra o su continuación se hace imposible por causa no imputable a ninguna de las partes, el contrato se extingue. El contratista tiene derecho a obtener una compensación equitativa por la tarea efectuada.
+
+ARTICULO 1268.- Destrucción o deterioro de la obra por caso fortuito antes de la entrega. La destrucción o el deterioro de una parte importante de la obra por caso fortuito antes de haber sido recibida autoriza a cualquiera de las partes a dar por extinguido el contrato, con los siguientes efectos:
+
+a) si el contratista provee los materiales y la obra se realiza en inmueble del comitente, el contratista tiene derecho a su valor y a una compensación equitativa por la tarea efectuada;
+
+b) si la causa de la destrucción o del deterioro importante es la mala calidad o inadecuación de los materiales, no se debe la remuneración pactada aunque el contratista haya advertido oportunamente esa circunstancia al comitente;
+
+c) si el comitente está en mora en la recepción al momento de la destrucción o del deterioro de parte importante de la obra, debe la remuneración pactada.
+
+ARTICULO 1269.- Derecho a verificar. En todo momento, y siempre que no perjudique el desarrollo de los trabajos, el comitente de una obra tiene derecho a verificar a su costa el estado de avance, la calidad de los materiales utilizados y los trabajos efectuados.
+
+ARTICULO 1270.- Aceptación de la obra. La obra se considera aceptada cuando concurren las circunstancias del artículo 747.
+
+ARTICULO 1271.- Vicios o defectos y diferencias en la calidad. Las normas sobre vicios o defectos se aplican a las diferencias en la calidad de la obra.
+
+ARTICULO 1272. Plazos de garantía. Si se conviene o es de uso un plazo de garantía para que el comitente verifique la obra o compruebe su funcionamiento, la recepción se considera provisional y no hace presumir la aceptación.
+
+Si se trata de vicios que no afectan la solidez ni hacen la obra impropia para su destino, no se pactó un plazo de garantía ni es de uso otorgarlo, aceptada la obra, el contratista:
+
+a) queda libre de responsabilidad por los vicios aparentes;
+
+b) responde de los vicios o defectos no ostensibles al momento de la recepción, con la extensión y en los plazos previstos para la garantía por vicios ocultos prevista en los artículos 1054 y concordantes.
+
+ARTICULO 1273.- Obra en ruina o impropia para su destino. El constructor de una obra realizada en inmueble destinada por su naturaleza a tener larga duración responde al comitente y al adquirente de la obra por los daños que comprometen su solidez y por los que la hacen impropia para su destino. El constructor sólo se libera si prueba la incidencia de una causa ajena. No es causa ajena el vicio del suelo, aunque el terreno pertenezca al comitente o a un tercero, ni el vicio de los materiales, aunque no sean provistos por el contratista.
+
+ARTICULO 1274.- Extensión de la responsabilidad por obra en ruina o impropia para su destino. La responsabilidad prevista en el artículo 1273 se extiende concurrentemente:
+
+a) a toda persona que vende una obra que ella ha construido o ha hecho construir si hace de esa actividad su profesión habitual;
+
+b) a toda persona que, aunque actuando en calidad de mandatario del dueño de la obra, cumple una misión semejante a la de un contratista;
+
+c) según la causa del daño, al subcontratista, al proyectista, al director de la obra y a cualquier otro profesional ligado al comitente por un contrato de obra de construcción referido a la obra dañada o a cualquiera de sus partes.
+
+ARTICULO 1275.- Plazo de caducidad. Para que sea aplicable la responsabilidad prevista en los artículos 1273 y 1274, el daño debe producirse dentro de los diez años de aceptada la obra.
+
+ARTICULO 1276.- Nulidad de la cláusula de exclusión o limitación de la responsabilidad. Toda cláusula que dispensa o limita la responsabilidad prevista para los daños que comprometen la solidez de una obra realizada en inmueble destinada a larga duración o que la hacen impropia para su destino, se tiene por no escrita.
+
+ARTICULO 1277.- Responsabilidades complementarias. El constructor, los subcontratistas y los profesionales que intervienen en una construcción están obligados a observar las normas administrativas y son responsables, incluso frente a terceros, de cualquier daño producido por el incumplimiento de tales disposiciones.
+
+SECCION 3ª
+
+Normas especiales para los servicios
+
+ARTICULO 1278.- Normas aplicables. Resultan aplicables a los servicios las normas de la Sección 1ª de este Capítulo y las correspondientes a las obligaciones de hacer.
+
+ARTICULO 1279.- Servicios continuados. El contrato de servicios continuados puede pactarse por tiempo determinado. Si nada se ha estipulado, se entiende que lo ha sido por tiempo indeterminado. Cualquiera de las partes puede poner fin al contrato de duración indeterminada; para ello debe dar preaviso con razonable anticipación.
+
+CAPITULO 7
+
+Transporte
+
+SECCION 1ª
+
+Disposiciones generales
+
+ARTICULO 1280.- Definición. Hay contrato de transporte cuando una parte llamada transportista o porteador se obliga a trasladar personas o cosas de un lugar a otro, y la otra, llamada pasajero o cargador, se obliga a pagar un precio o flete.
+
+ARTICULO 1281.- Ambito de aplicación. Excepto lo dispuesto en leyes especiales, las reglas de este Capítulo se aplican cualquiera que sea el medio empleado para el transporte. El transporte multimodal se rige por la ley especial.
+
+ARTICULO 1282.- Transporte gratuito. El transporte a título gratuito no está regido por las reglas del presente Capítulo, excepto que sea efectuado por un transportista que ofrece sus servicios al público en el curso de su actividad.
+
+ARTICULO 1283.- Oferta al público. El transportista que ofrece sus servicios al público está obligado a aceptar los pedidos compatibles con los medios ordinarios de que dispone, excepto que exista un motivo serio de rechazo; y el pasajero o el cargador están obligados a seguir las instrucciones dadas por el transportista conforme a la ley o los reglamentos.
+
+Los transportes deben realizarse según el orden de los pedidos y, en caso de que haya varios simultáneos, debe darse preferencia a los de mayor recorrido.
+
+ARTICULO 1284.- Plazo. El transportista debe realizar el traslado convenido en el plazo pactado en el contrato o en los horarios establecidos y, en defecto de ambos, de acuerdo a los usos del lugar en que debe iniciarse el transporte.
+
+ARTICULO 1285.- Pérdida total o parcial del flete por retraso. Producido el retraso en el traslado de las cosas transportadas, si el transportista no prueba la causa ajena, pierde una parte del flete proporcional al retraso, de modo tal que pierde el total si el tiempo insumido es el doble del plazo en el que debió cumplirse. Lo dispuesto por este artículo no impide reclamar los mayores daños causados por el atraso.
+
+ARTICULO 1286.- Responsabilidad del transportista. La responsabilidad del transportista por daños a las personas transportadas está sujeta a lo dispuesto en los artículos 1757 y siguientes.
+
+Si el transporte es de cosas, el transportista se excusa probando la causa ajena. El vicio propio de la cosa transportada es considerado causa ajena.
+
+ARTICULO 1287.- Transporte sucesivo o combinado. En los transportes sucesivos o combinados a ejecutar por varios transportistas, cada uno de ellos responde por los daños producidos durante su propio recorrido.
+
+Pero si el transporte es asumido por varios transportistas en un único contrato, o no se puede determinar dónde ocurre el daño, todos ellos responden solidariamente sin perjuicio de las acciones de reintegro.
+
+SECCION 2ª
+
+Transporte de personas
+
+ARTICULO 1288.- Comienzo y fin del transporte. El transporte de personas comprende, además del traslado, las operaciones de embarco y desembarco.
+
+ARTICULO 1289.- Obligaciones del transportista. Son obligaciones del transportista respecto del pasajero:
+
+a) proveerle el lugar para viajar que se ha convenido o el disponible reglamentariamente habilitado;
+
+b) trasladarlo al lugar convenido;
+
+c) garantizar su seguridad;
+
+d) llevar su equipaje.
+
+ARTICULO 1290.- Obligaciones del pasajero. El pasajero está obligado a:
+
+a) pagar el precio pactado;
+
+b) presentarse en el lugar y momentos convenidos para iniciar el viaje;
+
+c) cumplir las disposiciones administrativas, observar los reglamentos establecidos por el transportista para el mejor orden durante el viaje y obedecer las órdenes del porteador o de sus representantes impartidas con la misma finalidad;
+
+d) acondicionar su equipaje, el que debe ajustarse a las medidas y peso reglamentarios.
+
+ARTICULO 1291.- Extensión de la responsabilidad. Además de su responsabilidad por incumplimiento del contrato o retraso en su ejecución, el transportista responde por los siniestros que afecten a la persona del pasajero y por la avería o pérdida de sus cosas.
+
+ARTICULO 1292.- Cláusulas limitativas de la responsabilidad. Las cláusulas que limitan la responsabilidad del transportista de personas por muerte o daños corporales se tienen por no escritas.
+
+ARTICULO 1293.- Responsabilidad por el equipaje. Las disposiciones relativas a la responsabilidad del transportista de cosas por la pérdida o deterioro de las cosas transportadas, se aplican a la pérdida o deterioro del equipaje que el pasajero lleva consigo, con la salvedad de lo previsto en el artículo 1294.
+
+ARTICULO 1294.- Cosas de valor. El transportista no responde por pérdida o daños sufridos por objetos de valor extraordinario que el pasajero lleve consigo y no haya declarado antes del viaje o al comienzo de éste.
+
+Tampoco es responsable por la pérdida del equipaje de mano y de los demás efectos que hayan quedado bajo la custodia del pasajero, a menos que éste pruebe la culpa del transportista.
+
+ARTICULO 1295.- Interrupción del transporte sucesivo. Sin perjuicio de la aplicación del artículo 1287, primer párrafo, los daños originados por interrupción del viaje se deben determinar en razón del trayecto total.
+
+SECCION 3ª
+
+Transporte de cosas
+
+ARTICULO 1296.- Obligaciones del cargador. El cargador debe declarar el contenido de la carga, identificar los bultos externamente, presentar la carga con embalaje adecuado, indicar el destino y el destinatario, y entregar al transportista la documentación requerida para realizarlo.
+
+Si se requieren documentos especiales, el cargador debe entregarlos al porteador al mismo tiempo que las cosas a transportar.
+
+ARTICULO 1297.- Responsabilidad del cargador. El cargador es responsable de los daños que sufran el transportista, otros cargadores o terceros, que deriven de la omisión o la inexactitud de las indicaciones o de la falta de entrega o de la irregularidad de la documentación.
+
+ARTICULO 1298.- Carta de porte. El transportista tiene derecho a requerir del cargador que suscriba un documento que contenga las indicaciones enunciadas en el artículo 1296 y las estipulaciones convenidas para el transporte. Su emisión importa recibo de la carga.
+
+ARTICULO 1299.- Segundo ejemplar. El cargador tiene derecho a exigir al porteador que suscriba y le entregue copia de la carta de porte. Este documento se llama segundo ejemplar de la carta de porte y puede ser nominativo, a la orden o al portador.
+
+Si el transportista ha librado el segundo ejemplar de la carta de porte a la orden, los derechos nacidos del contrato frente a aquél, son transmisibles por endoso.
+
+ARTICULO 1300.- Guía. Si no hay carta de porte, el cargador tiene derecho a exigir al transportista que le entregue un recibo de carga, denominado guía, con el mismo contenido de aquélla.
+
+ARTICULO 1301.- Inoponibilidad. Las estipulaciones no contenidas en el segundo ejemplar de la carta de porte o en la guía, no son oponibles a los terceros portadores de buena fe. Ese documento debe ser entregado al transportista contra la entrega por éste de la carga transportada.
+
+ARTICULO 1302.- Disposición de la carga. Si no se ha extendido el segundo ejemplar de la carta de porte ni la guía, el cargador tiene la disposición de la carga y puede modificar las instrucciones dadas al transportista, con obligación de reembolsar los gastos y resarcir los daños derivados de ese cambio.
+
+ARTICULO 1303.- Portador del segundo ejemplar. Cuando el transportista ha librado segundo ejemplar de la carta de porte o guía, sólo el portador legitimado de cualquiera de dichos documentos tiene la disposición de la carga y puede impartir instrucciones al transportista, las cuales se deben anotar en el instrumento y ser suscriptas por el transportista.
+
+ARTICULO 1304.- Derechos del destinatario. Los derechos nacidos del contrato de transporte corresponden al destinatario desde que las cosas llegan a destino, o desde que, vencido el plazo del transporte, haya requerido la entrega al transportista. Sin embargo, el destinatario no puede ejercer tales derechos sino contra el pago al transportista de sus créditos derivados del transporte.
+
+ARTICULO 1305.- Puesta a disposición. El transportista debe poner la carga a disposición del destinatario en el lugar, en el plazo y con las modalidades convenidas en el contrato o, en su defecto, por los usos. Si el cargador ha librado una carta de porte, ésta debe ser exhibida y entregada al porteador.
+
+El tenedor del segundo ejemplar de la carta de porte o de la guía al portador o a la orden, debe restituir el documento al transportista en el momento de la entrega de la carga.
+
+ARTICULO 1306.- Entrega. El transportista está obligado a entregar la carga en el mismo estado en que la recibió, excepto causa ajena. Si la ha recibido sin reservas, se presume que ella no tenía vicios aparentes y estaba bien acondicionada para el transporte. El destinatario no está obligado a recibir cosas con daños que impidan el uso o consumo que les son propios.
+
+ARTICULO 1307.- Impedimentos y retardo en la ejecución del transporte. Si el comienzo o la continuación del transporte son impedidos o excesivamente retrasados por causa no imputable al porteador, éste debe informar inmediatamente al cargador y pedirle instrucciones. Está obligado a la custodia de la carga. Si las circunstancias imposibilitan el pedido de instrucciones, el transportista puede depositar las cosas y, si están sujetas a rápido deterioro o son perecederas, puede hacerlas vender para que no pierdan su valor.
+
+ARTICULO 1308.- Impedimentos para la entrega. Si el destinatario no puede ser encontrado o se niega a recibir las cosas transportadas o demora su recepción, el porteador debe requerir inmediatamente instrucciones al cargador y se aplican las soluciones previstas en el artículo 1307.
+
+ARTICULO 1309.- Responsabilidad del transportista frente al cargador. El porteador que entregue las cosas al destinatario sin cobrar los créditos propios o los que el cargador le haya encomendado cobrar contra entrega de la carga, o sin exigir el depósito de la suma convenida, es responsable frente al cargador por lo que le sea debido y no puede dirigirse contra él para el pago de sus propias acreencias. Mantiene su acción contra el destinatario.
+
+ARTICULO 1310.- Responsabilidad por culpa. Si se trata de cosas frágiles, mal acondicionadas para el transporte, sujetas a fácil deterioro, de animales o de transportes especiales, el transportista puede convenir que sólo responde si se prueba su culpa. Esta convención no puede estar incluida en una cláusula general predispuesta.
+
+ARTICULO 1311.- Cálculo del daño. La indemnización por pérdida o avería de las cosas es el valor de éstas o el de su menoscabo, en el tiempo y el lugar en que se entregaron o debieron ser entregadas al destinatario.
+
+ARTICULO 1312.- Pérdida natural. En el transporte de cosas que, por su naturaleza, están sujetas a disminución en el peso o en la medida durante el transporte, el transportista sólo responde por las disminuciones que excedan la pérdida natural. También responde si el cargador o el destinatario prueban que la disminución no ha ocurrido por la naturaleza de las cosas o que, por las circunstancias del caso, no pudo alcanzar la magnitud comprobada.
+
+ARTICULO 1313.- Limitación de la responsabilidad. Prohibición. Los que realizan habitualmente servicios de transporte no pueden limitar las reglas de responsabilidad precedentes, excepto en el caso del artículo 1310.
+
+ARTICULO 1314.- Comprobación de las cosas antes de la entrega. El destinatario tiene derecho a hacer comprobar, a su costo, antes de la recepción de las cosas, su identidad y estado. Si existen pérdidas o averías, el transportista debe reembolsar los gastos.
+
+El porteador puede exigir al destinatario la apertura y el reconocimiento de la carga; y si éste rehúsa u omite hacerlo, el porteador queda liberado de toda responsabilidad, excepto dolo.
+
+ARTICULO 1315.- Efectos de la recepción de las cosas transportadas. La recepción por el destinatario de las cosas transportadas y el pago de lo debido al transportista extinguen las acciones derivadas del contrato, excepto dolo. Sólo subsisten las acciones por pérdida parcial o avería no reconocibles en el momento de la entrega, las cuales deben ser deducidas dentro de los cinco días posteriores a la recepción.
+
+ARTICULO 1316.- Culpa del cargador o de un tercero. Si el transporte no pudo ser iniciado o completado o la entrega no puede ser efectuada por el hecho del cargador, o de un portador legitimado del segundo ejemplar de la carta de porte o de la guía, o del destinatario, el transportista tiene derecho al precio o a una parte proporcional de éste, según sea el caso, y al reembolso de los gastos adicionales en que haya incurrido.
+
+ARTICULO 1317.- Transporte con reexpedición de las cosas. Si el transportista se obliga a entregar la carga a otro porteador y no acepta una carta de porte hasta un destino diferente al de tal entrega, se presume que sus responsabilidades como transportista concluyen con ella, sin otras obligaciones adicionales que la de emplear una razonable diligencia en la contratación del transportista siguiente.
+
+ARTICULO 1318.- Representación en el transporte sucesivo. Cada transportista sucesivo tiene el derecho de hacer constar en la carta de porte, o en un documento separado, el estado en que ha recibido las cosas transportadas. El último transportista representa a los demás para el cobro de sus créditos y el ejercicio de sus derechos sobre las cargas transportadas.
+
+CAPITULO 8
+
+Mandato
+
+ARTICULO 1319.- Definición. Hay contrato de mandato cuando una parte se obliga a realizar uno o más actos jurídicos en interés de otra.
+
+El mandato puede ser conferido y aceptado expresa o tácitamente. Si una persona sabe que alguien está haciendo algo en su interés, y no lo impide, pudiendo hacerlo, se entiende que ha conferido tácitamente mandato. La ejecución del mandato implica su aceptación aun sin mediar declaración expresa sobre ella.
+
+ARTICULO 1320.- Representación. Si el mandante confiere poder para ser representado, le son aplicables las disposiciones de los artículos 362 y siguientes.
+
+Aun cuando el mandato no confiera poder de representación, se aplican las disposiciones citadas a las relaciones entre mandante y mandatario, en todo lo que no resulten modificadas en este Capítulo.
+
+ARTICULO 1321.- Mandato sin representación. Si el mandante no otorga poder de representación, el mandatario actúa en nombre propio pero en interés del mandante, quien no queda obligado directamente respecto del tercero, ni éste respecto del mandante. El mandante puede subrogarse en las acciones que tiene el mandatario contra el tercero, e igualmente el tercero en las acciones que pueda ejercer el mandatario contra el mandante.
+
+ARTICULO 1322.- Onerosidad. El mandato se presume oneroso. A falta de acuerdo sobre la retribución, la remuneración es la que establecen las disposiciones legales o reglamentarias aplicables, o el uso. A falta de ambos, debe ser determinada por el juez.
+
+ARTICULO 1323.- Capacidad. El mandato puede ser conferido a una persona incapaz, pero ésta puede oponer la nulidad del contrato si es demandado por inejecución de las obligaciones o por rendición de cuentas, excepto la acción de restitución de lo que se ha convertido en provecho suyo.
+
+ARTICULO 1324.- Obligaciones del mandatario. El mandatario está obligado a:
+
+a) cumplir los actos comprendidos en el mandato, conforme a las instrucciones dadas por el mandante y a la naturaleza del negocio que constituye su objeto, con el cuidado que pondría en los asuntos propios o, en su caso, el exigido por las reglas de su profesión, o por los usos del lugar de ejecución;
+
+b) dar aviso inmediato al mandante de cualquier circunstancia sobreviniente que razonablemente aconseje apartarse de las instrucciones recibidas, requiriendo nuevas instrucciones o ratificación de las anteriores, y adoptar las medidas indispensables y urgentes;
+
+c) informar sin demora al mandante de todo conflicto de intereses y de toda otra circunstancia que pueda motivar la modificación o la revocación del mandato;
+
+d) mantener en reserva toda información que adquiera con motivo del mandato que, por su naturaleza o circunstancias, no está destinada a ser divulgada;
+
+e) dar aviso al mandante de todo valor que haya recibido en razón del mandato, y ponerlo a disposición de aquél;
+
+f) rendir cuenta de su gestión en las oportunidades convenidas o a la extinción del mandato;
+
+g) entregar al mandante las ganancias derivadas del negocio, con los intereses moratorios, de las sumas de dinero que haya utilizado en provecho propio;
+
+h) informar en cualquier momento, a requerimiento del mandante, sobre la ejecución del mandato;
+
+i) exhibir al mandante toda la documentación relacionada con la gestión encomendada, y entregarle la que corresponde según las circunstancias.
+
+Si el negocio encargado al mandatario fuese de los que, por su oficio o su modo de vivir, acepta él regularmente, aun cuando se excuse del encargo, debe tomar las providencias conservatorias urgentes que requiera el negocio que se le encomienda.
+
+ARTICULO 1325.- Conflicto de intereses. Si media conflicto de intereses entre el mandante y el mandatario, éste debe posponer los suyos en la ejecución del mandato, o renunciar.
+
+La obtención, en el desempeño del cargo, de un beneficio no autorizado por el mandante, hace perder al mandatario su derecho a la retribución.
+
+ARTICULO 1326.- Mandato a varias personas. Si el mandato se confiere a varias personas sin estipular expresamente la forma o el orden de su actuación, se entiende que pueden desempeñarse conjunta o separadamente.
+
+ARTICULO 1327.- Sustitución del mandato. El mandatario puede sustituir en otra persona la ejecución del mandato y es responsable de la elección del sustituto, excepto cuando lo haga por indicación del mandante. En caso de sustitución, el mandante tiene la acción directa contra el sustituto prevista en los artículos 736 y concordantes, pero no está obligado a pagarle retribución si la sustitución no era necesaria. El mandatario responde directamente por la actuación del sustituto cuando no fue autorizado a sustituir, o cuando la sustitución era innecesaria para la ejecución del mandato.
+
+ARTICULO 1328.- Obligaciones del mandante. El mandante está obligado a:
+
+a) suministrar al mandatario los medios necesarios para la ejecución del mandato y compensarle, en cualquier momento que le sea requerido, todo gasto razonable en que haya incurrido para ese fin;
+
+b) indemnizar al mandatario los daños que sufra como consecuencia de la ejecución del mandato, no imputables al propio mandatario;
+
+c) liberar al mandatario de las obligaciones asumidas con terceros, proveyéndole de los medios necesarios para ello;
+
+d) abonar al mandatario la retribución convenida. Si el mandato se extingue sin culpa del mandatario, debe la parte de la retribución proporcionada al servicio cumplido; pero si el mandatario ha recibido un adelanto mayor de lo que le corresponde, el mandante no puede exigir su restitución.
+
+ARTICULO 1329.- Extinción del mandato. El mandato se extingue:
+
+a) por el transcurso del plazo por el que fue otorgado, o por el cumplimiento de la condición resolutoria pactada;
+
+b) por la ejecución del negocio para el cual fue dado;
+
+c) por la revocación del mandante;
+
+d) por la renuncia del mandatario;
+
+e) por la muerte o incapacidad del mandante o del mandatario.
+
+ARTICULO 1330.- Mandato irrevocable. El mandato puede convenirse expresamente como irrevocable en los casos de los incisos b) y c) del artículo 380.
+
+El mandato destinado a ejecutarse después de la muerte del mandante es nulo si no puede valer como disposición de última voluntad.
+
+ARTICULO 1331.- Revocación. La revocación sin justa causa del mandato otorgado por tiempo o asunto determinado obliga al mandante a indemnizar los daños causados; si el mandato fue dado por plazo indeterminado, el mandante debe dar aviso adecuado a las circunstancias o, en su defecto, indemnizar los daños que cause su omisión.
+
+ARTICULO 1332.- Renuncia. La renuncia intempestiva y sin causa justificada del mandatario obliga a indemnizar los daños que cause al mandante.
+
+ARTICULO 1333.- Muerte o incapacidad del mandatario y del mandante. Producida la muerte o incapacidad del mandatario, sus herederos, representantes o asistentes que tengan conocimiento del mandato deben dar pronto aviso al mandante y tomar en interés de éste las medidas que sean requeridas por las circunstancias.
+
+Si se produce la muerte o incapacidad del mandante, el mandatario debe ejecutar los actos de conservación si hay peligro en la demora, excepto instrucciones expresas en contrario de los herederos o representantes.
+
+ARTICULO 1334.- Rendición de cuentas. La rendición de cuentas por el mandatario debe ser en las condiciones previstas en los artículos 858 y siguientes acompañada de toda la documentación relativa a su gestión. Excepto estipulación en contrario, las cuentas deben rendirse en el domicilio del mandatario y los gastos que generan son a cargo del mandante.
+
+CAPITULO 9
+
+Contrato de consignación
+
+ARTICULO 1335.- Definición. Hay contrato de consignación cuando el mandato es sin representación para la venta de cosas muebles. Se le aplican supletoriamente las disposiciones del Capítulo 8 de este Título.
+
+ARTICULO 1336.- Indivisibilidad. La consignación es indivisible. Aceptada en una parte se considera aceptada en el todo, y dura mientras el negocio no esté completamente concluido.
+
+ARTICULO 1337.- Efectos. El consignatario queda directamente obligado hacia las personas con quienes contrata, sin que éstas tengan acción contra el consignante, ni éste contra aquéllas.
+
+ARTICULO 1338.- Obligaciones del consignatario. El consignatario debe ajustarse a las instrucciones recibidas, y es responsable del daño que se siga al consignante por los negocios en los que se haya apartado de esas instrucciones.
+
+ARTICULO 1339.- Plazos otorgados por el consignatario. El consignatario se presume autorizado a otorgar los plazos de pago que sean de uso en la plaza.
+
+Si otorga plazos contra las instrucciones del consignante, o por términos superiores a los de uso, está directamente obligado al pago del precio o de su saldo en el momento en que hubiera correspondido.
+
+ARTICULO 1340.- Crédito otorgado por el consignatario. El consignatario es responsable ante el consignante por el crédito otorgado a terceros sin la diligencia exigida por las circunstancias.
+
+ARTICULO 1341.- Prohibición. El consignatario no puede comprar ni vender para sí las cosas comprendidas en la consignación.
+
+ARTICULO 1342.- Retribución del consignatario. Si la comisión no ha sido convenida, se debe la que sea de uso en el lugar de cumplimiento de la consignación.
+
+ARTICULO 1343.- Comisión de garantía. Cuando, además de la retribución ordinaria, el consignatario ha convenido otra llamada “de garantía”, corren por su cuenta los riesgos de la cobranza y queda directamente obligado a pagar al consignante el precio en los plazos convenidos.
+
+ARTICULO 1344.- Obligación de pagar el precio. Si el consignatario se obliga a pagar el precio en caso de no restituir las cosas en un plazo determinado, el consignante no puede disponer de ellas hasta que le sean restituidas.
+
+Los acreedores del consignatario no pueden embargar las cosas consignadas mientras no se haya pagado su precio.
+
+CAPITULO 10
+
+Corretaje
+
+ARTICULO 1345.- Definición. Hay contrato de corretaje cuando una persona, denominada corredor, se obliga ante otra, a mediar en la negociación y conclusión de uno o varios negocios, sin tener relación de dependencia o representación con ninguna de las partes.
+
+ARTICULO 1346.- Conclusión del contrato de corretaje. Sujetos. El contrato de corretaje se entiende concluido, si el corredor está habilitado para el ejercicio profesional del corretaje, por su intervención en el negocio, sin protesta expresa hecha saber al corredor contemporáneamente con el comienzo de su actuación o por la actuación de otro corredor por el otro comitente.
+
+Si el comitente es una persona de derecho público, el contrato de corretaje debe ajustarse a las reglas de contratación pertinentes.
+
+Pueden actuar como corredores personas humanas o jurídicas.
+
+ARTICULO 1347.- Obligaciones del corredor. El corredor debe:
+
+a) asegurarse de la identidad de las personas que intervienen en los negocios en que media y de su capacidad legal para contratar;
+
+b) proponer los negocios con exactitud, precisión y claridad, absteniéndose de mencionar supuestos inexactos que puedan inducir a error a las partes;
+
+c) comunicar a las partes todas las circunstancias que sean de su conocimiento y que de algún modo puedan influir en la conclusión o modalidades del negocio;
+
+d) mantener confidencialidad de todo lo que concierne a negociaciones en las que interviene, la que sólo debe ceder ante requerimiento judicial o de autoridad pública competente;
+
+e) asistir, en las operaciones hechas con su intervención, a la firma de los instrumentos conclusivos y a la entrega de los objetos o valores, si alguna de las partes lo requiere;
+
+f) guardar muestras de los productos que se negocien con su intervención, mientras subsista la posibilidad de controversia sobre la calidad de lo entregado.
+
+ARTICULO 1348.- Prohibición. Está prohibido al corredor:
+
+a) adquirir por sí o por interpósita persona efectos cuya negociación le ha sido encargada;
+
+b) tener cualquier clase de participación o interés en la negociación o en los bienes comprendidos en ella.
+
+ARTICULO 1349.- Garantía y representación. El corredor puede:
+
+a) otorgar garantía por obligaciones de una o de ambas partes en la negociación en la que actúen;
+
+b) recibir de una parte el encargo de representarla en la ejecución del negocio.
+
+ARTICULO 1350.- Comisión. El corredor tiene derecho a la comisión estipulada si el negocio se celebra como resultado de su intervención. Si no hay estipulación, tiene derecho a la de uso en el lugar de celebración del contrato o, en su defecto, en el lugar en que principalmente realiza su cometido. A falta de todas ellas, la fija el juez.
+
+ARTICULO 1351.- Intervención de uno o de varios corredores. Si solo interviene un corredor, todas las partes le deben comisión, excepto pacto en contrario o protesta de una de las partes según el artículo 1.346. No existe solidaridad entre las partes respecto del corredor. Si interviene un corredor por cada parte, cada uno de ellos solo tiene derecho a cobrar comisión de su respectivo comitente.
+
+En las locaciones de inmuebles la intermediación solo podrá estar a cargo de un profesional matriculado para ejercer el corretaje inmobiliario conforme la legislación local.
+
+(Artículo sustituido por art. 12 de la Ley Nº 27.551 B.O. 30/6/2020. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina y serán aplicables para los contratos que se celebren a partir de su entrada en vigencia. Ley N° 27.551 abrogada por art. 249 del Decreto N° 70/2023 B.O. 27/12/2023)
+
+ARTICULO 1352.- Supuestos específicos de obligación de pagar la comisión. Concluido el contrato, la comisión se debe aunque:
+
+a) el contrato esté sometido a condición resolutoria y ésta no se cumpla;
+
+b) el contrato no se cumpla, se resuelva, se rescinda o medie distracto;
+
+c) el corredor no concluya el contrato, si inicia la negociación y el comitente encarga su conclusión a un tercero, o lo concluye por sí en condiciones sustancialmente similares.
+
+ARTICULO 1353.- Supuestos específicos en los que la comisión no se debe. La comisión no se debe si el contrato:
+
+a) está sometido a condición suspensiva y ésta no se cumple;
+
+b) se anula por ilicitud de su objeto, por incapacidad o falta de representación de cualquiera de las partes, o por otra circunstancia que haya sido conocida por el corredor.
+
+ARTICULO 1354.- Gastos. El corredor no tiene derecho a reembolso de gastos, aun cuando la operación encomendada no se concrete, excepto pacto en contrario.
+
+ARTICULO 1355.- Normas especiales. Las reglas de este Capítulo no obstan a la aplicación de las disposiciones de leyes y reglamentos especiales.
+
+CAPITULO 11
+
+Depósito
+
+SECCION 1ª
+
+Disposiciones generales
+
+ARTICULO 1356.- Definición. Hay contrato de depósito cuando una parte se obliga a recibir de otra una cosa con la obligación de custodiarla y restituirla con sus frutos.
+
+ARTICULO 1357.- Presunción de onerosidad. El depósito se presume oneroso. Si se pacta la gratuidad, no se debe remuneración, pero el depositante debe reembolsar al depositario los gastos razonables en que incurra para la custodia y restitución.
+
+ARTICULO 1358.- Obligación del depositario. El depositario debe poner en la guarda de la cosa la diligencia que usa para sus cosas o la que corresponda a su profesión. No puede usar las cosas y debe restituirlas, con sus frutos, cuando le sea requerido.
+
+ARTICULO 1359.- Plazo. Si se conviene un plazo, se presume que lo es en favor del depositante. Pero si el depósito es gratuito, el depositario puede exigir del depositante, en todo tiempo, que reciba la cosa depositada.
+
+ARTICULO 1360.- Depósito oneroso. Si el depósito es oneroso, el depositante debe pagar la remuneración establecida para todo el plazo del contrato, excepto pacto en contrario.
+
+Si para la conservación de la cosa es necesario hacer gastos extraordinarios, el depositario debe dar aviso inmediato al depositante, y realizar los gastos razonables causados por actos que no puedan demorarse. Estos gastos y los de restitución son por cuenta del depositante.
+
+ARTICULO 1361.- Lugar de restitución. La cosa depositada debe ser restituida en el lugar en que debía ser custodiada.
+
+ARTICULO 1362.- Modalidad de la custodia. Si se convino un modo específico de efectuar la custodia y circunstancias sobrevinientes exigen modificarlo, el depositario puede hacerlo, dando aviso inmediato al depositante.
+
+ARTICULO 1363.- Persona a quien debe restituirse la cosa. La restitución debe hacerse al depositante o a quien éste indique. Si la cosa se deposita también en interés de un tercero, el depositario no puede restituirla sin su consentimiento.
+
+ARTICULO 1364.- Pérdida de la cosa. Si la cosa depositada perece sin culpa del depositario, la pérdida debe ser soportada por el depositante.
+
+ARTICULO 1365.- Prueba del dominio. El depositario no puede exigir que el depositante pruebe ser dueño de la cosa depositada.
+
+ARTICULO 1366.- Herederos. Los herederos del depositario que de buena fe hayan enajenado la cosa depositada sólo están obligados a restituir al depositante el precio percibido. Si éste no ha sido pagado, deben cederle el correspondiente crédito.
+
+SECCION 2ª
+
+Depósito irregular
+
+ARTICULO 1367.- Efectos. Si se entrega una cantidad de cosas fungibles, que no se encuentra en saco cerrado, se transmite el dominio de las cosas aunque el depositante no haya autorizado su uso o lo haya prohibido. El depositario debe restituir la misma calidad y cantidad.
+
+Si se entrega una cantidad de cosas fungibles, y el depositario tiene la facultad de servirse de ellas, se aplican las reglas del mutuo.
+
+SECCION 3ª
+
+Depósito necesario
+
+ARTICULO 1368.- Definición. Es depósito necesario aquel en que el depositante no puede elegir la persona del depositario por un acontecimiento que lo somete a una necesidad imperiosa, y el de los efectos introducidos en los hoteles por los viajeros.
+
+ARTICULO 1369.- Depósito en hoteles. El depósito en los hoteles tiene lugar por la introducción en ellos de los efectos de los viajeros, aunque no los entreguen expresamente al hotelero o sus dependientes y aunque aquéllos tengan las llaves de las habitaciones donde se hallen tales efectos.
+
+ARTICULO 1370.- Responsabilidad. El hotelero responde al viajero por los daños y pérdidas sufridos en:
+
+a) los efectos introducidos en el hotel;
+
+b) el vehículo guardado en el establecimiento, en garajes u otros lugares adecuados puestos a disposición del viajero por el hotelero.
+
+ARTICULO 1371.- Eximentes de responsabilidad. El hotelero no responde si los daños o pérdidas son causados por caso fortuito o fuerza mayor ajena a la actividad hotelera.
+
+Tampoco responde por las cosas dejadas en los vehículos de los viajeros.
+
+ARTICULO 1372.- Cosas de valor. El viajero que lleve consigo efectos de valor superior al que ordinariamente llevan los pasajeros debe hacerlo saber al hotelero y guardarlos en las cajas de seguridad que se encuentren a su disposición en el establecimiento.
+
+En este caso, la responsabilidad del hotelero se limita al valor declarado de los efectos depositados.
+
+ARTICULO 1373.- Negativa a recibir. Si los efectos de los pasajeros son excesivamente valiosos en relación con la importancia del establecimiento, o su guarda causa molestias extraordinarias, los hoteleros pueden negarse a recibirlos.
+
+ARTICULO 1374.- Cláusulas que reducen la responsabilidad. Excepto lo dispuesto en los artículos 1372 y 1373, toda cláusula que excluya o limite la responsabilidad del hotelero se tiene por no escrita.
+
+ARTICULO 1375.- Establecimientos y locales asimilables. Las normas de esta Sección se aplican a los hospitales, sanatorios, casas de salud y deporte, restaurantes, garajes, lugares y playas de estacionamiento y otros establecimientos similares que prestan sus servicios a título oneroso.
+
+La eximente prevista en la última frase del artículo 1371 no rige para los garajes, lugares y playas de estacionamiento que prestan sus servicios a título oneroso.
+
+SECCION 4ª
+
+Casas de depósito
+
+ARTICULO 1376.- Responsabilidad. Los propietarios de casas de depósito son responsables de la conservación de las cosas allí depositadas, excepto que prueben que la pérdida, la disminución o la avería ha derivado de la naturaleza de dichas cosas, de vicio propio de ellas o de los de su embalaje, o de caso fortuito externo a su actividad.
+
+La tasación de los daños se hace por peritos arbitradores.
+
+ARTICULO 1377.- Deberes. Los propietarios mencionados en el artículo 1376 deben:
+
+a) dar recibo por las cosas que les son entregadas para su custodia, en el que se describa su naturaleza, calidad, peso, cantidad o medida;
+
+b) permitir la inspección de las cosas recibidas en depósito al depositante y a quien éste indique.
+
+CAPITULO 12
+
+Contratos bancarios
+
+SECCION 1ª
+
+Disposiciones generales
+
+Parágrafo 1°
+
+Transparencia de las condiciones contractuales
+
+ARTICULO 1378.- Aplicación. Las disposiciones relativas a los contratos bancarios previstas en este Capítulo se aplican a los celebrados con las entidades comprendidas en la normativa sobre entidades financieras, y con las personas y entidades públicas y privadas no comprendidas expresamente en esa legislación cuando el Banco Central de la República Argentina disponga que dicha normativa les es aplicable.
+
+ARTICULO 1379.- Publicidad. La publicidad, la propuesta y la documentación contractual deben indicar con precisión y en forma destacada si la operación corresponde a la cartera de consumo o a la cartera comercial, de acuerdo a la clasificación que realiza el Banco Central de la República Argentina. Esa calificación no prevalece sobre la que surge del contrato, ni de la decisión judicial, conforme a las normas de este Código.
+
+Los bancos deben informar en sus anuncios, en forma clara, la tasa de interés, gastos, comisiones y demás condiciones económicas de las operaciones y servicios ofrecidos.
+
+ARTICULO 1380.- Forma. Los contratos deben instrumentarse por escrito, conforme a los medios regulados por este Código. El cliente tiene derecho a que se le entregue un ejemplar.
+
+ARTICULO 1381.- Contenido. El contrato debe especificar la tasa de interés y cualquier precio, gasto, comisión y otras condiciones económicas a cargo del cliente. Si no determina la tasa de interés, es aplicable la nominal mínima y máxima, respectivamente, para las operaciones activas y pasivas promedio del sistema, publicadas por el Banco Central de la República Argentina a la fecha del desembolso o de la imposición.
+
+Las cláusulas de remisión a los usos para la determinación de las tasas de interés y de otros precios y condiciones contractuales se tienen por no escritas.
+
+ARTICULO 1382.- Información periódica. El banco debe comunicar en forma clara, escrita o por medios electrónicos previamente aceptados por el cliente, al menos una vez al año, el desenvolvimiento de las operaciones correspondientes a contratos de plazo indeterminado o de plazo mayor a un año. Transcurridos sesenta días contados a partir de la recepción de la comunicación, la falta de oposición escrita por parte del cliente se entiende como aceptación de las operaciones informadas, sin perjuicio de las acciones previstas en los contratos de consumo. Igual regla se aplica a la finalización de todo contrato que prevea plazos para el cumplimiento.
+
+ARTICULO 1383.- Rescisión. El cliente tiene derecho, en cualquier momento, a rescindir un contrato por tiempo indeterminado sin penalidad ni gastos, excepto los devengados antes del ejercicio de este derecho.
+
+Parágrafo 2°
+
+Contratos bancarios con consumidores y usuarios
+
+ARTICULO 1384.- Aplicación. Las disposiciones relativas a los contratos de consumo son aplicables a los contratos bancarios de conformidad con lo dispuesto en el artículo 1093.
+
+ARTICULO 1385.- Publicidad. Los anuncios del banco deben contener en forma clara, concisa y con un ejemplo representativo, información sobre las operaciones que se proponen. En particular deben especificar:
+
+a) los montos mínimos y máximos de las operaciones individualmente consideradas;
+
+b) la tasa de interés y si es fija o variable;
+
+c) las tarifas por gastos y comisiones, con indicación de los supuestos y la periodicidad de su aplicación;
+
+d) el costo financiero total en las operaciones de crédito;
+
+e) la existencia de eventuales servicios accesorios para el otorgamiento del crédito o la aceptación de la inversión y los costos relativos a tales servicios;
+
+f) la duración propuesta del contrato.
+
+ARTICULO 1386.- Forma. El contrato debe ser redactado por escrito en instrumentos que permitan al consumidor:
+
+a) obtener una copia;
+
+b) conservar la información que le sea entregada por el banco;
+
+c) acceder a la información por un período de tiempo adecuado a la naturaleza del contrato;
+
+d) reproducir la información archivada.
+
+ARTICULO 1387.- Obligaciones precontractuales. Antes de vincular contractualmente al consumidor, el banco debe proveer información suficiente para que el cliente pueda confrontar las distintas ofertas de crédito existentes en el sistema, publicadas por el Banco Central de la República Argentina.
+
+Si el banco rechaza una solicitud de crédito por la información negativa registrada en una base de datos, debe informar al consumidor en forma inmediata y gratuita el resultado de la consulta y la fuente de donde la obtuvo.
+
+ARTICULO 1388.- Contenido. Sin perjuicio de las condiciones establecidas para los contratos bancarios en general, ninguna suma puede ser exigida al consumidor si no se encuentra expresamente prevista en el contrato.
+
+En ningún caso pueden cargarse comisiones o costos por servicios no prestados efectivamente.
+
+Las cláusulas relativas a costos a cargo del consumidor que no están incluidas o que están incluidas incorrectamente en el costo financiero total publicitado o incorporado al documento contractual, se tienen por no escritas.
+
+ARTICULO 1389.- Información en contratos de crédito. Son nulos los contratos de crédito que no contienen información relativa al tipo y partes del contrato, el importe total del financiamiento, el costo financiero total y las condiciones de desembolso y reembolso.
+
+SECCION 2ª
+
+Contratos en particular
+
+Parágrafo 1°
+
+Depósito bancario
+
+ARTICULO 1390.- Depósito en dinero. Hay depósito de dinero cuando el depositante transfiere la propiedad al banco depositario, quien tiene la obligación de restituirlo en la moneda de la misma especie, a simple requerimiento del depositante, o al vencimiento del término o del preaviso convencionalmente previsto.
+
+ARTICULO 1391.- Depósito a la vista. El depósito a la vista debe estar representado en un documento material o electrónico que refleje fielmente los movimientos y el saldo de la cuenta del cliente.
+
+El banco puede dejar sin efecto la constancia por él realizada que no corresponda a esa cuenta.
+
+Si el depósito está a nombre de dos o más personas, cualquiera de ellas puede disponerlo, aun en caso de muerte de una, excepto que se haya convenido lo contrario.
+
+ARTICULO 1392.- Depósito a plazo. El depósito a plazo otorga al depositante el derecho a una remuneración si no retira la suma depositada antes del término o del preaviso convenidos.
+
+El banco debe extender un certificado transferible por endoso, excepto que se haya pactado lo contrario, en cuyo caso la transmisión sólo puede realizarse a través del contrato de cesión de derechos.
+
+Parágrafo 2°
+
+Cuenta corriente bancaria
+
+ARTICULO 1393.- Definición. La cuenta corriente bancaria es el contrato por el cual el banco se compromete a inscribir diariamente, y por su orden, los créditos y débitos, de modo de mantener un saldo actualizado y en disponibilidad del cuentacorrentista y, en su caso, a prestar un servicio de caja.
+
+ARTICULO 1394.- Otros servicios. El banco debe prestar los demás servicios relacionados con la cuenta que resulten de la convención, de las reglamentaciones, o de los usos y prácticas.
+
+ARTICULO 1395.- Créditos y débitos. Con sujeción a los pactos, los usos y la reglamentación:
+
+a) se acreditan en la cuenta los depósitos y remesas de dinero, el producto de la cobranza de títulos valores y los créditos otorgados por el banco para que el cuentacorrentista disponga de ellos;
+
+b) se debitan de la cuenta los retiros que haga el cuentacorrentista, los pagos o remesas que haga el banco por instrucciones de aquél, las comisiones, gastos e impuestos relativos a la cuenta y los cargos contra el cuentacorrentista que resulten de otros negocios que pueda tener con el banco. Los débitos pueden realizarse en descubierto.
+
+ARTICULO 1396.- Instrumentación. Los créditos y débitos pueden efectuarse y las cuentas pueden ser llevadas por medios mecánicos, electrónicos, de computación u otros en las condiciones que establezca la reglamentación, la que debe determinar también la posibilidad de conexiones de redes en tiempo real y otras que sean pertinentes de acuerdo con los medios técnicos disponibles, en orden a la celeridad y seguridad de las transacciones.
+
+ARTICULO 1397.- Servicio de cheques. Si el contrato incluye el servicio de cheques, el banco debe entregar al cuentacorrentista, a su solicitud, los formularios correspondientes.
+
+ARTICULO 1398.- Intereses. El saldo deudor de la cuenta corriente genera intereses, que se capitalizan trimestralmente, excepto que lo contrario resulte de la reglamentación, de la convención o de los usos. Las partes pueden convenir que el saldo acreedor de la cuenta corriente genere intereses capitalizables en los períodos y a la tasa que libremente pacten.
+
+ARTICULO 1399.- Solidaridad. En las cuentas a nombre de dos o más personas los titulares son solidariamente responsables frente al banco por los saldos que arrojen.
+
+ARTICULO 1400.- Propiedad de los fondos. Excepto prueba en contrario, se presume que la propiedad de los fondos existentes en la cuenta abierta, conjunta o indistintamente, a nombre de más de una persona pertenece a los titulares por partes iguales.
+
+ARTICULO 1401.- Reglas subsidiarias. Las reglas del mandato son aplicables a los encargos encomendados por el cuentacorrentista al banco. Si la operación debe realizarse en todo o en parte en una plaza en la que no existe casa del banco, él puede encomendarla a otro banco o a su corresponsal. El banco se exime del daño causado si la entidad a la que encomienda la tarea que lo causa es elegida por el cuentacorrentista.
+
+ARTICULO 1402.- Créditos o valores contra terceros. Los créditos o títulos valores recibidos al cobro por el banco se asientan en la cuenta una vez hechos efectivos. Si el banco lo asienta antes en la cuenta, puede excluir de la cuenta su valor mientras no haya percibido efectivamente el cobro.
+
+ARTICULO 1403.- Resúmenes. Excepto que resulten plazos distintos de las reglamentaciones, de la convención o de los usos:
+
+a) el banco debe remitir al cuentacorrentista dentro de los ocho días de finalizado cada mes, un extracto de los movimientos de cuenta y los saldos que resultan de cada crédito y débito;
+
+b) el resumen se presume aceptado si el cuentacorrentista no lo observa dentro de los diez días de su recepción o alega no haberlo recibido, pero deja transcurrir treinta días desde el vencimiento del plazo en que el banco debe enviarlo, sin reclamarlo.
+
+Las comunicaciones previstas en este artículo deben efectuarse en la forma que disponga la reglamentación, que puede considerar la utilización de medios mecánicos, electrónicos, de computación u otros.
+
+ARTICULO 1404.- Cierre de cuenta. La cuenta corriente se cierra:
+
+a) por decisión unilateral de cualquiera de las partes, previo aviso con una anticipación de diez días, excepto pacto en contrario;
+
+b) por quiebra, muerte o incapacidad del cuentacorrentista;
+
+c) por revocación de la autorización para funcionar, quiebra o liquidación del banco;
+
+d) por las demás causales que surjan de la reglamentación o de la convención.
+
+ARTICULO 1405.- Compensación de saldos. Cuando el banco cierre más de una cuenta de un mismo titular, debe compensar sus saldos hasta su concurrencia, aunque sean expresados en distintas monedas.
+
+ARTICULO 1406.- Ejecución de saldo. Producido el cierre de una cuenta, e informado el cuentacorrentista, si el banco está autorizado a operar en la República puede emitir un título con eficacia ejecutiva. El documento debe ser firmado por dos personas, apoderadas del banco mediante escritura pública, en el que se debe indicar:
+
+a) el día de cierre de la cuenta;
+
+b) el saldo a dicha fecha;
+
+c) el medio por el que ambas circunstancias fueron comunicadas al cuentacorrentista.
+
+El banco es responsable por el perjuicio causado por la emisión o utilización indebida de dicho título.
+
+ARTICULO 1407.- Garantías. El saldo deudor de la cuenta corriente puede ser garantizado con hipoteca, prenda, fianza o cualquier otra clase de garantía.
+
+Parágrafo 3°
+
+Préstamo y descuento bancario
+
+ARTICULO 1408.- Préstamo bancario. El préstamo bancario es el contrato por el cual el banco se compromete a entregar una suma de dinero obligándose el prestatario a su devolución y al pago de los intereses en la moneda de la misma especie, conforme con lo pactado.
+
+ARTICULO 1409.- Descuento bancario. El contrato de descuento bancario obliga al titular de un crédito contra terceros a cederlo a un banco, y a éste a anticiparle el importe del crédito, en la moneda de la misma especie, conforme con lo pactado.
+
+El banco tiene derecho a la restitución de las sumas anticipadas, aunque el descuento tenga lugar mediante endoso de letras de cambio, pagarés o cheques y haya ejercido contra el tercero los derechos y acciones derivados del título.
+
+Parágrafo 4°
+
+Apertura de crédito
+
+ARTICULO 1410.- Definición. En la apertura de crédito, el banco se obliga, a cambio de una remuneración en la moneda de la misma especie de la obligación principal, conforme con lo pactado, a mantener a disposición de otra persona un crédito de dinero, dentro del límite acordado y por un tiempo fijo o indeterminado; si no se expresa la duración de la disponibilidad, se considera de plazo indeterminado.
+
+ARTICULO 1411.- Disponibilidad. La utilización del crédito hasta el límite acordado extingue la obligación del banco, excepto que se pacte que los reembolsos efectuados por el acreditado sean disponibles durante la vigencia del contrato o hasta el preaviso de vencimiento.
+
+ARTICULO 1412.- Carácter de la disponibilidad. La disponibilidad no puede ser invocada por terceros, no es embargable, ni puede ser utilizada para compensar cualquier otra obligación del acreditado.
+
+Parágrafo 5°
+
+Servicio de caja de seguridad
+
+ARTICULO 1413.- Obligaciones a cargo de las partes. El prestador de una caja de seguridad responde frente al usuario por la idoneidad de la custodia de los locales, la integridad de las cajas y el contenido de ellas, conforme con lo pactado y las expectativas creadas en el usuario. No responde por caso fortuito externo a su actividad, ni por vicio propio de las cosas guardadas.
+
+ARTICULO 1414.- Límites. La cláusula que exime de responsabilidad al prestador se tiene por no escrita. Es válida la cláusula de limitación de la responsabilidad del prestador hasta un monto máximo sólo si el usuario es debidamente informado y el límite no importa una desnaturalización de las obligaciones del prestador.
+
+ARTICULO 1415.- Prueba de contenido. La prueba del contenido de la caja de seguridad puede hacerse por cualquier medio.
+
+ARTICULO 1416.- Pluralidad de usuarios. Si los usuarios son dos o más personas, cualquiera de ellas, indistintamente, tiene derecho a acceder a la caja.
+
+ARTICULO 1417.- Retiro de los efectos. Vencido el plazo o resuelto el contrato por falta de pago o por cualquier otra causa convencionalmente prevista, el prestador debe dar a la otra parte aviso fe-haciente del vencimiento operado, con el apercibimiento de proceder, pasados treinta días del aviso, a la apertura forzada de la caja ante escribano público. En su caso, el prestador debe notificar al usuario la realización de la apertura forzada de la caja poniendo a su disposición su contenido, previo pago de lo adeudado, por el plazo de tres meses; vencido dicho plazo y no habiéndose presentado el usuario, puede cobrar el precio impago de los fondos hallados en la caja. En su defecto puede proceder a la venta de los efectos necesarios para cubrir lo adeudado en la forma prevista por el artículo 2229, dando aviso al usuario. El producido de la venta se aplica al pago de lo adeudado. Los bienes remanentes deben ser consignados judicialmente por alguna de las vías previstas en este Código.
+
+Parágrafo 6°
+
+Custodia de títulos
+
+ARTICULO 1418.- Obligaciones a cargo de las partes. El banco que asume a cambio de una remuneración la custodia de títulos en administración debe proceder a su guarda, gestionar el cobro de los intereses o los dividendos y los reembolsos del capital por cuenta del depositante y, en general, proveer la tutela de los derechos inherentes a los títulos.
+
+ARTICULO 1419.- Omisión de instrucciones. La omisión de instrucciones del depositante no libera al banco del ejercicio de los derechos emergentes de los títulos.
+
+ARTICULO 1420.- Disposición. Autorización otorgada al banco. En el depósito de títulos valores es válida la autorización otorgada al banco para disponer de ellos, obligándose a entregar otros del mismo género, calidad y cantidad, cuando se hubiese convenido en forma expresa y las características de los títulos lo permita. Si la restitución resulta de cumplimiento imposible, el banco debe cancelar la obligación con el pago de una suma de dinero equivalente al valor de los títulos al momento en que debe hacerse la devolución.

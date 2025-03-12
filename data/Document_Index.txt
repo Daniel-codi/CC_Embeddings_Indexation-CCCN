@@ -25,45 +25,46 @@ Título VII - Responsabilidad parental - Arts_638-704.txt
 Título VIII - Procesos de familia - Arts_705-723.txt
 
 LIBRO TERCERO - DERECHOS PERSONALES
-Título I - Obligaciones en general - arts. 724 a 956
-Título II - Contratos en general - arts. 957 a 1091
-Título III - Contratos de consumo - arts. 1092 a 1122
-Título IV - Contratos en particular - arts. 1123 a 1707
-Título V - Otras fuentes de las obligaciones - arts. 1708 a 1881
+Título I - Obligaciones en general - Arts_724-864.txt, Arts_865-956.txt
+Título II - Contratos en general - Arts_957-1091.txt
+Título III - Contratos de consumo - Arts_1092-1122.txt
+Título IV - Contratos en particular - Arts_1123-1226.txt, Arts_1227-1420.txt, Arts_1421-1573.txt, Arts_1574-1707.txt
+Título V - Otras fuentes de las obligaciones - Arts_1708-1881.txt
 
 LIBRO CUARTO - DERECHOS REALES
-Título I - Disposiciones generales - arts. 1882 a 1907
-Título II - Posesión y tenencia - arts. 1908 a 1940
-Título III - Dominio - arts. 1941 a 1982
-Título IV - Condominio - arts. 1983 a 2036
-Título V - Propiedad Horizontal - arts. 2037 a 2072
-Título VI - Conjuntos inmobiliarios - arts. 2073 a 2113
-Título VII - Superficie - arts. 2114 a 2128
-Título VIII - Usufructo - arts. 2129 a 2153
-Título IX - Uso - arts. 2154 a 2157
-Título X - Habitación - arts. 2158 a 2161
-Título XI - Servidumbre - arts. 2162 a 2183
-Título XII - Derechos reales de garantía - arts. 2184 a 2237
-Título XIII - Acciones posesorias y acciones reales - arts. 2238 a 2276
+Título I - Disposiciones generales - 
+Título II - Posesión y tenencia - 
+Título III - Dominio - 
+Título IV - Condominio - 
+Título V - Propiedad Horizontal - 
+Título VI - Conjuntos inmobiliarios - 
+Título VII - Superficie - 
+Título VIII - Usufructo -
+Título IX - Uso -
+Título X - Habitación - 
+Título XI - Servidumbre - 
+Título XII - Derechos reales de garantía - 
+Título XIII - Acciones posesorias y acciones reales - 
+
 
 LIBRO QUINTO - TRANSMISIÓN DE DERECHOS POR CAUSA DE MUERTE
-Título I - Sucesiones - arts. 2277 a 2285
-Título II - Aceptación y renuncia de la herencia - arts. 2286 a 2301
-Título III - Cesión de herencia - arts. 2302 a 2309
-Título IV - Petición de herencia - arts. 2310 a 2315
-Título V - Responsabilidad de los herederos y legatarios. Liquidación del pasivo - arts. 2316 a 2322
-Título VI - Estado de indivisión - arts. 2323 a 2334
-Título VII - Proceso sucesorio - arts. 2335 a 2362
-Título VIII - Partición - arts. 2363 a 2423
-Título IX - Sucesiones intestadas - arts. 2424 a 2443 
-Título X - Porción legítima - arts. 2444 a 2461
-Título XI - Sucesiones testamentarias - arts. 2462 a 2531
+Título I - Sucesiones - 
+Título II - Aceptación y renuncia de la herencia - 
+Título III - Cesión de herencia - 
+Título IV - Petición de herencia -
+Título V - Responsabilidad de los herederos y legatarios. Liquidación del pasivo -
+Título VI - Estado de indivisión - 
+Título VII - Proceso sucesorio -
+Título VIII - Partición - 
+Título IX - Sucesiones intestadas - 
+Título X - Porción legítima - 
+Título XI - Sucesiones testamentarias - 
 
 LIBRO SEXTO - DISPOSICIONES COMUNES A LOS DERECHOS PERSONALES Y REALES
-Título I - Prescripción y caducidad - arts. 2532 a 2572
-Título II - Privilegios - arts. 2573 a 2586
-Título III - Derecho de retención - arts. 2587 a 2593
-Título IV - Disposiciones de derecho internacional privado - arts. 2594 a 2671
+Título I - Prescripción y caducidad - 
+Título II - Privilegios - 
+Título III - Derecho de retención - 
+Título IV - Disposiciones de derecho internacional privado - 
 -------------------------------------------------------------------------------
 
 INDICE (según Concept Curve Embeddings Indexation)
@@ -457,6 +458,354 @@ Medidas-provisionales
 Vivienda-familiar
 Alimentos-hijos
 Derecho-menores
+
+File: Arts_724-864.txt
+Relación-jurídica
+Interés-lícito
+Prestación-exigible
+Fuente-legítima
+Deber-moral
+Buena-fe
+Incumplimiento-legal
+Indemnización-contractual
+Garantía-común
+Acción-directa
+Acción-subrogatoria
+Acreedor-deudor
+Bienes-excluidos
+Obligación-dar
+Tradición-derechos
+Riesgo-cosa
+Frutos-propiedad
+Restitución-bienes
+Intereses-compensatorios
+Intereses-moratorios
+Anatocismo-límite
+Ejecución-forzada
+Cláusula-penal
+Mora-deudor
+Sanciones-conminatorias
+Obligación-divisible
+Obligación-indivisible
+Solidaridad-pasiva
+Solidaridad-activa
+Prescripción-extintiva
+Rendición-cuentas
+Extinción-obligación
+Novación-deuda
+Cesión-crédito
+Dación-pago
+Cosa-cierta
+Carga-prueba
+Prorrateo-costas
+Derechos-reales
+Concurrencia-acreedores
+
+File: Arts_865-956.txt
+Cumplimiento-obligación
+Pago-efectivo
+Prestación-debida
+Identidad-integridad
+Obligación-dinero
+Lugar-pago
+Plazo-determinado
+Mora-deudor
+Mora-acreedor
+Pago-tercero
+Acción-subrogatoria
+Créditos-embargados
+Fraude-acreedores
+Capacidad-pago
+Imputación-pago
+Consignación-judicial
+Consignación-extrajudicial
+Pago-mejor-fortuna
+Beneficio-competencia
+Prueba-pago
+Recibo-formal
+Pago-subrogación
+Compensación-créditos
+Confusión-obligaciones
+Novación-deuda
+Dación-pago
+Renuncia-derechos
+Remisión-deuda
+Imposibilidad-cumplimiento
+Caso-fortuito
+
+File: Arts_957-1091.txt
+Contrato-jurídico
+Libertad-contratación
+Efecto-vinculante
+Buena-fe
+Integración-contrato
+Contrato-bilateral
+Contrato-unilateral
+Contrato-oneroso
+Contrato-gratuito
+Contrato-formal
+Contrato-aleatorio
+Consentimiento-oferta
+Retractación-oferta
+Contrato-adhesión
+Cláusula-abusiva
+Tratativas-contractuales
+Deber-confidencialidad
+Promesa-contrato
+Pacto-preferencia
+Capacidad-contratar
+Objeto-lícito
+Bienes-futuros
+Herencia-futura
+Contrato-larga-duración
+Causa-ilícita
+Escritura-pública
+Medios-prueba
+Parte-contrato
+Tercero-beneficiario
+Estipulación-tercero
+Suspensión-cumplimiento
+Fuerza-mayor
+Obligación-saneamiento
+Evicción-protección
+Vicios-ocultos
+Garantía-defectos
+Señal-arras
+Interpretación-buena-fe
+Contrato-conexo
+Rescisión-bilateral
+
+File: Arts_1092-1122.txt
+Relación-jurídica
+Consumidor-final
+Proveedor-servicios
+Protección-consumidor
+Interpretación-favorable
+Prácticas-abusivas
+Trato-digno
+No-discriminación
+Libertad-contratar
+Información-veraz
+Publicidad-ilícita
+Contratación-distancia
+Medios-electrónicos
+Revocación-derecho
+Obligaciones-recíprocas
+Cláusulas-abusivas
+Equilibrio-contractual
+Control-judicial
+Jurisdicción-aplicable
+Sostenibilidad-consumo
+
+File: Arts_1123-1226.txt
+Contrato-compraventa
+Obligación-transferencia
+Precio-dinero
+Contrato-obra
+Permuta-derechos
+Cosa-vendida
+Cosa-futura
+Cosa-ajena
+Determinación-precio
+Precio-tercero
+Unidad-medida
+Obligación-vendedor
+Entrega-bienes
+Gastos-vendedor
+Tiempo-entrega
+Obligación-comprador
+Pago-precio
+Recibo-bienes
+Entrega-documentación
+Factura-compra
+Entrega-anticipada
+Pago-contraentrega
+Riesgo-pérdida
+Muestra-calidad
+Condición-suspensiva
+Contrato-permuta
+Normas-supletorias
+Contrato-suministro
+Prestación-periódica
+Aviso-modificación
+Plazo-pago
+Contrato-locación
+Uso-temporal
+Obligaciones-locador
+Obligaciones-locatario
+Cesión-sublocación
+Extinción-contrato
+Desalojo-vivienda
+Mejoras-locación
+Retención-derechos
+
+File: Arts_1227-1420.txt
+Contrato-leasing
+Opción-compra
+Canon-pago
+Bien-mueble
+Bien-inmueble
+Uso-goce
+Entrega-bienes
+Registro-oponibilidad
+Riesgo-perdida
+Arrendamiento-financiero
+Contrato-obra
+Contrato-servicios
+Ejecutor-obra
+Comitente-responsabilidad
+Precio-retribución
+Contrato-transporte
+Transporte-personas
+Transporte-cosas
+Carta-porte
+Plazo-entrega
+Contrato-mandato
+Mandato-representación
+Mandante-mandatario
+Contrato-consignación
+Venta-indirecta
+Responsabilidad-depositario
+Contrato-depósito
+Depósito-bancario
+Contrato-corretaje
+Mediador-comisión
+Contrato-bancario
+Cuenta-corriente
+Intereses-bancarios
+Cláusula-limitativa
+Ejercicio-opción
+Reparación-vicios
+Garantía-obra
+Indemnización-daños
+Resolución-contrato
+Extinción-obligaciones
+
+File: Arts_1421-1573.txt
+Contrato-factoraje
+Cesión-créditos
+Gestión-cobranza
+Garantía-riesgo
+Contrato-bolsa
+Operaciones-mercado
+Normas-estatales
+Cuenta-corriente
+Compensación-saldos
+Remesas-recíprocas
+Intereses-bancarios
+Garantía-saldos
+Contrato-asociativo
+Negocio-participación
+Agrupación-colaboración
+Unión-transitoria
+Consorcio-cooperación
+Obligaciones-solidarias
+Extinción-contrato
+Contrato-agencia
+Promoción-negocios
+Retribución-variable
+Exclusividad-zona
+Preaviso-rescisión
+Compensación-clientela
+Contrato-concesión
+Distribución-exclusiva
+Obligaciones-concedente
+Mercadería-reposición
+Contrato-franquicia
+Uso-marca
+Sistema-negocios
+Asistencia-técnica
+Contrato-mutuo
+Devolución-especie
+Intereses-compensatorios
+Contrato-comodato
+Uso-gratuito
+Restitución-bienes
+Contrato-donación
+
+File: Arts_1574-1707.txt
+Contrato-fianza
+Obligación-accesoria
+Responsabilidad-fiador
+Deuda-principal
+Garantía-contractual
+Beneficio-excusión
+Fiador-solidario
+Subrogación-fiador
+Extinción-fianza
+Contrato-renta-vitalicia
+Pago-periódico
+Beneficiario-renta
+Cesión-derechos
+Transmisión-obligaciones
+Derecho-cedido
+Cesión-garantía
+Contrato-apuesta
+Juego-azar
+Obligación-apuesta
+Apuesta-pública
+Contrato-transacción
+Resolución-litigio
+Cosa-juzgada
+Validez-transacción
+Contrato-arbitraje
+Jurisdicción-privada
+Laudo-arbitral
+Competencia-árbitros
+Contrato-fideicomiso
+Propiedad-fiduciaria
+Fiduciario-beneficiario
+Fideicomisario-sucesión
+Patrimonio-separado
+Garantía-fideicomiso
+Liquidación-fideicomiso
+Certificados-participación
+Títulos-deuda
+Asamblea-beneficiarios
+Derechos-arbitrales
+Regulación-mercado
+
+File: Arts_1708-1881.txt
+Responsabilidad-civil
+Prevención-daño
+Reparación-daño
+Prelación-normativa
+Autonomía-voluntad
+Función-preventiva
+Acción-preventiva
+Legitimación-reclamación
+Sentencia-preventiva
+Punición-excesiva
+Deber-reparación
+Antijuridicidad-hecho
+Legítima-defensa
+Estado-necesidad
+Ejercicio-derecho
+Asunción-riesgos
+Consentimiento-damnificado
+Factores-atribución
+Responsabilidad-objetiva
+Factores-subjetivos
+Relación-causal
+Previsibilidad-contractual
+Caso-fortuito
+Fuerza-mayor
+Hecho-tercero
+Imposibilidad-cumplimiento
+Facultades-judiciales
+Daño-resarcible
+Indemnización-perjuicio
+Reparación-plena
+Consecuencias-patrimoniales
+Daño-moratorio
+Responsabilidad-directa
+Pluralidad-responsables
+Responsabilidad-hijos
+Hecho-cosas
+Actividad-riesgosa
+Responsabilidad-colectiva
+Protección-vida-privada
+Enriquecimiento-sin-causa
 
 
 

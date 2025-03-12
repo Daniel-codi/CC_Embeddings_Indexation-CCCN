@@ -1,0 +1,845 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO TERCERO - DERECHOS PERSONALES - TITULO 4
+TITULO 4: Contratos en particular
+Articulos: 1421 a 1573
+
+Contenido:
+Capitulo 13 - Contrato de factoraje
+Capitulo 14 - Contratos celebrados en bolsa o mercado de comercio
+Capitulo 15 - Cuenta corriente
+Capitulo 16 - Contratos asociativos
+Capitulo 17 - Agencia
+Capitulo 18 - Concesión
+Capitulo 19 - Franquicia
+Capitulo 20 - Mutuo
+Capitulo 21 - Comodato
+Capitulo 22 - Donación
+-----------------------------------------
+CAPITULO 13
+
+Contrato de factoraje
+
+ARTICULO 1421.- Definición. Hay contrato de factoraje cuando una de las partes, denominada factor, se obliga a adquirir por un precio en dinero determinado o determinable los créditos originados en el giro comercial de la otra, denominada factoreado, pudiendo otorgar anticipo sobre tales créditos asumiendo o no los riesgos.
+
+ARTICULO 1422.- Otros servicios. La adquisición puede ser complementada con servicios de administración y gestión de cobranza, asistencia técnica, comercial o administrativa respecto de los créditos cedidos.
+
+ARTICULO 1423.- Créditos que puede ceder el factoreado. Son válidas las cesiones globales de parte o todos los créditos del factoreado, tanto los existentes como los futuros, siempre que estos últimos sean determinables.
+
+ARTICULO 1424.- Contrato. Elementos que debe incluir. El contrato debe incluir la relación de los derechos de crédito que se transmiten, la identificación del factor y factoreado y los datos necesarios para identificar los documentos representativos de los derechos de crédito, sus importes y sus fechas de emisión y vencimiento o los elementos que permitan su identificación cuando el factoraje es determinable.
+
+ARTICULO 1425.- Efecto del contrato. El documento contractual es título suficiente de transmisión de los derechos cedidos.
+
+ARTICULO 1426.- Garantía y aforos. Las garantías reales y personales y la retención anticipada de un porcentaje del crédito cedido para garantizar su incobrabilidad o aforo son válidos y subsisten hasta la extinción de las obligaciones del factoreado.
+
+ARTICULO 1427.- Imposibilidad del cobro del derecho de crédito cedido. Cuando el cobro del derecho de crédito cedido no sea posible por una razón que tenga su causa en el acto jurídico que le dio origen, el factoreado responde por la pérdida de valor de los derechos del crédito cedido, aun cuando el factoraje se haya celebrado sin garantía o recurso.
+
+ARTICULO 1428.- Notificación al deudor cedido. La transmisión de los derechos del crédito cedido debe ser notificada al deudor cedido por cualquier medio que evidencie razonablemente la recepción por parte de éste.
+
+CAPITULO 14
+
+Contratos celebrados en bolsa o mercado de comercio
+
+ARTICULO 1429.- Normas aplicables. Los contratos celebrados en una bolsa o mercado de comercio, de valores o de productos, en tanto éstos sean autorizados y operen bajo contralor estatal, se rigen por las normas dictadas por sus autoridades y aprobadas por el organismo de control. Estas normas pueden prever la liquidación del contrato por diferencia; regular las operaciones y contratos derivados; fijar garantías, márgenes y otras seguridades; establecer la determinación diaria o periódica de las posiciones de las partes y su liquidación ante eventos como el concurso, la quiebra o la muerte de una de ellas, la compensación y el establecimiento de un saldo neto de las operaciones entre las mismas partes y los demás aspectos necesarios para su operatividad.
+
+CAPITULO 15
+
+Cuenta corriente
+
+ARTICULO 1430.- Definición. Cuenta corriente es el contrato por el cual dos partes se comprometen a inscribir en una cuenta las remesas recíprocas que se efectúen y se obligan a no exigir ni disponer de los créditos resultantes de ellas hasta el final de un período, a cuyo vencimiento se compensan, haciéndose exigible y disponible el saldo que resulte.
+
+ARTICULO 1431.- Contenido. Todos los créditos entre las partes resultantes de títulos valores o de relaciones contractuales posteriores al contrato se comprenden en la cuenta corriente, excepto estipulación en contrario. No pueden incorporarse a una cuenta corriente los créditos no compensables ni los ilíquidos o litigiosos.
+
+ARTICULO 1432.- Plazos. Excepto convención o uso en contrario, se entiende que:
+
+a) los períodos son trimestrales, computándose el primero desde la fecha de celebración del contrato;
+
+b) el contrato no tiene plazo determinado. En este caso cualquiera de las partes puede rescindirlo otorgando un preaviso no menor a diez días a la otra por medio fehaciente, a cuyo vencimiento se produce el cierre, la compensación y el saldo de la cuenta; pero éste no puede exigirse antes de la fecha en que debe finalizar el período que se encuentra en curso al emitirse el preaviso;
+
+c) si el contrato tiene plazo determinado, se renueva por tácita reconducción. Cualquiera de las partes puede avisar con anticipación de diez días al vencimiento, su decisión de no continuarlo o el ejercicio del derecho que se indica en el inciso b), parte final, de este artículo, después del vencimiento del plazo original del contrato;
+
+d) si el contrato continúa o se renueva después de un cierre, el saldo de la remesa anterior es considerado la primera remesa del nuevo período, excepto que lo contrario resulte de una expresa manifestación de la parte que lleva la cuenta contenida en la comunicación del resumen y saldo del período, o de la otra, dentro del plazo del artículo 1438, primer párrafo.
+
+ARTICULO 1433.- Intereses, comisiones y gastos. Excepto pacto en contrario, se entiende que:
+
+a) las remesas devengan intereses a la tasa pactada o, en su defecto, a la tasa de uso y a falta de ésta a la tasa legal;
+
+b) el saldo se considera capital productivo de intereses, aplicándose la tasa según el inciso a);
+
+c) las partes pueden convenir la capitalización de intereses en plazos inferiores al de un período;
+
+d) se incluyen en la cuenta, como remesas, las comisiones y gastos vinculados a las operaciones inscriptas.
+
+ARTICULO 1434.- Garantías de créditos incorporados. Las garantías reales o personales de cada crédito incorporado se trasladan al saldo de cuenta, en tanto el garante haya prestado su previa aceptación.
+
+ARTICULO 1435.- Cláusula “salvo encaje”. Excepto convención en contrario, la inclusión de un crédito contra un tercero en la cuenta corriente, se entiende efectuada con la cláusula “salvo encaje”.
+
+Si el crédito no es satisfecho a su vencimiento, o antes al hacerse exigible contra cualquier obligado, el que recibe la remesa puede, a su elección, ejercer por sí la acción para el cobro o eliminar la partida de la cuenta, con reintegro de los derechos e instrumentos a la otra parte. Puede eliminarse la partida de la cuenta aun después de haber ejercido las acciones contra el deudor, en la medida en que el crédito y sus accesorios permanecen impagos.
+
+La eliminación de la partida de la cuenta o su contra asiento no puede efectuarse si el cuentacorrentista receptor ha perjudicado el crédito o el título valor remitido.
+
+ARTICULO 1436.- Embargo. El embargo del saldo eventual de la cuenta por un acreedor de uno de los cuentacorrentistas, impide al otro aplicar nuevas remesas que perjudiquen el derecho del embargante, desde que ha sido notificado de la medida. No se consideran nuevas remesas las que resulten de derechos ya existentes al momento del embargo, aun cuando no se hayan anotado efectivamente en las cuentas de las partes.
+
+El cuentacorrentista notificado debe hacer saber al otro el embargo por medio fehaciente y queda facultado para rescindir el contrato.
+
+ARTICULO 1437.- Ineficacia. La inclusión de un crédito en una cuenta corriente no impide el ejercicio de las acciones o de las excepciones que tiendan a la ineficacia del acto del que deriva. Declarada la ineficacia, el crédito debe eliminarse de la cuenta.
+
+ARTICULO 1438.- Resúmenes de cuenta. Aprobación. Los resúmenes de cuenta que una parte reciba de la otra se presumen aceptados si no los observa dentro del plazo de diez días de la recepción o del que resulte de la convención o de los usos.
+
+Las observaciones se resuelven por el procedimiento más breve que prevea la ley local.
+
+ARTICULO 1439.- Garantías. El saldo de la cuenta corriente puede ser garantizado con hipoteca, prenda, fianza o cualquier otra garantía.
+
+ARTICULO 1440.- Cobro ejecutivo del saldo. El cobro del saldo de la cuenta corriente puede demandarse por vía ejecutiva, la que queda expedita en cualquiera de los siguientes casos:
+
+a) si el resumen de cuenta en el que consta el saldo está suscripto con firma del deudor certificada por escribano o judicialmente reconocida. El reconocimiento se debe ajustar a las normas procesales locales y puede ser obtenido en forma ficta;
+
+b) si el resumen está acompañado de un saldo certificado por contador público y notificado mediante acto notarial en el domicilio contractual, fijándose la sede del registro del escribano para la recepción de observaciones en el plazo del artículo 1438. En este caso, el título ejecutivo queda configurado por el certificado notarial que acompaña el acta de notificación, la certificación de contador y la constancia del escribano de no haberse recibido observaciones en tiempo.
+
+ARTICULO 1441.- Extinción del contrato. Son medios especiales de extinción del contrato de cuenta corriente:
+
+a) la quiebra, la muerte o la incapacidad de cualquiera de las partes;
+
+b) el vencimiento del plazo o la rescisión, según lo dispuesto en el artículo 1432;
+
+c) en el caso previsto en el artículo 1436;
+
+d) de pleno derecho, pasados dos períodos completos o el lapso de un año, el que fuere menor, sin que las partes hubieren efectuado ninguna remesa con aplicación al contrato, excepto pacto en contrario;
+
+e) por las demás causales previstas en el contrato o en leyes particulares.
+
+CAPITULO 16
+
+Contratos asociativos
+
+SECCION 1ª
+
+Disposiciones generales
+
+ARTICULO 1442.- Normas aplicables. Las disposiciones de este Capítulo se aplican a todo contrato de colaboración, de organización o participativo, con comunidad de fin, que no sea sociedad.
+
+A estos contratos no se les aplican las normas sobre la sociedad, no son, ni por medio de ellos se constituyen, personas jurídicas, sociedades ni sujetos de derecho.
+
+A las comuniones de derechos reales y a la indivisión hereditaria no se les aplican las disposiciones sobre contratos asociativos ni las de la sociedad.
+
+ARTICULO 1443.- Nulidad. Si las partes son más de dos la nulidad del contrato respecto de una de las partes no produce la nulidad entre las demás y el incumplimiento de una no excusa el de las otras, excepto que la prestación de aquella que ha incumplido o respecto de la cual el contrato es nulo sea necesaria para la realización del objeto del contrato.
+
+ARTICULO 1444.- Forma. Los contratos a que se refiere este Capítulo no están sujetos a requisitos de forma.
+
+ARTICULO 1445.- Actuación en nombre común o de las partes. Cuando una parte trate con un tercero en nombre de todas las partes o de la organización común establecida en el contrato asociativo, las otras partes no devienen acreedores o deudores respecto del tercero sino de conformidad con las disposiciones sobre representación, lo dispuesto en el contrato, o las normas de las Secciones siguientes de este Capítulo.
+
+ARTICULO 1446.- Libertad de contenidos. Además de poder optar por los tipos que se regulan en las Secciones siguientes de este Capítulo, las partes tienen libertad para configurar estos contratos con otros contenidos.
+
+ARTICULO 1447.- Efectos entre partes. Aunque la inscripción esté prevista en las Secciones siguientes de este Capítulo, los contratos no inscriptos producen efectos entre las partes.
+
+SECCION 2ª
+
+Negocio en participación
+
+ARTICULO 1448.- Definición. El negocio en participación tiene por objeto la realización de una o más operaciones determinadas a cumplirse mediante aportaciones comunes y a nombre personal del gestor. No tiene denominación, no está sometido a requisitos de forma, ni se inscribe en el Registro Público.
+
+ARTICULO 1449.- Gestor. Actuación y responsabilidad. Los terceros adquieren derechos y asumen obligaciones sólo respecto del gestor. La responsabilidad de éste es ilimitada. Si actúa más de un gestor son solidariamente responsables.
+
+ARTICULO 1450.- Partícipe. Partícipe es la parte del negocio que no actúa frente a los terceros. No tiene acción contra éstos ni éstos contra aquél, en tanto no se exteriorice la apariencia de una actuación común.
+
+ARTICULO 1451.- Derechos de información y rendición de cuentas. El partícipe tiene derecho a que el gestor le brinde información y acceso a la documentación relativa al negocio. También tiene derecho a la rendición de cuentas de la gestión en la forma y en el tiempo pactados; y en defecto de pacto, anualmente y al concluir la negociación.
+
+ARTICULO 1452.- Limitación de las pérdidas. Las pérdidas que afecten al partícipe no pueden superar el valor de su aporte.
+
+SECCION 3ª
+
+Agrupaciones de colaboración
+
+ARTICULO 1453.- Definición. Hay contrato de agrupación de colaboración cuando las partes establecen una organización común con la finalidad de facilitar o desarrollar determinadas fases de la actividad de sus miembros o de perfeccionar o incrementar el resultado de tales actividades.
+
+ARTICULO 1454.- Ausencia de finalidad lucrativa. La agrupación, en cuanto tal, no puede perseguir fines de lucro. Las ventajas económicas que genere su actividad deben recaer directamente en el patrimonio de las partes agrupadas o consorciadas.
+
+La agrupación no puede ejercer funciones de dirección sobre la actividad de sus miembros.
+
+ARTICULO 1455.- Contrato. Forma y contenido. El contrato debe otorgarse por instrumento público o privado con firma certificada notarialmente e inscribirse en el Registro Público que corresponda. Una copia certificada con los datos de su correspondiente inscripción debe ser remitida por el Registro al organismo de aplicación del régimen de defensa de la competencia.
+
+El contrato debe contener:
+
+a) el objeto de la agrupación;
+
+b) la duración, que no puede exceder de diez años. Si se establece por más tiempo, queda reducida a dicho plazo. En caso de omisión del plazo, se entiende que la duración es de diez años. Puede ser prorrogada antes de su vencimiento por decisión unánime de los participantes por sucesivos plazos de hasta diez años. El contrato no puede prorrogarse si hubiese acreedores embargantes de los participantes y no se los desinteresa previamente;
+
+c) la denominación, que se forma con un nombre de fantasía integrado con la palabra “agrupación”;
+
+d) el nombre, razón social o denominación, el domicilio y los datos de inscripción registral del contrato o estatuto o de la matriculación e individualización, en su caso, de cada uno de los participantes. En el caso de sociedades, la relación de la resolución del órgano social que aprueba la contratación de la agrupación, así como su fecha y número de acta;
+
+e) la constitución de un domicilio especial para todos los efectos que deriven del contrato de agrupación, tanto entre las partes como respecto de terceros;
+
+f) las obligaciones asumidas por los participantes, las contribuciones debidas al fondo común operativo y los modos de financiar las actividades comunes;
+
+g) la participación que cada contratante ha de tener en las actividades comunes y en sus resultados;
+
+h) los medios, atribuciones y poderes que se establecen para dirigir la organización y actividad común, administrar el fondo operativo, representar individual y colectivamente a los participantes y controlar su actividad al solo efecto de comprobar el cumplimiento de las obligaciones asumidas;
+
+i) los casos de separación y exclusión;
+
+j) los requisitos de admisión de nuevos participantes;
+
+k) las sanciones por incumplimiento de obligaciones;
+
+l) las normas para la confección de estados de situación, a cuyo efecto los administradores deben llevar, con las formalidades establecidas por este Código, los libros habilitados a nombre de la agrupación que requiera la naturaleza e importancia de la actividad común.
+
+ARTICULO 1456.- Resoluciones. Las resoluciones relativas a la realización del objeto de la agrupación se adoptan por el voto de la mayoría absoluta de los participantes, excepto disposición contraria del contrato.
+
+La impugnación de las resoluciones sólo puede fundarse en la violación de disposiciones legales o contractuales. La acción debe ser dirigida contra cada uno de los integrantes de la agrupación y plantearse ante el tribunal del domicilio fijado en el contrato, dentro de los treinta días de haberse notificado fehacientemente la decisión de la agrupación.
+
+Las reuniones o consultas a los participantes deben efectuarse cada vez que lo requiera un administrador o cualquiera de los participantes.
+
+No puede modificarse el contrato sin el consentimiento unánime de los participantes.
+
+ARTICULO 1457.- Dirección y administración. La dirección y administración debe estar a cargo de una o más personas humanas designadas en el contrato, o posteriormente por resolución de los participantes. Son aplicables las reglas del mandato.
+
+En caso de ser varios los administradores, si nada se dice en el contrato pueden actuar indistintamente.
+
+ARTICULO 1458.- Fondo común operativo. Las contribuciones de los participantes y los bienes que con ellas se adquieran, constituyen el fondo común operativo de la agrupación. Durante el plazo establecido para su duración, los bienes se deben mantener indivisos, y los acreedores particulares de los participantes no pueden hacer valer su derecho sobre ellos.
+
+ARTICULO 1459.- Obligaciones. Solidaridad. Los participantes responden ilimitada y solidariamente respecto de terceros por las obligaciones que sus representantes asuman en nombre de la agrupación. La acción queda expedita después de haberse interpelado infructuosamente al administrador de la agrupación. El demandado por cumplimiento de la obligación tiene derecho a oponer las defensas personales y las comunes que correspondan a la agrupación.
+
+El participante representado responde solidariamente con el fondo común operativo por las obligaciones que los representantes hayan asumido en representación de un participante, haciéndolo saber al tercero al tiempo de obligarse.
+
+ARTICULO 1460.- Estados de situación. Los estados de situación de la agrupación deben ser sometidos a decisión de los participantes dentro de los noventa días del cierre de cada ejercicio anual.
+
+Los beneficios o pérdidas o, en su caso, los ingresos y gastos de los participantes derivados de su actividad, pueden ser imputados al ejercicio en que se producen o a aquel en el que se aprueban las cuentas de la agrupación.
+
+ARTICULO 1461.- Extinción. El contrato de agrupación se extingue:
+
+a) por la decisión de los participantes;
+
+b) por expiración del plazo por el cual se constituye; por la consecución del objeto para el que se forma o por la imposibilidad sobreviniente de lograrlo;
+
+c) por reducción a uno del número de participantes;
+
+d) por incapacidad, muerte, disolución o quiebra de un participante, a menos que el contrato prevea su continuación o que los demás participantes lo decidan por unanimidad;
+
+e) por decisión firme de la autoridad competente que considere que la agrupación, por su objeto o por su actividad, persigue la realización de prácticas restrictivas de la competencia;
+
+f) por causas específicamente previstas en el contrato.
+
+ARTICULO 1462.- Resolución parcial no voluntaria de vínculo. Sin perjuicio de lo establecido en el contrato, cualquier participante puede ser excluido por decisión unánime de los demás, si contraviene habitualmente sus obligaciones, perturba el funcionamiento de la agrupación o incurre en un incumplimiento grave.
+
+Cuando el contrato sólo vincula a dos personas, si una incurre en alguna de las causales indicadas, el otro participante puede declarar la resolución del contrato y reclamar del incumplidor el resarcimiento de los daños.
+
+SECCION 4ª
+
+Uniones Transitorias
+
+ARTICULO 1463.- Definición. Hay contrato de unión transitoria cuando las partes se reúnen para el desarrollo o ejecución de obras, servicios o suministros concretos, dentro o fuera de la República. Pueden desarrollar o ejecutar las obras y servicios complementarios y accesorios al objeto principal.
+
+ARTICULO 1464.- Contrato. Forma y contenido. El contrato se debe otorgar por instrumento público o privado con firma certificada notarialmente, que debe contener:
+
+a) el objeto, con determinación concreta de las actividades y los medios para su realización;
+
+b) la duración, que debe ser igual a la de la obra, servicio o suministro que constituye el objeto;
+
+c) la denominación, que debe ser la de alguno, algunos o todos los miembros, seguida de la expresión “unión transitoria”;
+
+d) el nombre, razón social o denominación, el domicilio y, si los tiene, los datos de la inscripción registral del contrato o estatuto o de la matriculación o individualización que corresponde a cada uno de los miembros. En el caso de sociedades, la relación de la resolución del órgano social que aprueba la celebración de la unión transitoria, su fecha y número de acta;
+
+e) la constitución de un domicilio especial para todos los efectos que deriven del contrato, tanto entre partes como respecto de terceros;
+
+f) las obligaciones asumidas, las contribuciones debidas al fondo común operativo y los modos de financiar las actividades comunes en su caso;
+
+g) el nombre y el domicilio del representante, que puede ser persona humana o jurídica;
+
+h) el método para determinar la participación de las partes en la distribución de los ingresos y la asunción de los gastos de la unión o, en su caso, de los resultados;
+
+i) los supuestos de separación y exclusión de los miembros y las causales de extinción del contrato;
+
+j) los requisitos de admisión de nuevos miembros;
+
+k) las sanciones por incumplimiento de obligaciones;
+
+l) las normas para la elaboración de los estados de situación, a cuyo efecto los administradores deben llevar, con las formalidades establecidas en los artículos 320 y siguientes, los libros exigibles y habilitados a nombre de la unión transitoria que requieran la naturaleza e importancia de la actividad común.
+
+ARTICULO 1465.- Representante. El representante tiene los poderes suficientes de todos y cada uno de los miembros para ejercer los derechos y contraer las obligaciones que hacen al desarrollo o ejecución de la obra, servicio o suministro; la designación del representante no es revocable sin causa, excepto decisión unánime de los participantes. Mediando justa causa, la revocación puede ser decidida por el voto de la mayoría absoluta.
+
+ARTICULO 1466.- Inscripción registral. El contrato y la designación del representante deben ser inscriptos en el Registro Público que corresponda.
+
+ARTICULO 1467.- Obligaciones. No solidaridad. Excepto disposición en contrario del contrato, no se presume la solidaridad de los miembros por los actos y operaciones que realicen en la unión transitoria, ni por las obligaciones contraídas frente a los terceros.
+
+ARTICULO 1468.- Acuerdos. Los acuerdos se deben adoptar siempre por unanimidad, excepto pacto en contrario.
+
+ARTICULO 1469.- Quiebra, muerte o incapacidad. La quiebra de cualquiera de los participantes, y la muerte o incapacidad de las personas humanas integrantes no produce la extinción del contrato de unión transitoria, el que continúa con los restantes si acuerdan la manera de hacerse cargo de las prestaciones ante los terceros.
+
+SECCION 5ª
+
+Consorcios de cooperación
+
+ARTICULO 1470.- Definición. Hay contrato de consorcio de cooperación cuando las partes establecen una organización común para facilitar, desarrollar, incrementar o concretar operaciones relacionadas con la actividad económica de sus miembros a fin de mejorar o acrecentar sus resultados.
+
+ARTICULO 1471.- Exclusión de función de dirección o control. El consorcio de cooperación no puede ejercer funciones de dirección o control sobre la actividad de sus miembros.
+
+ARTICULO 1472.- Participación en los resultados. Los resultados que genera la actividad desarrollada por el consorcio de cooperación se distribuyen entre sus miembros en la proporción que fija el contrato y, en su defecto, por partes iguales.
+
+ARTICULO 1473.- Forma. El contrato debe otorgarse por instrumento público o privado con firma certificada notarialmente, e inscribirse conjuntamente con la designación de sus representantes en el Registro Público que corresponda
+
+ARTICULO 1474.- Contenido. El contrato debe contener:
+
+a) el nombre y datos personales de los miembros individuales, y en el caso de personas jurídicas, el nombre, denominación, domicilio y, si los tiene, datos de inscripción del contrato o estatuto social de cada uno de los participantes. Las personas jurídicas, además, deben consignar la fecha del acta y, la mención del órgano social que aprueba la participación en el consorcio;
+
+b) el objeto del consorcio;
+
+c) el plazo de duración del contrato;
+
+d) la denominación, que se forma con un nombre de fantasía integrado con la leyenda “Consorcio de cooperación”;
+
+e) la constitución de un domicilio especial para todos los efectos que deriven del contrato, tanto respecto de las partes como con relación a terceros;
+
+f) la constitución del fondo común operativo y la determinación de su monto, así como la participación que cada parte asume en el mismo, incluyéndose la forma de su actualización o aumento en su caso;
+
+g) las obligaciones y derechos que pactan los integrantes;
+
+h) la participación de cada contratante en la inversión del o de los proyectos del consorcio, si existen, y la proporción en que cada uno participa de los resultados;
+
+i) la proporción en que los participantes se responsabilizan por las obligaciones que asumen los representantes en su nombre;
+
+j) las formas y ámbitos de adopción de decisiones para el cumplimiento del objeto. Debe preverse la obligatoriedad de celebrar reunión para tratar los temas relacionados con los negocios propios del objeto cuando así lo solicita cualquiera de los participantes por sí o por representante. Las resoluciones se adoptan por mayoría absoluta de las partes, excepto que el contrato de constitución disponga otra forma de cómputo;
+
+k) la determinación del número de representantes del consorcio, nombre, domicilio y demás datos personales, forma de elección y de sustitución, así como sus facultades, poderes y, en caso de que la representación sea plural, formas de actuación. En caso de renuncia, incapacidad o revocación de mandato, el nuevo representante se designa por mayoría absoluta de los miembros, excepto disposición en contrario del contrato. Igual mecanismo se debe requerir para autorizar la sustitución de poder;
+
+l) las mayorías necesarias para la modificación del contrato constitutivo. En caso de silencio, se requiere unanimidad;
+
+m) las formas de tratamiento y las mayorías para decidir la exclusión y la admisión de nuevos participantes. En caso de silencio, la admisión de nuevos miembros requiere unanimidad;
+
+n) las sanciones por incumplimientos de los miembros y representantes;
+
+ñ) las causales de extinción del contrato y las formas de liquidación del consorcio;
+
+o) una fecha anual para el tratamiento del estado de situación patrimonial por los miembros del consorcio;
+
+p) la constitución del fondo operativo, el cual debe permanecer indiviso por todo el plazo de duración del consorcio.
+
+ARTICULO 1475.- Reglas contables. El contrato debe establecer las reglas sobre confección y aprobación de los estados de situación patrimonial, atribución de resultados y rendición de cuentas, que reflejen adecuadamente todas., las operaciones llevadas a cabo en el ejercicio mediante el empleo de técnicas contables adecuadas. Los movimientos deben consignarse en libros contables llevados con las formalidades establecidas en las leyes. Se debe llevar un libro de actas en el cual se deben labrar las correspondientes a todas las reuniones que se realizan y a las resoluciones que se adoptan.
+
+ARTICULO 1476.- Obligaciones y responsabilidad del representante. El representante debe llevar los libros de contabilidad y confeccionar los estados de situación patrimonial. También debe informar a los miembros sobre la existencia de causales de extinción previstas en el contrato o en la ley y tomar las medidas y recaudos urgentes que correspondan.
+
+Es responsable de que en toda actuación sea exteriorizado el carácter de consorcio.
+
+ARTICULO 1477.- Responsabilidad de los participantes. El contrato puede establecer la proporción en que cada miembro responde por las obligaciones asumidas en nombre del consorcio. En caso de silencio todos los miembros son solidariamente responsables.
+
+ARTICULO 1478.- Extinción del contrato. El contrato de consorcio de cooperación se extingue por:
+
+a) el agotamiento de su objeto o la imposibilidad de ejecutarlo;
+
+b) la expiración del plazo establecido;
+
+c) la decisión unánime de sus miembros;
+
+d) la reducción a uno del número de miembros.
+
+La muerte, incapacidad, disolución, liquidación, concurso preventivo, cesación de pagos o quiebra de alguno de los miembros del consorcio, no extingue el contrato, que continúa con los restantes, excepto que ello resulte imposible fáctica o jurídicamente.
+
+CAPITULO 17
+
+Agencia
+
+ARTICULO 1479.- Definición y forma. Hay contrato de agencia cuando una parte, denominada agente, se obliga a promover negocios por cuenta de otra denominada preponente o empresario, de manera estable, continuada e independiente, sin que medie relación laboral alguna, mediante una retribución.
+
+El agente es un intermediario independiente, no asume el riesgo de las operaciones ni representa al preponente.
+
+El contrato debe instrumentarse por escrito.
+
+ARTICULO 1480.- Exclusividad. El agente tiene derecho a la exclusividad en el ramo de los negocios, en la zona geográfica, o respecto del grupo de personas, expresamente determinados en el contrato.
+
+ARTICULO 1481.- Relación con varios empresarios. El agente puede contratar sus servicios con varios empresarios. Sin embargo, no puede aceptar operaciones del mismo ramo de negocios o en competencia con las de uno de sus proponentes, sin que éste lo autorice expresamente.
+
+ARTICULO 1482.- Garantía del agente. El agente no puede constituirse en garante de la cobranza del comprador presentado al empresario, sino hasta el importe de la comisión que se le puede haber adelantado o cobrado, en virtud de la operación concluida por el principal.
+
+ARTICULO 1483- Obligaciones del agente. Son obligaciones del agente:
+
+a) velar por los intereses del empresario y actuar de buena fe en el ejercicio de sus actividades;
+
+b) ocuparse con la diligencia de un buen hombre de negocios de la promoción y, en su caso, de la conclusión de los actos u operaciones que le encomendaron;
+
+c) cumplir su cometido de conformidad con las instrucciones recibidas del empresario y transmitir a éste toda la información de la que disponga relativa a su gestión;
+
+d) informar al empresario, sin retraso, de todos los negocios tratados o concluidos y, en particular, lo relativo a la solvencia de los terceros con los que se proponen o se concluyen operaciones;
+
+e) recibir en nombre del empresario las reclamaciones de terceros sobre defectos o vicios de calidad o cantidad de los bienes vendidos o de los servicios prestados como consecuencia de las operaciones promovidas, aunque él no las haya concluido, y transmitírselas de inmediato;
+
+f) asentar en su contabilidad en forma independiente los actos u operaciones relativos a cada empresario por cuya cuenta actúe.
+
+ARTICULO 1484.- Obligaciones del empresario. Son obligaciones del empresario:
+
+a) actuar de buena, fe, y hacer todo aquello que le incumbe, teniendo en cuenta las circunstancias del caso, para permitir al agente el ejercicio normal de su actividad;
+
+b) poner a disposición del agente con suficiente antelación y en la cantidad apropiada, muestras, catálogos, tarifas y demás elementos de que se disponga y sean necesarios para el desarrollo de las actividades del agente;
+
+c) pagar la remuneración pactada;
+
+d) comunicar al agente, dentro del plazo de uso o, en su defecto, dentro de los quince días hábiles de su conocimiento, la aceptación o rechazo de la propuesta que le haya sido transmitida;
+
+e) comunicar al agente, dentro del plazo de uso o, en su defecto, dentro de los quince días hábiles de la recepción de la orden, la ejecución parcial o la falta de ejecución del negocio propuesto.
+
+ARTICULO 1485.- Representación del agente. El agente no representa al empresario a los fines de la conclusión y ejecución de los contratos en los que actúa, excepto para recibir las reclamaciones de terceros previstas en el artículo 1483, inciso e). El agente debe tener poder especial para cobrar los créditos resultantes de su gestión, pero en ningún caso puede conceder quitas o esperas ni consentir acuerdos, desistimientos o avenimientos concursales, sin facultades expresas, de carácter especial, en las que conste en forma específica el monto de la quita o el plazo de la espera. Se prohíbe al agente desistir de la cobranza de un crédito del empresario en forma total o parcial.
+
+ARTICULO 1486.- Remuneración. Si no hay un pacto expreso, la remuneración del agente es una comisión variable según el volumen o el valor de los actos o contratos promovidos y, en su caso, concluidos por el agente, conforme con los usos y prácticas del lugar de actuación del agente.
+
+ARTICULO 1487.- Base para el cálculo. Cualquiera sea la forma de la retribución pactada, el agente tiene derecho a percibirla por las operaciones concluidas con su intervención, durante la vigencia del contrato de agencia y siempre que el precio sea cobrado por el empresario. En las mismas condiciones también tiene derecho:
+
+a) si existen operaciones concluidas con posterioridad a la finalización del contrato de agencia;
+
+b) si el contrato se concluye con un cliente que el agente presentara anteriormente para un negocio análogo, siempre que no haya otro agente con derecho a remuneración;
+
+c) si el agente tiene exclusividad para una zona geográfica o para un grupo determinado de personas, cuando el contrato se concluye con una persona perteneciente a dicha zona o grupo, aunque el agente no lo promueva, excepto pacto especial y expreso en contrario.
+
+ARTICULO 1488.- Devengamiento de la comisión. El derecho a la comisión surge al momento de la conclusión del contrato con el tercero y del pago del precio al empresario. La comisión debe ser liquidada al agente dentro de los veinte días hábiles contados a partir del pago total o parcial del precio al empresario.
+
+Cuando la actuación del agente se limita a la promoción del contrato, la orden transmitida al empresario se presume aceptada, a los fines del derecho a percibir en el futuro la remuneración, excepto rechazo o reserva formulada por éste en el término previsto en el artículo 1484, inciso d).
+
+ARTICULO 1489.- Remuneración sujeta a ejecución del contrato. La cláusula que subordina la percepción de la remuneración, en todo o en parte, a la ejecución del contrato, es válida si ha sido expresamente pactada.
+
+ARTICULO 1490.- Gastos. Excepto pacto en contrario, el agente no tiene derecho al reembolso de gastos que le origine el ejercicio de su actividad.
+
+ARTICULO 1491.- Plazo. Excepto pacto en contrario, se entiende que el contrato de agencia se celebra por tiempo indeterminado. La continuación de la relación con posterioridad al vencimiento de un contrato de agencia con plazo determinado, lo transforma en contrato por tiempo indeterminado.
+
+ARTICULO 1492.- Preaviso. En los contratos de agencia por tiempo indeterminado, cualquiera de las partes puede ponerle fin con un preaviso.
+
+El plazo del preaviso debe ser de un mes por cada año de vigencia del contrato.
+
+El final del plazo de preaviso debe coincidir con el final del mes calendario en el que aquél opera.
+
+Las disposiciones del presente artículo se aplican a los contratos de duración limitada transformados en contratos de duración ilimitada, a cuyo fin en el cálculo del plazo de preaviso debe computarse la duración limitada que le precede.
+
+Las partes pueden prever los plazos de preaviso superiores a los establecidos en este artículo.
+
+ARTICULO 1493.- Omisión de preaviso. En los casos del artículo 1492, la omisión del preaviso, otorga a la otra parte derecho a la indemnización por las ganancias dejadas de percibir en el período.
+
+ARTICULO 1494.- Resolución. Otras causales. El contrato de agencia se resuelve por:
+
+a) muerte o incapacidad del agente;
+
+b) disolución de la persona jurídica que celebra el contrato, que no deriva de fusión o escisión;
+
+c) quiebra firme de cualquiera de las partes;
+
+d) vencimiento del plazo;
+
+e) incumplimiento grave o reiterado de las obligaciones de una de las partes, de forma de poner razonablemente en duda la posibilidad o la intención del incumplidor de atender con exactitud las obligaciones sucesivas;
+
+f) disminución significativa del volumen de negocios del agente.
+
+ARTICULO 1495.- Manera en que opera la resolución. En los casos previstos en los incisos a) a d) del artículo 1494, la resolución opera de pleno derecho, sin necesidad de preaviso ni declaración de la otra parte, sin perjuicio de lo dispuesto por el artículo 1492 para el supuesto de tiempo indeterminado.
+
+En el caso del inciso e) del artículo 1494, cada parte puede resolver directamente el contrato.
+
+En el caso del inciso f) del artículo 1494, se aplica el artículo 1492, excepto que el agente disminuya su volumen de negocios durante dos ejercicios consecutivos, en cuyo caso el plazo de preaviso no debe exceder de dos meses, cualesquiera haya sido la duración del contrato, aun cuando el contrato sea de plazo determinado.
+
+ARTICULO 1496.- Fusión o escisión. El contrato se resuelve si la persona jurídica que ha celebrado el contrato se fusiona o se escinde y cualquiera de estas dos circunstancias causa un detrimento sustancial en la posición del agente. Se deben las indemnizaciones del artículo 1497 y, en su caso, las del artículo 1493.
+
+ARTICULO 1497.- Compensación por clientela. Extinguido el contrato, sea por tiempo determinado o indeterminado, el agente que mediante su labor ha incrementado significativamente el giro de las operaciones del empresario, tiene derecho a una compensación si su actividad anterior puede continuar produciendo ventajas sustanciales a éste.
+
+En caso de muerte del agente ese derecho corresponde a sus herederos.
+
+A falta de acuerdo, la compensación debe ser fijada judicialmente y no puede exceder del importe equivalente a un año de remuneraciones, neto de gastos, promediándose el valor de las percibidas por el agente durante los últimos cinco años, o durante todo el período de duración del contrato, si éste es inferior.
+
+Esta compensación no impide al agente, en su caso, reclamar por los daños derivados de la ruptura por culpa del empresario.
+
+ARTICULO 1498.- Compensación por clientela. Excepciones. No hay derecho a compensación si:
+
+a) el empresario pone fin al contrato por incumplimiento del agente;
+
+b) el agente pone fin al contrato, a menos que la terminación esté justificada por incumplimiento del empresario; o por la edad, invalidez o enfermedad del agente, que no permiten exigir razonablemente la continuidad de sus actividades. Esta facultad puede ser ejercida por ambas partes.
+
+ARTICULO 1499.- Cláusula de no competencia. Las partes pueden pactar cláusulas de no competencia del agente para después de la finalización del contrato, si éste prevé la exclusividad del agente en el ramo de negocios del empresario. Son válidas en tanto no excedan de un año y se apliquen a un territorio o grupo de personas que resulten razonables, habida cuenta de las circunstancias.
+
+ARTICULO 1500.- Subagencia. El agente no puede, excepto consentimiento expreso del empresario, instituir subagentes. Las relaciones entre agente y subagente son regidas por este Capítulo. El agente responde solidariamente por la actuación del subagente, el que, sin embargo, no tiene vínculo directo con el empresario.
+
+ARTICULO 1501.- Casos excluidos. Las normas de este Capítulo no se aplican a los agentes de bolsa o de mercados de valores, de futuros y opciones o derivados; a los productores o agentes de seguros; a los agentes financieros, o cambiarios, a los agentes marítimos o aeronáuticos y a los demás grupos regidos por leyes especiales en cuanto a las operaciones que efectúen.
+
+CAPITULO 18
+
+Concesión
+
+ARTICULO 1502.- Definición. Hay contrato de concesión cuando el concesionario, que actúa en nombre y por cuenta propia frente a terceros, se obliga mediante una retribución a disponer de su organización empresaria para comercializar mercaderías provistas por el concedente, prestar los servicios y proveer los repuestos y accesorios según haya sido convenido.
+
+ARTICULO 1503.- Exclusividad. Mercaderías. Excepto pacto en contrario:
+
+a) la concesión es exclusiva para ambas partes en el territorio o zona de influencia determinados. El concedente no puede autorizar otra concesión en el mismo territorio o zona y el concesionario no puede, por sí o por interpósita persona, ejercer actos propios de la concesión fuera de esos límites o actuar en actividades competitivas;
+
+b) la concesión comprende todas las mercaderías fabricadas o provistas por el concedente, incluso los nuevos modelos.
+
+ARTICULO 1504.- Obligaciones del concedente. Son obligaciones del concedente:
+
+a) proveer al concesionario de una cantidad mínima de mercaderías que le permita atender adecuadamente las expectativas de venta en su territorio o zona, de acuerdo con las pautas de pago, de financiación y garantías previstas en el contrato. El contrato puede prever la determinación de objetivos de ventas, los que deben ser fijados y comunicados al concesionario de acuerdo con lo convenido;
+
+b) respetar el territorio o zona de influencia asignado en exclusividad al concesionario. Son válidos los pactos que, no obstante la exclusividad, reserva para el concedente cierto tipo de ventas directas o modalidades de ventas especiales;
+
+c) proveer al concesionario la información técnica y, en su caso, los manuales y la capacitación de personal necesarios para la explotación de la concesión;
+
+d) proveer durante un período razonable, en su caso, repuestos para los productos comercializados;
+
+e) permitir el uso de marcas, enseñas comerciales y demás elementos distintivos, en la medida necesaria para la explotación de la concesión y para la publicidad del concesionario dentro de su territorio o zona de influencia.
+
+ARTICULO 1505.- Obligaciones del concesionario. Son obligaciones del concesionario:
+
+a) comprar exclusivamente al concedente las mercaderías y, en su caso, los repuestos objeto de la concesión, y mantener la existencia convenida de ellos o, en defecto de convenio, la cantidad suficiente para asegurar la continuidad de los negocios y la atención del público consumidor;
+
+b) respetar los límites geográficos de actuación y abstenerse de comercializar mercaderías fuera de ellos, directa o indirectamente por interpósita persona;
+
+c) disponer de los locales y demás instalaciones y equipos que resulten necesarios para el adecuado cumplimiento de su actividad;
+
+d) prestar los servicios de preentrega y mantenimiento de las mercaderías, en caso de haberlo así convenido;
+
+e) adoptar el sistema de ventas, de publicidad y de contabilidad que fije el concedente;
+
+f) capacitar a su personal de conformidad con las normas del concedente.
+
+Sin perjuicio de lo dispuesto en el inciso a) de este artículo, el concesionario puede vender mercaderías del mismo ramo que le hayan sido entregadas en parte de pago de las que comercialice por causa de la concesión, así como financiar unas y otras y vender, exponer o promocionar otras mercaderías o servicios que se autoricen por el contrato, aunque no sean accesorios de las mercaderías objeto de la concesión ni estén destinados a ella.
+
+ARTICULO 1506.- Plazos. El plazo del contrato de concesión no puede ser inferior a cuatro años. Pactado un plazo menor o si el tiempo es indeterminado, se entiende convenido por cuatro años.
+
+Excepcionalmente, si el concedente provee al concesionario el uso de las instalaciones principales suficientes para su desempeño, puede preverse un plazo menor, no inferior a dos años.
+
+La continuación de la relación después de vencido el plazo determinado por el contrato o por la ley, sin especificarse antes el nuevo plazo, lo transforma en contrato por tiempo indeterminado.
+
+ARTICULO 1507.- Retribución. Gastos. El concesionario tiene derecho a una retribución, que puede consistir en una comisión o un margen sobre el precio de las unidades vendidas por él a terceros o adquiridas al concedente, o también en cantidades fijas u otras formas convenidas con el concedente.
+
+Los gastos de explotación están a cargo del concesionario, excepto los necesarios para atender los servicios de preentrega o de garantía gratuita a la clientela, en su caso, que deben ser pagados por el concedente conforme a lo pactado.
+
+ARTICULO 1508.- Rescisión de contratos por tiempo indeterminado. Si el contrato de concesión es por tiempo indeterminado:
+
+a) son aplicables los artículos 1492 y 1493;
+
+b) el concedente debe readquirir los productos y repuestos nuevos que el concesionario haya adquirido conforme con las obligaciones pactadas en el contrato y que tenga en existencia al fin del período de preaviso, a los precios ordinarios de venta a los concesionarios al tiempo del pago.
+
+ARTICULO 1509.- Resolución del contrato de concesión. Causales. Al contrato de concesión se aplica el artículo 1494.
+
+ARTICULO 1510.- Subconcesionarios. Cesión del contrato. Excepto pacto en contrario, el concesionario no puede designar subconcesionarios, agentes o intermediarios de venta, ni cualquiera de las partes puede ceder el contrato.
+
+ARTICULO 1511.- Aplicación a otros contratos. Las normas de este Capítulo se aplican a:
+
+a) los contratos por los que se conceda la venta o comercialización de software o de procedimientos similares;
+
+b) los contratos de distribución, en cuanto sean pertinentes.
+
+CAPITULO 19
+
+Franquicia
+
+ARTICULO 1512.- Concepto. Hay franquicia comercial cuando una parte, denominada franquiciante, otorga a otra, llamada franquiciado, el derecho a utilizar un sistema probado, destinado a comercializar determinados bienes o servicios bajo el nombre comercial, emblema o la marca del franquiciante, quien provee un conjunto de conocimientos técnicos y la prestación continua de asistencia técnica o comercial, contra una prestación directa o indirecta del franquiciado.
+
+El franquiciante debe ser titular exclusivo del conjunto de los derechos intelectuales, marcas, patentes, nombres comerciales, derechos de autor y demás comprendidos en el sistema bajo franquicia; o, en su caso, tener derecho a su utilización y transmisión al franquiciado en los términos del contrato.
+
+El franquiciante no puede tener participación accionaria de control directo o indirecto en el negocio del franquiciado.
+
+ARTICULO 1513.- Definiciones. A los fines de la interpretación del contrato se entiende que:
+
+a) franquicia mayorista es aquella en virtud de la cual el franquiciante otorga a una persona física o jurídica un territorio o ámbito de actuación Nacional o regional o provincial con derecho de nombrar subfranquiciados, el uso de sus marcas y sistema de franquicias bajo contraprestaciones específicas;
+
+b) franquicia de desarrollo es aquella en virtud de la cual el franquiciante otorga a un franquiciado denominado desarrollador el derecho a abrir múltiples negocios franquiciados bajo el sistema, método y marca del franquiciante en una región o en el país durante un término prolongado no menor a cinco años, y en el que todos los locales o negocios que se abren dependen o están controlados, en caso de que se constituyan como sociedades, por el desarrollador, sin que éste tenga el derecho de ceder su posición como tal o subfranquiciar, sin el consentimiento del franquiciante;
+
+c) sistema de negocios: es el conjunto de conocimientos prácticos y la experiencia acumulada por el franquiciante, no patentado, que ha sido debidamente probado, secreto, sustancial y transmisible. Es secreto cuando en su conjunto o la configuración de sus componentes no es generalmente conocida o fácilmente accesible. Es sustancial cuando la información que contiene es relevante para la venta o prestación de servicios y permite al franquiciado prestar sus servicios o vender los productos conforme con el sistema de negocios. Es transmisible cuando su descripción es suficiente para permitir al franquiciado desarrollar su negocio de conformidad a las pautas creadas o desarrolladas por el franquiciante.
+
+ARTICULO 1514.- Obligaciones del franquiciante. Son obligaciones del franquiciante:
+
+a) proporcionar, con antelación a la firma del contrato, información económica y financiera sobre la evolución de dos años de unidades similares a la ofrecida en franquicia, que hayan operado un tiempo suficiente, en el país o en el extranjero;
+
+b) comunicar al franquiciado el conjunto de conocimientos técnicos, aun cuando no estén patentados, derivados de la experiencia del franquiciante y comprobados por éste como aptos para producir los efectos del sistema franquiciado;
+
+c) entregar al franquiciado un manual de operaciones con las especificaciones útiles para desarrollar la actividad prevista en el contrato;
+
+d) proveer asistencia técnica para la mejor operatividad de la franquicia durante la vigencia del contrato;
+
+e) si la franquicia comprende la provisión de bienes o servicios a cargo del franquiciante o de terceros designados por él, asegurar esa provisión en cantidades adecuadas y a precios razonables, según usos y costumbres comerciales locales o internacionales;
+
+f) defender y proteger el uso por el franquiciado, en las condiciones del contrato, de los derechos referidos en el artículo 1512, sin perjuicio de que:
+
+i) en las franquicias internacionales esa defensa está contractualmente a cargo del franquiciado, a cuyo efecto debe ser especialmente apoderado sin perjuicio de la obligación del franquiciante de poner a disposición del franquiciado, en tiempo propio, la documentación y demás elementos necesarios para ese cometido;
+
+ii) en cualquier caso, el franquiciado está facultado para intervenir como interesado coadyuvante, en defensa de tales derechos, en las instancias administrativas o judiciales correspondientes, por las vías admitidas por la ley procesal, y en la medida que ésta lo permita.
+
+ARTICULO 1515.- Obligaciones del franquiciado. Son obligaciones mínimas del franquiciado:
+
+a) desarrollar efectivamente la actividad comprendida en la franquicia, cumplir las especificaciones del manual de operaciones y las que el franquiciante le comunique en cumplimiento de su deber de asistencia técnica;
+
+b) proporcionar las informaciones que razonablemente requiera el franquiciante para el conocimiento del desarrollo de la actividad y facilitar las inspecciones que se hayan pactado o que sean adecuadas al objeto de la franquicia;
+
+c) abstenerse de actos que puedan poner en riesgo la identificación o el prestigio del sistema de franquicia que integra o de los derechos mencionados en el artículo 1512, segundo párrafo, y cooperar, en su caso, en la protección de esos derechos;
+
+d) mantener la confidencialidad de la información reservada que integra el conjunto de conocimientos técnicos transmitidos y asegurar esa confidencialidad respecto de las personas, dependientes o no, a las que deban comunicarse para el desarrollo de las actividades. Esta obligación subsiste después de la expiración del contrato;
+
+e) cumplir con las contraprestaciones comprometidas, entre las que pueden pactarse contribuciones para el desarrollo del mercado o de las tecnologías vinculadas a la franquicia.
+
+ARTICULO 1516.- Plazo. Es aplicable el artículo 1506, primer párrafo. Sin embargo, un plazo inferior puede ser pactado si se corresponde con situaciones especiales como ferias o congresos, actividades desarrolladas dentro de predios o emprendimientos que tienen prevista una duración inferior, o similares. Al vencimiento del plazo, el contrato se entiende prorrogado tácitamente por plazos sucesivos de un año, excepto expresa denuncia de una de las partes antes de cada vencimiento con treinta días de antelación. A la segunda renovación, se transforma en contrato por tiempo indeterminado.
+
+ARTICULO 1517.- Cláusulas de exclusividad. Las franquicias son exclusivas para ambas partes. El franquiciante no puede autorizar otra unidad de franquicia en el mismo territorio, excepto con el consentimiento del franquiciado. El franquiciado debe desempeñarse en los locales indicados, dentro del territorio concedido o, en su defecto, en su zona de influencia, y no puede operar por sí o por interpósita persona unidades de franquicia o actividades que sean competitivas. Las partes pueden limitar o excluir la exclusividad.
+
+ARTICULO 1518.- Otras cláusulas. Excepto pacto en contrario:
+
+a) el franquiciado no puede ceder su posición contractual ni los derechos que emergen del contrato mientras está vigente, excepto los de contenido dinerario. Esta disposición no se aplica en los contratos de franquicia mayorista destinados a que el franquiciado otorgue a su vez subfranquicias, a esos efectos. En tales supuestos, debe contar con la autorización previa del franquiciante para otorgar subfranquicias en las condiciones que pacten entre el franquiciante y el franquiciado principal;
+
+b) el franquiciante no puede comercializar directamente con los terceros, mercaderías o servicios comprendidos en la franquicia dentro del territorio o zona de influencia del franquiciado;
+
+c) el derecho a la clientela corresponde al franquiciante. El franquiciado no puede mudar la ubicación de sus locales de atención o fabricación.
+
+ARTICULO 1519.- Cláusulas nulas. No son válidas las cláusulas que prohíban al franquiciado:
+
+a) cuestionar justificadamente los derechos del franquiciante mencionado en el artículo 1512, segundo párrafo;
+
+b) adquirir mercaderías comprendidas en la franquicia de otros franquiciados dentro del país, siempre que éstos respondan a las calidades y características contractuales;
+
+c) reunirse o establecer vínculos no económicos con otros franquiciados.
+
+ARTICULO 1520.- Responsabilidad. Las partes del contrato son independientes, y no existe relación laboral entre ellas. En consecuencia:
+
+a) el franquiciante no responde por las obligaciones del franquiciado, excepto disposición legal expresa en contrario;
+
+b) los dependientes del franquiciado no tienen relación jurídica laboral con el franquiciante, sin perjuicio de la aplicación de las normas sobre fraude laboral;
+
+c) el franquiciante no responde ante el franquiciado por la rentabilidad del sistema otorgado en franquicia.
+
+El franquiciado debe indicar claramente su calidad de persona independiente en sus facturas, contratos y demás documentos comerciales; esta obligación no debe interferir en la identidad común de la red franquiciada, en particular en sus nombres o rótulos comunes y en la presentación uniforme de sus locales, mercaderías o medios de transporte.
+
+ARTICULO 1521.- Responsabilidad por defectos en el sistema. El franquiciante responde por los defectos de diseño del sistema, que causan daños probados al franquiciado, no ocasionados por la negligencia grave o el dolo del franquiciado.
+
+ARTICULO 1522.- Extinción del contrato. La extinción del contrato de franquicia se rige por las siguientes reglas:
+
+a) el contrato se extingue por la muerte o incapacidad de cualquiera de las partes;
+
+b) el contrato no puede ser extinguido sin justa causa dentro del plazo de su vigencia original, pactado entre las partes. Se aplican los artículos 1084 y siguientes;
+
+c) los contratos con un plazo menor de tres años justificado por razones especiales según el artículo 1516, quedan extinguidos de pleno derecho al vencimiento del plazo;
+
+d) cualquiera sea el plazo de vigencia del contrato, la parte que desea concluirlo a la expiración del plazo original o de cualquiera de sus prórrogas, debe preavisar a la otra con una anticipación no menor de un mes por cada año de duración, hasta un máximo de seis meses, contados desde su inicio hasta el vencimiento del plazo pertinente. En los contratos que se pactan por tiempo indeterminado, el preaviso debe darse de manera que la rescisión se produzca, cuando menos, al cumplirse el tercer año desde su concertación. En ningún caso se requiere invocación de justa causa. La falta de preaviso hace aplicable el artículo 1493.
+
+La cláusula que impide la competencia del franquiciado con la comercialización de productos o servicios propios o de terceros después de extinguido el contrato por cualquier causa, es válida hasta el plazo máximo de un año y dentro de un territorio razonable habida cuenta de las circunstancias.
+
+ARTICULO 1523.- Derecho de la competencia. El contrato de franquicia, por sí mismo, no debe ser considerado un pacto que limite, restrinja o distorsione la competencia.
+
+ARTICULO 1524.- Casos comprendidos. Las disposiciones de este Capítulo se aplican, en cuanto sean compatibles, a las franquicias industriales y a las relaciones entre franquiciante y franquiciado principal y entre éste y cada uno de sus subfranquiciados.
+
+CAPITULO 20
+
+Mutuo
+
+ARTICULO 1525.- Concepto. Hay contrato de mutuo cuando el mutuante se compromete a entregar al mutuario en propiedad, una determinada cantidad de cosas fungibles, y éste se obliga a devolver igual cantidad de cosas de la misma calidad y especie.
+
+ARTICULO 1526.- Obligación del mutuante. El mutuante puede no entregar la cantidad prometida si, con posterioridad al contrato, un cambio en la situación del mutuario hace incierta la restitución.
+
+Excepto este supuesto, si el mutuante no entrega la cantidad prometida en el plazo pactado o, en su defecto, ante el simple requerimiento, el mutuario puede exigir el cumplimiento o la resolución del contrato.
+
+ARTICULO 1527.- Onerosidad. El mutuo es oneroso, excepto pacto en contrario.
+
+Si el mutuo es en dinero, el mutuario debe los intereses compensatorios, que se deben pagar en la misma moneda prestada.
+
+Si el mutuo es de otro tipo de cosas fungibles, los intereses son liquidados en dinero, tomando en consideración el precio de la cantidad de cosas prestadas en el lugar en que debe efectuarse el pago de los accesorios, el día del comienzo del período, excepto pacto en contrario.
+
+Los intereses se deben por trimestre vencido, o con cada amortización total o parcial de lo prestado que ocurra antes de un trimestre, excepto estipulación distinta.
+
+Si se ha pactado la gratuidad del mutuo, los intereses que haya pagado el mutuario voluntariamente son irrepetibles.
+
+El recibo de intereses por un período, sin condición ni reserva, hace presumir el pago de los anteriores.
+
+ARTICULO 1528.- Plazo y lugar de restitución. Si nada se ha estipulado acerca del plazo y lugar para la restitución de lo prestado, el mutuario debe restituirlo dentro de los diez días de requerirlo el mutuante, excepto lo que surja de los usos, y en el lugar establecido en el artículo 874.
+
+ARTICULO 1529.- Incumplimiento del mutuario. La falta de pago de los intereses o de cualquier amortización de capital da derecho al mutuante a resolver el contrato y a exigir la devolución de la totalidad de lo prestado, más sus intereses hasta la efectiva restitución.
+
+Si el mutuo es gratuito, después del incumplimiento, se deben intereses moratorios. Si el mutuo es oneroso a falta de convención sobre intereses moratorios, rige lo dispuesto para las obligaciones de dar sumas de dinero.
+
+ARTICULO 1530.- Mala calidad o vicio de la cosa. Si la cantidad prestada no es dinero, el mutuante responde por los daños causados por la mala calidad o el vicio de la cosa prestada; si el mutuo es gratuito, responde sólo si conoce la mala calidad o el vicio y no advierte al mutuario.
+
+ARTICULO 1531.- Aplicación de las reglas de este Capítulo. Las reglas de este Capítulo se aplican aunque el contrato de mutuo tenga cláusulas que establezcan que:
+
+a) la tasa de interés consiste en una parte o un porcentaje de las utilidades de un negocio o actividad, o se calcula a una tasa variable de acuerdo con ellos;
+
+b) el mutuante tiene derecho a percibir intereses o a recuperar su capital sólo de las utilidades o ingresos resultantes de un negocio o actividad, sin derecho a cobrarse de otros bienes del mutuario;
+
+c) el mutuario debe dar a los fondos un destino determinado.
+
+ARTICULO 1532.- Normas supletorias. Se aplican al mutuo las disposiciones relativas a las obligaciones de dar sumas de dinero o de género, según sea el caso.
+
+CAPITULO 21
+
+Comodato
+
+ARTICULO 1533.- Concepto. Hay comodato si una parte se obliga a entregar a otra una cosa no fungible, mueble o inmueble, para que se sirva gratuitamente de ella y restituya la misma cosa recibida.
+
+ARTICULO 1534.- Préstamo de cosas fungibles. El préstamo de cosas fungibles sólo se rige por las normas del comodato si el comodatario se obliga a restituir las mismas cosas recibidas.
+
+ARTICULO 1535.- Prohibiciones. No pueden celebrar contrato de comodato:
+
+a) los tutores, curadores y apoyos, respecto de los bienes de las personas incapaces o con capacidad restringida, bajo su representación;
+
+b) los administradores de bienes ajenos, públicos o privados, respecto de los confiados a su gestión, excepto que tengan facultades expresas para ello.
+
+ARTICULO 1536,- Obligaciones del comodatario. Son obligaciones del comodatario:
+
+a) usar la cosa conforme al destino convenido. A falta de convención puede darle el destino que tenía al tiempo del contrato, el que se da a cosas análogas en el lugar donde la cosa se encuentra, o el que corresponde a su naturaleza;
+
+b) pagar los gastos ordinarios de la cosa y los realizados para servirse de ella;
+
+c) conservar la cosa con prudencia y diligencia;
+
+d) responder por la pérdida o deterioro de la cosa, incluso causados por caso fortuito, excepto que pruebe que habrían ocurrido igualmente si la cosa hubiera estado en poder del comodante;
+
+e) restituir la misma cosa con sus frutos y accesorios en el tiempo y lugar convenidos, A falta de convención, debe hacerlo cuando se satisface la finalidad para la cual se presta la cosa. Si la duración del contrato no está pactada ni surge de su finalidad, el comodante puede reclamar la restitución en cualquier momento.
+
+Si hay varios comodatarios, responden solidariamente.
+
+ARTICULO 1537.- Cosa hurtada o perdida. El comodatario no puede negarse a restituir la cosa alegando que ella no pertenece al comodante, excepto que se trate de una cosa perdida por el dueño o hurtada a éste. Si el comodatario sabe que la cosa que se le ha entregado es hurtada o perdida, debe denunciarlo al dueño para que éste la reclame judicialmente en un plazo razonable. El comodatario es responsable de los daños que cause al dueño en caso de omitir la denuncia o si, pese a hacerla, restituye la cosa al comodante. El dueño no puede pretender del comodatario la devolución de la cosa sin consentimiento del comodante o sin resolución del juez.
+
+ARTICULO 1538.- Gastos. El comodatario no puede solicitar el reembolso de los gastos ordinarios realizados para servirse de la cosa; tampoco puede retenerla por lo que le deba el comodante, aunque sea en razón de gastos extraordinarios de conservación.
+
+ARTICULO 1539.- Restitución anticipada. El comodante puede exigir la restitución de la cosa antes del vencimiento del plazo:
+
+a) si la necesita en razón de una circunstancia imprevista y urgente; o
+
+b) si el comodatario la usa para un destino distinto al pactado, aunque no la deteriore.
+
+ARTICULO 1540.- Obligaciones del comodante. Son obligaciones del comodante:
+
+a) entregar la cosa en el tiempo y lugar convenidos;
+
+b) permitir el uso de la cosa durante el tiempo convenido;
+
+c) responder por los daños causados por los vicios de la cosa que oculta al comodatario;
+
+d) reembolsar los gastos de conservación extraordinarios que el comodatario hace, si éste los notifica previamente o si son urgentes.
+
+ARTICULO 1541.- Extinción del comodato. El comodato se extingue:
+
+a) por destrucción de la cosa. No hay subrogación real, ni el comodante tiene obligación de prestar una cosa semejante;
+
+b) por vencimiento del plazo, se haya usado o no la cosa prestada;
+
+c) por voluntad unilateral del comodatario;
+
+d) por muerte del comodatario, excepto que se estipule lo contrario o que el comodato no haya sido celebrado exclusivamente en consideración a su persona.
+
+CAPITULO 22
+
+Donación
+
+SECCION 1ª
+
+Disposiciones generales
+
+ARTICULO 1542.- Concepto. Hay donación cuando una parte se obliga a transferir gratuitamente una cosa a otra, y ésta lo acepta.
+
+ARTICULO 1543.- Aplicación subsidiaria. Las normas de este Capítulo se aplican subsidiariamente a los demás actos jurídicos a título gratuito.
+
+ARTICULO 1544.- Actos mixtos. Los actos mixtos, en parte onerosos y en parte gratuitos, se rigen en cuanto a su forma por las disposiciones de este Capítulo; en cuanto a su contenido, por éstas en la parte gratuita y por las correspondientes a la naturaleza aparente del acto en la parte onerosa.
+
+ARTICULO 1545.- Aceptación. La aceptación puede ser expresa o tácita, pero es de interpretación restrictiva y está sujeta a las reglas establecidas respecto a la forma de las donaciones. Debe producirse en vida del donante y del donatario.
+
+ARTICULO 1546.- Donación bajo condición. Están prohibidas las donaciones hechas bajo la condición suspensiva de producir efectos a partir del fallecimiento del donante.
+
+ARTICULO 1547.- Oferta conjunta. Si la donación es hecha a varias personas solidariamente, la aceptación de uno o algunos de los donatarios se aplica a la donación entera.
+
+Si la aceptación de unos se hace imposible por su muerte, o por revocación del donante respecto de ellos, la donación entera se debe aplicar a los que la aceptaron.
+
+ARTICULO 1548.- Capacidad para donar. Pueden donar solamente las personas que tienen plena capacidad de disponer de sus bienes. Las personas menores emancipadas pueden hacerlo con la limitación del inciso b) del artículo 28.
+
+ARTICULO 1549.- Capacidad para aceptar donaciones. Para aceptar donaciones se requiere ser capaz. Si la donación es a una persona incapaz, la aceptación debe ser hecha por su representante legal; si la donación del tercero o del representante es con cargo, se requiere autorización judicial.
+
+ARTICULO 1550.- Tutores y curadores. Los tutores y curadores no pueden recibir donaciones de quienes han estado bajo su tutela o curatela antes de la rendición de cuentas y pago de cualquier suma que hayan quedado adeudándoles.
+
+ARTICULO 1551.- Objeto. La donación no puede tener por objeto la totalidad del patrimonio del donante, ni una alícuota de él, ni cosas determinadas de las que no tenga el dominio al tiempo de contratar. Si comprende cosas que forman todo el patrimonio del donante o una parte sustancial de éste, sólo es válida si el donante se reserva su usufructo, o si cuenta con otros medios suficientes para su subsistencia.
+
+ARTICULO 1552.- Forma. Deben ser hechas en escritura pública, bajo pena de nulidad, las donaciones de cosas inmuebles, las de cosas muebles registrables y las de prestaciones periódicas o vitalicias.
+
+ARTICULO 1553.- Donaciones al Estado. Las donaciones al Estado pueden ser acreditadas con las actuaciones administrativas.
+
+ARTICULO 1554.- Donación manual. Las donaciones de cosas muebles no registrables y de títulos al portador deben hacerse por la tradición del objeto donado.
+
+SECCION 2ª
+
+Efectos
+
+ARTICULO 1555.- Entrega. El donante debe entregar la cosa desde que ha sido constituido en mora. En caso de incumplimiento o mora, sólo responde por dolo.
+
+ARTICULO 1556.- Garantía por evicción. El donante sólo responde por evicción en los siguientes casos:
+
+a) si expresamente ha asumido esa obligación;
+
+b) si la donación se ha hecho de mala fe, sabiendo el donante que la cosa donada no era suya e ignorándolo el donatario;
+
+c) si la evicción se produce por causa del donante;
+
+d) si las donaciones son mutuas, remuneratorias o con cargo.
+
+ARTICULO 1557.- Alcance de la garantía. La responsabilidad por la evicción obliga al donante a indemnizar al donatario los gastos en que éste ha incurrido por causa de la donación. Si ésta es mutua, remuneratoria o con cargo, el donante debe reembolsarle además el valor de la cosa por él recibida, lo gastado en el cumplimiento del cargo, o retribuir los servicios recibidos, respectivamente.
+
+Si la evicción proviene de un hecho posterior a la donación imputable al donante, éste debe indemnizar al donatario los daños ocasionados.
+
+Cuando la evicción es parcial, el resarcimiento se reduce proporcionalmente.
+
+ARTICULO 1558.- Vicios ocultos. El donante sólo responde por los vicios ocultos de la cosa donada si hubo dolo de su parte, caso en el cual debe reparar al donatario los daños ocasionados.
+
+ARTICULO 1559.- Obligación de alimentos. Excepto que la donación sea onerosa, el donatario debe prestar alimentos al donante que no tenga medios de subsistencia. Puede liberarse de esa obligación restituyendo las cosas donadas o su valor si las ha enajenado.
+
+SECCION 3ª
+
+Algunas donaciones en particular
+
+ARTICULO 1560.- Donaciones mutuas. En las donaciones mutuas, la nulidad de una de ellas afecta a la otra, pero la ingratitud o el incumplimiento de los cargos sólo perjudican al donatario culpable.
+
+ARTICULO 1561.- Donaciones remuneratorias. Son donaciones remuneratorias las realizadas en recompensa de servicios prestados al donante por el donatario, apreciables en dinero y por los cuales el segundo podría exigir judicialmente el pago. La donación se juzga gratuita si no consta en el instrumento lo que se tiene en mira remunerar.
+
+ARTICULO 1562.- Donaciones con cargos. En las donaciones se pueden imponer cargos a favor del donante o de un tercero, sean ellos relativos al empleo o al destino de la cosa donada, o que consistan en una o más prestaciones.
+
+Si el cargo se ha estipulado en favor de un tercero, éste, el donante y sus herederos pueden demandar su ejecución; pero sólo el donante y sus herederos pueden revocar la donación por inejecución del cargo.
+
+Si el tercero ha aceptado el beneficio representado por el cargo, en caso de revocarse el contrato tiene derecho para reclamar del donante o, en su caso, de sus herederos, el cumplimiento del cargo, sin perjuicio de sus derechos contra el donatario.
+
+ARTICULO 1563.- Responsabilidad del donatario por los cargos. El donatario sólo responde por el cumplimiento de los cargos con la cosa donada, y hasta su valor si la ha enajenado o ha perecido por hecho suyo. Queda liberado si la cosa ha perecido sin su culpa.
+
+Puede también sustraerse a esa responsabilidad restituyendo la cosa donada, o su valor si ello es imposible.
+
+ARTICULO 1564.- Alcance de la onerosidad. Las donaciones remuneratorias o con cargo se consideran como actos a título oneroso en la medida en que se limiten a una equitativa retribución de los servicios recibidos o en que exista equivalencia de valores entre la cosa donada y los cargos impuestos. Por el excedente se les aplican las normas de las donaciones.
+
+ARTICULO 1565.- Donaciones inoficiosas. Se considera inoficiosa la donación cuyo valor excede la parte disponible del patrimonio del donante. A este respecto, se aplican los preceptos de este Código sobre la porción legítima.
+
+SECCION 4ª
+
+Reversión y revocación
+
+ARTICULO 1566.- Pacto de reversión. En la donación se puede convenir la reversión de las cosas donadas, sujetando el contrato a la condición resolutoria de que el donatario, o el donatario, su cónyuge y sus descendientes, o el donatario sin hijos, fallezcan antes que el donante.
+
+Esta cláusula debe ser expresa y sólo puede estipularse en favor del donante. Si se la incluye en favor de él y de sus herederos o de terceros, sólo vale respecto de aquél.
+
+Si la reversión se ha pactado para el caso de muerte del donatario sin hijos, la existencia de éstos en el momento del deceso de su padre extingue el derecho del donante, que no renace aunque éste les sobreviva.
+
+ARTICULO 1567.- Efectos. Cumplida la condición prevista para la reversión, el donante puede exigir la restitución de las cosas transferidas conforme a las reglas del dominio revocable.
+
+ARTICULO 1568.- Renuncia. La conformidad del donante para la enajenación de las cosas donadas importa la renuncia del derecho de reversión. Pero la conformidad para que se los grave con derechos reales sólo beneficia a los titulares de estos derechos.
+
+ARTICULO 1569.- Revocación. La donación aceptada sólo puede ser revocada por inejecución de los cargos, por ingratitud del donatario, y, en caso de habérselo estipulado expresamente, por supernacencia de hijos del donante.
+
+Si la donación es onerosa, el donante debe reembolsar el valor de los cargos satisfechos o de los servicios prestados por el donatario.
+
+ARTICULO 1570.- Incumplimiento de los cargos. La donación puede ser revocada por incumplimiento de los cargos.
+
+La revocación no perjudica a los terceros en cuyo beneficio se establecen los cargos.
+
+Los terceros a quienes el donatario transmite bienes gravados con cargos sólo deben restituirlos al donante, al revocarse la donación, si son de mala fe; pero pueden impedir los efectos de la revocación ofreciendo ejecutar las obligaciones impuestas al donatario si las prestaciones que constituyen los cargos no deben ser ejecutadas precisa y personalmente por aquél. El donatario que enajena los bienes donados, o imposibilita su devolución por su culpa, debe resarcir al donante el valor de las cosas donadas al tiempo de promoverse la acción de revocación, con sus intereses.
+
+ARTICULO 1571.- Ingratitud. Las donaciones pueden ser revocadas por ingratitud del donatario en los siguientes casos:
+
+a) si el donatario atenta contra la vida o la persona del donante, su cónyuge o conviviente, sus ascendientes o descendientes;
+
+b) si injuria gravemente a las mismas personas o las afecta en su honor;
+
+c) si las priva injustamente de bienes que integran su patrimonio;
+
+d) si rehúsa alimentos al donante.
+
+En todos los supuestos enunciados, basta la prueba de que al donatario le es imputable el hecho lesivo, sin necesidad de condena penal.
+
+ARTICULO 1572.- Negación de alimentos. La revocación de la donación por negación de la prestación de alimentos sólo puede tener lugar cuando el donante no puede obtenerlos de las personas obligadas por las relaciones de familia.
+
+ARTICULO 1573.- Legitimación activa. La revocación de la donación por ingratitud sólo puede ser demandada por el donante contra el donatario, y no por los herederos de aquél ni contra los herederos de éste. Fallecido el donante que promueve la demanda, la acción puede ser continuada por sus herederos; y fallecido el demandado, puede también ser continuada contra sus herederos.
+
+La acción se extingue si el donante, con conocimiento de causa, perdona al donatario o no la promueve dentro del plazo de caducidad de un año de haber sabido del hecho tipificador de la ingratitud.

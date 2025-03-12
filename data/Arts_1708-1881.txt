@@ -1,0 +1,849 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO TERCERO - DERECHOS PERSONALES - TITULO 5
+TITULO 5: Otras fuentes de las obligaciones
+Articulos: 1708 a 1881
+
+-----------------------------------------
+
+TITULO V
+
+Otras fuentes de las obligaciones
+
+CAPITULO 1
+
+Responsabilidad civil
+
+SECCION 1ª
+
+Disposiciones generales
+
+ARTICULO 1708.- Funciones de la responsabilidad. Las disposiciones de este Título son aplicables a la prevención del daño y a su reparación.
+
+ARTICULO 1709.- Prelación normativa. En los casos en que concurran las disposiciones de este Código y las de alguna ley especial relativa a responsabilidad civil, son aplicables, en el siguiente orden de prelación:
+
+a) las normas indisponibles de este Código y de la ley especial;
+
+b) la autonomía de la voluntad;
+
+c) las normas supletorias de la ley especial;
+
+d) las normas supletorias de este Código.
+
+SECCION 2ª
+
+Función preventiva y punición excesiva
+
+ARTICULO 1710.- Deber de prevención del daño. Toda persona tiene el deber, en cuanto de ella dependa, de:
+
+a) evitar causar un daño no justificado;
+
+b) adoptar, de buena fe y conforme a las circunstancias, las medidas razonables para evitar que se produzca un daño, o disminuir su magnitud; si tales medidas evitan o disminuyen la magnitud de un daño del cual un tercero sería responsable, tiene derecho a que éste le reembolse el valor de los gastos en que incurrió, conforme a las reglas del enriquecimiento sin causa;
+
+c) no agravar el daño, si ya se produjo.
+
+ARTICULO 1711.- Acción preventiva. La acción preventiva procede cuando una acción u omisión antijurídica hace previsible la producción de un daño, su continuación o agravamiento. No es exigible la concurrencia de ningún factor de atribución.
+
+ARTICULO 1712.- Legitimación. Están legitimados para reclamar quienes acreditan un interés razonable en la prevención del daño.
+
+ARTICULO 1713.- Sentencia. La sentencia que admite la acción preventiva debe disponer, a pedido de parte o de oficio, en forma definitiva o provisoria, obligaciones de dar, hacer o no hacer, según corresponda; debe ponderar los criterios de menor restricción posible y de medio más idóneo para asegurar la eficacia en la obtención de la finalidad.
+
+ARTICULO 1714.- Punición excesiva. Si la aplicación de condenaciones pecuniarias administrativas, penales o civiles respecto de un hecho provoca una punición irrazonable o excesiva, el juez debe computarla a los fines de fijar prudencialmente su monto.
+
+ARTICULO 1715.- Facultades del juez. En el supuesto previsto en el artículo 1714 el juez puede dejar sin efecto, total o parcialmente, la medida.
+
+SECCION 3ª
+
+Función resarcitoria
+
+ARTICULO 1716.- Deber de reparar. La violación del deber de no dañar a otro, o el incumplimiento de una obligación, da lugar a la reparación del daño causado, conforme con las disposiciones de este Código.
+
+ARTICULO 1717.- Antijuridicidad. Cualquier acción u omisión que causa un daño a otro es antijurídica si no está justificada.
+
+ARTICULO 1718.- Legítima defensa, estado de necesidad y ejercicio regular de un derecho. Está justificado el hecho que causa un daño:
+
+a) en ejercicio regular de un derecho;
+
+b) en legítima defensa propia o de terceros, por un medio racionalmente proporcionado, frente a una agresión actual o inminente, ilícita y no provocada; el tercero que no fue agresor ilegítimo y sufre daños como consecuencia de un hecho realizado en legítima defensa tiene derecho a obtener una reparación plena;
+
+c) para evitar un mal, actual o inminente, de otro modo inevitable, que amenaza al agente o a un tercero, si el peligro no se origina en un hecho suyo; el hecho se halla justificado únicamente si el mal que se evita es mayor que el que se causa. En este caso, el damnificado tiene derecho a ser indemnizado en la medida en que el juez lo considere equitativo.
+
+ARTICULO 1719.- Asunción de riesgos. La exposición voluntaria por parte de la víctima a una situación de peligro no justifica el hecho dañoso ni exime de responsabilidad a menos que, por las circunstancias del caso, ella pueda calificarse como un hecho del damnificado que interrumpe total o parcialmente el nexo causal.
+
+Quien voluntariamente se expone a una situación de peligro para salvar la persona o los bienes de otro tiene derecho, en caso de resultar dañado, a ser indemnizado por quien creó la situación de peligro, o por el beneficiado por el acto de abnegación. En este último caso, la reparación procede únicamente en la medida del enriquecimiento por él obtenido.
+
+ARTICULO 1720.- Consentimiento del damnificado. Sin perjuicio de disposiciones especiales, el consentimiento libre e informado del damnificado, en la medida en que no constituya una cláusula abusiva, libera de la responsabilidad por los daños derivados de la lesión de bienes disponibles.
+
+ARTICULO 1721.- Factores de atribución. La atribución de un daño al responsable puede basarse en factores objetivos o subjetivos. En ausencia de normativa, el factor de atribución es la culpa.
+
+ARTICULO 1722.- Factor objetivo. El factor de atribución es objetivo cuando la culpa del agente es irrelevante a los efectos de atribuir responsabilidad. En tales casos, el responsable se libera demos-trando la causa ajena, excepto disposición legal en contrario.
+
+ARTICULO 1723.- Responsabilidad objetiva. Cuando de las circunstancias de la obligación, o de lo convenido por las partes, surge que el deudor debe obtener un resultado determinado, su responsabilidad es objetiva.
+
+ARTICULO 1724.- Factores subjetivos. Son factores subjetivos de atribución la culpa y el dolo. La culpa consiste en la omisión de la diligencia debida según la naturaleza de la obligación y las circunstancias de las personas, el tiempo y el lugar. Comprende la imprudencia, la negligencia y la impericia en el arte o profesión. El dolo se configura por la producción de un daño de manera intencional o con manifiesta indiferencia por los intereses ajenos.
+
+ARTICULO 1725.- Valoración de la conducta. Cuanto mayor sea el deber de obrar con prudencia y pleno conocimiento de las cosas, mayor es la diligencia exigible al agente y la valoración de la previsibilidad de las consecuencias.
+
+Cuando existe una confianza especial, se debe tener en cuenta la naturaleza del acto y las condiciones particulares de las partes.
+
+Para valorar la conducta no se toma en cuenta la condición especial, o la facultad intelectual de una persona determinada, a no ser en los contratos que suponen una confianza especial entre las partes. En estos casos, se estima el grado de responsabilidad, por la condición especial del agente.
+
+ARTICULO 1726.- Relación causal. Son reparables las consecuencias dañosas que tienen nexo adecuado de causalidad con el hecho productor del daño. Excepto disposición legal en contrario, se indemnizan las consecuencias inmediatas y las mediatas previsibles.
+
+ARTICULO 1727.- Tipos de consecuencias. Las consecuencias de un hecho que acostumbran a suceder según el curso natural y ordinario de las cosas, se llaman en este Código “consecuencias inmediatas”. Las consecuencias que resultan solamente de la conexión de un hecho con un acontecimiento distinto, se llaman “consecuencias mediatas”. Las consecuencias mediatas que no pueden preverse se llaman “consecuencias casuales”.
+
+ARTICULO 1728.- Previsibilidad contractual. En los contratos se responde por las consecuencias que las partes previeron o pudieron haber previsto al momento de su celebración. Cuando existe dolo del deudor, la responsabilidad se fija tomando en cuenta estas consecuencias también al momento del incumplimiento.
+
+ARTICULO 1729.- Hecho del damnificado. La responsabilidad puede ser excluida o limitada por la incidencia del hecho del damnificado en la producción del daño, excepto que la ley o el contrato dispongan que debe tratarse de su culpa, de su dolo, o de cualquier otra circunstancia especial.
+
+ARTICULO 1730.- Caso fortuito. Fuerza mayor. Se considera caso fortuito o fuerza mayor al hecho que no ha podido ser previsto o que, habiendo sido previsto, no ha podido ser evitado. El caso fortuito o fuerza mayor exime de responsabilidad, excepto disposición en contrario.
+
+Este Código emplea los términos “caso fortuito” y “fuerza mayor” como sinónimos.
+
+ARTICULO 1731.- Hecho de un tercero. Para eximir de responsabilidad, total o parcialmente, el hecho de un tercero por quien no se debe responder debe reunir los caracteres del caso fortuito.
+
+ARTICULO 1732.- Imposibilidad de cumplimiento. El deudor de una obligación queda eximido del cumplimiento, y no es responsable, si la obligación se ha extinguido por imposibilidad de cumplimiento objetiva y absoluta no imputable al obligado. La existencia de esa imposibilidad debe apreciarse teniendo en cuenta las exigencias de la buena fe y la prohibición del ejercicio abusivo de los derechos.
+
+ARTICULO 1733.- Responsabilidad por caso fortuito o por imposibilidad de cumplimiento. Aunque ocurra el caso fortuito o la imposibilidad de cumplimiento, el deudor es responsable en los siguientes casos:
+
+a) si ha asumido el cumplimiento aunque ocurra un caso fortuito o una imposibilidad;
+
+b) si de una disposición legal resulta que no se libera por caso fortuito o por imposibilidad de cumplimiento;
+
+c) si está en mora, a no ser que ésta sea indiferente para la producción del caso fortuito o de la imposibilidad de cumplimiento;
+
+d) si el caso fortuito o la imposibilidad de cumplimiento sobrevienen por su culpa;
+
+e) si el caso fortuito y, en su caso, la imposibilidad de cumplimiento que de él resulta, constituyen una contingencia propia del riesgo de la cosa o la actividad;
+
+f) si está obligado a restituir como consecuencia de un hecho ilícito.
+
+ARTICULO 1734.- Prueba de los factores de atribución y de las eximentes. Excepto disposición legal, la carga de la prueba de los factores de atribución y de las circunstancias eximentes corresponde a quien los alega.
+
+ARTICULO 1735.- Facultades judiciales. No obstante, el juez puede distribuir la carga de la prueba de la culpa o de haber actuado con la diligencia debida, ponderando cuál de las partes se halla en mejor situación para aportarla. Si el juez lo considera pertinente, durante el proceso debe comunicar a las partes que aplicará este criterio, de modo de permitir a los litigantes ofrecer y producir los elementos de convicción que hagan a su defensa.
+
+ARTICULO 1736.- Prueba de la relación de causalidad. La carga de la prueba de la relación de causalidad corresponde a quien la alega, excepto que la ley la impute o la presuma. La carga de la prueba de la causa ajena, o de la imposibilidad de cumplimiento, recae sobre quien la invoca.
+
+SECCION 4ª
+
+Daño resarcible
+
+ARTICULO 1737.- Concepto de daño. Hay daño cuando se lesiona un derecho o un interés no reprobado por el ordenamiento jurídico, que tenga por objeto la persona, el patrimonio, o un derecho de incidencia colectiva.
+
+ARTICULO 1738.- Indemnización. La indemnización comprende la pérdida o disminución del patrimonio de la víctima, el lucro cesante en el beneficio económico esperado de acuerdo a la probabilidad objetiva de su obtención y la pérdida de chances. Incluye especialmente las consecuencias de la violación de los derechos personalísimos de la víctima, de su integridad personal, su salud psicofísica, sus afecciones espirituales legítimas y las que resultan de la interferencia en su proyecto de vida.
+
+ARTICULO 1739.- Requisitos. Para la procedencia de la indemnización debe existir un perjuicio directo o indirecto, actual o futuro, cierto y subsistente. La pérdida de chance es indemnizable en la medida en que su contingencia sea razonable y guarde una adecuada relación de causalidad con el hecho generador.
+
+ARTICULO 1740.- Reparación plena. La reparación del daño debe ser plena. Consiste en la restitución de la situación del damnificado al estado anterior al hecho dañoso, sea por el pago en dinero o en especie. La víctima puede optar por el reintegro específico, excepto que sea parcial o totalmente imposible, excesivamente oneroso o abusivo, en cuyo caso se debe fijar en dinero. En el caso de daños derivados de la lesión del honor, la intimidad o la identidad personal, el juez puede, a pedido de parte, ordenar la publicación de la sentencia, o de sus partes pertinentes, a costa del responsable.
+
+ARTICULO 1741.- Indemnización de las consecuencias no patrimoniales. Está legitimado para reclamar la indemnización de las consecuencias no patrimoniales el damnificado directo. Si del hecho resulta su muerte o sufre gran discapacidad también tienen legitimación a título personal, según las circunstancias, los ascendientes, los descendientes, el cónyuge y quienes convivían con aquél recibiendo trato familiar ostensible.
+
+La acción sólo se transmite a los sucesores universales del legitimado si es interpuesta por éste.
+
+El monto de la indemnización debe fijarse ponderando las satisfacciones sustitutivas y compensatorias que pueden procurar las sumas reconocidas.
+
+ARTICULO 1742.- Atenuación de la responsabilidad. El juez, al fijar la indemnización, puede atenuarla si es equitativo en función del patrimonio del deudor, la situación personal de la víctima y las cir-cunstancias del hecho. Esta facultad no es aplicable en caso de dolo del responsable.
+
+ARTICULO 1743.- Dispensa anticipada de la responsabilidad. Son inválidas las cláusulas que eximen o limitan la obligación de indemnizar cuando afectan derechos indisponibles, atentan contra la buena fe, las buenas costumbres o leyes imperativas, o son abusivas. Son también inválidas si liberan anticipadamente, en forma total o parcial, del daño sufrido por dolo del deudor o de las personas por las cuales debe responder.
+
+ARTICULO 1744.- Prueba del daño. El daño debe ser acreditado por quien lo invoca, excepto que la ley lo impute o presuma, o que surja notorio de los propios hechos.
+
+ARTICULO 1745.- Indemnización por fallecimiento. En caso de muerte, la indemnización debe consistir en:
+
+a) los gastos necesarios para asistencia y posterior funeral de la víctima. El derecho a repetirlos incumbe a quien los paga, aunque sea en razón de una obligación legal;
+
+b) lo necesario para alimentos del cónyuge, del conviviente, de los hijos menores de veintiún años de edad con derecho alimentario, de los hijos incapaces o con capacidad restringida, aunque no hayan sido declarados tales judicialmente; esta indemnización procede aun cuando otra persona deba prestar alimentos al damnificado indirecto; el juez, para fijar la reparación, debe tener en cuenta el tiempo probable de vida de la víctima, sus condiciones personales y las de los reclamantes;
+
+c) la pérdida de chance de ayuda futura como consecuencia de la muerte de los hijos; este derecho también compete a quien tenga la guarda del menor fallecido.
+
+ARTICULO 1746.- Indemnización por lesiones o incapacidad física o psíquica. En caso de lesiones o incapacidad permanente, física o psíquica, total o parcial, la indemnización debe ser evaluada mediante la determinación de un capital, de tal modo que sus rentas cubran la disminución de la aptitud del damnificado para realizar actividades productivas o económicamente valorables, y que se agote al término del plazo en que razonablemente pudo continuar realizando tales actividades. Se presumen los gastos médicos, farmacéuticos y por transporte que resultan razonables en función de la índole de las lesiones o la incapacidad. En el supuesto de incapacidad permanente se debe indemnizar el daño aunque el damnificado continúe ejerciendo una tarea remunerada. Esta indemnización procede aun cuando otra persona deba prestar alimentos al damnificado.
+
+ARTICULO 1747.- Acumulabilidad del daño moratorio. El resarcimiento del daño moratorio es acumulable al del daño compensatorio o al valor de la prestación y, en su caso, a la cláusula penal compensatoria, sin perjuicio de la facultad morigeradora del juez cuando esa acumulación resulte abusiva.
+
+ARTICULO 1748.- Curso de los intereses. El curso de los intereses comienza desde que se produce cada perjuicio.
+
+SECCION 5ª
+
+Responsabilidad directa
+
+ARTICULO 1749.- Sujetos responsables. Es responsable directo quien incumple una obligación u ocasiona un daño injustificado por acción u omisión.
+
+ARTICULO 1750.- Daños causados por actos involuntarios. El autor de un daño causado por un acto involuntario responde por razones de equidad. Se aplica lo dispuesto en el artículo 1742.
+
+El acto realizado por quien sufre fuerza irresistible no genera responsabilidad para su autor, sin perjuicio de la que corresponde a título personal a quien ejerce esa fuerza.
+
+ARTICULO 1751.- Pluralidad de responsables. Si varias personas participan en la producción del daño que tiene una causa única, se aplican las reglas de las obligaciones solidarias. Si la pluralidad deriva de causas distintas, se aplican las reglas de las obligaciones concurrentes.
+
+ARTICULO 1752.- Encubrimiento. El encubridor responde en cuanto su cooperación ha causado daño.
+
+SECCION 6ª
+
+Responsabilidad por el hecho de terceros
+
+ARTICULO 1753.- Responsabilidad del principal por el hecho del dependiente. El principal responde objetivamente por los daños que causen los que están bajo su dependencia, o las personas de las cuales se sirve para el cumplimiento de sus obligaciones, cuando el hecho dañoso acaece en ejercicio o con ocasión de las funciones encomendadas.
+
+La falta de discernimiento del dependiente no excusa al principal. La responsabilidad del principal es concurrente con la del dependiente.
+
+ARTICULO 1754.- Hecho de los hijos. Los padres son solidariamente responsables por los daños causados por los hijos que se encuentran bajo su responsabilidad parental y que habitan con ellos, sin perjuicio de la responsabilidad personal y concurrente que pueda caber a los hijos.
+
+ARTICULO 1755.- Cesación de la responsabilidad paterna. La responsabilidad de los padres es objetiva, y cesa si el hijo menor de edad es puesto bajo la vigilancia de otra persona, transitoria o permanentemente. No cesa en el supuesto previsto en el artículo 643.
+
+Los padres no se liberan, aunque el hijo menor de edad no conviva con ellos, si esta circunstancia deriva de una causa que les es atribuible.
+
+Los padres no responden por los daños causados por sus hijos en tareas inherentes al ejercicio de su profesión o de funciones subordinadas encomendadas por terceros. Tampoco responden por el incumplimiento de obligaciones contractuales válidamente contraídas por sus hijos.
+
+ARTICULO 1756.- Otras personas encargadas. Los delegados en el ejercicio de la responsabilidad parental, los tutores y los curadores son responsables como los padres por el daño causado por quienes están a su cargo.
+
+Sin embargo, se liberan si acreditan que les ha sido imposible evitar el daño; tal imposibilidad no resulta de la mera circunstancia de haber sucedido el hecho fuera de su presencia.
+
+El establecimiento que tiene a su cargo personas internadas responde por la negligencia en el cuidado de quienes, transitoria o permanentemente, han sido puestas bajo su vigilancia y control.
+
+SECCION 7ª
+
+Responsabilidad derivada de la intervención de cosas y de ciertas actividades
+
+ARTICULO 1757.- Hecho de las cosas y actividades riesgosas. Toda persona responde por el daño causado por el riesgo o vicio de las cosas, o de las actividades que sean riesgosas o peligrosas por su naturaleza, por los medios empleados o por las circunstancias de su realización.
+
+La responsabilidad es objetiva. No son eximentes la autorización administrativa para el uso de la cosa o la realización de la actividad, ni el cumplimiento de las técnicas de prevención.
+
+ARTICULO 1758.- Sujetos responsables. El dueño y el guardián son responsables concurrentes del daño causado por las cosas. Se considera guardián a quien ejerce, por sí o por terceros, el uso, la dirección y el control de la cosa, o a quien obtiene un provecho de ella. El dueño y el guardián no responden si prueban que la cosa fue usada en contra de su voluntad expresa o presunta.
+
+En caso de actividad riesgosa o peligrosa responde quien la realiza, se sirve u obtiene provecho de ella, por sí o por terceros, excepto lo dispuesto por la legislación especial.
+
+ARTICULO 1759.- Daño causado por animales. El daño causado por animales, cualquiera sea su especie, queda comprendido en el artículo 1757.
+
+SECCION 8ª
+
+Responsabilidad colectiva y anónima
+
+ARTICULO 1760.- Cosa suspendida o arrojada. Si de una parte de un edificio cae una cosa, o si ésta es arrojada, los dueños y ocupantes de dicha parte responden solidariamente por el daño que cause. Sólo se libera quien demuestre que no participó en su producción.
+
+ARTICULO 1761.- Autor anónimo. Si el daño proviene de un miembro no identificado de un grupo determinado responden solidariamente todos sus integrantes, excepto aquel que demuestre que no ha contribuido a su producción.
+
+ARTICULO 1762.- Actividad peligrosa de un grupo. Si un grupo realiza una actividad peligrosa para terceros, todos sus integrantes responden solidariamente por el daño causado por uno o más de sus miembros. Sólo se libera quien demuestra que no integraba el grupo.
+
+SECCION 9ª
+
+Supuestos especiales de responsabilidad
+
+ARTICULO 1763.- Responsabilidad de la persona jurídica. La persona jurídica responde por los daños que causen quienes las dirigen o administran en ejercicio o con ocasión de sus funciones.
+
+ARTICULO 1764.- Inaplicabilidad de normas. Las disposiciones del Capítulo 1 de este Título no son aplicables a la responsabilidad del Estado de manera directa ni subsidiaria.
+
+ARTICULO 1765.- Responsabilidad del Estado. La responsabilidad del Estado se rige por las normas y principios del derecho administrativo nacional o local según corresponda.
+
+ARTICULO 1766.- Responsabilidad del funcionario y del empleado público. Los hechos y las omisiones de los funcionarios públicos en el ejercicio de sus funciones por no cumplir sino de una manera irregular las obligaciones legales que les están impuestas se rigen por las normas y principios del derecho administrativo nacional o local, según corresponda.
+
+ARTICULO 1767.- Responsabilidad de los establecimientos educativos. El titular de un establecimiento educativo responde por el daño causado o sufrido por sus alumnos menores de edad cuando se hallen o deban hallarse bajo el control de la autoridad escolar. La responsabilidad es objetiva y se exime sólo con la prueba del caso fortuito.
+
+El establecimiento educativo debe contratar un seguro de responsabilidad civil, de acuerdo a los requisitos que fije la autoridad en materia aseguradora.
+
+Esta norma no se aplica a los establecimientos de educación superior o universitaria.
+
+ARTICULO 1768.- Profesionales liberales. La actividad del profesional liberal está sujeta a las reglas de las obligaciones de hacer. La responsabilidad es subjetiva, excepto que se haya comprometido un resultado concreto. Cuando la obligación de hacer se preste con cosas, la responsabilidad no está comprendida en la Sección 7a, de este Capítulo, excepto que causen un daño derivado de su vicio. La actividad del profesional liberal no está comprendida en la responsabilidad por actividades riesgosas previstas en el artículo 1757.
+
+ARTICULO 1769.- Accidentes de tránsito. Los artículos referidos a la responsabilidad derivada de la intervención de cosas se aplican a los daños causados por la circulación de vehículos.
+
+ARTICULO 1770.- Protección de la vida privada. El que arbitrariamente se entromete en la vida ajena y publica retratos, difunde correspondencia, mortifica a otros en sus costumbres o sentimientos, o perturba de cualquier modo su intimidad, debe ser obligado a cesar en tales actividades, si antes no cesaron, y a pagar una indemnización que debe fijar el juez, de acuerdo con las circunstancias. Además, a pedido del agraviado, puede ordenarse la publicación de la sentencia en un diario o periódico del lugar, si esta medida es procedente para una adecuada reparación.
+
+ARTICULO 1771.- Acusación calumniosa. En los daños causados por una acusación calumniosa sólo se responde por dolo o culpa grave.
+
+El denunciante o querellante responde por los daños derivados de la falsedad de la denuncia o de la querella si se prueba que no tenía razones justificables para creer que el damnificado estaba implicado.
+
+SECCION 10ª
+
+Ejercicio de las acciones de responsabilidad
+
+ARTICULO 1772.- Daños causados a cosas o bienes. Sujetos legitimados. La reparación del menoscabo a un bien o a una cosa puede ser reclamado por:
+
+a) el titular de un derecho real sobre la cosa o bien;
+
+b) el tenedor y el poseedor de buena fe de la cosa o bien.
+
+ARTICULO 1773.- Acción contra el responsable directo e indirecto. El legitimado tiene derecho a interponer su acción, conjunta o separadamente, contra el responsable directo y el indirecto.
+
+SECCION 11ª
+
+Acciones civil y penal
+
+ARTICULO 1774.- Independencia. La acción civil y la acción penal resultantes del mismo hecho pueden ser ejercidas independientemente. En los casos en que el hecho dañoso configure al mismo tiempo un delito del derecho criminal, la acción civil puede interponerse ante los jueces penales, conforme a las disposiciones de los códigos procesales o las leyes especiales.
+
+ARTICULO 1775.- Suspensión del dictado de la sentencia civil. Si la acción penal precede a la acción civil, o es intentada durante su curso, el dictado de la sentencia definitiva debe suspenderse en el proceso civil hasta la conclusión del proceso penal, con excepción de los siguientes casos:
+
+a) si median causas de extinción de la acción penal;
+
+b) si la dilación del procedimiento penal provoca, en los hechos, una frustración efectiva del derecho a ser indemnizado;
+
+c) si la acción civil por reparación del daño está fundada en un factor objetivo de responsabilidad.
+
+ARTICULO 1776.- Condena penal. La sentencia penal condenatoria produce efectos de cosa juzgada en el proceso civil respecto de la existencia del hecho principal que constituye el delito y de la culpa del condenado.
+
+ARTICULO 1777.- Inexistencia del hecho, de autoría, de delito o de responsabilidad penal. Si la sentencia penal decide que el hecho no existió o que el sindicado como responsable no participó, estas circunstancias no pueden ser discutidas en el proceso civil.
+
+Si la sentencia penal decide que un hecho no constituye delito penal o que no compromete la responsabilidad penal del agente, en el proceso civil puede discutirse libremente ese mismo hecho en cuanto generador de responsabilidad civil.
+
+ARTICULO 1778.- Excusas absolutorias. Las excusas absolutorias penales no afectan a la acción civil, excepto disposición legal expresa en contrario.
+
+ARTICULO 1779.- Impedimento de reparación del daño. Impiden la reparación del daño:
+
+a) la prueba de la verdad del hecho reputado calumnioso;
+
+b) en los delitos contra la vida, haber sido coautor o cómplice, o no haber impedido el hecho pudiendo hacerlo.
+
+ARTICULO 1780.- Sentencia penal posterior. La sentencia penal posterior a la sentencia civil no produce ningún efecto sobre ella, excepto en el caso de revisión. La revisión procede exclusivamente, y a petición de parte interesada, en los siguientes supuestos:
+
+a) si la sentencia civil asigna alcances de cosa juzgada a cuestiones resueltas por la sentencia penal y ésta es revisada respecto de esas cuestiones, excepto que derive de un cambio en la legislación;
+
+b) en el caso previsto en el artículo 1775 inciso c) si quien fue juzgado responsable en la acción civil es absuelto en el juicio criminal por inexistencia del hecho que funda la condena civil, o por no ser su autor;
+
+c) otros casos previstos por la ley.
+
+CAPITULO 2
+
+Gestión de negocios
+
+ARTICULO 1781.- Definición. Hay gestión de negocios cuando una persona asume oficiosamente la gestión de un negocio ajeno por un motivo razonable, sin intención de hacer una liberalidad y sin estar autorizada ni obligada, convencional o legalmente.
+
+ARTICULO 1782.- Obligaciones del gestor. El gestor está obligado a:
+
+a) avisar sin demora al dueño del negocio que asumió la gestión, y aguardar su respuesta, siempre que esperarla no resulte perjudicial;
+
+b) actuar conforme a la conveniencia y a la intención, real o presunta, del dueño del negocio;
+
+c) continuar la gestión hasta que el dueño del negocio tenga posibilidad de asumirla por sí mismo o, en su caso, hasta concluirla;
+
+d) proporcionar al dueño del negocio información adecuada respecto de la gestión;
+
+e) una vez concluida la gestión, rendir cuentas al dueño del negocio.
+
+ARTICULO 1783.- Conclusión de la gestión. La gestión concluye:
+
+a) cuando el dueño le prohíbe al gestor continuar actuando. El gestor, sin embargo, puede continuarla, bajo su responsabilidad, en la medida en que lo haga por un interés propio;
+
+b) cuando el negocio concluye.
+
+ARTICULO 1784.- Obligación frente a terceros. El gestor queda personalmente obligado frente a terceros. Sólo se libera si el dueño del negocio ratifica su gestión, o asume sus obligaciones; y siempre que ello no afecte a terceros de buena fe.
+
+ARTICULO 1785.- Gestión conducida útilmente. Si la gestión es conducida útilmente, el dueño del negocio está obligado frente al gestor, aunque la ventaja que debía resultar no se haya producido, o haya cesado:
+
+a) a reembolsarle el valor de los gastos necesarios y útiles, con los intereses legales desde el día en que fueron hechos;
+
+b) a liberarlo de las obligaciones personales que haya contraído a causa de la gestión;
+
+c) a repararle los daños que, por causas ajenas a su responsabilidad, haya sufrido en el ejercicio de la gestión;
+
+d) a remunerarlo, si la gestión corresponde al ejercicio de su actividad profesional, o si es equitativo en las circunstancias del caso.
+
+ARTICULO 1786.- Responsabilidad del gestor por culpa. El gestor es responsable ante el dueño del negocio por el daño que le haya causado por su culpa. Su diligencia se aprecia con referencia concreta a su actuación en los asuntos propios; son pautas a considerar, entre otras, si se trata de una gestión urgente, si procura librar al dueño del negocio de un perjuicio, y si actúa por motivos de amistad o de afección.
+
+ARTICULO 1787.- Responsabilidad del gestor por caso fortuito. El gestor es responsable ante el dueño del negocio, aun por el daño que resulte de caso fortuito, excepto en cuanto la gestión le haya sido útil a aquél:
+
+a) si actúa contra su voluntad expresa;
+
+b) si emprende actividades arriesgadas, ajenas a las habituales del dueño del negocio;
+
+c) si pospone el interés del dueño del negocio frente al suyo;
+
+d) si no tiene las aptitudes necesarias para el negocio, o su intervención impide la de otra persona más idónea.
+
+ARTICULO 1788.- Responsabilidad solidaria. Son solidariamente responsables:
+
+a) los gestores que asumen conjuntamente el negocio ajeno;
+
+b) los varios dueños del negocio, frente al gestor.
+
+ARTICULO 1789.- Ratificación. El dueño del negocio queda obligado frente a los terceros por los actos cumplidos en su nombre, si ratifica la gestión, si asume las obligaciones del gestor o si la gestión es útilmente conducida.
+
+ARTICULO 1790.- Aplicación de normas del mandato. Las normas del mandato se aplican supletoriamente a la gestión de negocios.
+
+Si el dueño del negocio ratifica la gestión, aunque el gestor crea hacer un negocio propio, se producen los efectos del mandato, entre partes y respecto de terceros, desde el día en que aquélla comenzó.
+
+CAPITULO 3
+
+Empleo útil
+
+ARTICULO 1791.- Caracterización. Quien, sin ser gestor de negocios ni mandatario, realiza un gasto, en interés total o parcialmente ajeno, tiene derecho a que le sea reembolsado su valor, en cuanto haya resultado de utilidad, aunque después ésta llegue a cesar.
+
+El reembolso incluye los intereses, desde la fecha en que el gasto se efectúa.
+
+ARTICULO 1792.- Gastos funerarios. Están comprendidos en el artículo 1791 los gastos funerarios que tienen relación razonable con las circunstancias de la persona y los usos del lugar.
+
+ARTICULO 1793.- Obligados al reembolso. El acreedor tiene derecho a demandar el reembolso:
+
+a) a quien recibe la utilidad;
+
+b) a los herederos del difunto, en el caso de gastos funerarios;
+
+c) al tercero adquirente a título gratuito del bien que recibe la utilidad, pero sólo hasta el valor de ella al tiempo de la adquisición.
+
+CAPITULO 4
+
+Enriquecimiento sin causa
+
+SECCION 1ª
+
+Disposiciones generales
+
+ARTICULO 1794.- Caracterización. Toda persona que sin una causa lícita se enriquezca a expensas de otro, está obligada, en la medida de su beneficio, a resarcir el detrimento patrimonial del empobrecido.
+
+Si el enriquecimiento consiste en la incorporación a su patrimonio de un bien determinado, debe restituirlo si subsiste en su poder al tiempo de la demanda.
+
+ARTICULO 1795.- Improcedencia de la acción. La acción no es procedente si el ordenamiento jurídico concede al damnificado otra acción para obtener la reparación del empobrecimiento sufrido.
+
+SECCION 2ª
+
+Pago indebido
+
+ARTICULO 1796.- Casos. El pago es repetible, si:
+
+a) la causa de deber no existe, o no subsiste, porque no hay obligación válida; esa causa deja de existir; o es realizado en consideración a una causa futura, que no se va a producir;
+
+b) paga quien no está obligado, o no lo está en los alcances en que paga, a menos que lo haga como tercero;
+
+c) recibe el pago quien no es acreedor, a menos que se entregue como liberalidad;
+
+d) la causa del pago es ilícita o inmoral;
+
+e) el pago es obtenido por medios ilícitos.
+
+ARTICULO 1797.- Irrelevancia del error. La repetición del pago no está sujeta a que haya sido hecho con error.
+
+ARTICULO 1798.- Alcances de la repetición. La repetición obliga a restituir lo recibido, conforme a las reglas de las obligaciones de dar para restituir.
+
+ARTICULO 1799.- Situaciones especiales. En particular:
+
+a) la restitución a cargo de una persona incapaz o con capacidad restringida no puede exceder el provecho que haya obtenido;
+
+b) en el caso del inciso b) del artículo 1796, la restitución no procede si el acreedor, de buena fe, se priva de su título, o renuncia a las garantías; quien realiza el pago tiene subrogación legal en los derechos de aquél;
+
+c) en el caso del inciso d) del artículo 1796, la parte que no actúa con torpeza tiene derecho a la restitución; si ambas partes actúan torpemente, el crédito tiene el mismo destino que las herencias vacantes.
+
+CAPITULO 5
+
+Declaración unilateral de voluntad
+
+SECCION 1ª
+
+Disposiciones generales
+
+ARTICULO 1800.- Regla general. La declaración unilateral de voluntad causa una obligación jurídicamente exigible en los casos previstos por la ley o por los usos y costumbres. Se le aplican subsidiariamente las normas relativas a los contratos.
+
+ARTICULO 1801.- Reconocimiento y promesa de pago. La promesa de pago de una obligación realizada unilateralmente hace presumir la existencia de una fuente válida, excepto prueba en contrario. Para el reconocimiento se aplica el artículo 733.
+
+ARTICULO 1802.- Cartas de crédito. Las obligaciones que resultan para el emisor o confirmante de las cartas de crédito emitidas por bancos u otras entidades autorizadas son declaraciones unilaterales de voluntad. En estos casos puede utilizarse cualquier clase de instrumento particular.
+
+SECCION 2ª
+
+Promesa pública de recompensa
+
+ARTICULO 1803.- Obligatoriedad. El que mediante anuncios públicos promete recompensar, con una prestación pecuniaria o una distinción, a quien ejecute determinado acto, cumpla determinados requisitos o se encuentre en cierta situación, queda obligado por esa promesa desde el momento en que llega a conocimiento del público.
+
+ARTICULO 1804.- Plazo expreso o tácito. La promesa formulada sin plazo, expreso ni tácito, caduca dentro del plazo de seis meses del último acto de publicidad, si nadie comunica al promitente el acaecimiento del hecho o de la situación prevista.
+
+ARTICULO 1805.- Revocación. La promesa sin plazo puede ser retractada en todo tiempo por el promitente. Si tiene plazo, sólo puede revocarse antes del vencimiento, con justa causa. En ambos casos, la revocación surte efecto desde que es hecha pública por un medio de publicidad idéntico o equivalente al utilizado para la promesa. Es inoponible a quien ha efectuado el hecho o verificado la situación prevista antes del primer acto de publicidad de la revocación.
+
+ARTICULO 1806.- Atribución de la recompensa. Cooperación de varias personas. Si varias personas acreditan por separado el cumplimiento del hecho, los requisitos o la situación previstos en la promesa, la recompensa corresponde a quien primero lo ha comunicado al promitente en forma fehaciente.
+
+Si la notificación es simultánea, el promitente debe distribuir la recompensa en partes iguales; si la prestación es indivisible, la debe atribuir por sorteo.
+
+Si varias personas contribuyen a un mismo resultado, se aplica lo que los contribuyentes han convenido y puesto en conocimiento del promitente por medio fehaciente.
+
+A falta de notificación de convenio unánime, el promitente entrega lo prometido por partes iguales a todos y, si es indivisible, lo atribuye por sorteo; sin perjuicio de las acciones entre los contribuyentes, las que en todos los casos se dirimen por amigables componedores.
+
+SECCION 3ª
+
+Concurso público
+
+ARTICULO 1807.- Concurso público. La promesa de recompensa al vencedor de un concurso, requiere para su validez que el anuncio respectivo contenga el plazo de presentación de los interesados y de realización de los trabajos previstos.
+
+El dictamen del jurado designado en los anuncios obliga a los interesados. A falta de designación, se entiende que la adjudicación queda reservada al promitente.
+
+El promitente no puede exigir la cesión de los derechos pecuniarios sobre la obra premiada si esa transmisión no fue prevista en las bases del concurso.
+
+ARTICULO 1808.- Destinatarios. La promesa referida en el artículo 1807 puede ser efectuada respecto de cualquier persona o personas determinadas por ciertas calidades que deben ser claramente anunciadas. No pueden efectuarse llamados que realicen diferencias arbitrarias por raza, sexo, religión, ideología, nacionalidad, opinión política o gremial, posición económica o social, o basadas en otra discriminación ilegal.
+
+ARTICULO 1809.- Decisión del jurado. El dictamen del jurado obliga a los interesados. Si el jurado decide que todos o varios de los concursantes tienen el mismo mérito, el premio es distribuido en partes iguales entre los designados. Si el premio es indivisible, se adjudica por sorteo. El jurado puede declarar desierto cualquiera de los premios llamados a concurso.
+
+SECCION 4ª
+
+Garantías unilaterales
+
+ARTICULO 1810.- Garantías unilaterales. Constituyen una declaración unilateral de voluntad y están regidas por las disposiciones de este Capítulo las llamadas “garantías de cumplimiento a primera demanda”, “a primer requerimiento” y aquellas en que de cualquier otra manera se establece que el emisor garantiza el cumplimiento de las obligaciones de otro y se obliga a pagarlas, o a pagar una suma de dinero u otra prestación determinada, independientemente de las excepciones o defensas que el ordenante pueda tener, aunque mantenga el derecho de repetición contra el beneficiario, el ordenante o ambos.
+
+El pago faculta a la promoción de las acciones recursorias correspondientes.
+
+En caso de fraude o abuso manifiestos del beneficiario que surjan de prueba instrumental u otra de fácil y rápido examen, el garante o el ordenante puede requerir que el juez fije una caución adecuada que el beneficiario debe satisfacer antes del cobro.
+
+ARTICULO 1811.- Sujetos. Pueden emitir esta clase de garantías:
+
+a) las personas públicas;
+
+b) las personas jurídicas privadas en las que sus socios, fundadores o integrantes no responden ilimitadamente;
+
+c) en cualquier caso, las entidades financieras y compañías de seguros, y los importadores y exportadores por operaciones de comercio exterior, sean o no parte directa en ellas.
+
+ARTICULO 1812.- Forma. Las garantías previstas en esta Sección deben constar en instrumento público o privado.
+
+Si son otorgadas por entidades financieras o compañías de seguros, pueden asumirse también en cualquier clase de instrumento particular.
+
+ARTICULO 1813.- Cesión de garantía. Los derechos del beneficiario emergentes de la garantía no pueden transmitirse separadamente del contrato o relación con la que la garantía está funcionalmente vinculada, antes de acaecer el incumplimiento o el plazo que habilita el reclamo contra el emisor, excepto pacto en contrario.
+
+Una vez ocurrido el hecho o vencido el plazo que habilita ese reclamo, los derechos del beneficiario pueden ser cedidos independientemente de cualquier otra relación. Sin perjuicio de ello, el cesionario queda vinculado a las eventuales acciones de repetición que puedan corresponder contra el beneficiario según la garantía.
+
+ARTICULO 1814.- Irrevocabilidad. La garantía unilateral es irrevocable a menos que se disponga en el acto de su creación que es revocable.
+
+CAPITULO 6
+
+Títulos valores
+
+SECCION 1ª
+
+Disposiciones generales
+
+ARTICULO 1815.- Concepto. Los títulos valores incorporan una obligación incondicional e irrevocable de una prestación y otorgan a cada titular un derecho autónomo, sujeto a lo previsto en el artículo 1816.
+
+Cuando en este Código se hace mención a bienes o cosas muebles registrables, no se comprenden los títulos valores.
+
+ARTICULO 1816.- Autonomía. El portador de buena fe de un título valor que lo adquiere conforme con su ley de circulación, tiene un derecho autónomo, y le son inoponibles las defensas personales que pueden existir contra anteriores portadores.
+
+A los efectos de este artículo, el portador es de mala fe si al adquirir el título procede a sabiendas en perjuicio del deudor demandado.
+
+ARTICULO 1817.- Pago liberatorio. El deudor que paga al portador del título valor conforme con su ley de circulación queda liberado, excepto que al momento del pago, disponga de pruebas que de-muestren la mala fe del que lo requiere. Sin embargo, si el deudor no recibe el título valor, se aplica lo dispuesto por el artículo 1819.
+
+ARTICULO 1818.- Accesorios. La transferencia de un título valor comprende los accesorios que son inherentes a la prestación en él incorporada.
+
+ARTICULO 1819.- Titularidad. Quien adquiere un título valor a título oneroso, sin culpa grave y conforme con su ley de circulación, no está obligado a desprenderse del título valor y, en su caso, no está sujeto a reivindicación ni a la repetición de lo cobrado.
+
+ARTICULO 1820.- Libertad de creación. Cualquier persona puede crear y emitir títulos valores en los tipos y condiciones que elija. Se comprende en esta facultad la denominación del tipo o clase de título, su forma de circulación con arreglo a las leyes generales, sus garantías, rescates, plazos, su calidad de convertible o no en otra clase de título, derechos de los terceros titulares y demás regulaciones que hacen a la configuración de los derechos de las partes interesadas, que deben expresarse con claridad y no prestarse a confusión con el tipo, denominación y condiciones de los títulos valores especialmente previstos en la legislación vigente.
+
+Sólo pueden emitirse títulos valores abstractos no regulados por la ley cuando se destinan a ofertas públicas, con el cumplimiento de los recaudos de la legislación específica; y también cuando los emisores son entidades financieras, de seguros o fiduciarios financieros registrados ante el organismo de contralor de los mercados de valores.
+
+ARTICULO 1821.- Defensas oponibles. El deudor sólo puede oponer al portador del título valor las siguientes defensas:
+
+a) las personales que tiene respecto de él, excepto el caso de transmisiones en procuración, o fiduciarias con análoga finalidad;
+
+b) las que derivan del tenor literal del título o, en su caso, del tenor del documento inscripto de conformidad con el artículo 1850;
+
+c) las que se fundan en la falsedad de su firma o en un defecto de capacidad o de representación al momento en que se constituye su obligación, excepto que la autovía de la firma o de la declaración obligatoria sea consentida o asumida como propia o que la actuación del representante sea ratificada;
+
+d) las que se derivan de la falta de legitimación del portador;
+
+e) la de alteración del texto del título o, en su caso, del texto inscripto según el artículo 1850;
+
+f) las de prescripción o caducidad;
+
+g) las que se fundan en la cancelación del título valor o en la suspensión de su pago ordenada conforme a lo previsto en este Capítulo;
+
+h) las de carácter procesal que establecen las leyes respectivas.
+
+ARTICULO 1822.- Medidas precautorias. Las medidas precautorias, secuestro, gravámenes y cualquier otra afectación del derecho conferido por el título valor, no tienen efecto si no se llevan a cabo:
+
+a) en los títulos valores al portador, a la orden o nominativos endosables, sobre el mismo documento;
+
+b) en los títulos nominativos no endosables, y en los no cartulares, por su inscripción en el registro respectivo;
+
+c) cuando un título valor se ha ingresado a una caja de valores o a una cámara compensadora o sistema de compensación autorizado, la medida debe notificarse a la entidad pertinente, la que la debe registrar conforme con sus reglamentos.
+
+ARTICULO 1823.- Firmas falsas y otros supuestos. Aunque por cualquier motivo el título valor contenga firmas falsas, o de personas inexistentes o que no resulten obligadas por la firma, son válidas las obligaciones de los demás suscriptores, y se aplica lo dispuesto por el artículo 1819.
+
+ARTICULO 1824.- Incumplimiento del asentimiento conyugal. El incumplimiento del requisito previsto en el artículo 470, inciso b) en los títulos nominativos no endosables o no cartulares, no es oponible a terceros portadores de buena fe. Al efecto previsto por este artículo, se considera de buena fe al adquirente de un título valor incorporado al régimen de oferta pública.
+
+ARTICULO 1825.- Representación inexistente o insuficiente. Quien invoca una representación inexistente o actúa sin facultades suficientes, es personalmente responsable como si actuara en nombre propio. Igual responsabilidad tiene quien falsifica la firma incorporada a un título valor.
+
+ARTICULO 1826.- Responsabilidad. Excepto disposición legal o cláusula expresa en el título valor o en uno de sus actos de transmisión o garantía, están solidariamente obligados al pago los creadores del título valor, pero no los demás intervinientes.
+
+Las obligaciones resultantes de un título valor pueden ser garantizadas por todas las garantías que sean compatibles. Las garantías otorgadas en el texto del documento o que surgen de la inscripción del artículo 1850, son invocables por todos los titulares y, si no hay disposición expresa en contrario, se consideran solidarias con las de los otros obligados.
+
+ARTICULO 1827.- Novación. Excepto novación, la creación o transmisión de un título valor no perjudica las acciones derivadas del negocio causal o subyacente. El portador sólo puede ejercer la acción causal contra el deudor requerido si el título valor no está perjudicado, y ofrece su restitución si el título valor es cartular.
+
+Si el portador ha perdido las acciones emergentes del título valor y no tiene acción causal, se aplica lo dispuesto sobre enriquecimiento sin causa.
+
+ARTICULO 1828.- Títulos representativos de mercaderías. Los títulos representativos de mercaderías atribuyen al portador legítimo el derecho a la entrega de la cosa, su posesión y el poder de disponerla mediante la transferencia del título.
+
+ARTICULO 1829.- Cuotapartes de fondos comunes de inversión. Son títulos valores las cuotapartes de fondos comunes de inversión.
+
+SECCION 2ª
+
+Títulos valores cartulares
+
+ARTICULO 1830.- Necesidad. Los títulos valores cartulares son necesarios para la creación, transmisión, modificación y ejercicio del derecho incorporado.
+
+ARTICULO 1831.- Literalidad. El tenor literal del documento determina el alcance y las modalidades de los derechos y obligaciones consignadas en él, o en su hoja de prolongación.
+
+ARTICULO 1832.- Alteraciones. En caso de alteración del texto de un título valor cartular, los firmantes posteriores quedan obligados en los términos del texto alterado; los firmantes anteriores están obligados en los términos del texto original.
+
+Si no resulta del título valor o no se demuestra que la firma fue puesta después de la alteración, se presume que ha sido puesta antes.
+
+ARTICULO 1833.- Requisitos. Contenido mínimo. Cuando por ley o por disposición del creador, el título valor debe incluir un contenido particular con carácter esencial, no produce efecto cuando no contiene esas enunciaciones.
+
+El título valor en el que se omiten las referidas menciones al tiempo de su creación, puede ser completado hasta la fecha en que debe cumplirse la prestación, excepto disposición en contrario.
+
+ARTICULO 1834.- Aplicación subsidiaria. Las normas de esta Sección:
+
+a) se aplican en subsidio de las especiales que rigen para títulos valores determinados;
+
+b) no se aplican cuando leyes especiales así lo disponen, incluso en cuanto ellas se refieren a la obligatoriedad de alguna forma de creación o circulación de los títulos valores o de clases de ellos.
+
+ARTICULO 1835.- Títulos impropios y documentos de legitimación. Las disposiciones de este Capítulo no se aplican a los documentos, boletos, contraseñas, fichas u otros comprobantes que sirven exclusivamente para identificar a quien tiene derecho a exigir la prestación que en ellos se expresa o a que ellos dan lugar, o a permitir la transferencia del derecho sin la observancia de las formas propias de la cesión.
+
+ARTICULO 1836.- Desmaterialización e ingreso en sistemas de anotaciones en cuenta. Los títulos valores tipificados legalmente como cartulares también pueden emitirse como no cartulares, para su ingreso y circulación en una caja de valores o un sistema autorizado de compensación bancaria o de anotaciones en cuenta.
+
+Los títulos valores emitidos efectivamente como cartulares pueden ingresarse a alguno de estos sistemas, conforme con sus reglamentos, momento a partir del cual las transferencias, gravámenes reales o personales y pago tienen efecto o se cumplen por las anotaciones en cuenta pertinentes.
+
+Parágrafo 1°
+
+Títulos valores al portador
+
+ARTICULO 1837.- Concepto. Es título valor al portador, aunque no tenga cláusula expresa en tal sentido, aquel que no ha sido emitido en favor de sujeto determinado, o de otro modo indicada una ley de circulación diferente.
+
+La transferencia de un título valor al portador se produce con la tradición del título.
+
+Parágrafo 2°
+
+Títulos valores a la orden
+
+ARTICULO 1838.- Tipificación. Es título valor a la orden el creado a favor de persona determinada. Sin necesidad de indicación especial, el título valor a la orden se transfiere mediante endoso.
+
+Si el creador del título valor incorpora la cláusula “no a la orden” o equivalentes, la transferencia del título valor debe hacerse conforme con las reglas de la cesión de derechos, y tiene los efectos propios de la cesión.
+
+ARTICULO 1839.- Endoso. El endoso debe constar en el título o en hoja de prolongación debidamente adherida e identificada y ser firmado por el endosante. Es válido el endoso aun sin mención del endosatario, o con la indicación "al portador".
+
+El endoso al portador tiene los efectos del endoso en blanco. El endoso puede hacerse al creador del título valor o a cualquier otro obligado, quienes pueden endosar nuevamente el título valor.
+
+En los fideicomisos financieros constituidos de conformidad con el artículo 1.690, que cuenten con autorización de oferta pública de sus títulos valores por parte del organismo de contralor de los mercados de valores, y cuyo activo subyacente se encuentre conformado por créditos instrumentados en títulos ejecutivos, se puede utilizar como mecanismo alternativo un endoso global, que debe ser otorgado por instrumento público y contener la identificación de los títulos endosados.
+
+(Artículo sustituido por art. 204 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 1840.- Condición y endoso parcial. Cualquier condición puesta al endoso se tiene por no escrita. Es nulo el endoso parcial.
+
+ARTICULO 1841.- Tiempo del endoso. El endoso puede ser efectuado en cualquier tiempo antes del vencimiento. El endoso sin fecha se presume efectuado antes del vencimiento.
+
+El endoso posterior al vencimiento produce los efectos de una cesión de derechos.
+
+ARTICULO 1842.- Legitimación. El portador de un título a la orden queda legitimado para el ejercicio del derecho en él incorporado, por una serie no interrumpida de endosos formalmente válidos, aun cuando el último sea en blanco.
+
+ARTICULO 1843.- Endoso en blanco. Si el título es endosado en blanco, el portador puede llenar el endoso con su nombre o con el de otra persona, o endosar nuevamente el título, o transmitirlo a un tercero sin llenar el endoso o sin extender uno nuevo.
+
+ARTICULO 1844.- Endoso en procuración. Si el endoso contiene la cláusula “en procuración” u otra similar, el endosatario puede ejercer, incluso judicialmente, todos los derechos inherentes al título valor, pero sólo puede endosarlo en procuración.
+
+Los obligados sólo pueden oponer al endosatario en procuración las excepciones que pueden ser opuestas al endosante.
+
+La eficacia del endoso en procuración no cesa por muerte o incapacidad sobrevenida del endosante.
+
+ARTICULO 1845.- Endoso en garantía. Si el endoso contiene la cláusula “valor en prenda” u otra similar, el endosatario puede ejercer, incluso judicialmente, todos los derechos inherentes al título valor, pero el endoso hecho por él vale como endoso en procuración.
+
+El deudor demandado no puede invocar contra el portador las excepciones fundadas en sus relaciones con el endosante, a menos que el portador al recibir el título lo haya hecho a sabiendas en perjuicio de aquél.
+
+ARTICULO 1846.- Responsabilidad. Excepto cláusula expresa, el endosante responde por el cumplimiento de la obligación incorporada.
+
+En cualquier caso, el endosante puede excluir total o parcialmente su responsabilidad mediante cláusula expresa.
+
+Parágrafo 3°
+
+Títulos valores nominativos endosables
+
+ARTICULO 1847.- Régimen. Es título nominativo endosable el emitido en favor de una persona determinada, que sea transmisible por endoso y cuya transmisión produce efectos respecto al emisor y a terceros al inscribirse en el respectivo registro.
+
+El endosatario que justifica su derecho por una serie ininterrumpida de endosos está legitimado para solicitar la inscripción de su título.
+
+Si el emisor del título se niega a inscribir la transmisión, el endosatario puede reclamar la orden judicial correspondiente.
+
+ARTICULO 1848.- Reglas aplicables. Son aplicables a los títulos nominativos endosables las disposiciones compatibles de los títulos valores a la orden.
+
+Parágrafo 4°
+
+Títulos valores nominativos no endosables
+
+ARTICULO 1849.- Régimen. Es título valor nominativo no endosable el emitido a favor de una persona determinada, y cuya transmisión produce efectos respecto al emisor y a terceros al inscribirse en el respectivo registro.
+
+SECCION 3ª
+
+Títulos valores no cartulares
+
+ARTICULO 1850.- Régimen. Cuando por disposición legal o cuando en el instrumento de creación se inserta una declaración expresa de voluntad de obligarse de manera incondicional e irrevocable, aunque la prestación no se incorpore a un documento, puede establecerse la circulación autónoma del derecho, con sujeción a lo dispuesto en el artículo 1820.
+
+La transmisión o constitución de derechos reales sobre el título valor, los gravámenes, secuestros, medidas precautorias y cualquier otra afectación de los derechos conferidos por el título valor deben efectuarse mediante asientos en registros especiales que debe llevar el emisor o, en nombre de éste, una caja de valores, una entidad financiera autorizada o un escribano de registro, momento a partir del cual la afectación produce efectos frente a terceros.
+
+A los efectos de determinar el alcance de los derechos emergentes del título valor así creado debe estarse al instrumento de creación, que debe tener fecha cierta. Si el título valor es admitido a la oferta pública es suficiente su inscripción ante la autoridad de contralor y en las bolsas o mercados en los que se negocia.
+
+Se aplica respecto del tercero que adquiera el título valor lo dispuesto por los artículos 1816 y 1819.
+
+ARTICULO 1851.- Comprobantes de saldos. La entidad que lleve el registro debe expedir comprobantes de saldos de cuentas, a efectos de:
+
+a) legitimar al titular para reclamar judicialmente, incluso mediante acción ejecutiva si corresponde, o ante jurisdicción arbitral en su caso, presentar solicitudes de verificación de crédito o participar en procesos universales para lo que es suficiente título dicho comprobante, sin necesidad de autenticación u otro requisito. Su expedición importa el bloqueo de la cuenta respectiva, sólo para inscribir actos de disposición por su titular, por un plazo de treinta días, excepto que el titular devuelva el comprobante o dentro de dicho plazo se reciba una orden de prórroga del bloqueo del juez o tribunal arbitral ante el cual el comprobante se hizo valer. Los comprobantes deben mencionar estas circunstancias;
+
+b) asistir a asambleas u otros actos vinculados al régimen de los títulos valores. La expedición de comprobantes del saldo de cuenta para la asistencia a asambleas o el ejercicio de derechos de voto importa el bloqueo de la cuenta respectiva hasta el día siguiente al fijado para la celebración de la asamblea correspondiente. Si la asamblea pasa a cuarto intermedio o se reúne en otra oportunidad, se requiere la expedición de nuevos comprobantes pero éstos sólo pueden expedirse a nombre de las mismas personas que fueron legitimadas mediante la expedición de los comprobantes originales;
+
+c) los fines que estime necesario el titular a su pedido.
+
+En los casos de los incisos a) y b) no puede extenderse un comprobante mientras está vigente otro expedido para la misma finalidad.
+
+Se pueden expedir comprobantes de los títulos valores representados en certificados globales a favor de las personas que tengan una participación en los mismos, a los efectos y con el alcance indicados en el inciso a). El bloqueo de la cuenta sólo afecta a los títulos valores a los que refiere el comprobante. Los comprobantes son emitidos por la entidad del país o del exterior que administre el sistema de depósito colectivo en el cual se encuentran inscriptos los certificados globales. Cuando entidades administradoras de sistemas de depósito colectivo tienen participaciones en certificados globales inscriptos en sistemas de depósito colectivo administrados por otra entidad, los comprobantes pueden ser emitidos directamente por las primeras.
+
+En todos los casos, los gastos son a cargo del solicitante.
+
+SECCION 4ª
+
+Deterioro, sustracción, pérdida y destrucción de títulos valores o de sus registros
+
+Parágrafo 1°
+
+Normas comunes para títulos valores
+
+ARTICULO 1852.- Ambito de aplicación. Jurisdicción. Las disposiciones de esta Sección se aplican en caso de sustracción, pérdida o destrucción de títulos valores incorporados a documentos representativos, en tanto no existan normas especiales para tipos determinados de ellos. El procedimiento se lleva a cabo en jurisdicción del domicilio del creador, en los títulos valores en serie; o en la del lugar de pago, en los títulos valores individuales. Los gastos son a cargo del solicitante.
+
+La cancelación del título valor no perjudica los derechos de quien no formula oposición respecto de quien obtiene la cancelación.
+
+En los supuestos en que la sentencia que ordena la cancelación queda firme, el juez puede exigir que el solicitante preste caución en resguardo de los derechos del adquirente del título valor cancelado, por un plazo no superior a dos años.
+
+ARTICULO 1853.- Sustitución por deterioro. El portador de un título valor deteriorado, pero identificable con certeza, tiene derecho a obtener del emisor un duplicado si restituye el original y reembolsa los gastos. Los firmantes del título valor original están obligados a reproducir su firma en el duplicado.
+
+ARTICULO 1854.- Obligaciones de terceros. Si los títulos valores instrumentaban obligaciones de otras personas, además de las del emisor, deben reproducirlas en los nuevos títulos. Igualmente debe efectuarse una atestación notarial de correlación.
+
+Cuando los terceros se oponen a reproducir instrumentalmente sus obligaciones, debe resolver el juez por el procedimiento contradictorio más breve que prevea la ley local, sin perjuicio del otorgamiento de los títulos valores provisorios o definitivos, cuando corresponda.
+
+Parágrafo 2°
+
+Normas aplicables a títulos valores en serie
+
+ARTICULO 1855.- Denuncia. En los casos previstos en el artículo 1852 el titular o portador legítimo debe denunciar el hecho al emisor mediante escritura pública o, tratándose de títulos ofertados públicamente, por nota con firma certificada por notario o presentada personalmente ante la autoridad pública de control, una entidad en que se negocien los títulos valores o el Banco Central de la República Argentina, si es el emisor. Debe acompañar una suma suficiente, a criterio del emisor, para satisfacer los gastos de publicación y correspondencia.
+
+La denuncia debe contener:
+
+a) la individualización de los títulos valores, indicando, en su caso, denominación, valor nominal, serie y numeración;
+
+b) la manera como adquirió la titularidad, posesión o tenencia de los títulos y la época y, de ser posible, la fecha de los actos respectivos;
+
+c) fecha, forma y lugar de percepción del último dividendo, interés, cuota de amortización o del ejercicio de los derechos emergentes del título;
+
+d) enunciación de las circunstancias que causaron la pérdida, sustracción o destrucción. Si la destrucción fuera parcial, debe exhibir los restos de los títulos valores en su poder;
+
+e) constitución de domicilio especial en la jurisdicción donde tuviera la sede el emisor o, en su caso, en el lugar de pago.
+
+ARTICULO 1856.- Suspensión de efectos. El emisor debe suspender de inmediato los efectos de los títulos con respecto a terceros, bajo responsabilidad del peticionante, y entregar al denunciante constancia de su presentación y de la suspensión dispuesta.
+
+Igual suspensión debe disponer, en caso de títulos valores ofertados públicamente, la entidad ante quien se presente la denuncia.
+
+ARTICULO 1857.- Publicación. El emisor debe publicar en el Boletín Oficial y en uno de los diarios de mayor circulación en la República, por un día, un aviso que debe contener el nombre, documento de identidad y domicilio especial del denunciante, así como los datos necesarios para la identificación de los títulos valores comprendidos, e incluir la especie, numeración, valor nominal y cupón corriente de los títulos, en su caso y la citación a quienes se crean con derecho a ellos para que deduzcan oposición, dentro de los sesenta días. Las publicaciones deben ser diligenciadas por el emisor dentro del día hábil siguiente a la presentación de la denuncia.
+
+ARTICULO 1858.- Títulos con cotización pública. Cuando los títulos valores cotizan públicamente, además de las publicaciones mencionadas en el artículo 1857, el emisor o la entidad que recibe la denuncia, está obligado a comunicarla a la entidad en la que coticen más cercana a su domicilio y, en su caso, al emisor en el mismo día de su recepción. La entidad debe hacer saber la denuncia, en igual plazo, al órgano de contralor de los mercados de valores, a las cajas de valores, y a las restantes entidades expresamente autorizadas por la ley especial o la autoridad de aplicación en que coticen los títulos valores.
+
+Las entidades expresamente autorizadas por la ley especial o la autoridad de aplicación en que se negocian los títulos valores, deben publicar un aviso en su órgano informativo o hacerlo saber por otros medios adecuados, dentro del mismo día de recibida la denuncia o la comunicación pertinente.
+
+Las entidades expresamente autorizadas por la ley especial o la autoridad de aplicación deben llevar un registro para consulta de los interesados, con la nómina de los títulos valores que hayan sido objeto de denuncia.
+
+ARTICULO 1859.- Partes interesadas. El denunciante debe indicar, en su caso, el nombre y domicilio de la persona por quien posee o por quien tiene en su poder el título valor, así como en su caso el de los usufructuarios y el de los acreedores prendarios de aquél. El emisor debe citar por medio fehaciente a las personas indicadas por el denunciante o las que figuran con tales calidades en el respectivo registro, en los domicilios denunciados o registrados, a los fines del artículo 1857. La ausencia de denuncia o citación no invalida el procedimiento, sin perjuicio de las responsabilidades consiguientes.
+
+ARTICULO 1860.- Observaciones. El emisor debe expresar al denunciante dentro de los diez días las observaciones que tiene sobre el contenido de la denuncia o su verosimilitud.
+
+ARTICULO 1861.- Certificado provisorio. Pasados sesenta días desde la última publicación indicada en el artículo 1857, el emisor debe extender un certificado provisorio no negociable, excepto que se presente alguna de las siguientes circunstancias:
+
+a) que a su criterio no se hayan subsanado las observaciones indicadas;
+
+b) que se hayan presentado uno o más contradictores dentro del plazo;
+
+c) que exista orden judicial en contrario;
+
+d) que se haya aplicado lo dispuesto en los artículos 1866 y 1867.
+
+ARTICULO 1862.- Denegación. Acciones. Denegada la expedición del certificado provisorio, el emisor debe hacerlo saber por medio fehaciente al denunciante. Este tiene expedita la acción ante el juez del domicilio del emisor para que le sea extendido el certificado o por reivindicación o, en el caso del inciso d) del artículo 1861, por los daños que correspondan.
+
+ARTICULO 1863.- Depósito o entrega de las prestaciones. Las prestaciones dinerarias correspondientes al certificado provisorio deben ser depositadas por el emisor, a su vencimiento, en el banco oficial de su domicilio. El denunciante puede indicar, en cada oportunidad, la modalidad de inversión de su conveniencia, entre las ofrecidas por el banco oficial. En su defecto, el emisor la determina entre las corrientes en plaza, sin responsabilidad.
+
+A pedido del denunciante y previa constitución de garantía suficiente, a juicio del emisor, éste puede entregarle las acreencias dinerarias a su vencimiento, o posteriormente desafectándolas del depósito, con conformidad del peticionario. La garantía se mantiene, bajo responsabilidad del emisor, durante el plazo previsto en el artículo 1865, excepto orden judicial en contrario.
+
+Si no existe acuerdo sobre la suficiencia de la garantía, resuelve el juez con competencia en el domicilio del emisor, por el procedimiento más breve previsto por la legislación local.
+
+ARTICULO 1864.- Ejercicio de derechos de contenido no dinerario. Si el título valor otorga derechos de contenido no dinerarios, sin perjuicio del cumplimiento de los demás procedimientos establecidos, el juez puede autorizar, bajo la caución que estime apropiada, el ejercicio de esos derechos y la recepción de las prestaciones pertinentes.
+
+Respecto de las prestaciones dinerarias, se aplican las normas comunes de esta Sección.
+
+ARTICULO 1865.- Títulos valores definitivos. Transcurrido un año desde la entrega del certificado provisorio, el emisor lo debe canjear por un nuevo título definitivo, a todos los efectos legales, previa cancelación del original, excepto que medie orden judicial en contrario. El derecho a solicitar conversión de los títulos valores cancelados se suspende mientras esté vigente el certificado provisorio.
+
+ARTICULO 1866.- Presentación del portador. Si dentro del plazo establecido en el artículo 1865 se presenta un tercero con el título valor en su poder, adquirido conforme con su ley de circulación, el emisor debe hacerlo saber de inmediato en forma fehaciente al denunciante. Los efectos que prevé el artículo 1865, así como los del artículo 1863, segundo y tercer párrafos, quedan en suspenso desde la presentación hasta que el juez competente se pronuncie. El denunciante debe iniciar la acción judicial dentro de los dos meses de la notificación por el emisor; caso contrario, caduca su derecho respecto del título valor.
+
+ARTICULO 1867.- Adquirente en bolsa o caja de valores. El tercer portador que haya adquirido el título valor sin culpa grave, que se oponga dentro del plazo del artículo 1865 y acredite que, con anterioridad a la primera publicación del artículo 1857 o a la publicación por el órgano informativo u otros medios adecuados en la entidad expresamente autorizada por la ley especial o la autoridad de aplicación en que coticen los títulos valores, lo que ocurra primero, adquirió el título valor en una entidad así autorizada, aun cuando le haya sido entregado con posterioridad a las publicaciones o comunicaciones, puede reclamar directamente del emisor:
+
+a) el levantamiento de la suspensión de los efectos de los títulos valores;
+
+b) la cancelación del certificado provisorio que se haya entregado al denunciante;
+
+c) la entrega de las acreencias que hayan sido depositadas conforme al artículo 1863.
+
+La adquisición o tenencia en los supuestos indicados impide el ejercicio de la acción reivindicatoria por el denunciante, y deja a salvo la acción por daños contra quienes, por su dolo o culpa, han hecho posible o contribuido a la pérdida de su derecho.
+
+ARTICULO 1868.- Desestimación de oposición. Debe desestimarse sin más trámite toda oposición planteada contra una caja de valores respecto del título valor recibido de buena fe, cuyo depósito colectivo se haya perfeccionado antes de recibir dicha caja la comunicación de la denuncia que prevé el artículo 1855, y a más tardar o en defecto de esa comunicación, hasta la publicación del aviso que establece el artículo 1857. Ello, sin perjuicio de los derechos del oponente sobre la cuotaparte de títulos valores de igual especie, clase y emisor que corresponda al comitente responsable.
+
+También debe desestimarse sin más trámite toda oposición planteada contra un depositante autorizado, respecto del título valor recibido de buena fe para ingresarlo en depósito colectivo en una caja de valores antes de las publicaciones que prevén los artículos 1855, 1857 y 1858, sin perjuicio de los derechos del oponente mencionados en el párrafo anterior.
+
+En caso de destrucción total o parcial de un título valor depositado, la caja de valores queda obligada a cumplir con las disposiciones de esta Sección.
+
+ARTICULO 1869.- Títulos valores nominativos no endosables. Si se trata de título valor nominativo no endosable, dándose las condiciones previstas en el artículo 1861, el emisor debe extender directamente un nuevo título valor definitivo a nombre del titular registrado y dejar constancia de los gravámenes existentes. En el caso, no corresponde la aplicación de los artículos 1864 y 1865.
+
+ARTICULO 1870.- Cupones separables. El procedimiento comprende los cupones separables vinculados con el título valor, en tanto no haya comenzado su período de utilización al efectuarse la primera publicación. Los cupones separables en período de utilización, deben someterse al procedimiento que corresponda según su ley de circulación.
+
+Parágrafo 3°
+
+Normas aplicables a los títulos valores individuales
+
+ARTICULO 1871.- Denuncia. El último portador debe denunciar judicialmente el hecho, y solicitar la cancelación de los títulos valores.
+
+La demanda debe contener:
+
+a) la individualización precisa de los títulos valores cuya desposesión se denuncia;
+
+b) las circunstancias en las cuales el título valor fue adquirido por el denunciante, precisando la fecha o época de su adquisición;
+
+c) la indicación de las prestaciones percibidas por el denunciante, y las pendientes de percepción, devengadas o no;
+
+d) las circunstancias que causaron la pérdida, sustracción o destrucción. En todos los casos, el solicitante puede realizar actos conservatorios de sus derechos.
+
+ARTICULO 1872.- Notificación. Hecha la presentación a que se refiere el artículo 1871, y si los datos aportados resultan en principio verosímiles, el juez debe ordenar la notificación de la sustracción, pérdida o destrucción al creador del título valor y a los demás firmantes obligados al pago, disponiendo su cancelación y autorizando el pago de las prestaciones exigibles después de los treinta días de cumplida la publicación prevista en el artículo siguiente, si no se deduce oposición.
+
+ARTICULO 1873.- Publicación. Pago anterior. La resolución judicial prevista en el artículo 1872 debe ordenar, además, la publicación de un edicto por un día en el Boletín Oficial y en uno de los diarios de mayor circulación del lugar del procedimiento, que debe contener:
+
+a) los datos del denunciante y la identificación del título valor cuya desposesión fue denunciada;
+
+b) la citación para que los interesados deduzcan oposición al procedimiento, la que debe formularse dentro de los treinta días de la publicación.
+
+El pago hecho antes de la publicación es liberatorio si es efectuado sin dolo ni culpa.
+
+ARTICULO 1874.- Duplicado. Cumplimiento. Transcurridos treinta días sin que se formule oposición, el solicitante tiene derecho a obtener un duplicado del título valor, si la prestación no es exigible; o a reclamar el cumplimiento de la prestación exigible, con el testimonio de la sentencia firme de cancelación.
+
+El solicitante tiene el mismo derecho cuando la oposición es desestimada.
+
+ARTICULO 1875.- Oposición. La oposición tramita por el procedimiento más breve previsto en la ley local.
+
+El oponente debe depositar el título valor ante el juez interviniente al deducir la oposición, que le debe ser restituido si es admitida. Si es rechazada, el título valor se debe entregar a quien obtuvo la sentencia de cancelación.
+
+Parágrafo 4°
+
+Sustracción, pérdida o destrucción de los libros de registro
+
+ARTICULO 1876.- Denuncia. Si se trata de títulos valores nominativos o títulos valores no cartulares, incluso los ingresados a sistemas de anotaciones en cuenta según el artículo 1836, la sustracción, pérdida o destrucción del libro de registro respectivo, incluso cuando son llevados por ordenadores, medios mecánicos o magnéticos u otros, debe ser denunciada por el emisor o por quien lo lleva en su nombre, dentro de las veinticuatro horas de conocido el hecho.
+
+La denuncia debe efectuarse ante el juez del domicilio del emisor, con indicación de los elementos necesarios para juzgarla y contener los datos que puede aportar el denunciante sobre las constancias que incluía el libro.
+
+Copias de la denuncia deben ser presentadas en igual término al organismo de contralor societario, al organismo de contralor de los mercados de valores y a las entidades expresamente autorizadas por la ley especial o la autoridad de aplicación y cajas de valores respectivos, en su caso.
+
+ARTICULO 1877.- Publicaciones. Recibida la denuncia, el juez ordena la publicación de edictos por cinco días en el Boletín Oficial y en uno de los diarios de mayor circulación en la República para citar a quienes pretenden derechos sobre los títulos valores respectivos, para que se presenten dentro de los treinta días al perito contador que se designe, para alegar y probar cuanto estimen pertinente, bajo apercibimiento de resolverse con las constancias que se agreguen a las actuaciones. Los edictos deben contener los elementos necesarios para identificar al emisor, los títulos valores a los que se refiere el registro y las demás circunstancias que el juez considere oportunas, así como las fechas para ejercer los derechos a que se refiere el artículo 1878.
+
+Si el emisor tiene establecimientos en distintas jurisdicciones judiciales, los edictos se deben publicar en cada una de ellas.
+
+Si el emisor ha sido autorizado a la oferta pública de los títulos valores a los que se refiere el registro, la denuncia debe hacerse conocer de inmediato al organismo de contralor de los mercados de valores y a las entidades expresamente autorizadas por la ley especial o la autoridad de aplicación en los que se negocien, debiéndose publicar edictos en los boletines respectivos. Si los títulos valores han sido colocados o negociados públicamente en el exterior, el juez debe ordenar las publicaciones o comunicaciones que estime apropiadas.
+
+ARTICULO 1878.- Trámite. Las presentaciones se efectúan ante el perito contador designado por el juez. Se aplica el procedimiento de la verificación de créditos en los concursos, incluso en cuanto a los efectos de las resoluciones, los recursos y las presentaciones tardías.
+
+Las costas ordinarias del procedimiento son soportadas solidariamente por el emisor y por quien llevaba el libro, sin perjuicio de la repetición entre ellos.
+
+ARTICULO 1879.- Nuevo libro. El juez debe disponer la confección de un nuevo libro de registro, en el que se asienten las inscripciones que se ordenen por sentencia firme.
+
+ARTICULO 1880.- Ejercicio de derechos. El juez puede conceder a los presentantes el ejercicio cautelar de los derechos emergentes de los títulos valores antes de la confección del nuevo libro, en su caso, antes de que se dicte o quede firme la sentencia que ordena la inscripción respecto de un título valor determinado, conforme a la verosimilitud del derecho invocado y, de estimarlo necesario, bajo la caución que determine. En todos los casos, el emisor debe depositar a la orden del juez las prestaciones de contenido patrimonial que sean exigibles.
+
+ARTICULO 1881.- Medidas especiales. La denuncia de sustracción, pérdida o destrucción del libro de registro autoriza al juez, a pedido de parte interesada y conforme a las circunstancias del caso, a disponer una intervención cautelar o una veeduría respecto del emisor y de quien llevaba el libro, con la extensión que estima pertinente para la adecuada protección de quienes resultan titulares de derechos sobre los títulos valores registrados. Puede, también, ordenar la suspensión de la realización de asambleas, cuando circunstancias excepcionales así lo aconsejen.

@@ -1,0 +1,639 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO TERCERO - DERECHOS PERSONALES - TITULO 4
+TITULO 4: Contratos en particular
+Articulos: 1574 a 1707
+
+Contenido:
+Capitulo 23 - Fianza
+Capitulo 24 - Contrato oneroso de renta vitalicia
+Capitulo 25 - Contratos de juego y de apuesta
+Capitulo 26 - Cesión de derechos
+Capitulo 27 - Cesión de la posición contractual
+Capitulo 28 - Transacción
+Capitulo 29 - Contrato de arbitraje
+Capitulo 30 - Contrato de fideicomiso
+Capitulo 31 - Dominio fiduciario
+
+-----------------------------------------
+CAPITULO 23
+
+Fianza
+
+SECCION 1ª
+
+Disposiciones generales
+
+ARTICULO 1574.- Concepto. Hay contrato de fianza cuando una persona se obliga accesoriamente por otra a satisfacer una prestación para el caso de incumplimiento.
+
+Si la deuda afianzada es de entregar cosa cierta, de hacer que sólo puede ser cumplida personalmente por el deudor, o de no hacer, el fiador sólo queda obligado a satisfacer los daños que resulten de la inejecución.
+
+ARTICULO 1575.- Extensión de las obligaciones del fiador. La prestación a cargo del fiador debe ser equivalente a la del deudor principal, o menor que ella, y no puede sujetarse a estipulaciones que la hagan más onerosa.
+
+La inobservancia de la regla precedente no invalida la fianza, pero autoriza su reducción a los límites de la obligación principal.
+
+El fiador puede constituir garantías en seguridad de su fianza.
+
+ARTICULO 1576.- Incapacidad del deudor. El fiador no puede excusar su responsabilidad en la incapacidad del deudor.
+
+ARTICULO 1577.- Obligaciones que pueden ser afianzadas. Puede ser afianzada toda obligación actual o futura, incluso la de otro fiador.
+
+ARTICULO 1578.- Fianza general. Es válida la fianza general que comprenda obligaciones actuales o futuras, incluso indeterminadas; en todos los casos debe precisarse el monto máximo al cual se obliga el fiador. Esta fianza no se extiende a las nuevas obligaciones contraídas por el afianzado después de los cinco años de otorgada.
+
+La fianza indeterminada en el tiempo puede ser retractada, caso en el cual no se aplica a las obligaciones contraídas por el afianzado después que la retractación sea notificada al acreedor.
+
+ARTICULO 1579.- Forma. La fianza debe convenirse por escrito.
+
+ARTICULO 1580.- Extensión de la fianza. Excepto pacto en contrario, la fianza comprende los accesorios de la obligación principal y los gastos que razonablemente demande su cobro, incluidas las costas judiciales.
+
+ARTICULO 1581.- Cartas de recomendación o patrocinio. Las cartas denominadas de recomendación, patrocinio o de otra manera, por las que se asegure la solvencia, probidad u otro hecho relativo a quien procura créditos o una contratación, no obligan a su otorgante, excepto que hayan sido dadas de mala fe o con negligencia, supuesto en que debe indemnizar los daños sufridos por aquel que da crédito o contrata confiando en tales manifestaciones.
+
+ARTICULO 1582.- Compromiso de mantener una determinada situación. El compromiso de mantener o generar una determinada situación de hecho o de derecho no es considerado fianza, pero su incumplimiento genera responsabilidad del obligado.
+
+SECCION 2ª
+
+Efectos entre el fiador y el acreedor
+
+ARTICULO 1583.- Beneficio de excusión. El acreedor sólo puede dirigirse contra el fiador una vez que haya excutido los bienes del deudor. Si los bienes excutidos sólo alcanzan para un pago parcial, el acreedor sólo puede demandar al fiador por el saldo.
+
+ARTICULO 1584.- Excepciones al beneficio de excusión. El fiador no puede invocar el beneficio de excusión si:
+
+a) el deudor principal se ha presentado en concurso preventivo o ha sido declarada su quiebra;
+
+b) el deudor principal no puede ser demandado judicialmente en el territorio nacional o carece de bienes en la República;
+
+c) la fianza es judicial;
+
+d) el fiador ha renunciado al beneficio.
+
+ARTICULO 1585.- Beneficio de excusión en caso de coobligados. El fiador de un codeudor solidario puede exigir la excusión de los bienes de los demás codeudores.
+
+El que afianza a un fiador goza del beneficio de excusión respecto de éste y del deudor principal.
+
+ARTICULO 1586.- Subsistencia del plazo. No puede ser exigido el pago al fiador antes del vencimiento del plazo otorgado al deudor principal, aun cuando éste se haya presentado en concurso preventivo o haya sido declarada su quiebra, excepto pacto en contrario.
+
+ARTICULO 1587.- Defensas. El fiador puede oponer todas las excepciones y defensas propias y las que correspondan al deudor principal, aun cuando éste las haya renunciado.
+
+ARTICULO 1588.- Efectos de la sentencia. No es oponible al fiador la sentencia relativa a la validez, o exigibilidad de la deuda principal dictada en juicio al que no haya sido oportunamente citado a intervenir.
+
+ARTICULO 1589.- Beneficio de división. Si hay más de un fiador, cada uno responde por la cuota a que se ha obligado. Si nada se ha estipulado, responden por partes iguales. El beneficio de división es renunciable.
+
+ARTICULO 1590.- Fianza solidaria. La responsabilidad del fiador es solidaria con la del deudor cuando así se convenga expresamente o cuando el fiador renuncia al beneficio de excusión.
+
+ARTICULO 1591.- Principal pagador. Quien se obliga como principal pagador, aunque sea con la denominación de fiador, es considerado deudor solidario y su obligación se rige por las disposiciones aplicables a las obligaciones solidarias.
+
+SECCION 3ª
+
+Efectos entre el deudor y el fiador
+
+ARTICULO 1592.- Subrogación. El fiador que cumple con su prestación queda subrogado en los derechos del acreedor y puede exigir el reembolso de lo que ha pagado, con sus intereses desde el día del pago y los daños que haya sufrido como consecuencia de la fianza.
+
+ARTICULO 1593.- Aviso. Defensas. El fiador debe dar aviso al deudor principal del pago que ha hecho.
+
+El deudor puede oponer al fiador que paga sin su consentimiento todas las defensas que tenía contra el acreedor; y si el deudor ha pagado al acreedor antes de tener conocimiento del pago hecho por el fiador, éste sólo puede repetir contra el acreedor.
+
+ARTICULO 1594.- Derechos del fiador. El fiador tiene derecho a obtener el embargo de los bienes del deudor u otras garantías suficientes si:
+
+a) le es demandado judicialmente el pago;
+
+b) vencida la obligación, el deudor no la cumple;
+
+c) el deudor se ha obligado a liberarlo en un tiempo determinado y no lo hace;
+
+d) han transcurrido cinco años desde el otorgamiento de la fianza, excepto que la obligación afianzada tenga un plazo más extenso;
+
+e) el deudor asume riesgos distintos a los propios del giro de sus negocios, disipa sus bienes o los da en seguridad de otras operaciones;
+
+f) el deudor pretende ausentarse del país sin dejar bienes suficientes para el pago de la deuda afianzada.
+
+SECCION 4ª
+
+Efectos entre los cofiadores
+
+ARTICULO 1595.- Subrogación. El cofiador que cumple la obligación accesoria en exceso de la parte que le corresponde, queda subrogado en los derechos del acreedor contra los otros cofiadores.
+
+Si uno de ellos resulta insolvente, la pérdida es soportada por todos los cofiadores, incluso el que realiza el pago.
+
+SECCION 5ª
+
+Extinción de la fianza
+
+ARTICULO 1596.- Causales de extinción. La fianza se extingue por las siguientes causales especiales:
+
+a) si por hecho del acreedor no puede hacerse efectiva la subrogación del fiador en las garantías reales o privilegios que accedían al crédito al tiempo de la constitución de la fianza;
+
+b) si se prorroga el plazo para el cumplimiento de la obligación garantizada, sin consentimiento del fiador;
+
+c) si transcurren cinco años desde el otorgamiento de la fianza general en garantía de obligaciones futuras y éstas no han nacido;
+
+d) si el acreedor no inicia acción judicial contra el deudor dentro de los sesenta días de requerido por el fiador o deja perimir la instancia.
+
+ARTICULO 1597.- Novación. La fianza se extingue por la novación de la obligación principal aunque el acreedor haga reserva de conservar sus derechos contra el fiador.
+
+La fianza no se extingue por la novación producida por el acuerdo preventivo homologado del deudor, aun cuando no se haya hecho reserva de las acciones o derechos contra el fiador.
+
+ARTICULO 1598.- Evicción. La evicción de lo que el acreedor ha recibido en pago del deudor, no hace renacer la fianza.
+
+CAPITULO 24
+
+Contrato oneroso de renta vitalicia
+
+ARTICULO 1599.- Concepto. Contrato oneroso de renta vitalicia es aquel por el cual alguien, a cambio de un capital o de otra prestación mensurable en dinero, se obliga a pagar una renta en forma periódica a otro, durante la vida de una o más personas humanas ya existentes, designadas en el contrato.
+
+ARTICULO 1600.- Reglas subsidiarias. Si el contrato es a favor de tercero, respecto de éste se rige en subsidio por las reglas de la donación, excepto que la prestación se haya convenido en razón de otro negocio oneroso.
+
+ARTICULO 1601.- Forma. El contrato oneroso de renta vitalicia debe celebrarse en escritura pública.
+
+ARTICULO 1602.- Renta. Periodicidad del pago. La renta debe pagarse en dinero. Si se prevé esta prestación en otros bienes que no son dinero, debe pagarse por su equivalente en dinero al momento de cada pago.
+
+El contrato debe establecer la periodicidad con que se pague la renta y el valor de cada cuota. Si no se establece el valor de las cuotas, se considera que son de igual valor entre sí.
+
+La renta se devenga por período vencido; sin embargo, se debe la parte proporcional por el tiempo transcurrido desde el último vencimiento hasta el fallecimiento de la persona cuya vida se toma en consideración para la duración del contrato.
+
+ARTICULO 1603.- Pluralidad de beneficiarios. La renta puede contratarse en beneficio de una o más personas existentes al momento de celebrarse el contrato, y en forma sucesiva o simultánea. Si se establece para que la perciban simultáneamente, a falta de previsión contractual, les corresponde por partes iguales sin derecho de acrecer.
+
+El derecho a la renta es transmisible por actos entre vivos y por causa de muerte.
+
+ARTICULO 1604.- Acción del constituyente o sus herederos. El que entrega el capital, o sus herederos, pueden demandar la resolución del contrato por falta de pago del deudor y la restitución del capital.
+
+En igual caso, si la renta es en beneficio de un tercero se aplica lo dispuesto en el artículo 1027.
+
+ARTICULO 1605.- Acción del tercero beneficiario. El tercero beneficiario se constituye en acreedor de la renta desde su aceptación y tiene acción directa contra el deudor para obtener su pago. Se aplica en subsidio lo dispuesto en el artículo 1028.
+
+ARTICULO 1606.- Extinción de la renta. El derecho a la renta se extingue por el fallecimiento de la persona cuya vida se toma en consideración para la duración del contrato, por cualquier causa que sea. Si son varias las personas, por el fallecimiento de la última; hasta que ello ocurre, la renta se devenga en su totalidad.
+
+Es nula la cláusula que autoriza a substituir dicha persona, o a incorporar otra al mismo efecto.
+
+La prueba del fallecimiento corresponde al deudor de la renta.
+
+ARTICULO 1607.- Resolución por falta de garantía. Si el deudor de la renta no otorga la garantía a la que se obliga, o si la dada disminuye, quien entrega el capital o sus herederos pueden demandar la resolución del contrato debiendo restituirse sólo el capital.
+
+ARTICULO 1608.- Resolución por enfermedad coetánea a la celebración. Si la persona cuya vida se toma en consideración para la duración del contrato no es el deudor, y dentro de los treinta días de celebrado, fallece por propia mano o por una enfermedad que padecía al momento del contrato, éste se resuelve de pleno derecho y deben restituirse las prestaciones.
+
+CAPITULO 25
+
+Contratos de juego y de apuesta
+
+ARTICULO 1609.- Concepto. Hay contrato de juego si dos o más partes compiten en una actividad de destreza física o intelectual, aunque sea sólo parcialmente, obligándose a pagar un bien mensurable en dinero a la que gane.
+
+ARTICULO 1610.- Facultades del juez. El juez puede reducir la deuda directamente originada en el juego si resulta extraordinaria respecto a la fortuna del deudor.
+
+ARTICULO 1611.- Juego y apuesta de puro azar. No hay acción para exigir el cumplimiento de la prestación prometida en un juego de puro azar, esté o no prohibido por la autoridad local.
+
+Si no está prohibido, lo pagado es irrepetible. Sin embargo, es repetible el pago hecho por persona incapaz, o con capacidad restringida, o inhabilitada.
+
+ARTICULO 1612.- Oferta pública. Las apuestas y sorteos ofrecidos al público confieren acción para su cumplimiento.
+
+El oferente es responsable frente al apostador o participante. La publicidad debe individualizar al oferente. Si no lo hace, quien la efectúa es responsable.
+
+ARTICULO 1613.- Juegos y apuestas regulados por el Estado. Los juegos, apuestas y sorteos reglamentados por el Estado Nacional, provincial, o municipios, están excluidos de este Capítulo y regidos por las normas que los autorizan.
+
+CAPITULO 26
+
+Cesión de derechos
+
+SECCION 1ª
+
+Disposiciones generales
+
+ARTICULO 1614.- Definición. Hay contrato de cesión cuando una de las partes transfiere a la otra un derecho. Se aplican a la cesión de derechos las reglas de la compraventa, de la permuta o de la donación, según que se haya realizado con la contraprestación de un precio en dinero, de la transmisión de la propiedad de un bien, o sin contraprestación, respectivamente, en tanto no estén modificadas por las de este Capítulo.
+
+ARTICULO 1615.- Cesión en garantía. Si la cesión es en garantía, las normas de la prenda de créditos se aplican a las relaciones entre cedente y cesionario.
+
+ARTICULO 1616.- Derechos que pueden ser cedidos. Todo derecho puede ser cedido, excepto que lo contrario resulte de la ley, de la convención que lo origina, o de la naturaleza del derecho.
+
+ARTICULO 1617.- Prohibición. No pueden cederse los derechos inherentes a la persona humana.
+
+ARTICULO 1618.- Forma. La cesión debe hacerse por escrito, sin perjuicio de los casos en que se admite la transmisión del título por endoso o por entrega manual.
+
+Deben otorgarse por escritura pública:
+
+a) la cesión de derechos hereditarios;
+
+b) la cesión de derechos litigiosos. Si no involucran derechos reales sobre inmuebles, también puede hacerse por acta judicial, siempre que el sistema informático asegure la inalterabilidad del instrumento;
+
+c) la cesión de derechos derivados de un acto instrumentado por escritura pública.
+
+ARTICULO 1619.- Obligaciones del cedente. El cedente debe entregar al cesionario los documentos probatorios del derecho cedido que se encuentren en su poder. Si la cesión es parcial, el cedente debe entregar al cesionario una copia certificada de dichos documentos.
+
+ARTICULO 1620.- Efectos respecto de terceros. La cesión tiene efectos respecto de terceros desde su notificación al cedido por instrumento público o privado de fecha cierta, sin perjuicio de las reglas especiales relativas a los bienes registrables.
+
+ARTICULO 1621.- Actos anteriores a la notificación de la cesión. Los pagos hechos por el cedido al cedente antes de serle notificada la cesión, así como las demás causas de extinción de la obligación, tienen efecto liberatorio para él.
+
+ARTICULO 1622.- Concurrencia de cesionarios. En la concurrencia entre cesionarios sucesivos, la preferencia corresponde al primero que ha notificado la transferencia al deudor, aunque ésta sea posterior en fecha.
+
+ARTICULO 1623.- Concurso o quiebra del cedente. En caso de concurso o quiebra del cedente, la cesión no tiene efectos respecto de los acreedores si es notificada después de la presentación en concurso o de la sentencia declarativa de la quiebra.
+
+ARTICULO 1624.- Actos conservatorios. Antes de la notificación de la cesión, tanto el cedente como el cesionario pueden realizar actos conservatorios del derecho.
+
+ARTICULO 1625.- Cesión de crédito prendario. La cesión de un crédito garantizado con una prenda no autoriza al cedente o a quien tenga la cosa prendada en su poder a entregarla al cesionario.
+
+ARTICULO 1626.- Cesiones realizadas el mismo día. Si se notifican varias cesiones en un mismo día y sin indicación de la hora, los cesionarios quedan en igual rango.
+
+ARTICULO 1627.- Cesión parcial. El cesionario parcial de un crédito no goza de ninguna preferencia sobre el cedente, a no ser que éste se la haya otorgado expresamente.
+
+ARTICULO 1628.- Garantía por evicción. Si la cesión es onerosa, el cedente garantiza la existencia y legitimidad del derecho al tiempo de la cesión, excepto que se trate de un derecho litigioso o que se lo ceda como dudoso; pero no garantiza la solvencia del deudor cedido ni de sus fiadores, excepto pacto en contrario o mala fe.
+
+ARTICULO 1629.- Cesión de derecho inexistente. Si el derecho no existe al tiempo de la cesión, el cedente debe restituir al cesionario el precio recibido, con sus intereses. Si es de mala fe, debe además la diferencia entre el valor real del derecho cedido y el precio de la cesión.
+
+ARTICULO 1630.- Garantía de la solvencia del deudor. Si el cedente garantiza la solvencia del deudor cedido, se aplican las reglas de la fianza, con sujeción a lo que las partes hayan convenido.
+
+El cesionario sólo puede recurrir contra el cedente después de haber excutido los bienes del deudor, excepto que éste se halle concursado o quebrado.
+
+ARTICULO 1631.- Reglas subsidiarias. En lo no previsto expresamente en este Capítulo, la garantía por evicción se rige por las normas establecidas en los artículos 1033 y siguientes.
+
+SECCION 2ª
+
+Cesión de deudas
+
+ARTICULO 1632.- Cesión de deuda. Hay cesión de deuda si el acreedor, el deudor y un tercero, acuerdan que éste debe pagar la deuda, sin que haya novación.
+
+Si el acreedor no presta conformidad para la liberación del deudor, el tercero queda como codeudor subsidiario.
+
+ARTICULO 1633.- Asunción de deuda. Hay asunción de deuda si un tercero acuerda con el acreedor pagar la deuda de su deudor, sin que haya novación.
+
+Si el acreedor no presta conformidad para la liberación del deudor, la asunción se tiene por rechazada.
+
+ARTICULO 1634.- Conformidad para la liberación del deudor. En los casos de los dos artículos anteriores el deudor sólo queda liberado si el acreedor lo admite expresamente. Esta conformidad puede ser anterior, simultánea, o posterior a la cesión; pero es ineficaz si ha sido prestada en un contrato celebrado por adhesión.
+
+ARTICULO 1635.- Promesa de liberación. Hay promesa de liberación si el tercero se obliga frente al deudor a cumplir la deuda en su lugar. Esta promesa sólo vincula al tercero con el deudor, excepto que haya sido pactada como estipulación a favor de tercero.
+
+CAPITULO 27
+
+Cesión de la posición contractual
+
+ARTICULO 1636.- Transmisión. En los contratos con prestaciones pendientes cualquiera de las partes puede transmitir a un tercero su posición contractual, si las demás partes lo consienten antes, simultáneamente o después de la cesión.
+
+Si la conformidad es previa a la cesión, ésta sólo tiene efectos una vez notificada a las otras partes, en la forma establecida para la notificación al deudor cedido.
+
+ARTICULO 1637.- Efectos. Desde la cesión o, en su caso, desde la notificación a las otras partes, el cedente se aparta de sus derechos y obligaciones, los que son asumidos por el cesionario.
+
+Sin embargo, los cocontratantes cedidos conservan sus acciones contra el cedente si han pactado con éste el mantenimiento de sus derechos para el caso de incumplimiento del cesionario. En tal caso, el cedido o los cedidos deben notificar el incumplimiento al cedente dentro de los treinta días de producido; de no hacerlo, el cedente queda libre de responsabilidad.
+
+ARTICULO 1638.- Defensas. Los contratantes pueden oponer al cesionario todas las excepciones derivadas del contrato, pero no las fundadas en otras relaciones con el cedente, excepto que hayan hecho expresa reserva al consentir la cesión.
+
+ARTICULO 1639.- Garantía. El cedente garantiza al cesionario la existencia y validez del contrato. El pacto por el cual el cedente no garantiza la existencia y validez se tiene por no escrito si la nulidad o la inexistencia se debe a un hecho imputable al cedente.
+
+Si el cedente garantiza el cumplimiento de las obligaciones de los otros contratantes, responde como fiador.
+
+Se aplican las normas sobre evicción en la cesión de derechos en general.
+
+ARTICULO 1640.- Garantías de terceros. Las garantías constituidas por terceras personas no pasan al cesionario sin autorización expresa de aquéllas.
+
+CAPITULO 28
+
+Transacción
+
+ARTICULO 1641.- Concepto. La transacción es un contrato por el cual las partes, para evitar un litigio, o ponerle fin, haciéndose concesiones recíprocas, extinguen obligaciones dudosas o litigiosas.
+
+ARTICULO 1642.- Caracteres y efectos. La transacción produce los efectos de la cosa juzgada sin necesidad de homologación judicial. Es de interpretación restrictiva.
+
+ARTICULO 1643.- Forma. La transacción debe hacerse por escrito. Si recae sobre derechos litigiosos sólo es eficaz a partir de la presentación del instrumento firmado por los interesados ante el juez en que tramita la causa. Mientras el instrumento no sea presentado, las partes pueden desistir de ella.
+
+ARTICULO 1644.- Prohibiciones. No puede transigirse sobre derechos en los que está comprometido el orden público, ni sobre derechos irrenunciables.
+
+Tampoco pueden ser objeto de transacción los derechos sobre las relaciones de familia o el estado de las personas, excepto que se trate de derechos patrimoniales derivados de aquéllos, o de otros derechos sobre los que, expresamente, este Código admite pactar.
+
+ARTICULO 1645.- Nulidad de la obligación transada. Si la obligación transada adolece de un vicio que causa su nulidad absoluta, la transacción es inválida. Si es de nulidad relativa, las partes conocen el vicio, y tratan sobre la nulidad, la transacción es válida.
+
+ARTICULO 1646.- Sujetos. No pueden hacer transacciones:
+
+a) las personas que no puedan enajenar el derecho respectivo;
+
+b) los padres, tutores, o curadores respecto de las cuentas de su gestión, ni siquiera con autorización judicial;
+
+c) los albaceas, en cuanto a los derechos y obligaciones que confiere el testamento, sin la autorización del juez de la sucesión.
+
+ARTICULO 1647.- Nulidad. Sin perjuicio de lo dispuesto en el Capítulo 9 del Título IV del Libro Primero respecto de los actos jurídicos, la transacción es nula:
+
+a) si alguna de las partes invoca títulos total o parcialmente inexistentes, o ineficaces;
+
+b) si, al celebrarla, una de las partes ignora que el derecho que transa tiene otro título mejor;
+
+c) si versa sobre un pleito ya resuelto por sentencia firme, siempre que la parte que la impugna lo haya ignorado.
+
+ARTICULO 1648.- Errores aritméticos. Los errores aritméticos no obstan a la validez de la transacción, pero las partes tienen derecho a obtener la rectificación correspondiente.
+
+CAPITULO 29
+
+Contrato de arbitraje
+
+ARTICULO 1649.- Definición. Hay contrato de arbitraje cuando las partes deciden someter a la decisión de uno o más árbitros todas o algunas de las controversias que hayan surgido o puedan surgir entre ellas respecto de una determinada relación jurídica, contractual o no contractual, de derecho privado en la que no se encuentre comprometido el orden público.
+
+ARTICULO 1650.- Forma. El acuerdo de arbitraje debe ser escrito y puede constar en una cláusula compromisoria incluida en un contrato o en un acuerdo independiente o en un estatuto o reglamento.
+
+La referencia hecha en un contrato a un documento que contiene una cláusula compromisoria constituye contrato de arbitraje siempre que el contrato conste por escrito y la referencia implique que esa cláusula forma parte del contrato.
+
+ARTICULO 1651.- Controversias excluidas. Quedan excluidas del contrato de arbitraje las siguientes materias:
+
+a) las que se refieren al estado civil o la capacidad de las personas;
+
+b) las cuestiones de familia;
+
+c) las vinculadas a derechos de usuarios y consumidores;
+
+d) los contratos por adhesión cualquiera sea su objeto;
+
+e) las derivadas de relaciones laborales.
+
+Las disposiciones de este Código relativas al contrato de arbitraje no son aplicables a las controversias en que sean parte los Estados nacional o local.
+
+ARTICULO 1652.- Clases de arbitraje. Pueden someterse a la decisión de arbitradores o amigables componedores, las cuestiones que pueden ser objeto del juicio de árbitros. Si nada se estipula en el convenio arbitral acerca de si el arbitraje es de derecho o de amigables componedores, o si no se autoriza expresamente a los árbitros a decidir la controversia según equidad, se debe entender que es de derecho.
+
+ARTICULO 1653.- Autonomía. El contrato de arbitraje es independiente del contrato con el que se relaciona. La ineficacia de éste no obsta a la validez del contrato de arbitraje, por lo que los árbitros conservan su competencia, aun en caso de nulidad de aquél, para determinar los respectivos derechos de las partes y pronunciarse sobre sus pretensiones y alegaciones.
+
+ARTICULO 1654.- Competencia. Excepto estipulación en contrario, el contrato de arbitraje otorga a los árbitros la atribución para decidir sobre su propia competencia, incluso sobre las excepciones relativas a la existencia o a la validez del convenio arbitral o cualesquiera otras cuya estimación impida entrar en el fondo de la controversia.
+
+ARTICULO 1655.- Dictado de medidas previas. Excepto estipulación en contrario, el contrato de arbitraje atribuye a los árbitros la facultad de adoptar, a pedido de cualquiera de las partes, las medidas cautelares que estimen necesarias respecto del objeto del litigio. Los árbitros pueden exigir caución suficiente al solicitante. La ejecución de las medidas cautelares y en su caso de las diligencias preliminares se debe hacer por el tribunal judicial. Las partes también pueden solicitar la adopción de estas medidas al juez, sin que ello se considere un incumplimiento del contrato de arbitraje ni una renuncia a la jurisdicción arbitral; tampoco excluye los poderes de los árbitros.
+
+Las medidas previas adoptadas por los árbitros según lo establecido en el presente artículo pueden ser impugnadas judicialmente cuando violen derechos constitucionales o sean irrazonables.
+
+ARTICULO 1656.- Efectos. Revisión de los laudos arbitrales. El convenio arbitral obliga a las partes a cumplir lo estipulado y excluye la competencia de los tribunales judiciales sobre las controversias sometidas a arbitraje, excepto que el tribunal arbitral no esté aun conociendo de la controversia, y el convenio parezca ser manifiestamente nulo o inaplicable.
+
+En caso de duda ha de estarse a la mayor eficacia del contrato de arbitraje.
+
+Los laudos arbitrales que se dicten en el marco de las disposiciones de este Capítulo pueden ser revisados ante la justicia competente por la materia y el territorio cuando se invoquen causales de nulidad, total o parcial, conforme con las disposiciones del presente Código. En el contrato de arbitraje no se puede renunciar a la impugnación judicial del laudo definitivo que fuera contrario al ordenamiento jurídico.
+
+ARTICULO 1657.- Arbitraje institucional. Las partes pueden encomendar la administración del arbitraje y la designación de árbitros a asociaciones civiles u otras entidades nacionales o extranjeras cuyos estatutos así lo prevean. Los reglamentos de arbitraje de las entidades administradoras rigen todo el proceso arbitral e integran el contrato de arbitraje.
+
+ARTICULO 1658.- Cláusulas facultativas. Se puede convenir:
+
+a) la sede del arbitraje;
+
+b) el idioma en que se ha de desarrollar el procedimiento;
+
+c) el procedimiento al que se han de ajustar los árbitros en sus actuaciones. A falta de acuerdo, el tribunal arbitral puede dirigir el arbitraje del modo que considere apropiado;
+
+d) el plazo en que los árbitros deben pronunciar el laudo. Si no se ha pactado el plazo, rige el que establezca el reglamento de la entidad administradora del arbitraje, y en su defecto el que establezca el derecho de la sede;
+
+e) la confidencialidad del arbitraje;
+
+f) el modo en que se deben distribuir o soportar los costos del arbitraje.
+
+ARTICULO 1659.- Designación de los árbitros. El tribunal arbitral debe estar compuesto por uno o más árbitros en número impar. Si nada se estipula, los árbitros deben ser tres. Las partes pueden acordar libremente el procedimiento para el nombramiento del árbitro o los árbitros.
+
+A falta de tal acuerdo:
+
+a) en el arbitraje con tres árbitros, cada parte nombra un árbitro y los dos árbitros así designados nombran al tercero. Si una parte no nombra al árbitro dentro de los treinta días de recibido el requeri-miento de la otra parte para que lo haga, o si los dos árbitros no consiguen ponerse de acuerdo sobre el tercer árbitro dentro de los treinta días contados desde su nombramiento, la designación debe ser hecha, a petición de una de las partes, por la entidad administradora del arbitraje o, en su defecto, por el tribunal judicial;
+
+b) en el arbitraje con árbitro único, si las partes no consiguen ponerse de acuerdo sobre la designación del árbitro, éste debe ser nombrado, a petición de cualquiera de las partes, por la entidad administradora del arbitraje o, en su defecto, por el tribunal judicial.
+
+Cuando la controversia implica más de dos partes y éstas no pueden llegar a un acuerdo sobre la forma de constitución del tribunal arbitral, la entidad administradora del arbitraje, o en su defecto, el tribunal judicial debe designar al árbitro o los árbitros.
+
+ARTICULO 1660.- Calidades de los árbitros. Puede actuar como árbitro cualquier persona con plena capacidad civil. Las partes pueden estipular que los árbitros reúnan determinadas condiciones de nacionalidad, profesión o experiencia.
+
+ARTICULO 1661.- Nulidad. Es nula la cláusula que confiere a una parte una situación privilegiada en cuanto a la designación de los árbitros.
+
+ARTICULO 1662.- Obligaciones de los árbitros. El árbitro que acepta el cargo celebra un contrato con cada una de las partes y se obliga a:
+
+a) revelar cualquier circunstancia previa a la aceptación o que surja con posterioridad que pueda afectar su independencia e imparcialidad;
+
+b) permanecer en el tribunal arbitral hasta la terminación del arbitraje, excepto que justifique la existencia de un impedimento o una causa legítima de renuncia;
+
+c) respetar la confidencialidad del procedimiento;
+
+d) disponer de tiempo suficiente para atender diligentemente el arbitraje;
+
+e) participar personalmente de las audiencias;
+
+f) deliberar con los demás árbitros;
+
+g) dictar el laudo motivado y en el plazo establecido.
+
+En todos los casos los árbitros deben garantizar la igualdad de las partes y el principio del debate contradictorio, así como que se dé a cada una de ellas suficiente oportunidad de hacer valer sus derechos.
+
+ARTICULO 1663.- Recusación de los árbitros. Los árbitros pueden ser recusados por las mismas razones que los jueces de acuerdo al derecho de la sede del arbitraje. La recusación es resuelta por la entidad administradora del arbitraje o, en su defecto, por el tribunal judicial. Las partes pueden convenir que la recusación sea resuelta por los otros árbitros.
+
+ARTICULO 1664.- Retribución de los árbitros. Las partes y los árbitros pueden pactar los honorarios de éstos o el modo de determinarlos. Si no lo hicieran, la regulación se hace por el tribunal judicial de acuerdo a las reglas locales aplicables a la actividad extrajudicial de los abogados.
+
+ARTICULO 1665.- Extinción de la competencia de los árbitros. La competencia atribuida a los árbitros por el contrato de arbitraje se extingue con el dictado del laudo definitivo, excepto para el dictado de resoluciones aclaratorias o complementarias conforme a lo que las partes hayan estipulado o a las previsiones del derecho de la sede.
+
+CAPITULO 30
+
+Contrato de fideicomiso
+
+SECCION 1ª
+
+Disposiciones generales
+
+ARTICULO 1666.- Definición. Hay contrato de fideicomiso cuando una parte, llamada fiduciante, transmite o se compromete a transmitir la propiedad de bienes a otra persona denominada fiduciario, quien se obliga a ejercerla en beneficio de otra llamada beneficiario, que se designa en el contrato, y a transmitirla al cumplimiento de un plazo o condición al fideicomisario.
+
+ARTICULO 1667.- Contenido. El contrato debe contener:
+
+a) la individualización de los bienes objeto del contrato. En caso de no resultar posible tal individualización a la fecha de la celebración del fideicomiso, debe constar la descripción de los requisitos y características que deben reunir los bienes;
+
+b) la determinación del modo en que otros bienes pueden ser incorporados al fideicomiso, en su caso;
+
+c) el plazo o condición a que se sujeta la propiedad fiduciaria;
+
+d) la identificación del beneficiario, o la manera de determinarlo conforme con el artículo 1671;
+
+e) el destino de los bienes a la finalización del fideicomiso, con indicación del fideicomisario a quien deben transmitirse o la manera de determinarlo conforme con el artículo 1672;
+
+f) los derechos y obligaciones del fiduciario y el modo de sustituirlo, si cesa.
+
+ARTICULO 1668.- Plazo. Condición. El fideicomiso no puede durar más de treinta años desde la celebración del contrato, excepto que el beneficiario sea una persona incapaz o con capacidad restringida, caso en el que puede durar hasta el cese de la incapacidad o de la restricción a su capacidad, o su muerte.
+
+Si se pacta un plazo superior, se reduce al tiempo máximo previsto.
+
+Cumplida la condición o pasados treinta años desde el contrato sin haberse cumplido, cesa el fideicomiso y los bienes deben transmitirse por el fiduciario a quien se designa en el contrato. A falta de estipulación deben transmitirse al fiduciante o a sus herederos.
+
+ARTICULO 1669.- Forma. El contrato, que debe inscribirse en el Registro Público que corresponda, puede celebrarse por instrumento público o privado, excepto cuando se refiere a bienes cuya transmisión debe ser celebrada por instrumento público. En este caso, cuando no se cumple dicha formalidad, el contrato vale como promesa de otorgarlo. Si la incorporación de esta clase de bienes es posterior a la celebración del contrato, es suficiente con el cumplimiento, en esa oportunidad, de las formalidades necesarias para su transferencia, debiéndose transcribir en el acto respectivo el contrato de fideicomiso.
+
+ARTICULO 1670.- Objeto. Pueden ser objeto del fideicomiso todos los bienes que se encuentran en el comercio, incluso universalidades, pero no pueden serlo las herencias futuras.
+
+SECCION 2ª
+
+Sujetos
+
+ARTICULO 1671.- Beneficiario. El beneficiario puede ser una persona humana o jurídica, que puede existir o no al tiempo del otorgamiento del contrato; en este último caso deben constar los datos que permitan su individualización futura. Pueden ser beneficiarios el fiduciante, el fiduciario o el fideicomisario.
+
+Pueden designarse varios beneficiarios quienes, excepto disposición en contrario, se benefician por igual; para el caso de no aceptación o renuncia de uno o más designados, o cuando uno u otros no llegan a existir, se puede establecer el derecho de acrecer de los demás o, en su caso, designar beneficiarios sustitutos.
+
+Si ningún beneficiario acepta, todos renuncian o no llegan a existir, se entiende que el beneficiario es el fideicomisario. Si también el fideicomisario renuncia o no acepta, o si no llega a existir, el beneficiario debe ser el fiduciante.
+
+El derecho del beneficiario, aunque no haya aceptado, puede transmitirse por actos entre vivos o por causa de muerte, excepto disposición en contrario del fiduciante. Si la muerte extingue el derecho del beneficiario designado, se aplican las reglas de los párrafos precedentes.
+
+ARTICULO 1672.- Fideicomisario. El fideicomisario es la persona a quien se transmite la propiedad al concluir el fideicomiso. Puede ser el fiduciante, el beneficiario, o una persona distinta de ellos. No puede ser fideicomisario el fiduciario.
+
+Se aplican al fideicomisario los párrafos primero, segundo y tercero del artículo 1671.
+
+Si ningún fideicomisario acepta, todos renuncian o no llegan a existir, el fideicomisario es el fiduciante.
+
+ARTICULO 1673.- Fiduciario. El fiduciario puede ser cualquier persona humana o jurídica.
+
+Sólo podrán actuar como fiduciarios en fideicomisos financieros que cuenten con autorización de oferta pública de sus títulos valores las entidades financieras o aquellas sociedades que se encuentren inscriptas en el registro de fiduciarios financieros del organismo de contralor del mercado de valores.
+
+El fiduciario puede ser beneficiario. En tal caso, debe evitar cualquier conflicto de intereses y obrar privilegiando los de los restantes sujetos intervinientes en el contrato.
+
+(Artículo sustituido por art. 201 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 1674.- Pauta de actuación. Solidaridad. El fiduciario debe cumplir las obligaciones impuestas por la ley y por el contrato con la prudencia y diligencia del buen hombre de negocios que actúa sobre la base de la confianza depositada en él.
+
+En caso de designarse a más de un fiduciario para que actúen simultáneamente, sea en forma conjunta o indistinta, su responsabilidad es solidaria por el cumplimiento de las obligaciones resultantes del fideicomiso.
+
+ARTICULO 1675.- Rendición de cuentas. La rendición de cuentas puede ser solicitada por el beneficiario, por el fiduciante o por el fideicomisario, en su caso, conforme a la ley y a las previsiones contractuales; deben ser rendidas con una periodicidad no mayor a un año.
+
+ARTICULO 1676.- Dispensas prohibidas. El contrato no puede dispensar al fiduciario de la obligación de rendir cuentas, ni de la culpa o dolo en que puedan incurrir él o sus dependientes, ni de la prohibición de adquirir para sí los bienes fideicomitidos.
+
+ARTICULO 1677.- Reembolso de gastos. Retribución. Excepto estipulación en contrario, el fiduciario tiene derecho al reembolso de los gastos y a una retribución, ambos a cargo de quien o quienes se estipula en el contrato. Si la retribución no se fija en el contrato, la debe fijar el juez teniendo en consideración la índole de la encomienda, la importancia de los deberes a cumplir, la eficacia de la gestión cumplida y las demás circunstancias en que actúa el fiduciario.
+
+ARTICULO 1678.- Cese del fiduciario. El fiduciario cesa por:
+
+a) remoción judicial por incumplimiento de sus obligaciones o por hallarse imposibilitado material o jurídicamente para el desempeño de su función, a instancia del fiduciante; o a pedido del beneficiario o del fideicomisario, con citación del fiduciante;
+
+b) incapacidad, inhabilitación y capacidad restringida judicialmente declaradas, y muerte, si es una persona humana;
+
+c) disolución, si es una persona jurídica; esta causal no se aplica en casos de fusión o absorción, sin perjuicio de la aplicación del inciso a), en su caso;
+
+d) quiebra o liquidación;
+
+e) renuncia, si en el contrato se la autoriza expresamente, o en caso de causa grave o imposibilidad material o jurídica de desempeño de la función; la renuncia tiene efecto después de la transferencia del patrimonio objeto del fideicomiso al fiduciario sustituto.
+
+ARTICULO 1679.- Sustitución del fiduciario. Producida una causa de cese del fiduciario, lo reemplaza el sustituto indicado en el contrato o el designado de acuerdo al procedimiento previsto por él. Si no lo hay o no acepta, el juez debe designar como fiduciario a una de las entidades autorizadas de acuerdo a lo previsto en el artículo 1690.
+
+En caso de muerte del fiduciario, los interesados pueden prescindir de la intervención judicial, otorgando los actos necesarios para la transferencia de bienes.
+
+En los restantes casos de los incisos b), c) y d) del artículo 1678, cualquier interesado puede solicitar al juez la comprobación del acaecimiento de la causal y la indicación del sustituto o el procedimiento para su designación, conforme con el contrato o la ley, por el procedimiento más breve previsto por la ley procesal local. En todos los supuestos del artículo 1678 el juez puede, a pedido del fiduciante, del beneficiario, del fideicomisario o de un acreedor del patrimonio separado, designar un fiduciario judicial provisorio o dictar medidas de protección del patrimonio, si hay peligro en la demora.
+
+Si la designación del nuevo fiduciario se realiza con intervención judicial, debe ser oído el fiduciante.
+
+Los bienes fideicomitidos deben ser transmitidos al nuevo fiduciario. Si son registrables es forma suficiente del título el instrumento judicial, notarial o privado autenticado, en los que conste la designación del nuevo fiduciario. La toma de razón también puede ser rogada por el nuevo fiduciario.
+
+ARTICULO 1680.- Fideicomiso en garantía. Si el fideicomiso se constituye con fines de garantía, el fiduciario puede aplicar las sumas de dinero que ingresen al patrimonio, incluso por cobro judicial o extrajudicial de los créditos o derechos fideicomitidos, al pago de los créditos garantizados. Respecto de otros bienes, para ser aplicados a la garantía el fiduciario puede disponer de ellos según lo dispuesto en el contrato y, en defecto de convención, en forma privada o judicial, asegurando un mecanismo que procure obtener el mayor valor posible de los bienes.
+
+ARTICULO 1681.- Aceptación del beneficiario y del fideicomisario. Fraude. Para recibir las prestaciones del fideicomiso, el beneficiario y el fideicomisario deben aceptar su calidad de tales.
+
+La aceptación se presume cuando intervienen en el contrato de fideicomiso, cuando realizan actos que inequívocamente la suponen o son titulares de certificados de participación o de títulos de deuda en los fideicomisos financieros.
+
+No mediando aceptación en los términos indicados, el fiduciario puede requerirla mediante acto auténtico fijando a tal fin un plazo prudencial. No producida la aceptación, debe solicitar al juez que la requiera sin otra substanciación, fijando a tal fin el modo de notificación al interesado que resulte más adecuado.
+
+El beneficiario y el fideicomisario pueden, en la medida de su interés, reclamar por el debido cumplimiento del contrato y la revocación de los actos realizados por el fiduciario en fraude de sus intereses, sin perjuicio de los derechos de los terceros interesados de buena fe.
+
+SECCION 3ª
+
+Efectos
+
+ARTICULO 1682.- Propiedad fiduciaria. Sobre los bienes fideicomitidos se constituye una propiedad fiduciaria, regida por las disposiciones de este Capítulo y por las que correspondan a la naturaleza de los bienes.
+
+ARTICULO 1683.- Efectos frente a terceros. El carácter fiduciario de la propiedad tiene efectos frente a terceros desde el momento en que se cumplen los requisitos exigidos de acuerdo con la naturaleza de los bienes respectivos.
+
+ARTICULO 1684.- Registración. Bienes incorporados. Si se trata de bienes registrables, los registros correspondientes deben tomar razón de la calidad fiduciaria de la propiedad a nombre del fiduciario.
+
+Excepto estipulación en contrario del contrato, el fiduciario adquiere la propiedad fiduciaria de los frutos y productos de los bienes fideicomitidos y de los bienes que adquiera con esos frutos y productos o por subrogación real respecto de todos esos bienes, debiéndose dejar constancia de ello en el título para la adquisición y en los registros pertinentes.
+
+ARTICULO 1685.- Patrimonio separado. Seguro. Los bienes fideicomitidos constituyen un patrimonio separado del patrimonio del fiduciario, del fiduciante, del beneficiario y del fideicomisario.
+
+Sin perjuicio de su responsabilidad, el fiduciario tiene la obligación de contratar un seguro contra la responsabilidad civil que cubra los daños causados por las cosas objeto del fideicomiso. Los riesgos y montos por los que debe contratar el seguro son los que establezca la reglamentación y, en defecto de ésta, los que sean razonables. El fiduciario es responsable en los términos de los artículos 1757 y concordantes cuando no haya contratado seguro o cuando éste resulte irrazonable en la cobertura de riesgos o montos.
+
+ARTICULO 1686.- Acción por acreedores. Los bienes fideicomitidos quedan exentos de la acción singular o colectiva de los acreedores del fiduciario. Tampoco pueden agredir los bienes fideicomitidos los acreedores del fiduciante, quedando a salvo las acciones por fraude y de ineficacia concursal. Los acreedores del beneficiario y del fideicomisario pueden subrogarse en los derechos de su deudor.
+
+ARTICULO 1687.- Deudas. Liquidación. Los bienes del fiduciario no responden por las obligaciones contraídas en la ejecución del fideicomiso, las que sólo son satisfechas con los bienes fideicomitidos. Tampoco responden por esas obligaciones el fiduciante, el beneficiario ni el fideicomisario, excepto compromiso expreso de éstos.
+
+Lo dispuesto en este artículo no impide la responsabilidad del fiduciario por aplicación de los principios generales, si así corresponde.
+
+La insuficiencia de los bienes fideicomitidos para atender a esas obligaciones, no da lugar a la declaración de su quiebra. En tal supuesto y a falta de otros recursos provistos por el fiduciante o el beneficiario según previsiones contractuales, procede su liquidación, la que está a cargo del juez competente, quien debe fijar el procedimiento sobre la base de las normas previstas para concursos y quiebras, en lo que sea pertinente.
+
+ARTICULO 1688.- Actos de disposición y gravámenes. El fiduciario puede disponer o gravar los bienes fideicomitidos cuando lo requieran los fines del fideicomiso, sin que sea necesario el consentimiento del fiduciante, del beneficiario o del fideicomisario.
+
+El contrato puede prever limitaciones a estas facultades, incluso la prohibición de enajenar, las que, en su caso, deben ser inscriptas en los registros correspondientes a cosas registrables. Dichas limitaciones no son oponibles a terceros interesados de buena fe, sin perjuicio de los derechos respecto del fiduciario.
+
+Si se nombran varios fiduciarios, se configura un condominio en función de lo previsto en el artículo 1674, los actos de disposición deben ser otorgados por todos conjuntamente, excepto pacto en contrario, y ninguno de ellos puede ejercer la acción de partición mientras dure el fideicomiso.
+
+Quedan a salvo los actos de disposición realizados por el fiduciario de conformidad con lo previsto en esta norma.
+
+ARTICULO 1689.- Acciones. El fiduciario está legitimado para ejercer todas las acciones que correspondan para la defensa de los bienes fideicomitidos, contra terceros, el fiduciante, el beneficiario o el fideicomisario.
+
+El juez puede autorizar al fiduciante, al beneficiario o al fideicomisario, a ejercer acciones en sustitución del fiduciario, cuando éste no lo haga sin motivo suficiente.
+
+SECCION 4ª
+
+Fideicomiso financiero
+
+ARTICULO 1690.- Definición. Fideicomiso financiero es el contrato de fideicomiso sujeto a las reglas precedentes, en el cual el fiduciario es una entidad financiera o una sociedad especialmente autorizada por el organismo de contralor de los mercados de valores para actuar como fiduciario financiero, y beneficiarios son los titulares de los títulos valores garantizados con los bienes transmitidos.
+
+ARTICULO 1691.- Títulos valores. Ofertas al público. Los títulos valores referidos en el artículo 1690 pueden ofrecerse al público en los términos de la normativa sobre oferta pública de títulos valores. En ese supuesto, el organismo de contralor de los mercados de valores debe ser autoridad de aplicación respecto de los fideicomisos financieros, quien puede dictar normas reglamentarias que incluyan la determinación de los requisitos a cumplir para actuar como fiduciario.
+
+ARTICULO 1692.- Contenido del contrato de fideicomiso financiero. Forma. Plazo. Además de las exigencias de contenido generales artículo 1.667, el contrato de fideicomiso financiero debe contener los términos y condiciones de emisión de los títulos valores, las reglas para la adopción de decisiones por parte de los beneficiarios que incluyan las previsiones para el caso de insuficiencia o insolvencia del patrimonio fideicomitido, y la denominación o identificación particular del fideicomiso financiero.
+
+La obligación de inscripción en el registro dispuesta en el artículo 1.669 se entenderá cumplimentada con la autorización de oferta pública en aquellos contratos de fideicomisos financieros constituidos en los términos del artículo 1.691, de acuerdo al procedimiento que disponga el organismo de contralor de los mercados de valores.
+
+El plazo máximo de vigencia del fideicomiso dispuesto en el artículo 1.668 no será aplicable en los fideicomisos financieros que cuenten con oferta pública de sus títulos valores que tengan por objeto la titulización de créditos hipotecarios y/o instrumentos asimilables, de acuerdo con la reglamentación que dicte el organismo de contralor de los mercados de valores.
+
+(Artículo sustituido por art. 202 de la Ley N° 27.440 B.O. 11/5/2018)
+
+SECCION 5ª
+
+Certificados de participación y títulos de deuda
+
+ARTICULO 1693.- Emisión y caracteres. Certificados globales. Sin perjuicio de la posibilidad de emisión de títulos valores atípicos, en los términos del artículo 1.820, los certificados de participación son emitidos por el fiduciario. Los títulos representativos de deuda garantizados por los bienes fideicomitidos pueden ser emitidos por el fiduciario, el fiduciante o por terceros. Los certificados de participación y los títulos representativos de deuda pueden ser al portador, nominativos endosables o nominativos no endosables, cartulares o escritúrales, según lo permita la legislación pertinente.
+
+Los certificados deben ser emitidos sobre la base de un prospecto en el que consten las condiciones de la emisión, las enunciaciones necesarias para identificar el fideicomiso al que pertenecen, y la descripción de los derechos que confieren.
+
+Pueden emitirse certificados globales de los certificados de participación y de los títulos de deuda, para su inscripción en regímenes de depósito colectivo, A tal fin se consideran definitivos, negociables y divisibles.
+
+(Artículo sustituido por art. 203 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 1694.- Clases. Series. Pueden emitirse diversas clases de certificados de participación o títulos representativos de deuda, con derechos diferentes. Dentro de cada clase se deben otorgar los mismos derechos. La emisión puede dividirse en series. Los títulos representativos de deuda dan a sus titulares el derecho a reclamar por vía ejecutiva.
+
+SECCION 6ª
+
+Asambleas de tenedores de títulos representativos de deuda o certificados de participación
+
+ARTICULO 1695.- Asambleas. En ausencia de disposiciones contractuales en contrario, o reglamentaciones del organismo de contralor de los mercados de valores, en los fideicomisos financieros con oferta pública las decisiones colectivas de los beneficiarios del fideicomiso financiero se deben adoptar por asamblea, a la que se aplican las reglas de convocatoria, quórum, funcionamiento y mayorías de las sociedades anónimas, excepto en el caso en que se trate la insuficiencia del patrimonio fideicomitido o la reestructuración de sus pagos a los beneficiarios. En este último supuesto, se aplican las reglas de las asambleas extraordinarias de sociedades anónimas, pero ninguna decisión es válida sin el voto favorable de tres cuartas partes de los títulos emitidos y en circulación.
+
+ARTICULO 1696.- Cómputo. En el supuesto de existencia de títulos representativos de deuda y certificados de participación en un mismo fideicomiso financiero, el cómputo del quórum y las mayorías se debe hacer sobre el valor nominal conjunto de los títulos valores en circulación. Sin embargo, excepto disposición en contrario en el contrato, ninguna decisión vinculada con la insuficiencia del patrimonio fideicomitido o la reestructuración de pagos a los beneficiarios es válida sin el voto favorable de tres cuartas partes de los títulos representativos de deuda emitidos y en circulación, excluidos los títulos representativos de deuda subordinados.
+
+SECCION 7ª
+
+Extinción del fideicomiso
+
+ARTICULO 1697.- Causales. El fideicomiso se extingue por:
+
+a) el cumplimiento del plazo o la condición a que se ha sometido, o el vencimiento del plazo máximo legal;
+
+b) la revocación del fiduciante, si se ha reservado expresamente esa facultad; la revocación no tiene efecto retroactivo; la revocación es ineficaz en los fideicomisos financieros después de haberse iniciado la oferta pública de los certificados de participación o de los títulos de deuda;
+
+c) cualquier otra causal prevista en el contrato.
+
+ARTICULO 1698.- Efectos. Producida la extinción del fideicomiso, el fiduciario está obligado a entregar los bienes fideicomitidos al fideicomisario o a sus sucesores, a otorgar los instrumentos y a contribuir a las inscripciones registrales que correspondan.
+
+SECCION 8ª
+
+Fideicomiso testamentario
+
+ARTICULO 1699.- Reglas aplicables. El fideicomiso también puede constituirse por testamento, el que debe contener, al menos, las enunciaciones requeridas por el artículo 1667.
+
+Se aplican los artículos 2448 y 2493 y las normas de este Capítulo; las referidas al contrato de fideicomiso deben entenderse relativas al testamento.
+
+En caso de que el fiduciario designado no acepte su designación se aplica lo dispuesto en el artículo 1679.
+
+El plazo máximo previsto en el artículo 1668 se computa a partir de la muerte del fiduciante.
+
+ARTICULO 1700.- Nulidad. Es nulo el fideicomiso constituido con el fin de que el fiduciario esté obligado a mantener o administrar el patrimonio fideicomitido para ser transmitido únicamente a su muerte a otro fiduciario de existencia actual o futura.
+
+CAPITULO 31
+
+Dominio fiduciario
+
+ARTICULO 1701.- Dominio fiduciario. Definición. Dominio fiduciario es el que se adquiere con razón de un fideicomiso constituido por contrato o por testamento, y está sometido a durar solamente hasta la extinción del fideicomiso, para el efecto de entregar la cosa a quien corresponda según el contrato, el testamento o la ley.
+
+ARTICULO 1702.- Normas aplicables. Son aplicables al dominio fiduciario las normas que rigen los derechos reales en general y, en particular, el dominio, previstas en los Títulos I y III del Libro Cuarto de este Código.
+
+ARTICULO 1703.- Excepciones a la normativa general. El dominio fiduciario hace excepción a la normativa general del dominio y, en particular, del dominio imperfecto en cuanto es posible incluir en el contrato de fideicomiso las limitaciones a las facultades del propietario contenidas en las disposiciones del Capítulo 30 y del presente Capítulo.
+
+ARTICULO 1704.- Facultades. El titular del dominio fiduciario tiene las facultades del dueño perfecto, en tanto los actos jurídicos que realiza se ajusten al fin del fideicomiso y a las disposiciones contractuales pactadas.
+
+ARTICULO 1705.- Irretroactividad. La extinción del dominio fiduciario no tiene efecto retroactivo respecto de los actos realizados por el fiduciario, excepto que no se ajusten a los fines del fideicomiso y a las disposiciones contractuales pactadas, y que el tercer adquirente carezca de buena fe y título oneroso.
+
+ARTICULO 1706.- Readquisición del dominio perfecto. Producida la extinción del fideicomiso, el fiduciario de una cosa queda inmediatamente constituido en poseedor a nombre del dueño perfecto. Si la cosa es registrable y el modo suficiente consiste en la inscripción constitutiva, se requiere inscribir la readquisición; si la inscripción no es constitutiva, se requiere a efecto de su oponibilidad.
+
+ARTICULO 1707.- Efectos. Cuando la extinción no es retroactiva son oponibles al dueño perfecto todos los actos realizados por el titular del dominio fiduciario.
+
+Si la extinción es retroactiva el dueño perfecto readquiere el dominio libre de todos los actos jurídicos realizados.

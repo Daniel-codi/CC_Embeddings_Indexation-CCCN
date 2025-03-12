@@ -1,0 +1,644 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO TERCERO - DERECHOS PERSONALES - TITULO 2
+TITULO 2: Contratos en general
+Articulos: 957 a 1091
+
+-----------------------------------------
+TITULO II
+
+Contratos en general
+
+CAPITULO 1
+
+Disposiciones generales
+
+ARTICULO 957.- Definición. Contrato es el acto jurídico mediante el cual dos o más partes manifiestan su consentimiento para crear, regular, modificar, transferir o extinguir relaciones jurídicas patrimoniales.
+
+ARTICULO 958.- Libertad de contratación. Las partes son libres para celebrar un contrato y determinar su contenido, dentro de los límites impuestos por la ley o el orden público. Las normas legales siempre son de aplicación supletoria a la voluntad de las partes expresada en el contrato, aunque la ley no lo determine en forma expresa para un tipo contractual determinado, salvo que la norma sea expresamente imperativa, y siempre con interpretación restrictiva.
+
+(Artículo sustituido por art. 252 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+ARTICULO 959.- Efecto vinculante. Todo contrato válidamente celebrado es obligatorio para las partes. Su contenido sólo puede ser modificado o extinguido por acuerdo de partes o en los supuestos en que la ley lo prevé.
+
+ARTICULO 960.- Facultades de los jueces. Los jueces no tienen facultades para modificar las estipulaciones de los contratos, excepto que sea a pedido de una de las partes cuando lo autoriza la ley.
+
+(Artículo sustituido por art. 253 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+ARTICULO 961.- Buena fe. Los contratos deben celebrarse, interpretarse y ejecutarse de buena fe. Obligan no sólo a lo que está formalmente expresado, sino a todas las consecuencias que puedan considerarse comprendidas en ellos, con los alcances en que razonablemente se habría obligado un contratante cuidadoso y previsor.
+
+ARTICULO 962.- Carácter de las normas legales. Las normas legales relativas a los contratos son supletorias de la voluntad de las partes, a menos que de su modo de expresión, de su contenido, o de su contexto, resulte su carácter indisponible.
+
+ARTICULO 963.- Prelación normativa. Cuando concurren disposiciones de este Código y de alguna ley especial, las normas se aplican con el siguiente orden de prelación:
+
+a) normas indisponibles de la ley especial y de este Código;
+
+b) normas particulares del contrato;
+
+c) normas supletorias de la ley especial;
+
+d) normas supletorias de este Código.
+
+ARTICULO 964.- Integración del contrato. El contenido del contrato se integra con:
+
+a) las normas indisponibles, que se aplican en sustitución de las cláusulas incompatibles con ellas;
+
+b) las normas supletorias;
+
+c) los usos y prácticas del lugar de celebración, en cuanto sean aplicables porque hayan sido declarados obligatorios por las partes o porque sean ampliamente conocidos y regularmente observados en el ámbito en que se celebra el contrato, excepto que su aplicación sea irrazonable.
+
+ARTICULO 965.- Derecho de propiedad. Los derechos resultantes de los contratos integran el derecho de propiedad del contratante.
+
+CAPITULO 2
+
+Clasificación de los contratos
+
+ARTICULO 966.- Contratos unilaterales y bilaterales. Los contratos son unilaterales cuando una de las partes se obliga hacia la otra sin que ésta quede obligada. Son bilaterales cuando las partes se obligan recíprocamente la una hacia la otra. Las normas de los contratos bilaterales se aplican supletoriamente a los contratos plurilaterales.
+
+ARTICULO 967.- Contratos a título oneroso y a título gratuito. Los contratos son a título oneroso cuando las ventajas que procuran a una de las partes les son concedidas por una prestación que ella ha hecho o se obliga a hacer a la otra. Son a título gratuito cuando aseguran a uno o a otro de los contratantes alguna ventaja, independiente de toda prestación a su cargo.
+
+ARTICULO 968.- Contratos conmutativos y aleatorios. Los contratos a título oneroso son conmutativos cuando las ventajas para todos los contratantes son ciertas. Son aleatorios, cuando las ventajas o las pérdidas, para uno de ellos o para todos, dependen de un acontecimiento incierto.
+
+ARTICULO 969.- Contratos formales. Los contratos para los cuales la ley exige una forma para su validez, son nulos si la solemnidad no ha sido satisfecha. Cuando la forma requerida para los contratos, lo es sólo para que éstos produzcan sus efectos propios, sin sanción de nulidad, no quedan concluidos como tales mientras no se ha otorgado el instrumento previsto, pero valen como contratos en los que las partes se obligaron a cumplir con la expresada formalidad. Cuando la ley o las partes no imponen una forma determinada, ésta debe constituir sólo un medio de prueba de la celebración del contrato.
+
+ARTICULO 970.- Contratos nominados e innominados. Los contratos son nominados e innominados según que la ley los regule especialmente o no. Los contratos innominados están regidos, en el siguiente orden, por:
+
+a) la voluntad de las partes;
+
+b) las normas generales sobre contratos y obligaciones;
+
+c) los usos y prácticas del lugar de celebración;
+
+d) las disposiciones correspondientes a los contratos nominados afines que son compatibles y se adecuan a su finalidad.
+
+CAPITULO 3
+
+Formación del consentimiento
+
+SECCION 1ª
+
+Consentimiento, oferta y aceptación
+
+ARTICULO 971.- Formación del consentimiento. Los contratos se concluyen con la recepción de la aceptación de una oferta o por una conducta de las partes que sea suficiente para demostrar la existencia de un acuerdo.
+
+ARTICULO 972.- Oferta. La oferta es la manifestación dirigida a persona determinada o determinable, con la intención de obligarse y con las precisiones necesarias para establecer los efectos que debe producir de ser aceptada.
+
+ARTICULO 973.- Invitación a ofertar. La oferta dirigida a personas indeterminadas es considerada como invitación para que hagan ofertas, excepto que de sus términos o de las circunstancias de su emisión resulte la intención de contratar del oferente. En este caso, se la entiende emitida por el tiempo y en las condiciones admitidas por los usos.
+
+ARTICULO 974.- Fuerza obligatoria de la oferta. La oferta obliga al proponente, a no ser que lo contrario resulte de sus términos, de la naturaleza del negocio o de las circunstancias del caso.
+
+La oferta hecha a una persona presente o la formulada por un medio de comunicación instantáneo, sin fijación de plazo, sólo puede ser aceptada inmediatamente.
+
+Cuando se hace a una persona que no está presente, sin fijación de plazo para la aceptación, el proponente queda obligado hasta el momento en que puede razonablemente esperarse la recepción de la respuesta, expedida por los medios usuales de comunicación.
+
+Los plazos de vigencia de la oferta comienzan a correr desde la fecha de su recepción, excepto que contenga una previsión diferente.
+
+ARTICULO 975.- Retractación de la oferta. La oferta dirigida a una persona determinada puede ser retractada si la comunicación de su retiro es recibida por el destinatario antes o al mismo tiempo que la oferta.
+
+ARTICULO 976.- Muerte o incapacidad de las partes. La oferta caduca cuando el proponente o el destinatario de ella fallecen o se incapacitan, antes de la recepción de su aceptación.
+
+El que aceptó la oferta ignorando la muerte o incapacidad del oferente, y que a consecuencia de su aceptación ha hecho gastos o sufrido pérdidas, tiene derecho a reclamar su reparación.
+
+ARTICULO 977.- Contrato plurilateral. Si el contrato ha de ser celebrado por varias partes, y la oferta emana de distintas personas, o es dirigida a varios destinatarios, no hay contrato sin el consentimiento de todos los interesados, excepto que la convención o la ley autoricen a la mayoría de ellos para celebrarlo en nombre de todos o permitan su conclusión sólo entre quienes lo han consentido.
+
+ARTICULO 978.- Aceptación. Para que el contrato se concluya, la aceptación debe expresar la plena conformidad con la oferta. Cualquier modificación a la oferta que su destinatario hace al manifestar su aceptación, no vale como tal, sino que importa la propuesta de un nuevo contrato, pero las modificaciones pueden ser admitidas por el oferente si lo comunica de inmediato al aceptante.
+
+ARTICULO 979.- Modos de aceptación. Toda declaración o acto del destinatario que revela conformidad con la oferta constituye aceptación. El silencio importa aceptación sólo cuando existe el deber de expedirse, el que puede resultar de la voluntad de las partes, de los usos o de las prácticas que las partes hayan establecido entre ellas, o de una relación entre el silencio actual y las declaraciones precedentes.
+
+ARTICULO 980.- Perfeccionamiento. La aceptación perfecciona el contrato:
+
+a) entre presentes, cuando es manifestada;
+
+b) entre ausentes, si es recibida por el proponente durante el plazo de vigencia de la oferta.
+
+ARTICULO 981.- Retractación de la aceptación. La aceptación puede ser retractada si la comunicación de su retiro es recibida por el destinatario antes o al mismo tiempo que ella.
+
+ARTICULO 982.- Acuerdo parcial. Los acuerdos parciales de las partes concluyen el contrato si todas ellas, con la formalidad que en su caso corresponda, expresan su consentimiento sobre los elementos esenciales particulares. En tal situación, el contrato queda integrado conforme a las reglas del Capítulo 1. En la duda, el contrato se tiene por no concluido. No se considera acuerdo parcial la extensión de una minuta o de un borrador respecto de alguno de los elementos o de todos ellos.
+
+ARTICULO 983.- Recepción de la manifestación de la voluntad. A los fines de este Capítulo se considera que la manifestación de voluntad de una parte es recibida por la otra cuando ésta la conoce o debió conocerla, trátese de comunicación verbal, de recepción en su domicilio de un instrumento pertinente, o de otro modo útil.
+
+SECCION 2ª
+
+Contratos celebrados por adhesión a cláusulas generales predispuestas
+
+ARTICULO 984.- Definición. El contrato por adhesión es aquel mediante el cual uno de los contratantes adhiere a cláusulas generales predispuestas unilateralmente, por la otra parte o por un tercero, sin que el adherente haya participado en su redacción.
+
+ARTICULO 985.- Requisitos. Las cláusulas generales predispuestas deben ser comprensibles y autosuficientes.
+
+La redacción debe ser clara, completa y fácilmente legible.
+
+Se tienen por no convenidas aquellas que efectúan un reenvío a textos o documentos que no se facilitan a la contraparte del predisponente, previa o simultáneamente a la conclusión del contrato.
+
+La presente disposición es aplicable a la contratación telefónica, electrónica o similares.
+
+ARTICULO 986.- Cláusulas particulares. Las cláusulas particulares son aquellas que, negociadas individualmente, amplían, limitan, suprimen o interpretan una cláusula general. En caso de in-compatibilidad entre cláusulas generales y particulares, prevalecen estas últimas.
+
+ARTICULO 987.- Interpretación. Las cláusulas ambiguas predispuestas por una de las partes se interpretan en sentido contrario a la parte predisponente.
+
+ARTICULO 988.- Cláusulas abusivas. En los contratos previstos en esta sección, se deben tener por no escritas:
+
+a) las cláusulas que desnaturalizan las obligaciones del predisponente;
+
+b) las que importan renuncia o restricción a los derechos del adherente, o amplían derechos del predisponente que resultan de normas supletorias;
+
+c) las que por su contenido, redacción o presentación, no son razonablemente previsibles.
+
+ARTICULO 989.- Control judicial de las cláusulas abusivas. La aprobación administrativa de las cláusulas generales no obsta a su control judicial.
+
+(Artículo sustituido por art. 254 del Decreto N° 70/2023 B.O. 21/12/2023)
+
+SECCION 3ª
+
+Tratativas contractuales
+
+ARTICULO 990.- Libertad de negociación. Las partes son libres para promover tratativas dirigidas a la formación del contrato, y para abandonarlas en cualquier momento.
+
+ARTICULO 991.- Deber de buena fe. Durante las tratativas preliminares, y aunque no se haya formulado una oferta, las partes deben obrar de buena fe para no frustrarlas injustificadamente. El incumplimiento de este deber genera la responsabilidad de resarcir el daño que sufra el afectado por haber confiado, sin su culpa, en la celebración del contrato.
+
+ARTICULO 992.- Deber de confidencialidad. Si durante las negociaciones, una de las partes facilita a la otra una información con carácter confidencial, el que la recibió tiene el deber de no revelarla y de no usarla inapropiadamente en su propio interés. La parte que incumple este deber queda obligada a reparar el daño sufrido por la otra y, si ha obtenido una ventaja indebida de la información confidencial, queda obligada a indemnizar a la otra parte en la medida de su propio enriquecimiento.
+
+ARTICULO 993.- Cartas de intención. Los instrumentos mediante los cuales una parte, o todas ellas, expresan un consentimiento para negociar sobre ciertas bases, limitado a cuestiones relativas a un futuro contrato, son de interpretación restrictiva. Sólo tienen la fuerza obligatoria de la oferta si cumplen sus requisitos.
+
+SECCION 4ª
+
+Contratos preliminares
+
+ARTICULO 994.- Disposiciones generales. Los contratos preliminares deben contener el acuerdo sobre los elementos esenciales particulares que identifiquen el contrato futuro definitivo.
+
+El plazo de vigencia de las promesas previstas en esta Sección es de un año, o el menor que convengan las partes, quienes pueden renovarlo a su vencimiento.
+
+ARTICULO 995.- Promesa de celebrar un contrato. Las partes pueden pactar la obligación de celebrar un contrato futuro. El futuro contrato no puede ser de aquellos para los cuales se exige una forma bajo sanción de nulidad. Es aplicable el régimen de las obligaciones de hacer.
+
+ARTICULO 996.- Contrato de opción. El contrato que contiene una opción de concluir un contrato definitivo, otorga al beneficiario el derecho irrevocable de aceptarlo. Puede ser gratuito u oneroso, y debe observar la forma exigida para el contrato definitivo. No es transmisible a un tercero, excepto que así se lo estipule.
+
+SECCION 5ª
+
+Pacto de preferencia y contrato sujeto a conformidad
+
+ARTICULO 997.- Pacto de preferencia. El pacto de preferencia genera una obligación de hacer a cargo de una de las partes, quien si decide celebrar un futuro contrato, debe hacerlo con la otra o las otras partes. Si se trata de participaciones sociales de cualquier naturaleza, de condominio, de partes en contratos asociativos o similares, el pacto puede ser recíproco. Los derechos y obligaciones derivados de este pacto son transmisibles a terceros con las modalidades que se estipulen.
+
+ARTICULO 998.- Efectos. El otorgante de la preferencia debe dirigir a su o sus beneficiarios una declaración, con los requisitos de la oferta, comunicándole su decisión de celebrar el nuevo contrato, en su caso de conformidad con las estipulaciones del pacto. El contrato queda concluido con la aceptación del o de los beneficiarios.
+
+ARTICULO 999.- Contrato sujeto a conformidad. El contrato cuyo perfeccionamiento depende de una conformidad o de una autorización queda sujeto a las reglas de la condición suspensiva.
+
+CAPITULO 4
+
+Incapacidad e inhabilidad para contratar
+
+ARTICULO 1000.- Efectos de la nulidad del contrato. Declarada la nulidad del contrato celebrado por la persona incapaz o con capacidad restringida, la parte capaz no tiene derecho para exigir la restitución o el reembolso de lo que ha pagado o gastado, excepto si el contrato enriqueció a la parte incapaz o con capacidad restringida y en cuanto se haya enriquecido.
+
+ARTICULO 1001.- Inhabilidades para contratar. No pueden contratar, en interés propio o ajeno, según sea el caso, los que están impedidos para hacerlo conforme a disposiciones especiales. Los contratos cuya celebración está prohibida a determinados sujetos tampoco pueden ser otorgados por interpósita persona.
+
+ARTICULO 1002.- Inhabilidades especiales. No pueden contratar en interés propio:
+
+a) los funcionarios públicos, respecto de bienes de cuya administración o enajenación están o han estado encargados;
+
+b) los jueces, funcionarios y auxiliares de la justicia, los árbitros y mediadores, y sus auxiliares, respecto de bienes relacionados con procesos en los que intervienen o han intervenido;
+
+c) los abogados y procuradores, respecto de bienes litigiosos en procesos en los que intervienen o han intervenido;
+
+d) los cónyuges, bajo el régimen de comunidad, entre sí.
+
+Los albaceas que no son herederos no pueden celebrar contrato de compraventa sobre los bienes de las testamentarias que estén a su cargo.
+
+CAPITULO 5
+
+Objeto
+
+ARTICULO 1003.- Disposiciones generales. Se aplican al objeto del contrato las disposiciones de la Sección 1a, Capítulo 5, Título IV del Libro Primero de este Código. Debe ser lícito, posible, determinado o determinable, susceptible de valoración económica y corresponder a un interés de las partes, aun cuando éste no sea patrimonial.
+
+ARTICULO 1004.- Objetos prohibidos. No pueden ser objeto de los contratos los hechos que son imposibles o están prohibidos por las leyes, son contrarios a la moral, al orden público, a la dignidad de la persona humana, o lesivos de los derechos ajenos; ni los bienes que por un motivo especial se prohíbe que lo sean. Cuando tengan por objeto derechos sobre el cuerpo humano se aplican los artículos 17 y 56.
+
+ARTICULO 1005.- Determinación. Cuando el objeto se refiere a bienes, éstos deben estar determinados en su especie o género según sea el caso, aunque no lo estén en su cantidad, si ésta puede ser determinada. Es determinable cuando se establecen los criterios suficientes para su individualización.
+
+ARTICULO 1006.- Determinación por un tercero. Las partes pueden pactar que la determinación del objeto sea efectuada por un tercero. En caso de que el tercero no realice la elección, sea imposible o no haya observado los criterios expresamente establecidos por las partes o por los usos y costumbres, puede recurrirse a la determinación judicial, petición que debe tramitar por el procedimiento más breve que prevea la legislación procesal.
+
+ARTICULO 1007.- Bienes existentes y futuros. Los bienes futuros pueden ser objeto de los contratos. La promesa de transmitirlos está subordinada a la condición de que lleguen a existir, excepto que se trate de contratos aleatorios.
+
+ARTICULO 1008.- Bienes ajenos. Los bienes ajenos pueden ser objeto de los contratos. Si el que promete transmitirlos no ha garantizado el éxito de la promesa, sólo está obligado a emplear los medios necesarios para que la prestación se realice y, si por su culpa, el bien no se transmite, debe reparar los daños causados. Debe también indemnizarlos cuando ha garantizado la promesa y ésta no se cumple.
+
+El que ha contratado sobre bienes ajenos como propios es responsable de los daños si no hace entrega de ellos.
+
+ARTICULO 1009.- Bienes litigiosos, gravados, o sujetos a medidas cautelares. Los bienes litigiosos, gravados, o sujetos a medidas cautelares, pueden ser objeto de los contratos, sin perjuicio de los derechos de terceros.
+
+Quien de mala fe contrata sobre esos bienes como si estuviesen libres debe reparar los daños causados a la otra parte si ésta ha obrado de buena fe.
+
+ARTICULO 1010.- Herencia futura. La herencia futura no puede ser objeto de los contratos ni tampoco pueden serlo los derechos hereditarios eventuales sobre objetos particulares, excepto lo dispuesto en el párrafo siguiente u otra disposición legal expresa.
+
+Los pactos relativos a una explotación productiva o a participaciones societarias de cualquier tipo, con miras a la conservación de la unidad de la gestión empresaria o a la prevención o solución de conflictos, pueden incluir disposiciones referidas a futuros derechos hereditarios y establecer compensaciones en favor de otros legitimarios. Estos pactos son válidos, sean o no parte el futuro causante y su cónyuge, si no afectan la legítima hereditaria, los derechos del cónyuge, ni los derechos de terceros.
+
+ARTICULO 1011.- Contratos de larga duración. En los contratos de larga duración el tiempo es esencial para el cumplimiento del objeto, de modo que se produzcan los efectos queridos por las partes o se satisfaga la necesidad que las indujo a contratar.
+
+Las partes deben ejercitar sus derechos conforme con un deber de colaboración, respetando la reciprocidad de las obligaciones del contrato, considerada en relación a la duración total.
+
+La parte que decide la rescisión debe dar a la otra la oportunidad razonable de renegociar de buena fe, sin incurrir en ejercicio abusivo de los derechos.
+
+CAPITULO 6
+
+Causa
+
+ARTICULO 1012.- Disposiciones generales. Se aplican a la causa de los contratos las disposiciones de la Sección 2ª, Capítulo 5, Título IV, Libro Primero de este Código.
+
+ARTICULO 1013.- Necesidad. La causa debe existir en la formación del contrato y durante su celebración y subsistir durante su ejecución. La falta de causa da lugar, según los casos, a la nulidad, ade-cuación o extinción del contrato.
+
+ARTICULO 1014.- Causa ilícita. El contrato es nulo cuando:
+
+a) su causa es contraria a la moral, al orden público o a las buenas costumbres;
+
+b) ambas partes lo han concluido por un motivo ilícito o inmoral común. Si sólo una de ellas ha obrado por un motivo ilícito o inmoral, no tiene derecho a invocar el contrato frente a la otra, pero ésta puede reclamar lo que ha dado, sin obligación de cumplir lo que ha ofrecido.
+
+CAPITULO 7
+
+Forma
+
+ARTICULO 1015.- Libertad de formas. Sólo son formales los contratos a los cuales la ley les impone una forma determinada.
+
+ARTICULO 1016.- Modificaciones al contrato. La formalidad exigida para la celebración del contrato rige también para las modificaciones ulteriores que le sean introducidas, excepto que ellas versen solamente sobre estipulaciones accesorias o secundarias, o que exista disposición legal en contrario.
+
+ARTICULO 1017.- Escritura pública. Deben ser otorgados por escritura pública:
+
+a) los contratos que tienen por objeto la adquisición, modificación o extinción de derechos reales sobre inmuebles. Quedan exceptuados los casos en que el acto es realizado mediante subasta proveniente de ejecución judicial o administrativa;
+
+b) los contratos que tienen por objeto derechos dudosos o litigiosos sobre inmuebles;
+
+c) todos los actos que sean accesorios de otros contratos otorgados en escritura pública;
+
+d) los demás contratos que, por acuerdo de partes o disposición de la ley, deben ser otorgados en escritura pública.
+
+ARTICULO 1018.- Otorgamiento pendiente del instrumento. El otorgamiento pendiente de un instrumento previsto constituye una obligación de hacer si el futuro contrato no requiere una forma bajo sanción de nulidad. Si la parte condenada a otorgarlo es remisa, el juez lo hace en su representación, siempre que las contraprestaciones estén cumplidas, o sea asegurado su cumplimiento.
+
+CAPITULO 8
+
+Prueba
+
+ARTICULO 1019.- Medios de prueba. Los contratos pueden ser probados por todos los medios aptos para llegar a una razonable convicción según las reglas de la sana crítica, y con arreglo a lo que disponen las leyes procesales, excepto disposición legal que establezca un medio especial.
+
+Los contratos que sea de uso instrumentar no pueden ser probados exclusivamente por testigos.
+
+ARTICULO 1020.- Prueba de los contratos formales. Los contratos en los cuales la formalidad es requerida a los fines probatorios pueden ser probados por otros medios, inclusive por testigos, si hay imposibilidad de obtener la prueba de haber sido cumplida la formalidad o si existe principio de prueba instrumental, o comienzo de ejecución.
+
+Se considera principio de prueba instrumental cualquier instrumento que emane de la otra parte, de su causante o de parte interesada en el asunto, que haga verosímil la existencia del contrato.
+
+CAPITULO 9
+
+Efectos
+
+SECCION 1ª
+
+Efecto relativo
+
+ARTICULO 1021.- Regla general. El contrato sólo tiene efecto entre las partes contratantes; no lo tiene con respecto a terceros, excepto en los casos previstos por la ley.
+
+ARTICULO 1022.- Situación de los terceros. El contrato no hace surgir obligaciones a cargo de terceros, ni los terceros tienen derecho a invocarlo para hacer recaer sobre las partes obligaciones que éstas no han convenido, excepto disposición legal.
+
+ARTICULO 1023.- Parte del contrato. Se considera parte del contrato a quien:
+
+a) lo otorga a nombre propio, aunque lo haga en interés ajeno;
+
+b) es representado por un otorgante que actúa en su nombre e interés;
+
+c) manifiesta la voluntad contractual, aunque ésta sea transmitida por un corredor o por un agente sin representación.
+
+ARTICULO 1024.- Sucesores universales. Los efectos del contrato se extienden, activa y pasivamente, a los sucesores universales, a no ser que las obligaciones que de él nacen sean inherentes a la persona, o que la transmisión sea incompatible con la naturaleza de la obligación, o esté prohibida por una cláusula del contrato o la ley.
+
+SECCION 2ª
+
+Incorporación de terceros al contrato
+
+ARTICULO 1025.- Contratación a nombre de tercero. Quien contrata a nombre de un tercero sólo lo obliga si ejerce su representación. A falta de representación suficiente el contrato es ineficaz. La ratificación expresa o tácita del tercero suple la falta de representación; la ejecución implica ratificación tácita.
+
+ARTICULO 1026.- Promesa del hecho de tercero. Quien promete el hecho de un tercero queda obligado a hacer lo razonablemente necesario para que el tercero acepte la promesa. Si ha garantizado que la promesa sea aceptada, queda obligado a obtenerla y responde personalmente en caso de negativa.
+
+ARTICULO 1027.- Estipulación a favor de tercero. Si el contrato contiene una estipulación a favor de un tercero beneficiario, determinado o determinable, el promitente le confiere los derechos o facultades resultantes de lo que ha convenido con el estipulante. El estipulante puede revocar la estipulación mientras no reciba la aceptación del tercero beneficiario; pero no puede hacerlo sin la conformidad del promitente si éste tiene interés en que sea mantenida. El tercero aceptante obtiene directamente los derechos y las facultades resultantes de la estipulación a su favor. Las facultades del tercero beneficiario de aceptar la estipulación, y de prevalerse de ella luego de haberla aceptado, no se transmiten a sus herederos, excepto que haya cláusula expresa que lo autorice. La estipulación es de interpretación restrictiva.
+
+ARTICULO 1028.- Relaciones entre las partes. El promitente puede oponer al tercero las defensas derivadas del contrato básico y las fundadas en otras relaciones con él.
+
+El estipulante puede:
+
+a) exigir al promitente el cumplimiento de la prestación, sea a favor del tercer beneficiario aceptante, sea a su favor si el tercero no la aceptó o el estipulante la revocó;
+
+b) resolver el contrato en caso de incumplimiento, sin perjuicio de los derechos del tercero beneficiario.
+
+ARTICULO 1029.- Contrato para persona a designar. Cualquier parte puede reservarse la facultad de designar ulteriormente a un tercero para que asuma su posición contractual, excepto si el contrato no puede ser celebrado por medio de representante, o la determinación de los sujetos es indispensable.
+
+La asunción de la posición contractual se produce con efectos retroactivos a la fecha del contrato, cuando el tercero acepta la nominación y su aceptación es comunicada a la parte que no hizo la reserva. Esta comunicación debe revestir la misma forma que el contrato, y ser efectuada dentro del plazo estipulado o, en su defecto, dentro de los quince días desde su celebración.
+
+Mientras no haya una aceptación del tercero, el contrato produce efectos entre las partes.
+
+ARTICULO 1030.- Contrato por cuenta de quien corresponda. El contrato celebrado por cuenta de quien corresponda queda sujeto a las reglas de la condición suspensiva. El tercero asume la posición contractual cuando se produce el hecho que lo determina como beneficiario del contrato.
+
+SECCION 3ª
+
+Suspensión del cumplimiento y fuerza mayor
+
+ARTICULO 1031.- Suspensión del cumplimiento. En los contratos bilaterales, cuando las partes deben cumplir simultáneamente, una de ellas puede suspender el cumplimiento de la prestación, hasta que la otra cumpla u ofrezca cumplir. La suspensión puede ser deducida judicialmente como acción o como excepción. Si la prestación es a favor de varios interesados, puede suspenderse la parte debida a cada uno hasta la ejecución completa de la contraprestación.
+
+ARTICULO 1032.- Tutela preventiva. Una parte puede suspender su propio cumplimiento si sus derechos sufriesen una grave amenaza de daño porque la otra parte ha sufrido un menoscabo significativo en su aptitud para cumplir, o en su solvencia. La suspensión queda sin efecto cuando la otra parte cumple o da seguridades suficientes de que el cumplimiento será realizado.
+
+SECCION 4ª
+
+Obligación de saneamiento
+
+Parágrafo 1°
+
+Disposiciones generales
+
+ARTICULO 1033.- Sujetos responsables. Están obligados al saneamiento:
+
+a) el transmitente de bienes a título oneroso;
+
+b) quien ha dividido bienes con otros;
+
+c) sus respectivos antecesores, si han efectuado la correspondiente transferencia a título oneroso.
+
+ARTICULO 1034.- Garantías comprendidas en la obligación de saneamiento. El obligado al saneamiento garantiza por evicción y por vicios ocultos conforme a lo dispuesto en esta Sección, sin perjuicio de las normas especiales.
+
+ARTICULO 1035.- Adquisición a título gratuito. El adquirente a título gratuito puede ejercer en su provecho las acciones de responsabilidad por saneamiento correspondientes a sus antecesores.
+
+ARTICULO 1036.- Disponibilidad. La responsabilidad por saneamiento existe aunque no haya sido estipulada por las partes. Estas pueden aumentarla, disminuirla o suprimirla, sin perjuicio de lo dispuesto en el artículo siguiente.
+
+ARTICULO 1037.- Interpretación de la supresión y de la disminución de la responsabilidad por saneamiento. Las cláusulas de supresión y disminución de la responsabilidad por saneamiento son de interpretación restrictiva.
+
+ARTICULO 1038.- Casos en los que se las tiene por no convenidas. La supresión y la disminución de la responsabilidad por saneamiento se tienen por no convenidas en los siguientes casos:
+
+a) si el enajenante conoció, o debió conocer el peligro de evicción, o la existencia de vicios;
+
+b) si el enajenante actúa profesionalmente en la actividad a la que corresponde la enajenación, a menos que el adquirente también se desempeñe profesionalmente en esa actividad.
+
+ARTICULO 1039.- Responsabilidad por saneamiento. El acreedor de la obligación de saneamiento tiene derecho a optar entre:
+
+a) reclamar el saneamiento del título o la subsanación de los vicios;
+
+b) reclamar un bien equivalente, si es fungible;
+
+c) declarar la resolución del contrato, excepto en los casos previstos por los artículos 1050 y 1057.
+
+ARTICULO 1040.- Responsabilidad por daños. El acreedor de la obligación de saneamiento también tiene derecho a la reparación de los daños en los casos previstos en el artículo 1039, excepto:
+
+a) si el adquirente conoció, o pudo conocer el peligro de la evicción o la existencia de vicios;
+
+b) si el enajenante no conoció, ni pudo conocer el peligro de la evicción o la existencia de vicios;
+
+c) si la transmisión fue hecha a riesgo del adquirente;
+
+d) si la adquisición resulta de una subasta judicial o administrativa.
+
+La exención de responsabilidad por daños prevista en los incisos a) y b) no puede invocarse por el enajenante que actúa profesionalmente en la actividad a la que corresponde la enajenación, a menos que el adquirente también se desempeñe profesionalmente en esa actividad.
+
+ARTICULO 1041.- Pluralidad de bienes. En los casos en que la responsabilidad por saneamiento resulta de la enajenación de varios bienes se aplican las siguientes reglas:
+
+a) si fueron enajenados como conjunto, es indivisible;
+
+b) si fueron enajenados separadamente, es divisible, aunque haya habido una contraprestación única.
+
+En su caso, rigen las disposiciones aplicables a las cosas accesorias.
+
+ARTICULO 1042.- Pluralidad de sujetos. Quienes tienen responsabilidad por saneamiento en virtud de enajenaciones sucesivas son obligados concurrentes. Si el bien ha sido enajenado simultáneamente por varios copropietarios, éstos sólo responden en proporción a su cuota parte indivisa, excepto que se haya pactado su solidaridad.
+
+ARTICULO 1043.- Ignorancia o error. El obligado al saneamiento no puede invocar su ignorancia o error, excepto estipulación en contrario.
+
+Parágrafo 2°
+
+Responsabilidad por evicción
+
+ARTICULO 1044.- Contenido de la responsabilidad por evicción. La responsabilidad por evicción asegura la existencia y la legitimidad del derecho transmitido, y se extiende a:
+
+a) toda turbación de derecho, total o parcial, que recae sobre el bien, por causa anterior o contemporánea a la adquisición;
+
+b) los reclamos de terceros fundados en derechos resultantes de la propiedad intelectual o industrial, excepto si el enajenante se ajustó a especificaciones suministradas por el adquirente;
+
+c) las turbaciones de hecho causadas por el transmitente.
+
+ARTICULO 1045.- Exclusiones. La responsabilidad por evicción no comprende:
+
+a) las turbaciones de hecho causadas por terceros ajenos al transmitente;
+
+b) las turbaciones de derecho provenientes de una disposición legal;
+
+c) la evicción resultante de un derecho de origen anterior a la transferencia, y consolidado posteriormente. Sin embargo, el tribunal puede apartarse de esta disposición si hay un desequilibrio económico desproporcionado.
+
+ARTICULO 1046.- Citación por evicción. Si un tercero demanda al adquirente en un proceso del que pueda resultar la evicción de la cosa, el garante citado a juicio debe comparecer en los términos de la ley de procedimientos. El adquirente puede seguir actuando en el proceso.
+
+ARTICULO 1047.- Gastos de defensa. El garante debe pagar al adquirente los gastos que éste ha afrontado para la defensa de sus derechos. Sin embargo, el adquirente no puede cobrarlos, ni efectuar ningún otro reclamo si:
+
+a) no citó al garante al proceso;
+
+b) citó al garante, y aunque éste se allanó, continuó con la defensa y fue vencido.
+
+ARTICULO 1048.- Cesación de la responsabilidad. En los casos en que se promueve el proceso judicial, la responsabilidad por evicción cesa:
+
+a) si el adquirente no cita al garante, o lo hace después de vencido el plazo que establece la ley procesal;
+
+b) si el garante no comparece al proceso judicial, y el adquirente, actuando de mala fe, no opone las defensas pertinentes, no las sostiene, o no interpone o no prosigue los recursos ordinarios de que dispone contra el fallo desfavorable;
+
+c) si el adquirente se allana a la demanda sin la conformidad del garante; o somete la cuestión a arbitraje y el laudo le es desfavorable.
+
+Sin embargo, la responsabilidad subsiste si el adquirente prueba que, por no haber existido oposición justa que hacer al derecho del vencedor, la citación oportuna del garante por evicción, o la interposición o sustanciación de los recursos, eran inútiles; o que el allanamiento o el laudo desfavorable son ajustados a derecho.
+
+ARTICULO 1049.- Régimen de las acciones. El acreedor de la responsabilidad dispone del derecho a declarar la resolución:
+
+a) si los defectos en el título afectan el valor del bien a tal extremo que, de haberlos conocido, el adquirente no lo habría adquirido, o su contraprestación habría sido significativamente menor;
+
+b) si una sentencia o un laudo produce la evicción.
+
+ARTICULO 1050.- Prescripción adquisitiva. Cuando el derecho del adquirente se sanea por el transcurso del plazo de prescripción adquisitiva, se extingue la responsabilidad por evicción.
+
+Parágrafo 3°
+
+Responsabilidad por vicios ocultos
+
+ARTICULO 1051.- Contenido de la responsabilidad por vicios ocultos. La responsabilidad por defectos ocultos se extiende a:
+
+a) los defectos no comprendidos en las exclusiones del artículo 1053;
+
+b) los vicios redhibitorios, considerándose tales los defectos que hacen a la cosa impropia para su destino por razones estructurales o funcionales, o disminuyen su utilidad a tal extremo que, de haberlos conocido, el adquirente no la habría adquirido, o su contraprestación hubiese sido significativamente menor.
+
+ARTICULO 1052.- Ampliación convencional de la garantía. Se considera que un defecto es vicio redhibitorio:
+
+a) si lo estipulan las partes con referencia a ciertos defectos específicos, aunque el adquirente debiera haberlos conocido;
+
+b) si el enajenante garantiza la inexistencia de defectos, o cierta calidad de la cosa transmitida, aunque el adquirente debiera haber conocido el defecto o la falta de calidad;
+
+c) si el que interviene en la fabricación o en la comercialización de la cosa otorga garantías especiales. Sin embargo, excepto estipulación en contrario, el adquirente puede optar por ejercer los derechos resultantes de la garantía conforme a los términos en que fue otorgada.
+
+ARTICULO 1053.- Exclusiones. La responsabilidad por defectos ocultos no comprende:
+
+a) los defectos del bien que el adquirente conoció, o debió haber conocido mediante un examen adecuado a las circunstancias del caso al momento de la adquisición, excepto que haya hecho reserva expresa respecto de aquéllos. Si reviste características especiales de complejidad, y la posibilidad de conocer el defecto requiere cierta preparación científica o técnica, para determinar esa posibilidad se aplican los usos del lugar de entrega;
+
+b) los defectos del bien que no existían al tiempo de la adquisición. La prueba de su existencia incumbe al adquirente, excepto si el transmitente actúa profesionalmente en la actividad a la que corres-ponde la transmisión.
+
+ARTICULO 1054.- Ejercicio de la responsabilidad por defectos ocultos. El adquirente tiene la carga de denunciar expresamente la existencia del defecto oculto al garante dentro de los sesenta días de haberse manifestado. Si el defecto se manifiesta gradualmente, el plazo se cuenta desde que el adquirente pudo advertirlo. El incumplimiento de esta carga extingue la responsabilidad por defectos ocultos, excepto que el enajenante haya conocido o debido conocer, la existencia de los defectos.
+
+ARTICULO 1055.- Caducidad de la garantía por defectos ocultos. La responsabilidad por defectos ocultos caduca:
+
+a) si la cosa es inmueble, cuando transcurren tres años desde que la recibió;
+
+b) si la cosa es mueble, cuando transcurren seis meses desde que la recibió o puso en funcionamiento.
+
+Estos plazos pueden ser aumentados convencionalmente.
+
+La prescripción de la acción está sujeta a lo dispuesto en el Libro Sexto.
+
+ARTICULO 1056.- Régimen de las acciones. El acreedor de la garantía dispone del derecho a declarar la resolución del contrato:
+
+a) si se trata de un vicio redhibitorio;
+
+b) si medió una ampliación convencional de la garantía.
+
+ARTICULO 1057.- Defecto subsanable. El adquirente no tiene derecho a resolver el contrato si el defecto es subsanable, el garante ofrece subsanarlo y él no lo acepta. Queda a salvo la reparación de daños.
+
+ARTICULO 1058.- Pérdida o deterioro de la cosa. Si la cosa perece total o parcialmente a causa de sus defectos, el garante soporta su pérdida.
+
+SECCION 5ª
+
+Señal
+
+ARTICULO 1059.- Disposiciones generales. La entrega de señal o arras se interpreta como confirmatoria del acto, excepto que las partes convengan la facultad de arrepentirse; en tal caso, quien entregó la señal la pierde en beneficio de la otra, y quien la recibió, debe restituirla doblada.
+
+ARTICULO 1060.- Modalidad. Como señal o arras pueden entregarse dinero o cosas muebles. Si es de la misma especie que lo que debe darse por el contrato, la señal se tiene como parte de la prestación si el contrato se cumple; pero no si ella es de diferente especie o si la obligación es de hacer o no hacer.
+
+CAPITULO 10
+
+Interpretación
+
+ARTICULO 1061.- Intención común. El contrato debe interpretarse conforme a la intención común de las partes y al principio de la buena fe.
+
+ARTICULO 1062.- Interpretación restrictiva. Cuando por disposición legal o convencional se establece expresamente una interpretación restrictiva, debe estarse a la literalidad de los términos utilizados al manifestar la voluntad. Este artículo no es aplicable a las obligaciones del predisponente y del proveedor en los contratos por adhesión y en los de consumo, respectivamente.
+
+ARTICULO 1063.- Significado de las palabras. Las palabras empleadas en el contrato deben entenderse en el sentido que les da el uso general, excepto que tengan un significado específico que surja de la ley, del acuerdo de las partes o de los usos y prácticas del lugar de celebración conforme con los criterios dispuestos para la integración del contrato.
+
+Se aplican iguales reglas a las conductas, signos y expresiones no verbales con los que el consentimiento se manifiesta.
+
+ARTICULO 1064.- Interpretación contextual. Las cláusulas del contrato se interpretan las unas por medio de las otras, y atribuyéndoles el sentido apropiado al conjunto del acto.
+
+ARTICULO 1065.- Fuentes de interpretación. Cuando el significado de las palabras interpretado contextualmente no es suficiente, se deben tomar en consideración:
+
+a) las circunstancias en que se celebró, incluyendo las negociaciones preliminares;
+
+b) la conducta de las partes, incluso la posterior a su celebración;
+
+c) la naturaleza y finalidad del contrato.
+
+ARTICULO 1066.- Principio de conservación. Si hay duda sobre la eficacia del contrato, o de alguna de sus cláusulas, debe interpretarse en el sentido de darles efecto. Si esto resulta de varias interpretaciones posibles, corresponde entenderlos con el alcance más adecuado al objeto del contrato.
+
+ARTICULO 1067.- Protección de la confianza. La interpretación debe proteger la confianza y la lealtad que las partes se deben recíprocamente, siendo inadmisible la contradicción con una conducta jurídicamente relevante, previa y propia del mismo sujeto.
+
+ARTICULO 1068.- Expresiones oscuras. Cuando a pesar de las reglas contenidas en los artículos anteriores persisten las dudas, si el contrato es a título gratuito se debe interpretar en el sentido menos gravoso para el obligado y, si es a título oneroso, en el sentido que produzca un ajuste equitativo de los intereses de las partes.
+
+CAPITULO 11
+
+Subcontrato
+
+ARTICULO 1069.- Definición. El subcontrato es un nuevo contrato mediante el cual el subcontratante crea a favor del subcontratado una nueva posición contractual derivada de la que aquél tiene en el contrato principal.
+
+ARTICULO 1070.- Disposición general. En los contratos con prestaciones pendientes éstas pueden ser subcontratadas, en el todo o en parte, a menos que se trate de obligaciones que requieren prestaciones personales.
+
+ARTICULO 1071.- Acciones del subcontratado. El subcontratado dispone:
+
+a) de las acciones emergentes del subcontrato, contra el subcontratante;
+
+b) de las acciones que corresponden al subcontratante, contra la otra parte del contrato principal, en la extensión en que esté pendiente el cumplimiento de las obligaciones de éste respecto del subcontratante. Estas acciones directas se rigen por lo dispuesto en los artículos 736, 737 y 738.
+
+ARTICULO 1072.- Acciones de la parte que no ha celebrado el subcontrato. La parte que no ha celebrado el subcontrato mantiene contra el subcontratante las acciones emergentes del contrato principal.
+
+Dispone también de las que corresponden al subcontratante contra el subcontratado, y puede ejercerlas en nombre e interés propio.
+
+CAPITULO 12
+
+Contratos conexos
+
+ARTICULO 1073.- Definición. Hay conexidad cuando dos o más contratos autónomos se hallan vinculados entre sí por una finalidad económica común previamente establecida, de modo que uno de ellos ha sido determinante del otro para el logro del resultado perseguido. Esta finalidad puede ser establecida por la ley, expresamente pactada, o derivada de la interpretación, conforme con lo que se dispone en el artículo 1074.
+
+ARTICULO 1074.- Interpretación. Los contratos conexos deben ser interpretados los unos por medio de los otros, atribuyéndoles el sentido apropiado que surge del grupo de contratos, su función económica y el resultado perseguido.
+
+ARTICULO 1075.- Efectos. Según las circunstancias, probada la conexidad, un contratante puede oponer las excepciones de incumplimiento total, parcial o defectuoso, aún frente a la inejecución de obligaciones ajenas a su contrato. Atendiendo al principio de la conservación, la misma regla se aplica cuando la extinción de uno de los contratos produce la frustración de la finalidad económica común.
+
+CAPITULO 13
+
+Extinción, modificación y adecuación del contrato
+
+ARTICULO 1076.- Rescisión bilateral. El contrato puede ser extinguido por rescisión bilateral. Esta extinción, excepto estipulación en contrario, sólo produce efectos para el futuro y no afecta derechos de terceros.
+
+ARTICULO 1077.- Extinción por declaración de una de las partes. El contrato puede ser extinguido total o parcialmente por la declaración de una de las partes, mediante rescisión unilateral, revocación o resolución, en los casos en que el mismo contrato, o la ley, le atribuyen esa facultad.
+
+ARTICULO 1078.- Disposiciones generales para la extinción por declaración de una de las partes. Excepto disposición legal o convencional en contrario, se aplican a la rescisión unilateral, a la revocación y a la resolución las siguientes reglas generales:
+
+a) el derecho se ejerce mediante comunicación a la otra parte. La comunicación debe ser dirigida por todos los sujetos que integran una parte contra todos los sujetos que integran la otra;
+
+b) la extinción del contrato puede declararse extrajudicialmente o demandarse ante un juez. La demanda puede iniciarse aunque no se haya cursado el requerimiento previo que pudo corresponder; en tal situación se aplica el inciso f);
+
+c) la otra parte puede oponerse a la extinción si, al tiempo de la declaración, el declarante no ha cumplido, o no está en situación de cumplir, la prestación que debía realizar para poder ejercer la facultad de extinguir el contrato;
+
+d) la extinción del contrato no queda afectada por la imposibilidad de restituir que tenga la parte que no la declaró;
+
+e) la parte que tiene derecho a extinguir el contrato puede optar por requerir su cumplimiento y la reparación de daños. Esta demanda no impide deducir ulteriormente una pretensión extintiva;
+
+f) la comunicación de la declaración extintiva del contrato produce su extinción de pleno derecho, y posteriormente no puede exigirse el cumplimiento ni subsiste el derecho de cumplir. Pero, en los casos en que es menester un requerimiento previo, si se promueve la demanda por extinción sin haber intimado, el demandado tiene derecho de cumplir hasta el vencimiento del plazo de emplazamiento;
+
+g) la demanda ante un tribunal por extinción del contrato impide deducir ulteriormente una pretensión de cumplimiento;
+
+h) la extinción del contrato deja subsistentes las estipulaciones referidas a las restituciones, a la reparación de daños, a la solución de las controversias y a cualquiera otra que regule los derechos y obligaciones de las partes tras la extinción.
+
+ARTICULO 1079.- Operatividad de los efectos de la extinción por declaración de una de las partes. Excepto disposición legal en contrario:
+
+a) la rescisión unilateral y la revocación producen efectos solo para el futuro;
+
+b) la resolución produce efectos retroactivos entre las partes, y no afecta el derecho adquirido a título oneroso por terceros de buena fe.
+
+ARTICULO 1080.- Restitución en los casos de extinción por declaración de una de las partes. Si el contrato es extinguido total o parcialmente por rescisión unilateral, por revocación o por resolu-ción, las partes deben restituirse, en la medida que corresponda, lo que han recibido en razón del contrato, o su valor, conforme a las reglas de las obligaciones de dar para restituir, y a lo previsto en el artículo siguiente.
+
+ARTICULO 1081.- Contrato bilateral. Si se trata de la extinción de un contrato bilateral:
+
+a) la restitución debe ser recíproca y simultánea;
+
+b) las prestaciones cumplidas quedan firmes y producen sus efectos en cuanto resulten equivalentes, si son divisibles y han sido recibidas sin reserva respecto del efecto cancelatorio de la obligación;
+
+c) para estimar el valor de las restituciones del acreedor se toman en cuenta las ventajas que resulten o puedan resultar de no haber efectuado la propia prestación, su utilidad frustrada y, en su caso, otros daños.
+
+ARTICULO 1082.- Reparación del daño. La reparación del daño, cuando procede, queda sujeta a estas disposiciones:
+
+a) el daño debe ser reparado en los casos y con los alcances establecidos en este Capítulo, en el Título V de este Libro, y en las disposiciones especiales para cada contrato;
+
+b) la reparación incluye el reembolso total o parcial, según corresponda, de los gastos generados por la celebración del contrato y de los tributos que lo hayan gravado;
+
+c) de haberse pactado la cláusula penal, se aplica con los alcances establecidos en los artículos 790 y siguientes.
+
+ARTICULO 1083.- Resolución total o parcial. Una parte tiene la facultad de resolver total o parcialmente el contrato si la otra parte lo incumple. Pero los derechos de declarar la resolución total o la resolución parcial son excluyentes, por lo cual, habiendo optado por uno de ellos, no puede ejercer luego el otro. Si el deudor ha ejecutado una prestación parcial, el acreedor sólo puede resolver íntegramente el contrato si no tiene ningún interés en la prestación parcial.
+
+ARTICULO 1084.- Configuración del incumplimiento. A los fines de la resolución, el incumplimiento debe ser esencial en atención a la finalidad del contrato. Se considera que es esencial cuando:
+
+a) el cumplimiento estricto de la prestación es fundamental dentro del contexto del contrato;
+
+b) el cumplimiento tempestivo de la prestación es condición del mantenimiento del interés del acreedor;
+
+c) el incumplimiento priva a la parte perjudicada de lo que sustancialmente tiene derecho a esperar;
+
+d) el incumplimiento es intencional;
+
+e) el incumplimiento ha sido anunciado por una manifestación seria y definitiva del deudor al acreedor.
+
+ARTICULO 1085.- Conversión de la demanda por cumplimiento. La sentencia que condena al cumplimiento lleva implícito el apercibimiento de que, ante el incumplimiento, en el trámite de ejecución, el acreedor tiene derecho a optar por la resolución del contrato, con los efectos previstos en el artículo 1081.
+
+ARTICULO 1086.- Cláusula resolutoria expresa. Las partes pueden pactar expresamente que la resolución se produzca en caso de incumplimientos genéricos o específicos debidamente identificados. En este supuesto, la resolución surte efectos a partir que la parte interesada comunica a la incumplidora en forma fehaciente su voluntad de resolver.
+
+ARTICULO 1087.- Cláusula resolutoria implícita. En los contratos bilaterales la cláusula resolutoria es implícita y queda sujeta a lo dispuesto en los artículos 1088 y 1089.
+
+ARTICULO 1088.- Presupuestos de la resolución por cláusula resolutoria implícita. La resolución por cláusula resolutoria implícita exige:
+
+a) un incumplimiento en los términos del artículo 1084. Si es parcial, debe privar sustancialmente de lo que razonablemente la parte tenía derecho a esperar en razón del contrato;
+
+b) que el deudor esté en mora;
+
+c) que el acreedor emplace al deudor, bajo apercibimiento expreso de la resolución total o parcial del contrato, a que cumpla en un plazo no menor de quince días, excepto que de los usos, o de la índole de la prestación, resulte la procedencia de uno menor. La resolución se produce de pleno derecho al vencimiento de dicho plazo. Dicho requerimiento no es necesario si ha vencido un plazo esencial para el cumplimiento, si la parte incumplidora ha manifestado su decisión de no cumplir, o si el cumplimiento resulta imposible. En tales casos, la resolución total o parcial del contrato se produce cuando el acreedor la declara y la comunicación es recibida por la otra parte.
+
+ARTICULO 1089.- Resolución por ministerio de la ley. El requerimiento dispuesto en el artículo 1088 no es necesario en los casos en que la ley faculta a la parte para declarar unilateralmente la extinción del contrato, sin perjuicio de disposiciones especiales.
+
+ARTICULO 1090.- Frustración de la finalidad. La frustración definitiva de la finalidad del contrato autoriza a la parte perjudicada a declarar su resolución, si tiene su causa en una alteración de carácter extraordinario de las circunstancias existentes al tiempo de su celebración, ajena a las partes y que supera el riesgo asumido por la que es afectada. La resolución es operativa cuando esta parte comunica su declaración extintiva a la otra. Si la frustración de la finalidad es temporaria, hay derecho a resolución sólo si se impide el cumplimiento oportuno de una obligación cuyo tiempo de ejecución es esencial.
+
+ARTICULO 1091.- Imprevisión. Si en un contrato conmutativo de ejecución diferida o permanente, la prestación a cargo de una de las partes se torna excesivamente onerosa, por una alteración extraordinaria de las circunstancias existentes al tiempo de su celebración, sobrevenida por causas ajenas a las partes y al riesgo asumido por la que es afectada, ésta tiene derecho a plantear extrajudicialmente, o pedir ante un juez, por acción o como excepción, la resolución total o parcial del contrato, o su adecuación. Igual regla se aplica al tercero a quien le han sido conferidos derechos, o asignadas obligaciones, resultantes del contrato; y al contrato aleatorio si la prestación se torna excesivamente onerosa por causas extrañas a su álea propia.
