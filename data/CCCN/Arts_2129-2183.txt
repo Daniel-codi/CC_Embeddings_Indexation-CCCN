@@ -1,0 +1,275 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO CUARTO - DERECHOS REALES - TITULO 8
+TITULO 8: Usufructo
+Articulos: 2129 a 2153
+
+-----------------------------------------
+TITULO VIII
+
+Usufructo
+
+CAPITULO 1
+
+Disposiciones generales
+
+ARTICULO 2129.- Concepto. Usufructo es el derecho real de usar, gozar y disponer jurídicamente de un bien ajeno, sin alterar su sustancia.
+
+Hay alteración de la sustancia, si es una cosa, cuando se modifica su materia, forma o destino, y si se trata de un derecho, cuando se lo menoscaba.
+
+ARTICULO 2130.- Objeto. El usufructo puede ejercerse sobre la totalidad, sobre una parte material o por una parte indivisa de los siguientes objetos:
+
+a) una cosa no fungible;
+
+b) un derecho, sólo en los casos en que la ley lo prevé;
+
+c) una cosa fungible cuando recae sobre un conjunto de animales;
+
+d) el todo o una parte indivisa de una herencia cuando el usufructo es de origen testamentario.
+
+ARTICULO 2131.- Legitimación. Sólo están legitimados para constituir usufructo el dueño, el titular de un derecho de propiedad horizontal, el superficiario y los comuneros del objeto sobre el que puede recaer.
+
+ARTICULO 2132.- Usufructo a favor de varias personas. El usufructo puede establecerse conjunta y simultáneamente a favor de varias personas. Si se extingue para una subsiste para las restantes, pero sin derecho de acrecer, excepto si en el acto constitutivo se prevé lo contrario.
+
+No puede establecerse usufructo a favor de varias personas que se suceden entre sí, a menos que el indicado en un orden precedente no quiera o no pueda aceptar el usufructo.
+
+ARTICULO 2133.- Prohibición de usufructo judicial. En ningún caso el juez puede constituir un usufructo o imponer su constitución.
+
+ARTICULO 2134.- Modos de constitución. El usufructo puede constituirse:
+
+a) por la transmisión del uso y goce con reserva de la nuda propiedad;
+
+b) por la transmisión de la nuda propiedad con reserva del uso y goce;
+
+c) por transmisión de la nuda propiedad a una persona y el uso y goce a otra.
+
+ARTICULO 2135.- Presunción de onerosidad. En caso de duda, la constitución del usufructo se presume onerosa.
+
+ARTICULO 2136.- Modalidades. El usufructo puede ser establecido pura y simplemente, sujeto a condición o plazo resolutorios, o con cargo. No puede sujetarse a condición o plazo suspensivos y si así se constituye, el usufructo mismo se tiene por no establecido. Cuando el testamento subordina el usufructo a una condición o a plazo suspensivos, la constitución sólo es válida si se cumplen antes del fallecimiento del testador.
+
+ARTICULO 2137.- Inventario. Cualquiera de las partes contratantes tiene derecho a inventariar y determinar el estado del objeto del usufructo, antes de entrar en su uso y goce. Cuando las partes son mayores de edad y capaces, el inventario y determinación del estado del objeto del usufructo son facultativos y pueden hacerse por instrumento privado. En caso contrario, son obligatorios y deben ser hechos por escritura pública.
+
+Si el usufructo se constituye por testamento, quien ha sido designado usufructuario está obligado a inventariar y determinar el estado del objeto, en escritura pública. Esta obligación tampoco es dispensable.
+
+La parte interesada puede reclamar en cualquier momento el cumplimiento de la ejecución no efectivizada.
+
+ARTICULO 2138.- Presunción. La falta de inventario y de determinación del estado de los bienes hace presumir que se corresponden con la cantidad indicada en el título y que se encuentran en buen estado de conservación, excepto que se haya previsto lo contrario.
+
+ARTICULO 2139.- Garantía suficiente en la constitución y en la transmisión. En el acto de constitución puede establecerse la obligación previa al ingreso en el uso y goce, de otorgar garantía suficiente, por la conservación y restitución de los bienes, una vez extinguido el usufructo.
+
+ARTICULO 2140.- Intransmisibilidad hereditaria. El usufructo es intransmisible por causa de muerte, sin perjuicio de lo dispuesto para el usufructo a favor de varias personas con derecho de acrecer.
+
+CAPITULO 2
+
+Derechos del usufructuario
+
+ARTICULO 2141.- Frutos. Productos. Acrecentamientos naturales. Pertenecen al usufructuario singular o universal:
+
+a) los frutos percibidos. Sin embargo, si el usufructo es de un conjunto de animales, el usufructuario está obligado a reemplazar los animales que faltan con otros iguales en cantidad y calidad, si no opta por pedir su extinción;
+
+b) los frutos pendientes al tiempo de constituirse el usufructo. Los pendientes al tiempo de su extinción pertenecen al nudo propietario;
+
+c) los productos de una explotación ya iniciada al tiempo de constituirse el usufructo.
+
+El uso y goce del usufructuario se extiende a los acrecentamientos originados por hechos de la naturaleza, sin contraprestación alguna.
+
+ARTICULO 2142.- Derechos reales y personales. El usufructuario puede transmitir su derecho, pero es su propia vida y no la del adquirente la que determina el límite máximo de duración del usufructo. Con carácter previo a la transmisión, el adquirente debe dar al nudo propietario garantía suficiente de la conservación y restitución del bien.
+
+El usufructuario puede constituir los derechos reales de servidumbre y anticresis, uso y habitación y derechos personales de uso o goce. En ninguno de estos casos el usufructuario se exime de sus responsabilidades frente al nudo propietario.
+
+ARTICULO 2143.- Mejoras facultativas. El usufructuario puede efectuar otras mejoras, además de las que está obligado a hacer, si no alteran la sustancia de la cosa. No tiene derecho a reclamar su pago, pero puede retirarlas si la separación no ocasiona daño a los bienes.
+
+ARTICULO 2144.- Ejecución por acreedores. Si el acreedor del usufructuario ejecuta el derecho de usufructo, el adquirente del usufructo debe dar garantía suficiente al nudo propietario de la conservación y restitución de los bienes.
+
+CAPITULO 3
+
+Obligaciones del usufructuario
+
+ARTICULO 2145.- Destino. El uso y goce por el usufructuario debe ajustarse al destino de los bienes del usufructo, el que se determina por la convención, por la naturaleza de la cosa o por el uso al cual estaba afectada de hecho.
+
+ARTICULO 2146.- Mejoras necesarias. El usufructuario debe realizar a su costa las mejoras de mero mantenimiento, las necesarias y las demás que se originen por su culpa.
+
+No están a su cargo las mejoras originadas por vetustez o caso fortuito.
+
+El nudo propietario puede exigir al usufructuario que realice las mejoras a las que está obligado aun antes de la extinción del usufructo.
+
+ARTICULO 2147.- Mejoras anteriores a la constitución. El usufructuario no está obligado a hacer ninguna mejora por causas originadas antes del acto de constitución de su derecho.
+
+Sin embargo, el usufructuario que no recibe los bienes por su negativa a inventariarlos o a determinar su estado, debe pagar esas mejoras realizadas por el nudo propietario.
+
+ARTICULO 2148.- Impuestos, tasas, contribuciones y expensas comunes. El usufructuario debe pagar los impuestos, tasas, contribuciones y expensas comunes que afectan directamente a los bienes objeto del usufructo.
+
+ARTICULO 2149.- Comunicación al nudo propietario. El usufructuario debe comunicar al nudo propietario las perturbaciones de hecho o de derecho sufridas en razón de la cosa. Si no lo hace, responde de todos los daños sufridos por el nudo propietario.
+
+ARTICULO 2150.- Restitución. El usufructuario debe entregar los bienes objeto del usufructo a quien tenga derecho a la restitución al extinguirse el usufructo, en la cantidad y estado a que se refieren los artículos 2137 y 2138.
+
+CAPITULO 4
+
+Derechos y deberes del nudo propietario
+
+ARTICULO 2151.- Disposición jurídica y material. El nudo propietario conserva la disposición jurídica y material que corresponde a su derecho, pero no debe turbar el uso y goce del usufructuario. Si lo hace, el usufructuario puede exigir el cese de la turbación; y, si el usufructo es oneroso, puede optar por una disminución del precio proporcional a la gravedad de la turbación.
+
+CAPITULO 5
+
+Extinción
+
+ARTICULO 2152.- Medios especiales de extinción. Son medios especiales de extinción del usufructo:
+
+a) la muerte del usufructuario, aunque no se haya cumplido el plazo o condición pactados. Si no se pactó la duración del usufructo, se entiende que es vitalicio;
+
+b) la extinción de la persona jurídica usufructuaria. Si no se pactó la duración, se extingue a los cincuenta años desde la constitución del usufructo;
+
+c) el no uso por persona alguna durante diez años, por cualquier razón. El desuso involuntario no impide la extinción, ni autoriza a extender la duración del usufructo;
+
+d) el uso abusivo y la alteración de la sustancia comprobada judicialmente.
+
+ARTICULO 2153.- Efectos de la extinción. Extinguido el usufructo originario se extinguen todos los derechos constituidos por el usufructuario y sus sucesores particulares.
+
+El usufructo cedido por el usufructuario, no puede durar más allá de la oportunidad prevista para la extinción del usufructo originario.
+
+Si el usufructo es de un conjunto de animales que perece en su totalidad sin culpa del usufructuario, éste cumple con entregar al nudo propietario los despojos subsistentes. Si el conjunto de animales perece en parte sin culpa del usufructuario, éste tiene opción de continuar en el usufructo, reemplazando los animales que faltan, o de cesar en él, entregando los que no hayan perecido.
+
+
+
+-----------------------------------------
+LIBRO CUARTO - DERECHOS REALES - TITULO 9
+TITULO 9: Uso
+Articulos: 2154 a 2157
+
+-----------------------------------------
+TITULO IX
+
+Uso
+
+ARTICULO 2154.- Concepto. El uso es el derecho real que consiste en usar y gozar de una cosa ajena, su parte material o indivisa, en la extensión y con los límites establecidos en el título, sin alterar su sustancia. Si el título no establece la extensión del uso y goce se entiende que se constituye un usufructo.
+
+El derecho real de uso sólo puede constituirse a favor de persona humana.
+
+ARTICULO 2155.- Normas supletorias. Se aplican al uso las normas del Título VIII de este Libro, a excepción de las disposiciones particulares establecidas en el presente.
+
+ARTICULO 2156.- Limitaciones. El usuario no puede constituir derechos reales sobre la cosa.
+
+ARTICULO 2157.- Ejecución por acreedores. Los frutos no pueden ser embargados por los acreedores cuando el uso de éstos se limita a las necesidades del usuario y su familia.
+
+
+
+-----------------------------------------
+LIBRO CUARTO - DERECHOS REALES - TITULO 10
+TITULO 10: Habitación
+Articulos: 2158 a 2161
+
+-----------------------------------------
+TITULO X
+
+Habitación
+
+ARTICULO 2158.- Concepto. La habitación es el derecho real que consiste en morar en un inmueble ajeno construido, o en parte material de él, sin alterar su sustancia.
+
+El derecho real de habitación sólo puede constituirse a favor de persona humana.
+
+ARTICULO 2159.- Normas supletorias. Se aplican a la habitación las normas del Título IX de este Libro, a excepción de las disposiciones particulares establecidas en el presente.
+
+ARTICULO 2160.- Limitaciones. La habitación no es transmisible por acto entre vivos ni por causa de muerte, y el habitador no puede constituir derechos reales o personales sobre la cosa. No es ejecutable por los acreedores.
+
+ARTICULO 2161.- Impuestos, contribuciones y reparaciones. Cuando el habitador reside sólo en una parte de la casa que se le señala para vivienda, debe contribuir al pago de las cargas, contribuciones y reparaciones a prorrata de la parte de la casa que ocupa.
+
+
+-----------------------------------------
+LIBRO CUARTO - DERECHOS REALES - TITULO 11
+TITULO 11: Servidumbre
+Articulos: 2162 a 2183
+
+-----------------------------------------
+TITULO XI
+
+Servidumbre
+
+CAPITULO 1
+
+Disposiciones generales
+
+ARTICULO 2162.- Definición. La servidumbre es el derecho real que se establece entre dos inmuebles y que concede al titular del inmueble dominante determinada utilidad sobre el inmueble sirviente ajeno. La utilidad puede ser de mero recreo.
+
+ARTICULO 2163.- Objeto. La servidumbre puede tener por objeto la totalidad o una parte material del inmueble ajeno.
+
+ARTICULO 2164.- Servidumbre positiva y negativa. La servidumbre es positiva si la carga real consiste en soportar su ejercicio; es negativa si la carga real se limita a la abstención determinada impuesta en el título.
+
+ARTICULO 2165.- Servidumbre real y personal. Servidumbre personal es la constituida en favor de persona determinada sin inherencia al inmueble dominante. Si se constituye a favor de una persona humana se presume vitalicia, si del título no resulta una duración menor.
+
+Servidumbre real es la inherente al inmueble dominante. Se presume perpetua excepto pacto en contrario. La carga de la servidumbre real debe asegurar una ventaja real a la heredad dominante, y la situación de los predios debe permitir el ejercicio de ella sin ser indispensable que se toquen. La servidumbre real considerada activa y pasivamente es inherente al fundo dominante y al fundo sirviente, sigue con ellos a cualquier poder que pasen y no puede ser separada del fundo, ni formar el objeto de una convención, ni ser sometida a gravamen alguno.
+
+En caso de duda, la servidumbre se presume personal.
+
+ARTICULO 2166.- Servidumbre forzosa. Nadie puede imponer la constitución de una servidumbre, excepto que la ley prevea expresamente la necesidad jurídica de hacerlo, caso en el cual se denomina forzosa.
+
+Son servidumbres forzosas y reales la servidumbre de tránsito a favor de un inmueble sin comunicación suficiente con la vía pública, la de acueducto cuando resulta necesaria para la explotación económica establecida en el inmueble dominante, o para la población, y la de recibir agua extraída o degradada artificialmente de la que no resulta perjuicio grave para el fundo sirviente o, de existir, es canalizada subterráneamente o en cañerías.
+
+Si el titular del fundo sirviente no conviene la indemnización con el del fundo dominante, o con la autoridad local si está involucrada la población, se la debe fijar judicialmente.
+
+La acción para reclamar una servidumbre forzosa es imprescriptible.
+
+ARTICULO 2167.- Servidumbre personal a favor de varios titulares. La servidumbre personal puede establecerse a favor de varias personas. Si se extingue para una subsiste para las restantes, pero sin derecho de acrecer, excepto que el título prevea lo contrario.
+
+No puede establecerse la servidumbre personal a favor de varias personas que se suceden entre sí, a menos que el indicado en un orden precedente no quiera o no pueda aceptar la servidumbre.
+
+ARTICULO 2168.- Legitimación. Están legitimados para constituir una servidumbre los titulares de derechos reales que recaen sobre inmuebles y se ejercen por la posesión. Si existe comunidad debe ser constituida por el conjunto de los titulares.
+
+ARTICULO 2169.- Prohibición de servidumbre judicial. En ningún caso el juez puede constituir una servidumbre o imponer su constitución.
+
+ARTICULO 2170.- Presunción de onerosidad. En caso de duda, la constitución de la servidumbre se presume onerosa.
+
+ARTICULO 2171.- Modalidades. La servidumbre puede sujetarse a cualquier modalidad.
+
+ARTICULO 2172.- Transmisibilidad. Ninguna servidumbre puede transmitirse con independencia del inmueble dominante.
+
+La servidumbre personal es intransmisible por causa de muerte, sin perjuicio de lo dispuesto para la servidumbre a favor de varias personas con derecho de acrecer.
+
+CAPITULO 2
+
+Derechos y obligaciones del titular dominante
+
+ARTICULO 2173.- Derechos reales y personales. El titular de una servidumbre puede constituir sobre ella derechos personales con relación a la utilidad que le es conferida, sin eximirse de su responsabilidad frente al propietario. No puede constituir derechos reales.
+
+ARTICULO 2174.- Extensión de la servidumbre. La servidumbre comprende la facultad de ejercer todas las servidumbres accesorias indispensables para el ejercicio de la principal, pero no aquellas que sólo hacen más cómodo su ejercicio.
+
+ARTICULO 2175.- Ejercicio. El ejercicio de la servidumbre no puede agravarse si aumentan las necesidades del inmueble dominante, excepto que se trate de una servidumbre forzosa.
+
+ARTICULO 2176.- Mejoras necesarias. El titular dominante puede realizar en el inmueble sirviente las mejoras necesarias para el ejercicio y conservación de la servidumbre. Están a su cargo, a menos que el gasto se origine en hechos por los cuales debe responder el titular del inmueble sirviente o un tercero.
+
+ARTICULO 2177.- Trabajos contrarios al ejercicio de la servidumbre. El titular dominante puede obligar a quien hizo en el inmueble sirviente trabajos que menoscaban el ejercicio de la servidumbre a restablecer la cosa a su estado anterior, a su costa. Si el inmueble sirviente pasa a poder de otro, éste sólo debe tolerar la realización de las tareas, sin poder reclamar contraprestación alguna.
+
+ARTICULO 2178.- Ejecución por acreedores. En ningún caso la transmisión o la ejecución de la servidumbre pueden hacerse con independencia del inmueble dominante.
+
+ARTICULO 2179.- Comunicación al sirviente. El titular dominante debe comunicar al titular sirviente las perturbaciones de hecho o de derecho sufridas en razón del ejercicio de la servidumbre. Si no lo hace, responde de todos los daños sufridos por el titular sirviente.
+
+CAPITULO 3
+
+Derechos del titular sirviente
+
+ARTICULO 2180.- Disposición jurídica y material. El titular sirviente conserva la disposición jurídica y material que corresponde a su derecho. No pierde el derecho de hacer servir el predio a los mismos usos que forman el objeto de la servidumbre. Así, aquel cuyo fundo está gravado con una servidumbre de paso conserva la facultad de pasar él mismo por el lugar.
+
+No debe turbar el ejercicio de la servidumbre, ni siquiera por la constitución de otra. Si lo hace, el titular dominante puede exigir el cese de la turbación; si la servidumbre es onerosa puede optar por una disminución del precio proporcional a la gravedad de la turbación.
+
+ARTICULO 2181.- Alcances de la constitución y del ejercicio. El titular sirviente puede exigir que la constitución y el ejercicio de la servidumbre se realicen con el menor menoscabo para el inmueble gravado, pero no puede privar al dominante de la utilidad a la que tiene derecho.
+
+Si en el título de la servidumbre no están previstas las circunstancias de lugar y tiempo de ejercicio, las debe determinar el titular sirviente.
+
+CAPITULO 4
+
+Extinción de la servidumbre
+
+ARTICULO 2182.- Medios especiales de extinción. Son medios especiales de extinción de las servidumbres:
+
+a) la desaparición de toda utilidad para el inmueble dominante;
+
+b) el no uso por persona alguna durante diez años, por cualquier razón;
+
+c) en las servidumbres personales, si el titular es persona humana, su muerte, aunque no estén cumplidos el plazo o condición pactados; si el titular es una persona jurídica, su extinción, y si no se pactó una duración menor, se acaba a los cincuenta años desde la constitución.
+
+ARTICULO 2183.- Efectos de la extinción. Extinguida la servidumbre, se extinguen todos los derechos constituidos por el titular dominante.

@@ -1,0 +1,242 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO CUARTO - DERECHOS REALES - TITULO 12
+TITULO 12: Derechos reales de garantía
+Articulos: 2184 a 2237
+
+-----------------------------------------
+TITULO XII
+
+Derechos reales de garantía
+
+CAPITULO 1
+
+Disposiciones comunes
+
+ARTICULO 2184.- Disposiciones comunes y especiales. Los derechos reales constituidos en garantía de créditos se rigen por las disposiciones comunes de este Capítulo y por las normas especiales que corresponden a su tipo.
+
+ARTICULO 2185.- Convencionalidad. Los derechos reales de garantía sólo pueden ser constituidos por contrato, celebrado por los legitimados y con las formas que la ley indica para cada tipo.
+
+ARTICULO 2186.- Accesoriedad. Los derechos reales de garantía son accesorios del crédito que aseguran, son intransmisibles sin el crédito y se extinguen con el principal, excepto en los supuestos legalmente previstos.
+
+La extinción de la garantía por cualquier causa, incluida la renuncia, no afecta la existencia del crédito.
+
+ARTICULO 2187.- Créditos garantizables. Se puede garantizar cualquier crédito, puro y simple, a plazo, condicional o eventual, de dar, hacer o no hacer. Al constituirse la garantía, el crédito debe individualizarse adecuadamente a través de los sujetos, el objeto y su causa, con las excepciones admitidas por la ley.
+
+ARTICULO 2188.- Especialidad en cuanto al objeto. Cosas y derechos pueden constituir el objeto de los derechos reales de garantía. Ese objeto debe ser actual, y estar individualizado adecuadamente en el contrato constitutivo.
+
+ARTICULO 2189.- Especialidad en cuanto al crédito: En la constitución de los derechos reales de garantía debe individualizarse el crédito garantizado, indicándose los sujetos, el objeto y la causa.
+
+El monto de la garantía debe estimarse en dinero y puede no coincidir con el monto del capital del crédito.
+
+Se considera satisfecho el principio de especialidad en cuanto al crédito si la garantía se constituye en seguridad de créditos indeterminados, sea que su causa exista al tiempo de su constitución o posteriormente, siempre que el instrumento contenga la indicación del monto máximo garantizado en todo concepto, de que la garantía que se constituye es de máximo, y del plazo a que se sujeta, el que no puede exceder de diez (10) años. La garantía subsiste no obstante el vencimiento del plazo en seguridad de los créditos nacidos durante su vigencia.
+
+(Artículo sustituido por art. 23 de la Ley N° 27.271 B.O. 15/9/2016. Vigencia: desde su publicación en el Boletín Oficial.)
+
+ARTICULO 2190.- Defectos en la especialidad. La constitución de la garantía es válida aunque falte alguna de las especificaciones del objeto o del crédito, siempre que se la pueda integrar de acuerdo al conjunto de las enunciaciones del acto constitutivo.
+
+ARTICULO 2191.- Indivisibilidad. Los derechos reales de garantía son indivisibles. La indivisibilidad consiste en que cada uno de los bienes afectados a una deuda y cada parte de ellos, están afectados al pago de toda la deuda y de cada una de sus partes.
+
+El acreedor cuya garantía comprenda varios bienes puede perseguirlos a todos conjuntamente, o sólo a uno o algunos de ellos, con prescindencia de a quién pertenezca o de la existencia de otras garantías.
+
+Puede convenirse la divisibilidad de la garantía respecto del crédito y de los bienes afectados. También puede disponerla el juez fundadamente, a solicitud de titular del bien, siempre que no se ocasione perjuicio al acreedor, o a petición de este último si hace a su propio interés.
+
+ARTICULO 2192.- Extensión en cuanto al objeto. En la garantía quedan comprendidos todos los accesorios físicamente unidos a la cosa, las mejoras y las rentas debidas.
+
+Sin embargo, no están comprendidos en la garantía:
+
+a) los bienes físicamente unidos a la cosa que están gravados con prenda constituida antes que la hipoteca o son de propiedad de terceros, aunque su utilización por el deudor esté autorizada por un vínculo contractual;
+
+b) los bienes que posteriormente se unen físicamente a la cosa, si al tiempo de esa unión están gravados con prenda o son de propiedad de terceros, aun en las condiciones antes indicadas.
+
+ARTICULO 2193.- Extensión en cuanto al crédito. La garantía cubre el capital adeudado y los intereses posteriores a su constitución, como así también los daños y costas posteriores que provoca el incumplimiento. Los intereses, daños y costas anteriores a la constitución de la garantía quedan comprendidos en su cobertura sólo en caso de haberse previsto y determinado expresamente en la convención.
+
+ARTICULO 2194.- Subrogación real. La garantía se traslada de pleno derecho sobre los bienes que sustituyen a los gravados, sea por indemnización, precio o cualquier otro concepto que permite la subrogación real.
+
+En caso de extinción parcial del objeto, la garantía subsiste, además, sobre la parte material restante.
+
+ARTICULO 2195.- Facultades del constituyente. El constituyente de la garantía conserva todas las facultades inherentes a su derecho, pero no puede realizar ningún acto que disminuya el valor de la garantía. Si esto ocurre, el acreedor puede requerir la privación del plazo de la obligación, o bien puede estimar el valor de la disminución y exigir su depósito o que se otorgue otra garantía suficiente.
+
+ARTICULO 2196.- Inoponibilidad. En caso de ejecución, son inoponibles al acreedor los actos jurídicos celebrados en perjuicio de la garantía.
+
+ARTICULO 2197.- Realización por un tercero. Si el bien gravado es subastado por un tercero antes del cumplimiento del plazo, el titular de la garantía tiene derecho a dar por caduco el plazo, y a cobrar con la preferencia correspondiente.
+
+Si el crédito está sujeto a condición suspensiva, puede requerírsele que ofrezca garantía suficiente de la restitución de lo percibido en la extensión del artículo 349 para el caso de frustración de la condición.
+
+ARTICULO 2198.- Cláusula nula. Es nula toda cláusula que permite al titular de un derecho real de garantía adquirir o disponer del bien gravado fuera de las modalidades y condiciones de ejecución previstas por la ley para cada derecho real de garantía.
+
+ARTICULO 2199.- Responsabilidad del propietario no deudor. El propietario no deudor, sea un tercero que constituye la garantía o quien adquiere el bien gravado, sin obligarse en forma expresa al pago del crédito asegurado, responde únicamente con el bien objeto del gravamen y hasta el máximo del gravamen.
+
+ARTICULO 2200.- Ejecución contra el propietario no deudor. En caso de ejecución de la garantía, sólo después de reclamado el pago al obligado, el acreedor puede, en la oportunidad y plazos que disponen las leyes procesales locales, hacer intimar al propietario no deudor para que pague la deuda hasta el límite del gravamen, o para que oponga excepciones.
+
+El propietario no deudor puede hacer valer las defensas personales del deudor sólo si se dan los requisitos de la acción subrogatoria.
+
+Las defensas inadmisibles en el trámite fijado para la ejecución pueden ser alegadas por el propietario no deudor en juicio de conocimiento.
+
+ARTICULO 2201.- Derecho al remanente. Una vez realizado el bien afectado por la garantía, el propietario no deudor tiene derecho al remanente que excede el monto del gravamen, con exclusión del precedente propietario y de los acreedores quirografarios.
+
+ARTICULO 2202.- Subrogación del propietario no deudor. Ejecutada la garantía o satisfecho el pago de la deuda garantizada, el propietario no deudor tiene derecho a:
+
+a) reclamar las indemnizaciones correspondientes;
+
+b) subrogarse, en la medida en que procede, en los derechos del acreedor;
+
+c) en caso de existir otros bienes afectados a derechos reales de garantía en beneficio de la misma deuda, hacer citar a sus titulares al proceso de ejecución, o promover uno distinto, a fin de obtener contra ellos la condenación por la proporción que les corresponde soportar según lo que se haya acordado o, subsidiariamente, por la que resulta del valor de cada uno de los bienes gravados.
+
+ARTICULO 2203.- Efectos de la subasta. Los derechos reales de garantía se extinguen por efecto de la subasta pública del bien gravado, si sus titulares fueron debidamente citados a la ejecución, sin perjuicio del derecho y preferencias que les correspondan sobre el producido para la satisfacción de sus créditos.
+
+ARTICULO 2204.- Cancelación del gravamen. Las garantías inscriptas en los registros respectivos se cancelan:
+
+a) por su titular, mediante el otorgamiento de un instrumento de igual naturaleza que el exigido para su constitución, con el que el interesado puede instar la cancelación de las respectivas constancias registrales;
+
+b) por el juez, ante el incumplimiento del acreedor, sea o no imputable; la resolución respectiva se inscribe en el registro, a sus efectos.
+
+En todos los casos puede requerirse que la cancelación se asiente por nota marginal en el ejemplar del título constitutivo de la garantía.
+
+CAPITULO 2
+
+Hipoteca
+
+ARTICULO 2205.- Concepto. La hipoteca es el derecho real de garantía que recae sobre uno o más inmuebles individualizados que continúan en poder del constituyente y que otorga al acreedor, ante el incumplimiento del deudor, las facultades de persecución y preferencia para cobrar sobre su producido el crédito garantizado.
+
+ARTICULO 2206.- Legitimación. Pueden constituir hipoteca los titulares de los derechos reales de dominio, condominio, propiedad horizontal, conjuntos inmobiliarios y superficie.
+
+ARTICULO 2207.- Hipoteca de parte indivisa. Un condómino puede hipotecar la cosa por su parte indivisa. El acreedor hipotecario puede ejecutar la parte indivisa sin esperar el resultado de la partición. Mientras subsista esta hipoteca, la partición extrajudicial del condominio es inoponible al acreedor hipotecario que no presta consentimiento expreso.
+
+ARTICULO 2208.- Forma del contrato constitutivo. La hipoteca se constituye por escritura pública excepto expresa disposición legal en contrario. La aceptación del acreedor puede ser ulterior, siempre que se otorgue con la misma formalidad y previamente a la registración.
+
+ARTICULO 2209.- Determinación del objeto. El inmueble que grava la hipoteca debe estar determinado por su ubicación, medidas perimetrales, superficie, colindancias, datos de registración, nomenclatura catastral, y cuantas especificaciones sean necesarias para su debida individualización.
+
+ARTICULO 2210.- Duración de la inscripción: Los efectos del registro de la hipoteca se conservan por el término de treinta y cinco (35) años, si antes no se renueva.
+
+(Artículo sustituido por art. 24 de la Ley N° 27.271 B.O. 15/9/2016. Vigencia: desde su publicación en el Boletín Oficial.)
+
+ARTICULO 2211.- Convenciones para la ejecución. Lo previsto en este Capítulo no obsta a la validez de las convenciones sobre ejecución de la hipoteca, reconocidas por leyes especiales.
+
+CAPITULO 3
+
+Anticresis
+
+ARTICULO 2212.- Concepto. La anticresis es el derecho real de garantía que recae sobre cosas registrables individualizadas, cuya posesión se entrega al acreedor o a un tercero designado por las partes, a quien se autoriza a percibir los frutos para imputarlos a una deuda.
+
+ARTICULO 2213.- Legitimación. Pueden constituir anticresis los titulares de los derechos reales de dominio, condominio, propiedad horizontal, superficie y usufructo.
+
+ARTICULO 2214.- Plazo máximo. El tiempo de la anticresis no puede exceder de diez años para cosas inmuebles y de cinco años para cosas muebles registrables. Si el constituyente es el titular de un derecho real de duración menor, la anticresis, se acaba con su titularidad.
+
+ARTICULO 2215.- Derechos del acreedor. El acreedor adquiere el derecho de usar la cosa dada en anticresis y percibir sus frutos, los cuales se imputan primero a gastos e intereses y luego al capital, de lo que se debe dar cuenta al deudor.
+
+ARTICULO 2216.- Deberes del acreedor. El acreedor anticresista debe conservar la cosa. Puede percibir los frutos y explotarla él mismo, o darla en arrendamiento; puede habitar el inmueble o utilizar la cosa mueble imputando como fruto el alquiler que otro pagaría.
+
+Excepto pacto en contrario, no puede modificar el destino ni realizar ningún cambio del que resulta que el deudor, después de pagada la deuda, no puede explotar la cosa de la manera que antes lo hacía.
+
+El acreedor debe administrar conforme a lo previsto por las reglas del mandato y responde de los daños que ocasiona al deudor.
+
+El incumplimiento de estos deberes extingue la garantía y obliga al acreedor a restituir la cosa al titular actual legitimado.
+
+ARTICULO 2217.- Gastos. El titular del objeto gravado debe al acreedor los gastos necesarios para la conservación del objeto, aunque éste no subsista; pero el acreedor está obligado a pagar las contribuciones y las cargas del inmueble.
+
+El acreedor no puede reclamar los gastos útiles sino hasta la concurrencia del mayor valor del objeto.
+
+ARTICULO 2218.- Duración de la inscripción. Los efectos del registro de la anticresis se conservan por el término de veinte años para inmuebles y de diez años para muebles registrables, si antes no se renueva.
+
+CAPITULO 4
+
+Prenda
+
+SECCION 1ª
+
+Disposiciones generales
+
+ARTICULO 2219.- Concepto. La prenda es el derecho real de garantía sobre cosas muebles no registrables o créditos instrumentados. Se constituye por el dueño o la totalidad de los copropietarios, por contrato formalizado en instrumento público o privado y tradición al acreedor prendario o a un tercero designado por las partes. Esta prenda se rige por las disposiciones contenidas en el presente Capítulo.
+
+ARTICULO 2220.- Prenda con registro. Asimismo, puede constituirse prenda con registro para asegurar el pago de una suma de dinero, o el cumplimiento de cualquier clase de obligaciones a las que los contrayentes le atribuyen, a los efectos de la garantía prendaria, un valor consistente en una suma de dinero, sobre bienes que deben quedar en poder del deudor o del tercero que los haya prendado en seguridad de una deuda ajena. Esta prenda se rige por la legislación especial.
+
+ARTICULO 2221.- Posesión. Los derechos provenientes de la prenda sólo subsisten mientras el bien afectado se encuentra en poder del acreedor o del tercero designado. Se reputa que el acreedor o el tercero continúan en posesión de la prenda cuando media pérdida o sustracción de ella o hubiera sido entregada a otro con obligación de devolverla.
+
+Si el acreedor pierde la posesión de la cosa, puede recuperarla de quien la tiene en su poder, sin exceptuar al propio constituyente de la prenda.
+
+ARTICULO 2222.- Oponibilidad. La prenda no es oponible a terceros si no consta por instrumento público o privado de fecha cierta, cualquiera sea la cuantía del crédito. El instrumento debe mencionar el importe del crédito y contener la designación detallada de los objetos empeñados, su calidad, peso, medida, descripción de los documentos y títulos, y demás datos que sirven para individualizarlos.
+
+ARTICULO 2223.- Prendas sucesivas. Puede constituirse una nueva prenda sobre el bien empeñado, a favor de otro acreedor, si el acreedor en cuyo poder se encuentra consiente en poseerlo para ambos o si es entregada en custodia a un tercero en interés común. La prioridad entre los acreedores queda establecida por la fecha de su constitución. No obstante, las partes pueden, mediante declaración de su voluntad formulada con precisión y claridad, sustraerse a los efectos de esta regla y establecer otro orden de prelación para sus derechos, a fin de compartir la prioridad o autorizar que ésta sea compartida.
+
+SECCION 2ª
+
+Prenda de cosas
+
+ARTICULO 2224.- Prenda de cosa ajena. Si el acreedor que recibe en prenda una cosa ajena que cree del constituyente la restituye al dueño que la reclama, puede exigir al deudor la entrega en prenda de otra de igual valor. Si el deudor no lo hace, el acreedor puede pedir el cumplimiento de la obligación principal aunque tenga plazo pendiente; si el crédito está sujeto a condición se aplica el artículo 2197.
+
+ARTICULO 2225.- Frutos. Si el bien prendado genera frutos o intereses el acreedor debe percibirlos e imputarlos al pago de la deuda, primero a gastos e intereses y luego al capital. Es válido el pacto en contrario.
+
+ARTICULO 2226.- Uso y abuso. El acreedor no puede usar la cosa prendada sin consentimiento del deudor, a menos que el uso de la cosa sea necesario para su conservación; en ningún caso puede abusar en la utilización de la cosa ni perjudicarla de otro modo.
+
+El incumplimiento de lo dispuesto en el primer párrafo de este artículo, da derecho al deudor a:
+
+a) dar por extinguida la garantía y que la cosa le sea restituida;
+
+b) pedir que la cosa se ponga en depósito a costa del acreedor;
+
+c) reclamar daños y perjuicios.
+
+ARTICULO 2227.- Gastos. El deudor debe al acreedor los gastos originados por la conservación de la cosa prendada, aunque ésta no subsista.
+
+El acreedor no puede reclamar los gastos útiles sino hasta la concurrencia del mayor valor de la cosa.
+
+ARTICULO 2228.- Venta del bien empeñado. Si hay motivo para temer la destrucción de la prenda o una notable pérdida de su valor, tanto el acreedor como el constituyente pueden pedir la venta del bien. Asimismo, el constituyente puede recabar la devolución de la prenda sustituyéndola por otra garantía real equivalente y, si se presenta ocasión favorable para su venta, requerir la autorización judicial para proceder, previa audiencia del acreedor.
+
+La cosa empeñada puede también venderse a petición de otros acreedores. En tal caso, como en los anteriores, el privilegio del acreedor prendario se ejerce sobre el precio obtenido.
+
+ARTICULO 2229.- Ejecución. El acreedor puede vender la cosa prendada en subasta pública, debidamente anunciada con diez días de anticipación en el diario de publicaciones legales de la jurisdicción que corresponde al lugar en que, según el contrato, la cosa deba encontrarse.
+
+Si la prenda consiste en títulos u otros bienes negociables en bolsas o mercados públicos, la venta puede hacerse en la forma habitual en tales mercados, al precio de cotización.
+
+Las partes pueden convenir simultáneamente con la constitución que:
+
+a) el acreedor se puede adjudicar la cosa por la estimación del valor que de ella se haga al tiempo del vencimiento de la deuda, según lo establezca el experto que las partes designen o bien por el que resulte del procedimiento de elección establecido; en su defecto, el experto debe ser designado por el juez a simple petición del acreedor;
+
+b) la venta se puede realizar por un procedimiento especial que ellas determinan, el que puede consistir en la designación de una persona para efectuarla o la venta por el acreedor o por un tercero a precios que surgen de un determinado ámbito de negociación o según informes de los valores corrientes de mercados al tiempo de la enajenación que indican una o más cámaras empresariales especializadas o publicaciones designadas en el contrato.
+
+A falta de estipulación en contrario, estas alternativas son optativas para el acreedor, junto con las indicadas en los párrafos primero y segundo de este artículo, según el caso.
+
+El acreedor puede adquirir la cosa por la compra que haga en la subasta o en la venta privada o por su adjudicación.
+
+ARTICULO 2230.- Rendición de cuentas. Efectuada la venta, el acreedor debe rendir cuentas, que pueden ser impugnadas judicialmente, pero ello no afecta la validez de la enajenación.
+
+ARTICULO 2231.- Documentos con derecho incorporado. La prenda de títulos valores se rige, en lo pertinente, por las reglas de la prenda de cosas.
+
+SECCION 3ª
+
+Prenda de créditos
+
+ARTICULO 2232.- Créditos instrumentados. La prenda de créditos es la que se constituye sobre cualquier crédito instrumentado que puede ser cedido.
+
+La prenda se constituye aunque el derecho no se encuentre incorporado a dicho instrumento y aunque éste no sea necesario para el ejercicio de los derechos vinculados con el crédito prendado.
+
+Se aplican supletoriamente las reglas sobre prenda de cosas.
+
+ARTICULO 2233.- Constitución. La prenda de créditos se constituye cuando se notifica la existencia del contrato al deudor del crédito prendado.
+
+ARTICULO 2234.- Conservación y cobranza. El acreedor prendario debe conservar y cobrar, incluso judicialmente, el crédito prendado. Se aplican las reglas del mandato.
+
+Si la prestación percibida por el acreedor prendario consiste en dinero, debe aplicar lo recibido hasta cubrir íntegramente su derecho contra el deudor y en los límites de la prenda.
+
+Si la prestación percibida no es dineraria el acreedor debe proceder a la venta de la cosa, aplicándose el artículo 2229.
+
+ARTICULO 2235.- Opción o declaración del constituyente. Cuando la exigibilidad del crédito pignorado depende de una opción o declaración del constituyente, el acreedor prendario puede hacer la respectiva manifestación, por su sola cuenta si su propio crédito es exigible, y de común acuerdo con aquél en caso contrario.
+
+Si la opción o la declaración corresponden al deudor del crédito dado en garantía, sólo producen efecto si se comunican al propio acreedor y al prendario.
+
+Son válidos los pactos en contrario que celebran el acreedor prendario y el constituyente de la prenda.
+
+ARTICULO 2236.- Participación en contrato con prestaciones recíprocas. Si el crédito prendado se origina en un contrato con prestaciones recíprocas, en caso de incumplimiento del obligado prendario el acreedor puede enajenar forzadamente la participación de aquél en dicho contrato, sujeto a las limitaciones contractuales aplicables.
+
+Si la cesión de la participación del constituyente está sujeta al asentimiento de la otra parte de tal contrato, y éste es negado injustificadamente, debe ser suplido por el juez.
+
+Por participación se entiende el conjunto de derechos y obligaciones derivados del contrato.
+
+ARTICULO 2237.- Extinción. Extinguida la prenda por cualquier causa sin haberse extinguido el crédito dado en prenda, el acreedor debe restituir el instrumento probatorio del crédito prendado y notificar la extinción de la prenda al deudor del crédito prendado.

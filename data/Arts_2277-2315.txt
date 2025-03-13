@@ -1,0 +1,258 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO QUINTO - TRANSMISIÓN DE DERECHOS POR CAUSA DE MUERTE - TITULO 1
+TITULO 1: Sucesiones
+Articulos:  2277 a 2285
+
+-----------------------------------------
+LIBRO QUINTO
+
+TRANSMISION DE DERECHOS POR CAUSA DE MUERTE
+
+TITULO I
+
+Sucesiones
+
+CAPITULO 1
+
+Disposiciones generales
+
+ARTICULO 2277.- Apertura de la sucesión. La muerte real o presunta de una persona causa la apertura de su sucesión y la transmisión de su herencia a las personas llamadas a sucederle por el testamento o por la ley. Si el testamento dispone sólo parcialmente de los bienes, el resto de la herencia se defiere por la ley.
+
+La herencia comprende todos los derechos y obligaciones del causante que no se extinguen por su fallecimiento.
+
+ARTICULO 2278.- Heredero y legatario. Concepto. Se denomina heredero a la persona a quien se transmite la universalidad o una parte indivisa de la herencia; legatario, al que recibe un bien particular o un conjunto de ellos.
+
+ARTICULO 2279.- Personas que pueden suceder. Pueden suceder al causante:
+
+a) las personas humanas existentes al momento de su muerte;
+
+b) las concebidas en ese momento que nazcan con vida;
+
+c) las nacidas después de su muerte mediante técnicas de reproducción humana asistida, con los requisitos previstos en el artículo 561;
+
+d) las personas jurídicas existentes al tiempo de su muerte y las fundaciones creadas por su testamento.
+
+ARTICULO 2280.- Situación de los herederos. Desde la muerte del causante, los herederos tienen todos los derechos y acciones de aquél de manera indivisa, con excepción de los que no son transmisibles por sucesión, y continúan en la posesión de lo que el causante era poseedor.
+
+Si están instituidos bajo condición suspensiva, están en esa situación a partir del cumplimiento de la condición, sin perjuicio de las medidas conservatorias que corresponden.
+
+En principio, responden por las deudas del causante con los bienes que reciben, o con su valor en caso de haber sido enajenados.
+
+CAPITULO 2
+
+Indignidad
+
+ARTICULO 2281.- Causas de indignidad. Son indignos de suceder:
+
+a) los autores, cómplices o partícipes de delito doloso contra la persona, el honor, la integridad sexual, la libertad o la propiedad del causante, o de sus descendientes, ascendientes, cónyuge, conviviente o hermanos. Esta causa de indignidad no se cubre por la extinción de la acción penal ni por la de la pena;
+
+b) los que hayan maltratado gravemente al causante, u ofendido gravemente su memoria;
+
+c) los que hayan acusado o denunciado al causante por un delito penado con prisión o reclusión, excepto que la víctima del delito sea el acusador, su cónyuge o conviviente, su descendiente, ascendiente o hermano, o haya obrado en cumplimiento de un deber legal;
+
+d) los que omiten la denuncia de la muerte dolosa del causante, dentro de un mes de ocurrida, excepto que antes de ese término la justicia proceda en razón de otra denuncia o de oficio. Esta causa de indignidad no alcanza a las personas incapaces ni con capacidad restringida, ni a los descendientes, ascendientes, cónyuge y hermanos del homicida o de su cómplice;
+
+e) los parientes o el cónyuge que no hayan suministrado al causante los alimentos debidos, o no lo hayan recogido en establecimiento adecuado si no podía valerse por sí mismo;
+
+f) el padre extramatrimonial que no haya reconocido voluntariamente al causante durante su menor edad;
+
+g) el padre o la madre del causante que haya sido privado de la responsabilidad parental;
+
+h) los que hayan inducido o coartado la voluntad del causante para que otorgue testamento o deje de hacerlo, o lo modifique, así como los que falsifiquen, alteren, sustraigan, oculten o sustituyan el testamento;
+
+i) los que hayan incurrido en las demás causales de ingratitud que permiten revocar las donaciones.
+
+En todos los supuestos enunciados, basta la prueba de que al indigno le es imputable el hecho lesivo, sin necesidad de condena penal.
+
+ARTICULO 2282.- Perdón de la indignidad. El perdón del causante hace cesar la indignidad. El testamento en que se beneficia al indigno, posterior a los hechos de indignidad, comporta el perdón, excepto que se pruebe el desconocimiento de tales hechos por el testador.
+
+ARTICULO 2283.- Ejercicio de la acción. La exclusión del indigno sólo puede ser demandada después de abierta la sucesión, a instancia de quien pretende los derechos atribuidos al indigno. También puede oponerla como excepción el demandado por reducción, colación o petición de herencia.
+
+La acción puede ser dirigida contra los sucesores a título gratuito del indigno y contra sus sucesores particulares a título oneroso de mala fe. Se considera de mala fe a quien conoce la existencia de la causa de indignidad.
+
+ARTICULO 2284.- Caducidad. Caduca el derecho de excluir al heredero indigno por el transcurso de tres años desde la apertura de la sucesión, y al legatario indigno por igual plazo desde la entrega del legado.
+
+Sin embargo, el demandado por el indigno por reducción, colación o petición de herencia, puede invocar la indignidad en todo tiempo.
+
+ARTICULO 2285.- Efectos. Admitida judicialmente la exclusión, el indigno debe restituir los bienes recibidos, aplicándose lo dispuesto para el poseedor de mala fe. Debe también pagar intereses de las sumas de dinero recibidas, aunque no los haya percibido.
+
+Los derechos y obligaciones entre el indigno y el causante renacen, así como las garantías que los aseguraban.
+
+
+-----------------------------------------
+LIBRO QUINTO - TRANSMISIÓN DE DERECHOS POR CAUSA DE MUERTE - TITULO 2
+TITULO 2: Aceptación y renuncia de la herencia
+Articulos:   2286 a 2301
+
+-----------------------------------------
+TITULO II
+
+Aceptación y renuncia de la herencia
+
+CAPITULO 1
+
+Derecho de opción
+
+ARTICULO 2286.- Tiempo de la aceptación y la renuncia. Las herencias futuras no pueden ser aceptadas ni renunciadas.
+
+ARTICULO 2287.- Libertad de aceptar o renunciar. Todo heredero puede aceptar la herencia que le es deferida o renunciarla, pero no puede hacerlo por una parte de la herencia ni sujetar su opción a modalidades. La aceptación parcial implica la del todo; la aceptación bajo modalidades se tiene por no hecha.
+
+ARTICULO 2288.- Caducidad del derecho de opción. El derecho de aceptar la herencia caduca a los diez años de la apertura de la sucesión. El heredero que no la haya aceptado en ese plazo es tenido por renunciante.
+
+El plazo para las personas llamadas a suceder en defecto de un heredero preferente que acepta la herencia y luego es excluido de ésta, corre a partir de la exclusión.
+
+ARTICULO 2289.- Intimación a aceptar o renunciar. Cualquier interesado puede solicitar judicialmente que el heredero sea intimado a aceptar o renunciar la herencia en un plazo no menor de un mes ni mayor de tres meses, renovable una sola vez por justa causa. Transcurrido el plazo sin haber respondido la intimación, se lo tiene por aceptante.
+
+La intimación no puede ser hecha hasta pasados nueve días de la muerte del causante, sin perjuicio de que los interesados soliciten las medidas necesarias para resguardar sus derechos.
+
+Si el heredero ha sido instituido bajo condición suspensiva, la intimación sólo puede hacerse una vez cumplida la condición.
+
+ARTICULO 2290.- Transmisión del derecho de opción. Si el heredero fallece sin haber aceptado ni renunciado la herencia, el derecho de hacerlo se transmite a sus herederos.
+
+Si éstos no se ponen de acuerdo en aceptar o renunciar la herencia deferida a su causante, los que la aceptan adquieren la totalidad de los derechos y obligaciones que corresponden a éste.
+
+La renuncia de la herencia del causante fallecido sin aceptar ni renunciar una herencia a él deferida, implica también la renuncia a ésta.
+
+ARTICULO 2291.- Efectos. El ejercicio del derecho de opción tiene efecto retroactivo al día de la apertura de la sucesión.
+
+ARTICULO 2292.- Acción de los acreedores del heredero. Si el heredero renuncia a la herencia en perjuicio de sus acreedores, éstos pueden hacerse autorizar judicialmente para aceptarla en su nombre.
+
+En tal caso, la aceptación sólo tiene lugar a favor de los acreedores que la formulan y hasta la concurrencia del monto de sus créditos.
+
+CAPITULO 2
+
+Aceptación de la herencia
+
+ARTICULO 2293.- Formas de aceptación. La aceptación de la herencia puede ser expresa o tácita. Es expresa cuando el heredero toma la calidad de tal en un acto otorgado por instrumento público o privado; es tácita si otorga un acto que supone necesariamente su intención de aceptar y que no puede haber realizado sino en calidad de heredero.
+
+ARTICULO 2294.- Actos que implican aceptación. Implican aceptación de la herencia:
+
+a) la iniciación del juicio sucesorio del causante o la presentación en un juicio en el cual se pretende la calidad de heredero o derechos derivados de tal calidad;
+
+b) la disposición a título oneroso o gratuito de un bien o el ejercicio de actos posesorios sobre él;
+
+c) la ocupación o habitación de inmuebles de los que el causante era dueño o condómino después de transcurrido un año del deceso;
+
+d) el hecho de no oponer la falta de aceptación de la herencia en caso de haber sido demandado en calidad de heredero;
+
+e) la cesión de los derechos hereditarios, sea a título oneroso o gratuito;
+
+f) la renuncia de la herencia en favor de alguno o algunos de sus herederos, aunque sea gratuita;
+
+g) la renuncia de la herencia por un precio, aunque sea en favor de todos sus coherederos.
+
+ARTICULO 2295.- Aceptación forzada. El heredero que oculta o sustrae bienes de la herencia es considerado aceptante con responsabilidad ilimitada, pierde el derecho de renunciar, y no tiene parte alguna en aquello que ha sido objeto de su ocultamiento o sustracción. En el supuesto de que no pueda restituir la cosa, debe restituir su valor, estimado al momento de la restitución.
+
+ARTICULO 2296.- Actos que no implican aceptación. No implican aceptación de la herencia:
+
+a) los actos puramente conservatorios, de supervisión o de administración provisional, así como los que resultan necesarios por circunstancias excepcionales y son ejecutados en interés de la sucesión;
+
+b) el pago de los gastos funerarios y de la última enfermedad, los impuestos adeudados por el difunto, los alquileres y otras deudas cuyo pago es urgente;
+
+c) el reparto de ropas, documentos personales, condecoraciones y diplomas del difunto, o recuerdos de familia, hecho con el acuerdo de todos los herederos;
+
+d) el cobro de las rentas de los bienes de la herencia, si se emplean en los pagos a que se refiere el inciso b) o se depositan en poder de un escribano;
+
+e) la venta de bienes perecederos efectuada antes de la designación del administrador, si se da al precio el destino dispuesto en el inciso d) de este artículo; en caso de no poderse hallar comprador en tiempo útil, su donación a entidades de asistencia social o su reparto entre todos los herederos;
+
+f) la venta de bienes cuya conservación es dispendiosa o son susceptibles de desvalorizarse rápidamente, si se da al precio el destino dispuesto en el inciso d).
+
+En los tres últimos casos, el que ha percibido las rentas o el precio de las ventas queda sujeto a las obligaciones y responsabilidad del administrador de bienes ajenos.
+
+ARTICULO 2297.- Aceptación por una persona incapaz o con capacidad restringida. La aceptación de la herencia por el representante legal de una persona incapaz nunca puede obligar a éste al pago de las deudas de la sucesión más allá del valor de los bienes que le sean atribuidos. Igual regla se aplica a la aceptación de la herencia por una persona con capacidad restringida, aunque haya actuado con asistencia, o por su representante legal o convencional.
+
+CAPITULO 3
+
+Renuncia de la herencia
+
+ARTICULO 2298.- Facultad de renunciar. El heredero puede renunciar a la herencia en tanto no haya mediado acto de aceptación.
+
+ARTICULO 2299.- Forma de la renuncia. La renuncia de la herencia debe ser expresada en escritura pública; también puede ser hecha en acta judicial incorporada al expediente judicial, siempre que el sistema informático asegure la inalterabilidad del instrumento.
+
+ARTICULO 2300.- Retractación de la renuncia. El heredero renunciante puede retractar su renuncia en tanto no haya caducado su derecho de opción, si la herencia no ha sido aceptada por otros herederos ni se ha puesto al Estado en posesión de los bienes. La retractación no afecta los derechos adquiridos por terceros sobre los bienes de la herencia.
+
+ARTICULO 2301.- Efectos de la renuncia. El heredero renunciante es considerado como si nunca hubiese sido llamado a la herencia, sin perjuicio de la apertura del derecho de representación en los casos en que por este Código tiene lugar.
+
+-----------------------------------------
+LIBRO QUINTO - TRANSMISIÓN DE DERECHOS POR CAUSA DE MUERTE - TITULO 3
+TITULO 3: Cesión de herencia
+Articulos:   2302 a 2309
+
+-----------------------------------------
+TITULO III
+
+Cesión de herencia
+
+ARTICULO 2302.- Momento a partir del cual produce efectos. La cesión del derecho a una herencia ya deferida o a una parte indivisa de ella tiene efectos:
+
+a) entre los contratantes, desde su celebración;
+
+b) respecto de otros herederos, legatarios y acreedores del cedente, desde que la escritura pública se incorpora al expediente sucesorio;
+
+c) respecto al deudor de un crédito de la herencia, desde que se le notifica la cesión.
+
+ARTICULO 2303.- Extensión y exclusiones. La cesión de herencia comprende las ventajas que pueden resultar ulteriormente por colación, por la renuncia a disposiciones particulares del testamento, o por la caducidad de éstas.
+
+No comprende, excepto pacto en contrario:
+
+a) lo acrecido con posterioridad en razón de una causa diversa de las expresadas, como la renuncia o la exclusión de un coheredero;
+
+b) lo acrecido anteriormente por una causa desconocida al tiempo de la cesión;
+
+c) los derechos sobre los sepulcros, los documentos privados del causante, distinciones honoríficas, retratos y recuerdos de familia.
+
+ARTICULO 2304.- Derechos del cesionario. El cesionario adquiere los mismos derechos que le correspondían al cedente en la herencia. Asimismo, tiene derecho de participar en el valor íntegro de los bienes que se gravaron después de la apertura de la sucesión y antes de la cesión, y en el de los que en el mismo período se consumieron o enajenaron, con excepción de los frutos percibidos.
+
+ARTICULO 2305.- Garantía por evicción. Si la cesión es onerosa, el cedente garantiza al cesionario su calidad de heredero y la parte indivisa que le corresponde en la herencia, excepto que sus derechos hayan sido cedidos como litigiosos o dudosos, sin dolo de su parte. No responde por la evicción ni por los vicios de los bienes de la herencia, excepto pacto en contrario. En lo demás, su responsabilidad se rige por las normas relativas a la cesión de derechos.
+
+Si la cesión es gratuita, el cedente sólo responde en los casos en que el donante es responsable. Su responsabilidad se limita al daño causado de mala fe.
+
+ARTICULO 2306.- Efectos sobre la confusión. La cesión no produce efecto alguno sobre la extinción de las obligaciones causada por confusión.
+
+ARTICULO 2307.- Obligaciones del cesionario. El cesionario debe reembolsar al cedente lo que éste pague por su parte en las deudas y cargas de la sucesión hasta la concurrencia del valor de la porción de la herencia recibida.
+
+Las cargas particulares del cedente y los tributos que gravan la transmisión hereditaria están a cargo del cesionario si están impagos al tiempo de la cesión.
+
+ARTICULO 2308.- Indivisión postcomunitaria. Las disposiciones de este título se aplican a la cesión de los derechos que corresponden a un cónyuge en la indivisión postcomunitaria que acaece por muerte del otro cónyuge.
+
+ARTICULO 2309.- Cesión de bienes determinados. La cesión de derechos sobre bienes determinados que forman parte de una herencia no se rige por las reglas de este Título, sino por las del contrato que corresponde, y su eficacia está sujeta a que el bien sea atribuido al cedente en la partición.
+
+
+-----------------------------------------
+LIBRO QUINTO - TRANSMISIÓN DE DERECHOS POR CAUSA DE MUERTE - TITULO 4
+TITULO 4: Petición de herencia
+Articulos:   2310 a 2315
+
+-----------------------------------------
+TITULO IV
+
+Petición de herencia
+
+ARTICULO 2310.- Procedencia. La petición de herencia procede para obtener la entrega total o parcial de la herencia, sobre la base del reconocimiento de la calidad del heredero del actor, contra el que está en posesión material de la herencia, e invoca el título de heredero.
+
+ARTICULO 2311.- Imprescriptibilidad. La petición de herencia es imprescriptible, sin perjuicio de la prescripción adquisitiva que puede operar con relación a cosas singulares.
+
+ARTICULO 2312.- Restitución de los bienes. Admitida la petición de herencia, el heredero aparente debe restituir lo que recibió sin derecho en la sucesión, inclusive las cosas de las que el causante era poseedor y aquellas sobre las cuales ejercía el derecho de retención.
+
+Si no es posible la restitución en especie, debe indemnización de los daños.
+
+El cesionario de los derechos hereditarios del heredero aparente está equiparado a éste en las relaciones con el demandante.
+
+ARTICULO 2313.- Reglas aplicables. Se aplica a la petición de herencia lo dispuesto sobre la reivindicación en cuanto a las obligaciones del poseedor de buena o mala fe, gastos, mejoras, apropiación de frutos y productos, responsabilidad por pérdidas y deterioros.
+
+Es poseedor de mala fe el que conoce o debió conocer la existencia de herederos preferentes o concurrentes que ignoraban su llamamiento.
+
+ARTICULO 2314.- Derechos del heredero aparente. Si el heredero aparente satisface obligaciones del causante con bienes no provenientes de la herencia, tiene derecho a ser reembolsado por el heredero.
+
+ARTICULO 2315.- Actos del heredero aparente. Son válidos los actos de administración del heredero aparente realizados hasta la notificación de la demanda de petición de herencia, excepto que haya habido mala fe suya y del tercero con quien contrató.
+
+Son también válidos los actos de disposición a título oneroso en favor de terceros que ignoran la existencia de herederos de mejor o igual derecho que el heredero aparente, o que los derechos de éste están judicialmente controvertidos.
+
+El heredero aparente de buena fe debe restituir al heredero el precio recibido; el de mala fe debe indemnizar todo perjuicio que le haya causado.

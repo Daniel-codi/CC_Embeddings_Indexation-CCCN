@@ -1,0 +1,212 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO CUARTO - DERECHOS REALES - TITULO 3
+TITULO 3: Dominio
+Articulos: 1941 a 1982
+
+-----------------------------------------
+TITULO III
+
+Dominio
+
+CAPITULO 1
+
+Disposiciones generales
+
+ARTICULO 1941.- Dominio perfecto. El dominio perfecto es el derecho real que otorga todas las facultades de usar, gozar y disponer material y jurídicamente de una cosa, dentro de los límites previstos por la ley. El dominio se presume perfecto hasta que se pruebe lo contrario.
+
+ARTICULO 1942.- Perpetuidad. El dominio es perpetuo. No tiene límite en el tiempo y subsiste con independencia de su ejercicio. No se extingue aunque el dueño no ejerza sus facultades, o las ejerza otro, excepto que éste adquiera el dominio por prescripción adquisitiva.
+
+ARTICULO 1943.- Exclusividad. El dominio es exclusivo y no puede tener más de un titular. Quien adquiere la cosa por un título, no puede en adelante adquirirla por otro, si no es por lo que falta al título.
+
+ARTICULO 1944.- Facultad de exclusión. El dominio es excluyente. El dueño puede excluir a extraños del uso, goce o disposición de la cosa, remover por propia autoridad los objetos puestos en ella, y encerrar sus inmuebles con muros, cercos o fosos, sujetándose a las normas locales.
+
+ARTICULO 1945.- Extensión. El dominio de una cosa comprende los objetos que forman un todo con ella o son sus accesorios.
+
+El dominio de una cosa inmueble se extiende al subsuelo y al espacio aéreo, en la medida en que su aprovechamiento sea posible, excepto lo dispuesto por normas especiales.
+
+Todas las construcciones, siembras o plantaciones existentes en un inmueble pertenecen a su dueño, excepto lo dispuesto respecto de los derechos de propiedad horizontal y superficie.
+
+Se presume que las construcciones, siembras o plantaciones las hizo el dueño del inmueble, si no se prueba lo contrario.
+
+ARTICULO 1946.- Dominio imperfecto. El dominio es imperfecto si está sometido a condición o plazo resolutorios, o si la cosa está gravada con cargas reales.
+
+CAPITULO 2
+
+Modos especiales de adquisición del dominio
+
+SECCION 1ª
+
+Apropiación
+
+ARTICULO 1947.- Apropiación. El dominio de las cosas muebles no registrables sin dueño, se adquiere por apropiación.
+
+a) son susceptibles de apropiación:
+
+i) las cosas abandonadas;
+
+ii) los animales que son el objeto de la caza y de la pesca;
+
+iii) el agua pluvial que caiga en lugares públicos o corra por ellos.
+
+b) no son susceptibles de apropiación:
+
+i) las cosas perdidas. Si la cosa es de algún valor, se presume que es perdida, excepto prueba en contrario;
+
+ii) los animales domésticos, aunque escapen e ingresen en inmueble ajeno;
+
+iii) los animales domesticados, mientras el dueño no desista de perseguirlos. Si emigran y se habitúan a vivir en otro inmueble, pertenecen al dueño de éste, si no empleó artificios para atraerlos;
+
+iv) los tesoros.
+
+ARTICULO 1948.- Caza. El animal salvaje o el domesticado que recupera su libertad natural, pertenece al cazador cuando lo toma o cae en su trampa. Mientras el cazador no desista de perseguir al animal que hirió tiene derecho a la presa, aunque otro la tome o caiga en su trampa.
+
+Pertenece al dueño del inmueble el animal cazado en él sin su autorización expresa o tácita.
+
+ARTICULO 1949.- Pesca. Quien pesca en aguas de uso público, o está autorizado para pescar en otras aguas, adquiere el dominio de la especie acuática que captura o extrae de su medio natural.
+
+ARTICULO 1950.- Enjambres. El dueño de un enjambre puede seguirlo a través de inmuebles ajenos, pero debe indemnizar el daño que cause. Si no lo persigue o cesa en su intento, el enjambre perte-nece a quien lo tome. Cuando se incorpora a otro enjambre, es del dueño de éste.
+
+SECCION 2ª
+
+Adquisición de un tesoro
+
+ARTICULO 1951.- Tesoro. Es tesoro toda cosa mueble de valor, sin dueño conocido, oculta en otra cosa mueble o inmueble. No lo es la cosa de dominio público, ni la que se encuentra en una sepultura de restos humanos mientras subsiste esa afectación.
+
+ARTICULO 1952.- Descubrimiento de un tesoro. Es descubridor del tesoro el primero que lo hace visible, aunque no sepa que es un tesoro. El hallazgo debe ser casual. Sólo tienen derecho a buscar tesoro en objeto ajeno los titulares de derechos reales que se ejercen por la posesión, con excepción de la prenda.
+
+ARTICULO 1953.- Derechos del descubridor. Si el tesoro es descubierto en una cosa propia, el tesoro pertenece al dueño en su totalidad. Si es parcialmente propia, le corresponde la mitad como descubridor y, sobre la otra mitad, la proporción que tiene en la titularidad sobre la cosa.
+
+Si el tesoro es descubierto casualmente en una cosa ajena, pertenece por mitades al descubridor y al dueño de la cosa donde se halló.
+
+Los derechos del descubridor no pueden invocarse por la persona a la cual el dueño de la cosa le encarga buscar un tesoro determinado, ni por quien busca sin su autorización. Pueden ser invocados si al hallador simplemente se le advierte sobre la mera posibilidad de encontrar un tesoro.
+
+ARTICULO 1954.- Búsqueda por el propietario de un tesoro. Cuando alguien pretende que tiene un tesoro que dice haber guardado en predio ajeno y quiere buscarlo, puede hacerlo sin consentimiento del dueño del predio; debe designar el lugar en que se encuentra, y garantizar la indemnización de todo daño al propietario. Si prueba su propiedad, le pertenece. Si no se acredita, el tesoro pertenece íntegramente al dueño del inmueble.
+
+SECCION 3ª
+
+Régimen de cosas perdidas
+
+ARTICULO 1955.- Hallazgo. El que encuentra una cosa perdida no está obligado a tomarla, pero si lo hace asume las obligaciones del depositario a título oneroso. Debe restituirla inmediatamente a quien tenga derecho a reclamarla, y si no lo individualiza, debe entregarla a la policía del lugar del hallazgo, quien debe dar intervención al juez.
+
+ARTICULO 1956.- Recompensa y subasta. La restitución de la cosa a quien tiene derecho a reclamarla debe hacerse previo pago de los gastos y de la recompensa. Si se ofrece recompensa, el hallador puede aceptar la ofrecida o reclamar su fijación por el juez. Sin perjuicio de la recompensa, el dueño de la cosa puede liberarse de todo otro reclamo del hallador transmitiéndole su dominio.
+
+Transcurridos seis meses sin que se presente quien tiene derecho a reclamarla, la cosa debe venderse en subasta pública. La venta puede anticiparse si la cosa es perecedera o de conservación costosa. Deducidos los gastos y el importe de la recompensa, el remanente pertenece a la ciudad o municipio del lugar en que se halló.
+
+SECCION 4ª
+
+Transformación y accesión de cosas muebles
+
+ARTICULO 1957.- Transformación. Hay adquisición del dominio por transformación si alguien de buena fe con una cosa ajena, mediante su sola actividad o la incorporación de otra cosa, hace una nueva con intención de adquirirla, sin que sea posible volverla al estado anterior. En tal caso, sólo debe el valor de la primera.
+
+Si la transformación se hace de mala fe, el dueño de la materia tiene derecho a ser indemnizado de todo daño, si no prefiere tener la cosa en su nueva forma; en este caso debe pagar al transformador su trabajo o el mayor valor que haya adquirido la cosa, a su elección.
+
+Si el transformador es de buena fe y la cosa transformada es reversible a su estado anterior, el dueño de la materia es dueño de la nueva especie; en este caso debe pagar al transformador su trabajo; pero puede optar por exigir el valor de los gastos de la reversión.
+
+Si el transformador es de mala fe, y la cosa transformada es reversible a su estado anterior, el dueño de la cosa puede optar por reclamar la cosa nueva sin pagar nada al que la hizo; o abdicarla con indemnización del valor de la materia y del daño.
+
+ARTICULO 1958.- Accesión de cosas muebles. Si cosas muebles de distintos dueños acceden entre sí sin que medie hecho del hombre y no es posible separarlas sin deteriorarlas o sin gastos excesivos, la cosa nueva pertenece al dueño de la que tenía mayor valor económico al tiempo de la accesión. Si es imposible determinar qué cosa tenía mayor valor, los propietarios adquieren la nueva por partes iguales.
+
+SECCION 5ª
+
+Accesión de cosas inmuebles
+
+ARTICULO 1959.- Aluvión. El acrecentamiento paulatino e insensible del inmueble confinante con aguas durmientes o corrientes que se produce por sedimentación, pertenece al dueño del inmueble. No hay acrecentamiento del dominio de los particulares por aluvión si se provoca por obra del hombre, a menos que tenga fines meramente defensivos.
+
+No existe aluvión si no hay adherencia de la sedimentación al inmueble. No obsta a la adherencia el curso de agua intermitente.
+
+El acrecentamiento aluvional a lo largo de varios inmuebles se divide entre los dueños, en proporción al frente de cada uno de ellos sobre la antigua ribera.
+
+Se aplican las normas sobre aluvión tanto a los acrecentamientos producidos por el retiro natural de las aguas, como por el abandono de su cauce.
+
+ARTICULO 1960.- Cauce del río. No constituye aluvión lo depositado por las aguas que se encuentran comprendidas en los límites del cauce del río determinado por la línea de ribera que fija el promedio de las máximas crecidas ordinarias.
+
+ARTICULO 1961.- Avulsión. El acrecentamiento del inmueble por la fuerza súbita de las aguas que produce una adherencia natural pertenece al dueño del inmueble. También le pertenece si ese acrecentamiento se origina en otra fuerza natural.
+
+Si se desplaza parte de un inmueble hacia otro, su dueño puede reivindicarlo mientras no se adhiera naturalmente. El dueño del otro inmueble no tiene derecho para exigir su remoción, mas pasado el término de seis meses, las adquiere por prescripción.
+
+Cuando la avulsión es de cosa no susceptible de adherencia natural, se aplica lo dispuesto sobre las cosas perdidas.
+
+ARTICULO 1962.- Construcción, siembra y plantación. Si el dueño de un inmueble construye, siembra o planta con materiales ajenos, los adquiere, pero debe su valor. Si es de mala fe también debe los daños.
+
+Si la construcción, siembra o plantación es realizada por un tercero, los materiales pertenecen al dueño del inmueble, quien debe indemnizar el mayor valor adquirido. Si el tercero es de mala fe, el dueño del inmueble puede exigirle que reponga la cosa al estado anterior a su costa, a menos que la diferencia de valor sea importante, en cuyo caso debe el valor de los materiales y el trabajo, si no prefiere abdicar su derecho con indemnización del valor del inmueble y del daño.
+
+Si la construcción, siembra o plantación es realizada por un tercero con trabajo o materiales ajenos en inmueble ajeno, quien efectúa el trabajo o quien provee los materiales no tiene acción directa contra el dueño del inmueble, pero puede exigirle lo que deba al tercero.
+
+ARTICULO 1963.- Invasión de inmueble colindante. Quien construye en su inmueble, pero de buena fe invade el inmueble colindante, puede obligar a su dueño a respetar lo construido, si éste no se opuso inmediatamente de conocida la invasión.
+
+El dueño del inmueble colindante puede exigir la indemnización del valor de la parte invadida del inmueble. Puede reclamar su adquisición total si se menoscaba significativamente el aprovechamiento normal del inmueble y, en su caso, la disminución del valor de la parte no invadida. Si el invasor no indemniza, puede ser obligado a demoler lo construido.
+
+Si el invasor es de mala fe y el dueño del fundo invadido se opuso inmediatamente de conocida la invasión, éste puede pedir la demolición de lo construido. Sin embargo, si resulta manifiestamente abusiva, el juez puede rechazar la petición y ordenar la indemnización.
+
+CAPITULO 3
+
+Dominio imperfecto
+
+ARTICULO 1964.- Supuestos de dominio imperfecto. Son dominios imperfectos el revocable, el fiduciario y el desmembrado. El dominio revocable se rige por los artículos de este Capítulo, el fiduciario por lo previsto en las normas del Capítulo 31, Título IV del Libro Tercero, y el desmembrado queda sujeto al régimen de la respectiva carga real que lo grava.
+
+ARTICULO 1965.- Dominio revocable. Dominio revocable es el sometido a condición o plazo resolutorios a cuyo cumplimiento el dueño debe restituir la cosa a quien se la transmitió.
+
+La condición o el plazo deben ser impuestos por disposición voluntaria expresa o por la ley.
+
+Las condiciones resolutorias impuestas al dominio se deben entender limitadas al término de diez años, aunque no pueda realizarse el hecho previsto dentro de aquel plazo o éste sea mayor o incierto. Si los diez años transcurren sin haberse producido la resolución, el dominio debe quedar definitivamente establecido. El plazo se computa desde la fecha del título constitutivo del dominio imperfecto.
+
+ARTICULO 1966.- Facultades. El titular del dominio revocable tiene las mismas facultades que el dueño perfecto, pero los actos jurídicos que realiza están sujetos a las consecuencias de la extinción de su derecho.
+
+ARTICULO 1967.- Efecto de la revocación. La revocación del dominio de cosa registrable tiene efecto retroactivo, excepto que lo contrario surja del título de adquisición o de la ley.
+
+Cuando se trata de cosas no registrables, la revocación no tiene efecto respecto de terceros sino en cuanto ellos, por razón de su mala fe, tengan una obligación personal de restituir la cosa.
+
+ARTICULO 1968.- Readquisición del dominio perfecto. Al cumplirse el plazo o condición, el dueño revocable de una cosa queda inmediatamente constituido en poseedor a nombre del dueño perfecto. Si la cosa es registrable y el modo suficiente consiste en la inscripción constitutiva, se requiere inscribir la readquisición; si la inscripción no es constitutiva, se requiere a efecto de su oponibilidad.
+
+ARTICULO 1969.- Efectos de la retroactividad. Si la revocación es retroactiva el dueño perfecto readquiere el dominio libre de todos los actos jurídicos realizados por el titular del dominio resuelto; si no es retroactiva, los actos son oponibles al dueño.
+
+>CAPITULO 4
+
+Límites al dominio
+
+ARTICULO 1970.- Normas administrativas. Las limitaciones impuestas al dominio privado en el interés público están regidas por el derecho administrativo. El aprovechamiento y uso del dominio sobre inmuebles debe ejercerse de conformidad con las normas administrativas aplicables en cada jurisdicción.
+
+Los límites impuestos al dominio en este Capítulo en materia de relaciones de vecindad, rigen en subsidio de las normas administrativas aplicables en cada jurisdicción.
+
+ARTICULO 1971.- Daño no indemnizable. Los deberes impuestos por los límites al dominio no generan indemnización de daños, a menos que por la actividad del hombre se agrave el perjuicio.
+
+ARTICULO 1972.- Cláusulas de inenajenabilidad. En los actos a título oneroso es nula la cláusula de no transmitir a persona alguna el dominio de una cosa determinada o de no constituir sobre ella otros derechos reales. Estas cláusulas son válidas si se refieren a persona o personas determinadas.
+
+En los actos a título gratuito todas las cláusulas señaladas en el primer párrafo son válidas si su plazo no excede de diez años.
+
+Si la convención no fija plazo, o establece un plazo incierto o superior a diez años, se considera celebrada por ese tiempo. Es renovable de manera expresa por un lapso que no exceda de diez años contados desde que se estableció.
+
+En los actos por causa de muerte son nulas las cláusulas que afectan las porciones legítimas, o implican una sustitución fideicomisaria.
+
+ARTICULO 1973.- Inmisiones. Las molestias que ocasionan el humo, calor, olores, luminosidad, ruidos, vibraciones o inmisiones similares por el ejercicio de actividades en inmuebles vecinos, no deben exceder la normal tolerancia teniendo en cuenta las condiciones del lugar y aunque medie autorización administrativa para aquéllas.
+
+Según las circunstancias del caso, los jueces pueden disponer la remoción de la causa de la molestia o su cesación y la indemnización de los daños. Para disponer el cese de la inmisión, el juez debe ponderar especialmente el respeto debido al uso regular de la propiedad, la prioridad en el uso, el interés general y las exigencias de la producción.
+
+ARTICULO 1974.- Camino de sirga. El dueño de un inmueble colindante con cualquiera de las orillas de los cauces o sus riberas, aptos para el transporte por agua, debe dejar libre una franja de terreno de quince metros de ancho en toda la extensión del curso, en la que no puede hacer ningún acto que menoscabe aquella actividad.
+
+Todo perjudicado puede pedir que se remuevan los efectos de los actos violatorios de este artículo.
+
+ARTICULO 1975.- Obstáculo al curso de las aguas. Los dueños de inmuebles linderos a un cauce no pueden realizar ninguna obra que altere el curso natural de las aguas, o modifique su dirección o velocidad, a menos que sea meramente defensiva. Si alguno de ellos resulta perjudicado por trabajos del ribereño o de un tercero, puede remover el obstáculo, construir obras defensivas o reparar las destruidas, con el fin de restablecer las aguas a su estado anterior, y reclamar del autor el valor de los gastos necesarios y la indemnización de los demás daños.
+
+Si el obstáculo se origina en un caso fortuito, el Estado sólo debe restablecer las aguas a su estado anterior o pagar el valor de los gastos necesarios para hacerlo.
+
+ARTICULO 1976.- Recepción de agua, arena y piedras. Debe recibirse el agua, la arena o las piedras que se desplazan desde otro fundo si no han sido degradadas ni hubo interferencia del hombre en su desplazamiento. Sin embargo, puede derivarse el agua extraída artificialmente, la arena o las piedras que arrastra el agua, si se prueba que no causan perjuicio a los inmuebles que las reciben.
+
+ARTICULO 1977.- Instalaciones provisorias y paso de personas que trabajan en una obra. Si es indispensable poner andamios u otras instalaciones provisorias en el inmueble lindero, o dejar pasar a las personas que trabajan en la obra, el dueño del inmueble no puede impedirlo, pero quien construye la obra debe reparar los daños causados.
+
+ARTICULO 1978.- Vistas. Excepto que una ley local disponga otras dimensiones, en los muros linderos no pueden tenerse vistas que permitan la visión frontal a menor distancia que la de tres metros; ni vistas laterales a menor distancia que la de sesenta centímetros, medida perpendicularmente. En ambos casos la distancia se mide desde el límite exterior de la zona de visión más cercana al inmueble colindante.
+
+ARTICULO 1979.- Luces. Excepto que una ley local disponga otras dimensiones, en el muro lindero no pueden tenerse luces a menor altura que la de un metro ochenta centímetros, medida desde la superficie más elevada del suelo frente a la abertura.
+
+ARTICULO 1980.- Excepción a distancias mínimas. Las distancias mínimas indicadas en los artículos 1978 y 1979 no se aplican si la visión está impedida por elementos fijos de material no transparente.
+
+ARTICULO 1981.- Privación de luces o vistas. Quien tiene luces o vistas permitidas en un muro privativo no puede impedir que el colindante ejerza regularmente su derecho de elevar otro muro, aunque lo prive de la luz o de la vista.
+
+ARTICULO 1982.- Arboles, arbustos u otras plantas. El dueño de un inmueble no puede tener árboles, arbustos u otras plantas que causan molestias que exceden de la normal tolerancia. En tal caso, el dueño afectado puede exigir que sean retirados, a menos que el corte de ramas sea suficiente para evitar las molestias. Si las raíces penetran en su inmueble, el propietario puede cortarlas por sí mismo.

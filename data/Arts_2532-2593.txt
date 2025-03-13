@@ -1,0 +1,382 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO SEXTO - DISPOSICIONES COMUNES A LOS DERECHOS PERSONALES Y REALES - TITULO 1
+TITULO 1: Prescripción y caducidad
+Articulos:   2532 a 2572
+
+-----------------------------------------
+LIBRO SEXTO
+
+DISPOSICIONES COMUNES
+
+A LOS DERECHOS PERSONALES Y REALES
+
+TITULO I
+
+Prescripción y caducidad
+
+CAPITULO 1
+
+Disposiciones comunes a la prescripción liberatoria y adquisitiva
+
+SECCION 1ª
+
+Normas generales
+
+ARTICULO 2532.- Ambito de aplicación. En ausencia de disposiciones específicas, las normas de este Capítulo son aplicables a la prescripción adquisitiva y liberatoria. Las legislaciones locales podrán regular esta última en cuanto al plazo de tributos.
+
+ARTICULO 2533.- Carácter imperativo. Las normas relativas a la prescripción no pueden ser modificadas por convención.
+
+ARTICULO 2534.- Sujetos. La prescripción opera a favor y en contra de todas las personas, excepto disposición legal en contrario.
+
+Los acreedores y cualquier interesado pueden oponer la prescripción, aunque el obligado o propietario no la invoque o la renuncie.
+
+ARTICULO 2535.- Renuncia. La prescripción ya ganada puede ser renunciada por las personas que pueden otorgar actos de disposición. La renuncia a la prescripción por uno de los codeudores o coposeedores no surte efectos respecto de los demás. No procede la acción de regreso del codeudor renunciante contra sus codeudores liberados por la prescripción.
+
+ARTICULO 2536.- Invocación de la prescripción. La prescripción puede ser invocada en todos los casos, con excepción de los supuestos previstos por la ley.
+
+ARTICULO 2537.- Modificación de los plazos por ley posterior. Los plazos de prescripción en curso al momento de entrada en vigencia de una nueva ley se rigen por la ley anterior. Sin embargo, si por esa ley se requiere mayor tiempo que el que fijan las nuevas, quedan cumplidos una vez que transcurra el tiempo designado por las nuevas leyes, contado desde el día de su vigencia, excepto que el plazo fijado por la ley antigua finalice antes que el nuevo plazo contado a partir de la vigencia de la nueva ley, en cuyo caso se mantiene el de la ley anterior. Se exceptúa de lo prescripto anteriormente las acciones civiles derivadas de los delitos de lesa humanidad.
+
+(Artículo sustituido por art. 1º de la Ley Nº 27.586 B.O. 16/12/2020)
+
+ARTICULO 2538.- Pago espontáneo. El pago espontáneo de una obligación prescripta no es repetible.
+
+SECCION 2ª
+
+Suspensión de la prescripción
+
+ARTICULO 2539.- Efectos. La suspensión de la prescripción detiene el cómputo del tiempo por el lapso que dura pero aprovecha el período transcurrido hasta que ella comenzó.
+
+ARTICULO 2540.- Alcance subjetivo. La suspensión de la prescripción no se extiende a favor ni en contra de los interesados, excepto que se trate de obligaciones solidarias o indivisibles.
+
+ARTICULO 2541.- Suspensión por interpelación fehaciente. El curso de la prescripción se suspende, por una sola vez, por la interpelación fehaciente hecha por el titular del derecho contra el deudor o el poseedor. Esta suspensión sólo tiene efecto durante seis meses o el plazo menor que corresponda a la prescripción de la acción.
+
+ARTICULO 2542.- Suspensión por pedido de mediación. El curso de la prescripción se suspende desde la expedición por medio fehaciente de la comunicación de la fecha de la audiencia de mediación o desde su celebración, lo que ocurra primero.
+
+El plazo de prescripción se reanuda a partir de los veinte días contados desde el momento en que el acta de cierre del procedimiento de mediación se encuentre a disposición de las partes.
+
+ARTICULO 2543.- Casos especiales. El curso de la prescripción se suspende:
+
+a) entre cónyuges, durante el matrimonio;
+
+b) entre convivientes, durante la unión convivencial;
+
+c) entre las personas incapaces y con capacidad restringida y sus padres, tutores, curadores o apoyos, durante la responsabilidad parental, la tutela, la curatela o la medida de apoyo;
+
+d) entre las personas jurídicas y sus administradores o integrantes de sus órganos de fiscalización, mientras continúan en el ejercicio del cargo;
+
+e) a favor y en contra del heredero con responsabilidad limitada, respecto de los reclamos que tienen por causa la defensa de derechos sobre bienes del acervo hereditario.
+
+SECCION 3ª
+
+Interrupción de la prescripción
+
+ARTICULO 2544.- Efectos. El efecto de la interrupción de la prescripción es tener por no sucedido el lapso que la precede e iniciar un nuevo plazo.
+
+ARTICULO 2545.- Interrupción por reconocimiento. El curso de la prescripción se interrumpe por el reconocimiento que el deudor o poseedor efectúa del derecho de aquel contra quien prescribe.
+
+ARTICULO 2546.- Interrupción por petición judicial. El curso de la prescripción se interrumpe por toda petición del titular del derecho ante autoridad judicial que traduce la intención de no abandonarlo, contra el poseedor, su representante en la posesión, o el deudor, aunque sea defectuosa, realizada por persona incapaz, ante tribunal incompetente, o en el plazo de gracia previsto en el ordenamiento procesal aplicable.
+
+ARTICULO 2547.- Duración de los efectos. Los efectos interruptivos del curso de la prescripción permanecen hasta que deviene firme la resolución que pone fin a la cuestión, con autoridad de cosa juzgada formal.
+
+La interrupción del curso de la prescripción se tiene por no sucedida si se desiste del proceso o caduca la instancia.
+
+ARTICULO 2548.- Interrupción por solicitud de arbitraje. El curso de la prescripción se interrumpe por la solicitud de arbitraje. Los efectos de esta causal se rigen por lo dispuesto para la interrupción de la prescripción por petición judicial, en cuanto sea aplicable.
+
+ARTICULO 2549.- Alcance subjetivo. La interrupción de la prescripción no se extiende a favor ni en contra de los interesados, excepto que se trate de obligaciones solidarias o indivisibles.
+
+SECCION 4ª
+
+Dispensa de la prescripción
+
+ARTICULO 2550.- Requisitos. El juez puede dispensar de la prescripción ya cumplida al titular de la acción, si dificultades de hecho o maniobras dolosas le obstaculizan temporalmente el ejercicio de la acción, y el titular hace valer sus derechos dentro de los seis meses siguientes a la cesación de los obstáculos.
+
+En el caso de personas incapaces sin representantes el plazo de seis meses se computa desde la cesación de la incapacidad o la aceptación del cargo por el representante.
+
+Esta disposición es aplicable a las sucesiones que permanecen vacantes sin curador, si el que es designado hace valer los derechos dentro de los seis meses de haber aceptado el cargo.
+
+SECCION 5ª
+
+Disposiciones procesales relativas a la prescripción
+
+ARTICULO 2551.- Vías procesales. La prescripción puede ser articulada por vía de acción o de excepción.
+
+ARTICULO 2552.- Facultades judiciales. El juez no puede declarar de oficio la prescripción.
+
+ARTICULO 2553.- Oportunidad procesal para oponerla. La prescripción debe oponerse dentro del plazo para contestar la demanda en los procesos de conocimiento, y para oponer excepciones en los procesos de ejecución.
+
+Los terceros interesados que comparecen al juicio vencidos los términos aplicables a las partes, deben hacerlo en su primera presentación.
+
+CAPITULO 2
+
+Prescripción liberatoria
+
+SECCION 1ª
+
+Comienzo del cómputo
+
+ARTICULO 2554.- Regla general. El transcurso del plazo de prescripción comienza el día en que la prestación es exigible.
+
+ARTICULO 2555.- Rendición de cuentas. El transcurso del plazo de prescripción para reclamar la rendición de cuentas comienza el día que el obligado debe rendirlas o, en su defecto, cuando cesa en la función respectiva. Para demandar el cobro del resultado líquido de la cuenta, el plazo comienza el día que hubo conformidad de parte o decisión pasada en autoridad de cosa juzgada.
+
+ARTICULO 2556.- Prestaciones periódicas. El transcurso del plazo de prescripción para reclamar la contraprestación por servicios o suministros periódicos comienza a partir de que cada retribución se torna exigible.
+
+ARTICULO 2557.- Prestaciones a intermediarios. El transcurso del plazo de prescripción para reclamar la retribución por servicios de corredores, comisionistas y otros intermediarios se cuenta, si no existe plazo convenido para el pago, desde que concluye la actividad.
+
+ARTICULO 2558.- Honorarios por servicios prestados en procedimientos. El transcurso del plazo de prescripción para reclamar honorarios por servicios que han sido prestados en procedimientos judiciales, arbitrales o de mediación, comienza a correr desde que vence el plazo fijado en resolución firme que los regula; si no fija plazo, desde que adquiere firmeza.
+
+Si los honorarios no son regulados, el plazo comienza a correr desde que queda firme la resolución que pone fin al proceso; si la prestación del servicio profesional concluye antes, desde que el acreedor tiene conocimiento de esa circunstancia.
+
+ARTICULO 2559.- Créditos sujetos a plazo indeterminado. Si el crédito está sujeto a plazo indeterminado, se considera exigible a partir de su determinación.
+
+El plazo de prescripción para deducir la acción para la fijación judicial del plazo se computa desde la celebración del acto. Si prescribe esta acción, también prescribe la de cumplimiento.
+
+SECCION 2ª
+
+Plazos de prescripción
+
+ARTICULO 2560.- Plazo genérico.
+
+Las acciones civiles derivadas de delitos de lesa humanidad son imprescriptibles.
+
+El plazo de la prescripción es de cinco (5) años, excepto que esté previsto uno diferente en la legislación local.
+
+(Artículo sustituido por art. 2º de la Ley Nº 27.586 B.O. 16/12/2020)
+
+ARTICULO 2561.- Plazos especiales. El reclamo del resarcimiento de daños por agresiones sexuales infligidas a personas incapaces prescribe a los diez años. El cómputo del plazo de prescripción comienza a partir del cese de la incapacidad.
+
+El reclamo de la indemnización de daños derivados de la responsabilidad civil prescribe a los tres años.
+
+(Último párrafo derogado por art. 3º de la Ley Nº 27.586 B.O. 16/12/2020)
+
+ARTICULO 2562.- Plazo de prescripción de dos años. Prescriben a los dos años:
+
+a) el pedido de declaración de nulidad relativa y de revisión de actos jurídicos;
+
+b) el reclamo de derecho común de daños derivados de accidentes y enfermedades del trabajo;
+
+c) el reclamo de todo lo que se devenga por años o plazos periódicos más cortos, excepto que se trate del reintegro de un capital en cuotas;
+
+d) el reclamo de los daños derivados del contrato de transporte de personas o cosas;
+
+e) el pedido de revocación de la donación por ingratitud o del legado por indignidad;
+
+f) el pedido de declaración de inoponibilidad nacido del fraude.
+
+ARTICULO 2563.- Cómputo del plazo de dos años. En la acción de declaración de nulidad relativa, de revisión y de inoponibilidad de actos jurídicos, el plazo se cuenta:
+
+a) si se trata de vicios de la voluntad, desde que cesó la violencia o desde que el error o el dolo se conocieron o pudieron ser conocidos;
+
+b) en la simulación entre partes, desde que, requerida una de ellas, se negó a dejar sin efecto el acto simulado;
+
+c) en la simulación ejercida por tercero, desde que conoció o pudo conocer el vicio del acto jurídico;
+
+d) en la nulidad por incapacidad, desde que ésta cesó;
+
+e) en la lesión, desde la fecha en que la obligación a cargo del lesionado debía ser cumplida;
+
+f) en la acción de fraude, desde que se conoció o pudo conocer el vicio del acto;
+
+g) en la revisión de actos jurídicos, desde que se conoció o pudo conocer la causa de revisión.
+
+ARTICULO 2564.- Plazo de prescripción de un año. Prescriben al año:
+
+a) el reclamo por vicios redhibitorios;
+
+b) las acciones posesorias;
+
+c) el reclamo contra el constructor por responsabilidad por ruina total o parcial, sea por vicio de construcción, del suelo o de mala calidad de los materiales, siempre que se trate de obras destinadas a larga duración. El plazo se cuenta desde que se produjo la ruina;
+
+d) los reclamos procedentes de cualquier documento endosable o al portador, cuyo plazo comienza a correr desde el día del vencimiento de la obligación;
+
+e) los reclamos a los otros obligados por repetición de lo pagado en concepto de alimentos;
+
+f) la acción autónoma de revisión de la cosa juzgada.
+
+CAPITULO 3
+
+Prescripción adquisitiva
+
+ARTICULO 2565.- Regla general. Los derechos reales principales se pueden adquirir por la prescripción en los términos de los artículos 1897 y siguientes.
+
+CAPITULO 4
+
+Caducidad de los derechos
+
+ARTICULO 2566.- Efectos. La caducidad extingue el derecho no ejercido.
+
+ARTICULO 2567.- Suspensión e interrupción. Los plazos de caducidad no se suspenden ni se interrumpen, excepto disposición legal en contrario.
+
+ARTICULO 2568.- Nulidad de la cláusula de caducidad. Es nula la cláusula que establece un plazo de caducidad que hace excesivamente difícil a una de las partes el cumplimiento del acto requerido para el mantenimiento del derecho o que implica un fraude a las disposiciones legales relativas a la prescripción.
+
+ARTICULO 2569.- Actos que impiden la caducidad. Impide la caducidad:
+
+a) el cumplimiento del acto previsto por la ley o por el acto jurídico;
+
+b) el reconocimiento del derecho realizado por la persona contra la cual se pretende hacer valer la caducidad prevista en un acto jurídico o en una norma relativa a derechos disponibles.
+
+ARTICULO 2570.- Caducidad y prescripción. Los actos que impiden la caducidad no obstan a la aplicación de las disposiciones que rigen la prescripción.
+
+ARTICULO 2571.- Renuncia a la caducidad. Las partes no pueden renunciar ni alterar las disposiciones legales sobre caducidad establecidas en materia sustraída a su disponibilidad. La renuncia a la caducidad de derechos disponibles no obsta a la aplicación de las normas relativas a la prescripción.
+
+ARTICULO 2572.- Facultades judiciales. La caducidad sólo debe ser declarada de oficio por el juez cuando está establecida por la ley y es materia sustraída a la disponibilidad de las partes.
+
+
+
+
+-----------------------------------------
+LIBRO SEXTO - DISPOSICIONES COMUNES A LOS DERECHOS PERSONALES Y REALES - TITULO 2
+TITULO 2: Privilegios
+Articulos:   2573 a 2586
+
+-----------------------------------------
+TITULO II
+
+Privilegios
+
+CAPITULO 1
+
+Disposiciones generales
+
+ARTICULO 2573.- Definición. Asiento. Privilegio es la calidad que corresponde a un crédito de ser pagado con preferencia a otro. Puede ejercitarse mientras la cosa afectada al privilegio permanece en el patrimonio del deudor, excepto disposición legal en contrario y el supuesto de subrogación real en los casos que la ley admite. El privilegio no puede ser ejercido sobre cosas inembargables declaradas tales por la ley.
+
+ARTICULO 2574.- Origen legal. Los privilegios resultan exclusivamente de la ley. El deudor no puede crear a favor de un acreedor un derecho para ser pagado con preferencia a otro, sino del modo como la ley lo establece.
+
+ARTICULO 2575.- Renuncia y postergación. El acreedor puede renunciar a su privilegio. El acreedor y el deudor pueden convenir la postergación de los derechos del acreedor respecto de otras deudas presentes o futuras; en tal caso, los créditos subordinados se rigen por las cláusulas convenidas, siempre que no afecten derechos de terceros.
+
+El privilegio del crédito laboral no es renunciable, ni postergable.
+
+ARTICULO 2576.- Indivisibilidad. Transmisibilidad. Los privilegios son indivisibles en cuanto al asiento y en cuanto al crédito, independientemente de la divisibilidad del asiento o del crédito. La transmisión del crédito incluye la de su privilegio.
+
+ARTICULO 2577.- Extensión. El privilegio no se extiende a los intereses, ni a las costas, ni a otros accesorios del crédito, excepto disposición legal expresa en contrario.
+
+ARTICULO 2578.- Cómputo. Si se concede un privilegio en relación a un determinado lapso, éste se cuenta retroactivamente desde el reclamo judicial, excepto disposición legal en contrario.
+
+ARTICULO 2579.- Procesos universales. Régimen aplicable. En los procesos universales los privilegios se rigen por la ley aplicable a los concursos, exista o no cesación de pagos.
+
+ARTICULO 2580.- Privilegios generales. Los privilegios generales sólo pueden ser invocados en los procesos universales.
+
+ARTICULO 2581.- Créditos quirografarios. Los acreedores sin privilegio concurren a prorrata entre sí, excepto disposición expresa en contrario de este Código.
+
+CAPITULO 2
+
+Privilegios especiales
+
+ARTICULO 2582.- Enumeración. Tienen privilegio especial sobre los bienes que en cada caso se indica:
+
+a) los gastos hechos para la construcción, mejora o conservación de una cosa, sobre ésta. Se incluye el crédito por expensas comunes en la propiedad horizontal;
+
+b) los créditos por remuneraciones debidas al trabajador por seis meses y los provenientes de indemnizaciones por accidentes de trabajo, antigüedad o despido, falta de preaviso y fondo de desempleo, sobre las mercaderías, materias primas y maquinarias que, siendo de propiedad del deudor, se encuentren en el establecimiento donde presta sus servicios o que sirven para su explotación.
+
+Cuando se trata de dependientes ocupados por el propietario en la edificación, reconstrucción o reparación de inmuebles, el privilegio recae sobre éstos;
+
+c) los impuestos, tasas y contribuciones de mejoras que se aplican particularmente a determinados bienes, sobre éstos;
+
+d) lo adeudado al retenedor por razón de la cosa retenida, sobre ésta o sobre las sumas depositadas o seguridades constituidas para liberarla;
+
+e) los créditos garantizados con hipoteca, anticresis, prenda con o sin desplazamiento, warrant y los correspondientes a debentures y obligaciones negociables con garantía especial o flotante;
+
+f) los privilegios establecidos en la Ley de Navegación, el Código Aeronáutico, la Ley de Entidades Financieras, la Ley de Seguros y el Código de Minería.
+
+ARTICULO 2583.- Extensión. Los privilegios especiales se extienden exclusivamente al capital del crédito, excepto en los siguientes casos:
+
+a) los intereses por dos años contados a partir de la mora, de los créditos laborales mencionados en el inciso b) del artículo 2582;
+
+b) los intereses correspondientes a los dos años anteriores a la ejecución y los que corran durante el juicio, correspondientes a los créditos mencionados en el inciso e) del artículo 2582;
+
+c) las costas correspondientes a los créditos enumerados en los incisos b) y e) del artículo 2582;
+
+d) los créditos mencionados en el inciso f) del artículo 2582, cuya extensión se rige por los respectivos ordenamientos.
+
+ARTICULO 2584.- Subrogación real. El privilegio especial se traslada de pleno derecho sobre los importes que sustituyen los bienes sobre los que recae, sea por indemnización, precio o cualquier otro concepto que permite la subrogación real.
+
+ARTICULO 2585.- Reserva de gastos. Antes de pagar el crédito que goza de privilegio especial, del precio del bien sobre el que recae, se debe reservar los importes correspondientes a su conservación, custodia, administración y realización.
+
+En todos los casos, también debe calcularse una cantidad para atender los gastos y los honorarios generados por las diligencias y tramitaciones llevadas a cabo sobre el bien y en interés del acreedor.
+
+ARTICULO 2586.- Conflicto entre los acreedores con privilegio especial. Los privilegios especiales tienen la prelación que resulta de los incisos del artículo 2582, excepto los siguientes supuestos:
+
+a) los créditos mencionados en el inciso f) del artículo 2582 tienen el orden previsto en sus respectivos ordenamientos;
+
+b) el crédito del retenedor prevalece sobre los créditos con privilegio especial si la retención comienza a ser ejercida antes de nacer los créditos privilegiados;
+
+c) el privilegio de los créditos con garantía real prevalece sobre los créditos fiscales y el de los gastos de construcción, mejora o conservación, incluidos los créditos por expensas comunes en la propiedad horizontal, si los créditos se devengaron con posterioridad a la constitución de la garantía;
+
+d) los créditos fiscales y los derivados de la construcción, mejora o conservación, incluidos los créditos por expensas comunes en la propiedad horizontal, prevalecen sobre los créditos laborales posteriores a su nacimiento;
+
+e) los créditos con garantía real prevalecen sobre los créditos laborales devengados con posterioridad a la constitución de la garantía;
+
+f) si concurren créditos comprendidos en un mismo inciso y sobre idénticos bienes, se liquidan a prorrata.
+
+
+
+
+-----------------------------------------
+LIBRO SEXTO - DISPOSICIONES COMUNES A LOS DERECHOS PERSONALES Y REALES - TITULO 3
+TITULO 3: Derecho de retención
+Articulos:   2587 a 2593
+
+-----------------------------------------
+TITULO III
+
+Derecho de retención
+
+ARTICULO 2587.- Legitimación. Todo acreedor de una obligación cierta y exigible puede conservar en su poder la cosa que debe restituir al deudor, hasta el pago de lo que éste le adeude en razón de la cosa.
+
+Tiene esa facultad sólo quien obtiene la detentación de la cosa por medios que no sean ilícitos. Carece de ella quien la recibe en virtud de una relación contractual a título gratuito, excepto que sea en el interés del otro contratante.
+
+ARTICULO 2588.- Cosa retenida. Toda cosa que esté en el comercio puede ser retenida, siempre que deba restituirse y sea embargable según la legislación pertinente.
+
+ARTICULO 2589.- Ejercicio. El ejercicio de la retención no requiere autorización judicial ni manifestación previa del retenedor. El juez puede autorizar que se sustituya el derecho de retención por una garantía suficiente.
+
+ARTICULO 2590.- Atribuciones del retenedor. El retenedor tiene derecho a:
+
+a) ejercer todas las acciones de que dispone para la conservación y percepción de su crédito, y las que protegen su posesión o tenencia con la cosa retenida;
+
+b) percibir un canon por el depósito, desde que intima al deudor a pagar y a recibir la cosa, con resultado negativo;
+
+c) percibir los frutos naturales de la cosa retenida, pero no está obligado a hacerlo.
+
+Si opta por percibirlos, debe dar aviso al deudor. En este caso, puede disponer de ellos, debiendo imputar su producido en primer término a los intereses del crédito y el excedente al capital.
+
+ARTICULO 2591.- Obligaciones del retenedor. El retenedor está obligado a:
+
+a) no usar la cosa retenida, excepto pacto en contrario, en el que se puede determinar los alcances de dicho uso, inclusive en lo relativo a los frutos;
+
+b) conservar la cosa y efectuar las mejoras necesarias a costa del deudor;
+
+c) restituir la cosa al concluir la retención y rendir cuentas al deudor de cuanto hubiera percibido en concepto de frutos.
+
+ARTICULO 2592.- Efectos. La facultad de retención:
+
+a) se ejerce sobre toda la cosa cualquiera sea la proporción del crédito adeudada al retenedor;
+
+b) se transmite con el crédito al cual accede;
+
+c) no impide al deudor el ejercicio de las facultades de administración o disposición de la cosa que le corresponden, pero el retenedor no está obligado a entregarla hasta ser satisfecho su crédito;
+
+d) no impide el embargo y subasta judicial de la cosa retenida, por otros acreedores o por el propio retenedor. En estos casos, el derecho del retenedor se traslada al precio obtenido en la subasta, con el privilegio correspondiente;
+
+e) mientras subsiste, interrumpe el curso de la prescripción extintiva del crédito al que accede;
+
+f) en caso de concurso o quiebra del acreedor de la restitución, la retención queda sujeta a la legislación pertinente.
+
+ARTICULO 2593.- Extinción. La retención concluye por:
+
+a) extinción del crédito garantizado;
+
+b) pérdida total de la cosa retenida;
+
+c) renuncia;
+
+d) entrega o abandono voluntario de la cosa. No renace aunque la cosa vuelva a su poder;
+
+e) confusión de las calidades de retenedor y propietario de la cosa, excepto disposición legal en contrario;
+
+f) falta de cumplimiento de las obligaciones del retenedor o si incurre en abuso de su derecho.

@@ -1,0 +1,204 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO CUARTO - DERECHOS REALES - TITULO 13
+TITULO 13: Acciones posesorias y acciones reales
+Articulos: 2238 a 2276
+
+-----------------------------------------
+TITULO XIII
+
+Acciones posesorias y acciones reales
+
+CAPITULO 1
+
+Defensas de la posesión y la tenencia
+
+ARTICULO 2238.- Finalidad de las acciones posesorias y lesiones que las habilitan. Las acciones posesorias según haya turbación o desapoderamiento, tienen por finalidad mantener o recuperar el objeto sobre el que se tiene una relación de poder. Se otorgan ante actos materiales, producidos o de inminente producción, ejecutados con intención de tomar la posesión, contra la voluntad del poseedor o tenedor.
+
+Hay turbación cuando de los actos no resulta una exclusión absoluta del poseedor o del tenedor. Hay desapoderamiento cuando los actos tienen el efecto de excluir absolutamente al poseedor o al tenedor.
+
+La acción es posesoria si los hechos causan por su naturaleza el desapoderamiento o la turbación de la posesión, aunque el demandado pretenda que no impugna la posesión del actor.
+
+Los actos ejecutados sin intención de hacerse poseedor no deben ser juzgados como acción posesoria sino como acción de daños.
+
+ARTICULO 2239.- Acción para adquirir la posesión o la tenencia. Un título válido no da la posesión o tenencia misma, sino un derecho a requerir el poder sobre la cosa. El que no tiene sino un derecho a la posesión o a la tenencia no puede tomarla; debe demandarla por las vías legales.
+
+ARTICULO 2240.- Defensa extrajudicial. Nadie puede mantener o recuperar la posesión o la tenencia de propia autoridad, excepto cuando debe protegerse y repeler una agresión con el empleo de una fuerza suficiente, en los casos en que los auxilios de la autoridad judicial o policial llegarían demasiado tarde. El afectado debe recobrarla sin intervalo de tiempo y sin exceder los límites de la propia defensa. Esta protección contra toda violencia puede también ser ejercida por los servidores de la posesión.
+
+ARTICULO 2241.- Acción de despojo. Corresponde la acción de despojo para recuperar la tenencia o la posesión a todo tenedor o poseedor sobre una cosa o una universalidad de hecho, aunque sea vicioso, contra el despojante, sus herederos y sucesores particulares de mala fe, cuando de los actos resulte el desapoderamiento. La acción puede ejercerse aun contra el dueño del bien si toma la cosa de propia autoridad.
+
+Esta acción comprende el desapoderamiento producido por la realización de una obra que se comienza a hacer en el objeto sobre el cual el actor ejerce la posesión o la tenencia.
+
+La sentencia que hace lugar a la demanda debe ordenar la restitución de la cosa o de la universalidad, o la remoción de la obra que se comienza a hacer; tiene efecto de cosa juzgada material en todo cuanto se refiere a la posesión o a la tenencia.
+
+ARTICULO 2242.- Acción de mantener la tenencia o la posesión. Corresponde la acción de mantener la tenencia o la posesión a todo tenedor o poseedor sobre una cosa o una universalidad de hecho, aunque sea vicioso, contra quien lo turba en todo o en parte del objeto.
+
+Esta acción comprende la turbación producida por la amenaza fundada de sufrir un desapoderamiento y los actos que anuncian la inminente realización de una obra.
+
+La sentencia que hace lugar a la demanda debe ordenar el cese de la turbación y adoptar las medidas pertinentes para impedir que vuelva a producirse; tiene efecto de cosa juzgada material en todo cuanto se refiere a la posesión o a la tenencia.
+
+ARTICULO 2243.- Prueba. Si es dudoso quién ejerce la relación de poder al tiempo de la lesión, se considera que la tiene quien acredita estar en contacto con la cosa en la fecha, más próxima a la lesión. Si esta prueba no se produce, se juzga que es poseedor o tenedor el que prueba una relación de poder más antigua.
+
+ARTICULO 2244.- Conversión. Si durante el curso del proceso se produce una lesión mayor que la que determina la promoción de la acción, el afectado puede solicitar su conversión en la que corresponde a la lesión mayor, sin que se retrotraiga el procedimiento, excepto violación del derecho de defensa en juicio.
+
+ARTICULO 2245.- Legitimación. Corresponden las acciones posesorias a los poseedores de cosas, universalidades de hecho o partes materiales de una cosa.
+
+Cualquiera de los coposeedores puede ejercer las acciones posesorias contra terceros sin el concurso de los otros, y también contra éstos, si lo excluyen o turban en el ejercicio de la posesión común. No proceden estas acciones cuando la cuestión entre coposeedores sólo se refiere a la extensión mayor o menor de cada parte.
+
+Los tenedores pueden ejercer las acciones posesorias por hechos producidos contra el poseedor y pedir que éste sea reintegrado en la posesión, y si no quiere recibir la cosa, quedan facultados para tomarla directamente.
+
+ARTICULO 2246.- Proceso. Las acciones posesorias tramitan por el proceso de conocimiento más abreviado que establecen las leyes procesales o el que determina el juez, atendiendo a las circunstancias del caso.
+
+CAPITULO 2
+
+Defensas del derecho real
+
+SECCION 1ª
+
+Disposiciones generales
+
+ARTICULO 2247.- Acciones reales. Las acciones reales son los medios de defender en juicio la existencia, plenitud y libertad de los derechos reales contra ataques que impiden su ejercicio.
+
+Las acciones reales legisladas en este Capítulo son la reivindicatoria, la confesoria, la negatoria y la de deslinde.
+
+Las acciones reales son imprescriptibles, sin perjuicio de lo dispuesto en materia de prescripción adquisitiva.
+
+ARTICULO 2248.- Finalidad de las acciones reales y lesión que las habilita. La acción reivindicatoria tiene por finalidad defender la existencia del derecho real que se ejerce por la posesión y corresponde ante actos que producen el desapoderamiento.
+
+La acción negatoria tiene por finalidad defender la libertad del derecho real que se ejerce por la posesión y corresponde ante actos que constituyen una turbación, especialmente dada por la atribución indebida de una servidumbre u otro derecho inherente a la posesión.
+
+La acción confesoria tiene por finalidad defender la plenitud del derecho real y corresponde ante actos que impiden ejercer una servidumbre u otro derecho inherente a la posesión.
+
+Las acciones reales competen también a los titulares del derecho de hipoteca sobre los inmuebles cuyos titulares han sido desposeídos o turbados o impedidos de ejercer los derechos inherentes a la posesión.
+
+ARTICULO 2249.- Demanda y sentencia. Para el progreso de las acciones reales la titularidad del derecho debe existir al tiempo de la demanda y subsistir al tiempo de la sentencia.
+
+ARTICULO 2250.- Daño. El actor puede optar por demandar el restablecimiento del derecho real u obtener la indemnización sustitutiva del daño.
+
+Si opta por el restablecimiento de su derecho, puede reclamar el resarcimiento complementario del daño.
+
+Si opta por obtener la indemnización sustitutiva del daño, pierde el derecho a ejercer la acción real.
+
+ARTICULO 2251.- Cotitulares. Cosa juzgada. Las acciones reales competen a cada uno de los cotitulares contra terceros o contra los restantes cotitulares.
+
+Cuando la acción se dirige contra los cotitulares siempre lo es en la medida de la parte indivisa. Cuando se dirige contra terceros puede tener por objeto la totalidad o una parte material de la cosa, o puede reducirse a la medida de su parte indivisa. Restablecido el derecho sobre la totalidad o parte material del objeto, el ejercicio por cada condómino se circunscribe a su parte indivisa.
+
+La cosa juzgada extiende sus efectos respecto de todos los que pudieron ejercer su derecho de defensa en juicio. El contenido de la sentencia relativo a la indemnización del daño aprovecha o perjudica sólo a los que han intervenido en el juicio.
+
+SECCION 2ª
+
+Acción reivindicatoria
+
+ARTICULO 2252.- Reivindicación de cosas y de universalidades de hecho. La cosa puede ser reivindicada en su totalidad o en parte material. También puede serlo la universalidad de hecho.
+
+ARTICULO 2253.- Objetos no reivindicables. No son reivindicables los objetos inmateriales, las cosas indeterminables o fungibles, los accesorios si no se reivindica la cosa principal, ni las cosas futuras al tiempo de hacerse efectiva la restitución.
+
+ARTICULO 2254.- Objetos no reivindicables en materia de automotores. No son reivindicables los automotores inscriptos de buena fe, a menos que sean hurtados o robados.
+
+Tampoco son reivindicables los automotores hurtados o robados inscriptos y poseídos de buena fe durante dos años, siempre que exista identidad entre el asiento registral y los códigos de identificación estampados en chasis y motor del vehículo.
+
+ARTICULO 2255.- Legitimación pasiva. La acción reivindicatoria debe dirigirse contra el poseedor o tenedor del objeto, aunque lo tenga a nombre del reivindicante.
+
+El tenedor de la cosa a nombre de un tercero puede liberarse de los efectos de la acción si individualiza al poseedor. Si no lo individualiza, queda alcanzado por los efectos de la acción, pero la sentencia no hace cosa juzgada contra el poseedor.
+
+Cuando se trata de un automotor hurtado o robado, la acción puede dirigirse contra quien lo tiene inscripto a su nombre, quien debe ser resarcido en los términos del régimen especial.
+
+ARTICULO 2256.- Prueba en la reivindicación de inmuebles. Respecto de la prueba en la reivindicación de cosas inmuebles, se observan las reglas siguientes:
+
+a) si los derechos del actor y el demandado emanan de un antecesor común, se presume propietario quien primero es puesto en posesión de la cosa, ignorando la obligación anterior, independientemente de la fecha del título;
+
+b) si los derechos del actor y el demandado emanan de diferentes antecesores, el título del reivindicante posterior a la posesión del demandado, es insuficiente para que prospere la demanda, aunque el demandado no presente título alguno;
+
+c) si los derechos del actor y el demandado emanan de diferentes antecesores y el título del reivindicante es anterior a la posesión del demandado, se presume que este transmitente era poseedor y propietario de la heredad que se reivindica;
+
+d) si los derechos del actor y el demandado emanan de diferentes antecesores, sin que se pueda establecer cuál de ellos es el verdadero propietario, se presume que lo es el que tiene la posesión.
+
+ARTICULO 2257.- Prueba en la reivindicación de muebles registrables. Respecto de la prueba en la reivindicación de cosas muebles registrables, robadas o hurtadas, cuando la registración del demandado es de mala fe, se deben observar las reglas siguientes:
+
+a) se presume la mala fe cuando no se verifica la coincidencia de los elementos identificatorios de la cosa de acuerdo al régimen especial y tampoco se constata la documentación y estado registral;
+
+b) el reivindicante debe probar su derecho con el certificado que acredita su inscripción en el registro respectivo. El demandado debe justificar de igual manera el derecho que opone;
+
+c) si el derecho invocado por el actor no está inscripto, debe justificar su existencia y la rectificación, en su caso, de los asientos existentes. Si el derecho del demandado carece de inscripción, incumbe a éste acreditar el que invoca contra el actor;
+
+d) si el actor y el demandado presentan antecedentes que justifican la inscripción registral, emanados de un autor común, es preferida aquella que acredita la coincidencia de los elementos identificatorios registrales exigidos por el régimen especial;
+
+e) si el actor y el demandado presentan antecedentes que justifican la inscripción registral derivados de personas distintas, sin que se pueda decidir a quién corresponde el derecho controvertido, se presume que pertenece al que lo tiene inscripto.
+
+ARTICULO 2258.- Prueba en la reivindicación de muebles no registrables. En la reivindicación de cosas muebles no registrables:
+
+a) si las partes derivan sus derechos de un antecesor común, prevalece el derecho de la que primero adquiere el derecho real;
+
+b) si las partes derivan sus derechos de distintos antecesores, prevalece el derecho que se derive del antecesor más antiguo. Sin embargo, siempre prevalece el derecho que se remonta a una adquisición originaria, aunque sea más reciente;
+
+c) si la cosa mueble es transmitida sin derecho y a título gratuito, procede la reivindicación si el objeto se encuentra en poder del subadquirente, aunque éste sea de buena fe.
+
+ARTICULO 2259.- Derecho a reembolso. Si se reivindica un objeto mueble no registrable robado o perdido de un poseedor de buena fe, éste no puede reclamarle al reivindicante el precio que pagó, excepto que el objeto se haya vendido con otros iguales en una venta pública, o en casa de venta de objetos semejantes, o por quien acostumbraba a venderlos.
+
+Si se trata de una cosa mueble registrable robada o perdida, y la inscripción registral se obtiene de buena fe, el reivindicante debe reintegrar al reivindicado el importe abonado.
+
+En caso de reembolso, el reivindicante tiene derecho a repetir el pago contra el enajenante de mala fe.
+
+ARTICULO 2260.- Alcance. La acción reivindicatoria de una cosa mueble no registrable no puede ejercerse contra el subadquirente de un derecho real de buena fe y a título oneroso excepto disposición legal en contrario; sin embargo, el reivindicante puede reclamarle todo o parte del precio insoluto.
+
+El subadquirente de un inmueble o de una cosa mueble registrable no puede ampararse en su buena fe y en el título oneroso, si el acto se realiza sin intervención del titular del derecho.
+
+ARTICULO 2261.- Sentencia. Si se admite la demanda, el juez debe ordenar la restitución del objeto, parte material de él o sus restos. En cuanto a las reglas de cumplimiento de la sentencia, se aplican las normas del Capítulo 3 del Título II de este Libro.
+
+Si se trata de una cosa mueble registrable y media inscripción a favor del vencido, debe ordenarse la rectificación del asiento registral.
+
+SECCION 3ª
+
+Acción negatoria
+
+ARTICULO 2262.- Legitimación pasiva. La acción negatoria compete contra cualquiera que impida el derecho de poseer de otro, aunque sea el dueño del inmueble, arrogándose sobre él alguna servidumbre indebida. Puede también tener por objeto reducir a sus límites verdaderos el ejercicio de un derecho real.
+
+ARTICULO 2263.- Prueba. Al demandante le basta probar su derecho de poseer o su derecho de hipoteca, sin necesidad de probar que el inmueble no está sujeto a la servidumbre que se le quiere imponer o que no está constreñido por el pretendido deber inherente a la posesión.
+
+SECCION 4ª
+
+Acción confesoria
+
+ARTICULO 2264.- Legitimación pasiva. La acción confesoria compete contra cualquiera que impide los derechos inherentes a la posesión de otro, especialmente sus servidumbres activas.
+
+ARTICULO 2265.- Prueba. Al actor le basta probar su derecho de poseer el inmueble dominante y su servidumbre activa si se impide una servidumbre; y su derecho de poseer el inmueble si se impide el ejercicio de otros derechos inherentes a la posesión; si es acreedor hipotecario y demanda frente a la inacción del titular, tiene la carga de probar su derecho de hipoteca.
+
+SECCION 5ª
+
+Acción de deslinde
+
+ARTICULO 2266.- Finalidad de la acción de deslinde. Cuando existe estado de incertidumbre acerca del lugar exacto por donde debe pasar la línea divisoria entre inmuebles contiguos, la acción de deslinde permite fijarla de manera cierta, previa investigación fundada en títulos y antecedentes, y demarcar el límite en el terreno.
+
+No procede acción de deslinde sino reivindicatoria cuando no existe incertidumbre sino cuestionamiento de los límites.
+
+ARTICULO 2267.- Legitimación activa y pasiva. El titular de un derecho real sobre un inmueble no separado de otro por edificios, muros, cercas u obras permanentes, puede exigir de los colindantes, que concurran con él a fijar mojones desaparecidos o removidos o demarcar de otro modo el límite divisorio. Puede citarse a los demás poseedores que lo sean a título de derechos reales, para que intervengan en el juicio.
+
+La acción puede dirigirse contra el Estado cuando se trata de bienes privados. El deslinde de los bienes de dominio público corresponde a la jurisdicción administrativa.
+
+ARTICULO 2268.- Prueba y sentencia. Cada una de las partes debe aportar títulos y antecedentes a efectos de probar la extensión de los respectivos derechos, en tanto el juez debe ponderar los diversos elementos para dictar sentencia en la que establece una línea separativa. Si no es posible determinarla por los vestigios de límites antiguos, por los títulos ni por la posesión, el juez debe distribuir la zona confusa entre los colindantes según, fundadamente, lo considere adecuado.
+
+CAPITULO 3
+
+Relaciones entre las acciones posesorias y las acciones reales
+
+ARTICULO 2269.- Prohibición de acumular. No pueden acumularse las acciones reales con las acciones posesorias.
+
+ARTICULO 2270.- Independencia de las acciones. En las acciones posesorias es inútil la prueba del derecho real, mas el juez puede examinar los títulos presentados para apreciar la naturaleza, extensión y eficacia de la posesión.
+
+ARTICULO 2271.- Suspensión de la acción real. Iniciado el juicio posesorio, no puede admitirse o continuarse la acción real antes de que la instancia posesoria haya terminado.
+
+ARTICULO 2272.- Cumplimiento previo de condenas. Quien sea vencido en el juicio posesorio, no puede comenzar la acción real sin haber satisfecho plenamente las condenaciones pronunciadas en su contra.
+
+ARTICULO 2273.- Acciones por un mismo hecho. El titular de un derecho real puede interponer la acción real que le compete o servirse de la acción posesoria; si intenta la primera, pierde el derecho a promover la segunda; pero si interpone la acción posesoria puede iniciar después la real.
+
+ARTICULO 2274.- Acciones por distintos hechos. El demandante en la acción real no puede iniciar acciones posesorias por lesiones anteriores a la promoción de la demanda, pero sí puede hacerlo el demandado.
+
+ARTICULO 2275.- Turbaciones o desapoderamientos recíprocos. Si los hechos constituyen turbaciones o desapoderamientos recíprocos, quien es condenado en la acción posesoria y cumple con la sentencia de restitución, puede a su vez entablar o continuar la acción posesoria o real respecto del hecho anterior.
+
+ARTICULO 2276.- Hechos posteriores. La promoción de la acción real no obsta a que las partes deduzcan acciones de defensa de la posesión y la tenencia por hechos posteriores.

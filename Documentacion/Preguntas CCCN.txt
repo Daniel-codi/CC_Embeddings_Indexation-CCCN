@@ -24,4 +24,13 @@
 (11) qué se define como persona humana y qué se define como persona jurídica?
 
 (12) si una persona es menor de edad, y se ha casado, puede celebrar contratos? explica
- 
+ *********************
+
+
+Preguntas donde CHATGPT FALLA
+
+(1) Codigo Civil y Comercial Nacional Argentino. dime acerca del regimen patrimonial del matrimonio
+
+(2) Codigo Civil y Comercial Nacional Argentino. titulo preliminar. Derecho. dime las citas textuales de todos los artículos ***inventa como el que no estudió
+
+(10) los expedientes de familia, son de acceso público?

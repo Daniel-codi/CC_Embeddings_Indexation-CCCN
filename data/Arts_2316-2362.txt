@@ -1,0 +1,264 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO QUINTO - TRANSMISIÓN DE DERECHOS POR CAUSA DE MUERTE - TITULO 5
+TITULO 5: Responsabilidad de los herederos y legatarios. Liquidación del pasivo
+Articulos:  2316 a 2322
+
+-----------------------------------------
+TITULO V
+
+Responsabilidad de los herederos y legatarios. Liquidación del pasivo
+
+ARTICULO 2316.- Preferencia. Los acreedores por deudas del causante y por cargas de la sucesión, y los legatarios tienen derecho al cobro de sus créditos y legados sobre los bienes de la herencia, con preferencia sobre los acreedores de los herederos.
+
+ARTICULO 2317.- Responsabilidad del heredero. El heredero queda obligado por las deudas y legados de la sucesión sólo hasta la concurrencia del valor de los bienes hereditarios recibidos. En caso de pluralidad de herederos, éstos responden con la masa hereditaria indivisa.
+
+ARTICULO 2318.- Legado de universalidad. Si el legado es de una universalidad de bienes y deudas, el legatario sólo queda obligado al pago de las deudas comprendidas en aquélla hasta el valor de los bienes recibidos, sin perjuicio de la acción subsidiaria de los acreedores contra los herederos y los otros legatarios en caso de insuficiencia de los bienes de la universalidad.
+
+ARTICULO 2319.- Acción contra los legatarios. Los acreedores del causante tienen acción contra los legatarios hasta el valor de lo que reciben; esta acción caduca al año contado desde el día en que cobran sus legados.
+
+ARTICULO 2320.- Reembolso. El heredero o legatario que paga una porción de las deudas o de los legados superior a su parte tiene acción contra sus coherederos o colegatarios por el reembolso del excedente, y hasta el límite de la parte que cada uno de ellos debía soportar personalmente, incluso en caso de subrogación en los derechos del que recibe el pago.
+
+ARTICULO 2321.- Responsabilidad con los propios bienes. Responde con sus propios bienes por el pago de las deudas del causante y cargas de la herencia, el heredero que:
+
+a) no hace el inventario en el plazo de tres meses desde que los acreedores o legatarios lo intiman judicialmente a su realización;
+
+b) oculta fraudulentamente los bienes de la sucesión omitiendo su inclusión en el inventario;
+
+c) exagera dolosamente el pasivo sucesorio;
+
+d) enajena bienes de la sucesión, excepto que el acto sea conveniente y el precio obtenido ingrese a la masa.
+
+ARTICULO 2322.- Prioridad de los acreedores del heredero sobre los bienes del heredero. En los casos previstos en el artículo 2321, sobre los bienes del heredero, los acreedores del heredero cobran según el siguiente rango:
+
+a) por los créditos originados antes de la apertura de la sucesión, con preferencia respecto de los acreedores del causante y de los legatarios;
+
+b) por créditos originados después de la apertura de la sucesión concurren a prorrata con los acreedores del causante.
+
+-----------------------------------------
+LIBRO QUINTO - TRANSMISIÓN DE DERECHOS POR CAUSA DE MUERTE - TITULO 6
+TITULO 6: Estado de indivisión
+Articulos:  2323 a 2334
+
+-----------------------------------------
+TITULO VI
+
+Estado de indivisión
+
+CAPITULO 1
+
+Administración extrajudicial
+
+ARTICULO 2323.- Aplicabilidad. Las disposiciones de este Título se aplican en toda sucesión en la que hay más de un heredero, desde la muerte del causante hasta la partición, si no hay administrador designado.
+
+ARTICULO 2324.- Actos conservatorios y medidas urgentes. Cualquiera de los herederos puede tomar las medidas necesarias para la conservación de los bienes indivisos, empleando a tal fin los fondos indivisos que se encuentran en su poder. A falta de ellos, puede obligar a los coherederos a contribuir al pago de los gastos necesarios.
+
+ARTICULO 2325.- Actos de administración y de disposición. Los actos de administración y de disposición requieren el consentimiento de todos los coherederos, quienes pueden dar a uno o varios de ellos o a terceros un mandato general de administración.
+
+Son necesarias facultades expresas para todo acto que excede la explotación normal de los bienes indivisos y para la contratación y renovación de locaciones.
+
+Si uno de los coherederos toma a su cargo la administración con conocimiento de los otros y sin oposición de ellos, se considera que hay un mandato tácito para los actos de administración que no requieren facultades expresas en los términos del párrafo anterior.
+
+ARTICULO 2326.- Ausencia o impedimento. Los actos otorgados por un coheredero en representación de otro que está ausente, o impedido transitoriamente, se rigen por las normas de la gestión de negocios.
+
+ARTICULO 2327.- Medidas urgentes. Aun antes de la apertura del proceso judicial sucesorio, a pedido de un coheredero, el juez puede ordenar todas las medidas urgentes que requiere el interés común, entre ellas, autorizar el ejercicio de derechos derivados de títulos valores, acciones o cuotas societarias, la percepción de fondos indivisos, o el otorgamiento de actos para los cuales es necesario el consentimiento de los demás sucesores, si la negativa de éstos pone en peligro el interés común.
+
+Asimismo, puede designar un administrador provisorio, prohibir el desplazamiento de cosas muebles, y atribuir a uno u otro de los coherederos el uso personal de éstas.
+
+ARTICULO 2328.- Uso y goce de los bienes. El heredero puede usar y disfrutar de la cosa indivisa conforme a su destino, en la medida compatible con el derecho de los otros copartícipes. Si no hay acuerdo entre los interesados, el ejercicio de este derecho debe ser regulado, de manera provisional, por el juez.
+
+El copartícipe que usa privativamente de la cosa indivisa está obligado, excepto pacto en contrario, a satisfacer una indemnización, desde que le es requerida.
+
+ARTICULO 2329.- Frutos. Los frutos de los bienes indivisos acrecen a la indivisión, excepto que medie partición provisional.
+
+Cada uno de los herederos tiene derecho a los beneficios y soporta las pérdidas proporcionalmente a su parte en la indivisión.
+
+CAPITULO 2
+
+Indivisión forzosa
+
+ARTICULO 2330.- Indivisión impuesta por el testador. El testador puede imponer a sus herederos, aun legitimarios, la indivisión de la herencia por un plazo no mayor de diez años.
+
+Puede también disponer que se mantenga indiviso por ese plazo o, en caso de haber herederos menores de edad, hasta que todos ellos lleguen a la mayoría de edad:
+
+a) un bien determinado;
+
+b) un establecimiento comercial, industrial, agrícola, ganadero, minero, o cualquier otro que constituye una unidad económica;
+
+c) las partes sociales, cuotas o acciones de la sociedad de la cual es principal socio o accionista.
+
+En todos los casos, cualquier plazo superior al máximo permitido se entiende reducido a éste.
+
+El juez puede autorizar la división total o parcial antes de vencer el plazo, a pedido de un coheredero, cuando concurren circunstancias graves o razones de manifiesta utilidad.
+
+ARTICULO 2331.- Pacto de indivisión. Los herederos pueden convenir que la indivisión entre ellos perdure total o parcialmente por un plazo que no exceda de diez años, sin perjuicio de la partición provisional de uso y goce de los bienes entre los copartícipes.
+
+Si hay herederos incapaces o con capacidad restringida, el convenio concluido por sus representantes legales o con la participación de las personas que los asisten requiere aprobación judicial.
+
+Estos convenios pueden ser renovados por igual plazo al término del anteriormente establecido.
+
+Cualquiera de los coherederos puede pedir la división antes del vencimiento del plazo, siempre que medien causas justificadas.
+
+ARTICULO 2332.- Oposición del cónyuge. Si en el acervo hereditario existe un establecimiento comercial, industrial, agrícola, ganadero, minero o de otra índole que constituye una unidad económica, o partes sociales, cuotas o acciones de una sociedad, el cónyuge supérstite que ha adquirido o constituido en todo o en parte el establecimiento o que es el principal socio o accionista de la sociedad, puede oponerse a que se incluyan en la partición, excepto que puedan serle adjudicados en su lote.
+
+Tiene el mismo derecho el cónyuge que no adquirió ni constituyó el establecimiento pero que participa activamente en su explotación.
+
+En estos casos, la indivisión se mantiene hasta diez años a partir de la muerte del causante, pero puede ser prorrogada judicialmente a pedido del cónyuge sobreviviente hasta su fallecimiento.
+
+Durante la indivisión, la administración del establecimiento, de las partes sociales, cuotas o acciones corresponde al cónyuge sobreviviente.
+
+A instancia de cualquiera de los herederos, el juez puede autorizar el cese de la indivisión antes del plazo fijado, si concurren causas graves o de manifiesta utilidad económica que justifican la decisión.
+
+El cónyuge supérstite también puede oponerse a que la vivienda que ha sido residencia habitual de los cónyuges al tiempo de fallecer el causante y que ha sido adquirida o construida total o parcialmente con fondos gananciales, con sus muebles, sea incluida en la partición, mientras él sobreviva, excepto que pueda serle adjudicada en su lote. Los herederos sólo pueden pedir el cese de la indivisión si el cónyuge supérstite tiene bienes que le permiten procurarse otra vivienda suficiente para sus necesidades.
+
+ARTICULO 2333.- Oposición de un heredero. En las mismas circunstancias que las establecidas en el artículo 2332, un heredero puede oponerse a la inclusión en la partición del establecimiento que constituye una unidad económica si, antes de la muerte del causante, ha participado activamente en la explotación de la empresa.
+
+ARTICULO 2334.- Oponibilidad frente a terceros. Derechos de los acreedores. Para ser oponible a terceros, la indivisión autorizada por los artículos 2330 a 2333 que incluye bienes registrables debe ser inscripta en los registros respectivos.
+
+Durante la indivisión, los acreedores de los coherederos no pueden ejecutar el bien indiviso ni una porción ideal de éste, pero pueden cobrar sus créditos con las utilidades de la explotación correspondientes a su deudor.
+
+Las indivisiones no impiden el derecho de los acreedores del causante al cobro de sus créditos sobre los bienes indivisos.
+
+-----------------------------------------
+LIBRO QUINTO - TRANSMISIÓN DE DERECHOS POR CAUSA DE MUERTE - TITULO 7
+TITULO 7: Proceso sucesorio
+Articulos:   2335 a 2362
+
+-----------------------------------------
+TITULO VII
+
+Proceso sucesorio
+
+CAPITULO 1
+
+Disposiciones generales
+
+ARTICULO 2335.- Objeto. El proceso sucesorio tiene por objeto identificar a los sucesores, determinar el contenido de la herencia, cobrar los créditos, pagar las deudas, legados y cargas, rendir cuentas y entregar los bienes.
+
+ARTICULO 2336.- Competencia. La competencia para entender en el juicio sucesorio corresponde al juez del último domicilio del causante, sin perjuicio de lo dispuesto en la Sección 9a, Capítulo 3, Título IV del Libro Sexto.
+
+El mismo juez conoce de las acciones de petición de herencia, nulidad de testamento, de los demás litigios que tienen lugar con motivo de la administración y liquidación de la herencia, de la ejecución de las disposiciones testamentarias, del mantenimiento de la indivisión, de las operaciones de partición, de la garantía de los lotes entre los copartícipes y de la reforma y nulidad de la partición.
+
+Si el causante deja sólo un heredero, las acciones personales de los acreedores del causante pueden dirigirse, a su opción, ante el juez del último domicilio del causante o ante el que corresponde al domicilio del heredero único.
+
+CAPITULO 2
+
+Investidura de la calidad de heredero
+
+ARTICULO 2337.- Investidura de pleno derecho. Si la sucesión tiene lugar entre ascendientes, descendientes y cónyuge, el heredero queda investido de su calidad de tal desde el día de la muerte del causante, sin ninguna formalidad o intervención de los jueces, aunque ignore la apertura de la sucesión y su llamamiento a la herencia. Puede ejercer todas las acciones transmisibles que correspondían al causante. No obstante, a los fines de la transferencia de los bienes registrables, su investidura debe ser reconocida mediante la declaratoria judicial de herederos.
+
+ARTICULO 2338.- Facultades judiciales. En la sucesión de los colaterales, corresponde al juez del juicio sucesorio investir a los herederos de su carácter de tales, previa justificación del fallecimiento del causante y del título hereditario invocado.
+
+En las sucesiones testamentarias, la investidura resulta de la declaración de validez formal del testamento, excepto para los herederos enumerados en el primer párrafo del artículo 2337.
+
+ARTICULO 2339.- Sucesión testamentaria. Si el causante ha dejado testamento por acto público, debe presentárselo o indicarse el lugar donde se encuentre.
+
+Si el testamento es ológrafo, debe ser presentado judicialmente para que se proceda, previa apertura si estuviese cerrado, a dejar constancia del estado del documento, y a la comprobación de la autenticidad de la escritura y la firma del testador, mediante pericia caligráfica. Cumplidos estos trámites, el juez debe rubricar el principio y fin de cada una de sus páginas y mandar a protocolizarlo. Asimismo, si algún interesado lo pide, se le debe dar copia certificada del testamento. La protocolización no impide que sean impugnadas la autenticidad ni la validez del testamento mediante proceso contencioso.
+
+ARTICULO 2340.- Sucesión intestada. Si no hay testamento, o éste no dispone de la totalidad de los bienes, el interesado debe expresar si el derecho que pretende es exclusivo, o si concurren otros herederos.
+
+Justificado el fallecimiento, se notifica a los herederos denunciados en el expediente, y se dispone la citación de herederos, acreedores y de todos los que se consideren con derecho a los bienes dejados por el causante, por edicto publicado por un día en el diario de publicaciones oficiales, para que lo acrediten dentro de los treinta días.
+
+CAPITULO 3
+
+Inventario y avalúo
+
+ARTICULO 2341.- Inventario. El inventario debe hacerse con citación de los herederos, acreedores y legatarios cuyo domicilio sea conocido.
+
+El inventario debe ser realizado en un plazo de tres meses desde que los acreedores o legatarios hayan intimado judicialmente a los herederos a su realización.
+
+ARTICULO 2342.- Denuncia de bienes. Por la voluntad unánime de los copropietarios de la masa indivisa, el inventario puede ser sustituido por la denuncia de bienes, excepto que el inventario haya sido pedido por acreedores o lo imponga otra disposición de la ley.
+
+ARTICULO 2343.- Avalúo. La valuación debe hacerse por quien designen los copropietarios de la masa indivisa, si están de acuerdo y son todos plenamente capaces o, en caso contrario, por quien designa el juez, de acuerdo a la ley local. El valor de los bienes se debe fijar a la época más próxima posible al acto de partición.
+
+ARTICULO 2344.- Impugnaciones. Los copropietarios de la masa indivisa, los acreedores y legatarios pueden impugnar total o parcialmente el inventario y el avalúo o la denuncia de bienes.
+
+Si se demuestra que no es conforme al valor de los bienes, se ordena la retasa total o parcial de éstos.
+
+CAPITULO 4
+
+Administración judicial de la sucesión
+
+SECCION 1ª
+
+Designación, derechos y deberes del administrador
+
+ARTICULO 2345.- Capacidad. Las personas humanas plenamente capaces, y las personas jurídicas autorizadas por la ley o los estatutos para administrar bienes ajenos, pueden ejercer el cargo de administrador.
+
+ARTICULO 2346.- Designación de administrador. Los copropietarios de la masa indivisa pueden designar administrador de la herencia y proveer el modo de reemplazarlo. A falta de mayoría, cualquiera de las partes puede solicitar judicialmente su designación, la que debe recaer preferentemente, de no haber motivos que justifiquen otra decisión, sobre el cónyuge sobreviviente y, a falta, renuncia o carencia de idoneidad de éste, en alguno de los herederos, excepto que haya razones especiales que lo hagan inconveniente, caso en el cual puede designar a un extraño.
+
+ARTICULO 2347.- Designación por el testador. El testador puede designar uno o varios administradores y establecer el modo de su reemplazo.
+
+Se considera nombrado administrador a quien el testador haya señalado expresamente como tal, o lo haya designado como liquidador de la sucesión, albacea, ejecutor testamentario o de otra manera similar.
+
+ARTICULO 2348.- Pluralidad de administradores. En caso de pluralidad de administradores, el cargo es ejercido por cada uno de los nombrados en el orden en que están designados, excepto que en la designación se haya dispuesto que deben actuar conjuntamente.
+
+En caso de designación conjunta, si media impedimento de alguno de ellos, los otros pueden actuar solos para los actos conservatorios y urgentes.
+
+ARTICULO 2349.- Remuneración y gastos. El administrador tiene derecho a que se le reembolsen los gastos necesarios y útiles realizados en el cumplimiento de su función.
+
+También tiene derecho a remuneración. Si no ha sido fijada por el testador, ni hay acuerdo entre el administrador y los copropietarios de la masa indivisa, debe ser determinada por el juez.
+
+ARTICULO 2350.- Garantías. El administrador no está obligado a garantizar el cumplimiento de sus obligaciones, excepto que el testador o la mayoría de los copropietarios de la masa indivisa lo exija, o que lo ordene el juez a pedido de interesado que demuestre la necesidad de la medida.
+
+Si requerida la garantía, el administrador omite constituirla o se rehúsa a hacerlo en el plazo fijado por el juez, debe ser removido del cargo.
+
+ARTICULO 2351.- Remoción. Todo interesado puede solicitar al juez la remoción del administrador si existe imposibilidad de ejercer el cargo o mal desempeño de éste.
+
+Mientras tramite el pedido, que se sustancia por la vía más breve que permite la legislación procesal, continúa en el ejercicio de sus funciones si el juez no resuelve designar un administrador provisional.
+
+ARTICULO 2352.- Medidas urgentes. Si el administrador no ha sido aún designado, rehúsa el cargo, demora en aceptarlo o debe ser reemplazado, cualquier interesado puede solicitar medidas urgentes tendientes a asegurar sus derechos, como la facción de inventario, el depósito de bienes, y toda otra medida que el juez considere conveniente para la seguridad de éstos o la designación de administrador provisional. Los gastos que ocasionan estas medidas están a cargo de la masa indivisa.
+
+SECCION 2ª
+
+Funciones del administrador
+
+ARTICULO 2353.- Administración de los bienes. El administrador debe realizar los actos conservatorios de los bienes y continuar el giro normal de los negocios del causante.
+
+Puede, por sí solo, enajenar las cosas muebles susceptibles de perecer, depreciarse rápidamente o cuya conservación es manifiestamente onerosa. Para la enajenación de otros bienes, necesita acuerdo unánime de los herederos o, en su defecto, autorización judicial.
+
+Además de gestionar los bienes de la herencia, debe promover su realización en la medida necesaria para el pago de las deudas y legados.
+
+ARTICULO 2354.- Cobro de créditos y acciones judiciales. Previa autorización judicial o de los copartícipes si son plenamente capaces y están presentes, el administrador debe cobrar los créditos del causante, continuar las acciones promovidas por éste, iniciar las que son necesarias para hacer efectivos sus derechos, y presentarse en los procesos en los cuales el causante fue demandado.
+
+En ningún caso puede realizar actos que importan disposición de los derechos del causante.
+
+ARTICULO 2355.- Rendición de cuentas. Excepto que la mayoría de los copropietarios de la masa indivisa haya acordado otro plazo, el administrador de la herencia debe rendir cuentas de su administración trimestralmente, o con la periodicidad que el juez establezca.
+
+CAPITULO 5
+
+Pago de deudas y legados
+
+ARTICULO 2356.- Presentación de los acreedores. Los acreedores hereditarios que no son titulares de garantías reales deben presentarse a la sucesión y denunciar sus créditos a fin de ser pagados. Los créditos cuyos montos no se encuentran definitivamente fijados se denuncian a título provisorio sobre la base de una estimación.
+
+ARTICULO 2357.- Declaración de legítimo abono. Los herederos pueden reconocer a los acreedores del causante que solicitan la declaración de legítimo abono de sus créditos. Emitida tal declaración por el juez, el acreedor reconocido debe ser pagado según el orden establecido por el artículo siguiente. A falta de reconocimiento expreso y unánime de los herederos, el acreedor está facultado para deducir las acciones que le corresponden.
+
+ARTICULO 2358.- Procedimiento de pago. El administrador debe pagar a los acreedores presentados según el rango de preferencia de cada crédito establecido en la ley de concursos.
+
+Pagados los acreedores, los legados se cumplen, en los límites de la porción disponible, en el siguiente orden:
+
+a) los que tienen preferencia otorgada por el testamento;
+
+b) los de cosa cierta y determinada;
+
+c) los demás legados. Si hay varios de la misma categoría, se pagan a prorrata.
+
+ARTICULO 2359.- Garantía de los acreedores y legatarios de la sucesión. Los acreedores del causante, los acreedores por cargas de la masa y los legatarios pueden oponerse a la entrega de los bienes a los herederos hasta el pago de sus créditos o legados.
+
+ARTICULO 2360.- Masa indivisa insolvente. En caso de desequilibrio patrimonial o insuficiencia del activo hereditario, los copropietarios de la masa pueden peticionar la apertura del concurso preventivo o la declaración de quiebra de la masa indivisa, conforme a las disposiciones de la legislación concursal. Igual derecho, y de acuerdo a la misma normativa, compete a los acreedores.
+
+CAPITULO 6
+
+Conclusión de la administración judicial
+
+ARTICULO 2361.- Cuenta definitiva. Concluida la administración, el administrador debe presentar la cuenta definitiva.
+
+ARTICULO 2362.- Forma de la cuenta. Si todos los copropietarios de la masa indivisa son plenamente capaces y están de acuerdo, la rendición de cuentas se hace privadamente, quedando los gastos a cargo de la masa indivisa.
+
+En caso contrario, debe hacerse judicialmente. De ella se debe dar vista a los copropietarios de la masa indivisa, quienes pueden impugnarla.

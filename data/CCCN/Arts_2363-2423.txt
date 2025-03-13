@@ -1,0 +1,264 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO QUINTO - TRANSMISIÓN DE DERECHOS POR CAUSA DE MUERTE - TITULO 8
+TITULO 8: Partición
+Articulos:  2363 a 2423
+
+-----------------------------------------
+TITULO VIII
+
+Partición
+
+CAPITULO 1
+
+Acción de partición
+
+ARTICULO 2363.- Conclusión de la indivisión. La indivisión hereditaria sólo cesa con la partición. Si la partición incluye bienes registrables, es oponible a los terceros desde su inscripción en los registros respectivos.
+
+ARTICULO 2364.- Legitimación. Pueden pedir la partición los copropietarios de la masa indivisa y los cesionarios de sus derechos. También pueden hacerlo, por vía de subrogación, sus acreedores, y los beneficiarios de legados o cargos que pesan sobre un heredero.
+
+En caso de muerte de un heredero, o de cesión de sus derechos a varias personas, cualquiera de los herederos o cesionarios puede pedir la partición; pero si todos ellos lo hacen, deben unificar su representación.
+
+ARTICULO 2365.- Oportunidad para pedirla. La partición puede ser solicitada en todo tiempo después de aprobados el inventario y avalúo de los bienes.
+
+Sin embargo, cualquiera de los copartícipes puede pedir que la partición se postergue total o parcialmente por el tiempo que fije el juez si su realización inmediata puede redundar en perjuicio del valor de los bienes indivisos.
+
+ARTICULO 2366.- Herederos condicionales. Los herederos instituidos bajo condición suspensiva no pueden pedir la partición mientras la condición no está cumplida, pero pueden pedirla los coherederos, asegurando el derecho de los herederos condicionales.
+
+Los instituidos bajo condición resolutoria pueden pedir la partición, pero deben asegurar el derecho de quienes los sustituyen al cumplirse la condición.
+
+ARTICULO 2367.- Partición parcial. Si una parte de los bienes no es susceptible de división inmediata, se puede pedir la partición de los que son actualmente partibles.
+
+ARTICULO 2368.- Prescripción. La acción de partición de herencia es imprescriptible mientras continúe la indivisión, pero hay prescripción adquisitiva larga de los bienes individuales si la indivisión ha cesado de hecho porque alguno de los copartícipes ha intervertido su título poseyéndolos como único propietario, durante el lapso que establece la ley.
+
+CAPITULO 2
+
+Modos de hacer la partición
+
+ARTICULO 2369.- Partición privada. Si todos los copartícipes están presentes y son plenamente capaces, la partición puede hacerse en la forma y por el acto que por unanimidad juzguen convenientes. La partición puede ser total o parcial.
+
+ARTICULO 2370.- Partición provisional. La partición se considera meramente provisional si los copartícipes sólo han hecho una división del uso y goce de los bienes de la herencia, dejando indivisa la propiedad. La partición provisional no obsta al derecho de pedir la partición definitiva.
+
+ARTICULO 2371.- Partición judicial. La partición debe ser judicial:
+
+a) si hay copartícipes incapaces, con capacidad restringida o ausentes;
+
+b) si terceros, fundándose en un interés legítimo, se oponen a que la partición se haga privadamente;
+
+c) si los copartícipes son plenamente capaces y no acuerdan en hacer la partición privadamente.
+
+ARTICULO 2372.- Licitación. Cualquiera de los copartícipes puede pedir la licitación de alguno de los bienes de la herencia para que se le adjudique dentro de su hijuela por un valor superior al del avalúo, si los demás copartícipes no superan su oferta.
+
+Efectuada la licitación entre los herederos, el bien licitado debe ser imputado a la hijuela del adquirente, por el valor obtenido en la licitación, quedando de ese modo modificado el avalúo de ese bien.
+
+La oferta puede hacerse por dos o más copartícipes, caso en el cual el bien se adjudica en copropiedad a los licitantes, y se imputa proporcionalmente en la hijuela de cada uno de ellos.
+
+No puede pedirse la licitación después de pasados treinta días de la aprobación de la tasación.
+
+ARTICULO 2373.- Partidor. La partición judicial se hace por un partidor o por varios que actúan conjuntamente.
+
+A falta de acuerdo unánime de los copartícipes para su designación, el nombramiento debe ser hecho por el juez.
+
+ARTICULO 2374.- Principio de partición en especie. Si es posible dividir y adjudicar los bienes en especie, ninguno de los copartícipes puede exigir su venta.
+
+En caso contrario, se debe proceder a la venta de los bienes y a la distribución del producto que se obtiene. También puede venderse parte de los bienes si es necesario para posibilitar la formación de los lotes.
+
+ARTICULO 2375.- División antieconómica. Aunque los bienes sean divisibles, no se los debe dividir si ello hace antieconómico el aprovechamiento de las partes.
+
+Si no son licitados, pueden ser adjudicados a uno o varios de los copartícipes que los acepten, compensándose en dinero la diferencia entre el valor de los bienes y el monto de las hijuelas.
+
+ARTICULO 2376.- Composición de la masa. La masa partible comprende los bienes del causante que existen al tiempo de la partición o los que se han subrogado a ellos, y los acrecimientos de unos y otros. Se deducen las deudas y se agregan los valores que deben ser colacionados y los bienes sujetos a reducción.
+
+ARTICULO 2377.- Formación de los lotes. Para la formación de los lotes no se tiene en cuenta la naturaleza ni el destino de los bienes, excepto que sean aplicables las normas referentes a la atribución preferencial. Debe evitarse el parcelamiento de los inmuebles y la división de las empresas.
+
+Si la composición de la masa no permite formar lotes de igual valor, las diferencias entre el valor de los bienes que integran un lote y el monto de la hijuela correspondiente deben ser cubiertas con dinero, garantizándose el saldo pendiente a satisfacción del acreedor. El saldo no puede superar la mitad del valor del lote, excepto en el caso de atribución preferencial.
+
+Excepto acuerdo en contrario, si al deudor del saldo se le conceden plazos para el pago y, por circunstancias económicas, el valor de los bienes que le han sido atribuidos aumenta o disminuye apreciablemente, las sumas debidas aumentan o disminuyen en igual proporción.
+
+Si hay cosas gravadas con derechos reales de garantía, debe ponerse a cargo del adjudicatario la deuda respectiva, imputándose a la hijuela la diferencia entre el valor de la cosa y el importe de la deuda.
+
+Las sumas que deben ser colacionadas por uno de los coherederos se imputan a sus derechos sobre la masa.
+
+ARTICULO 2378.- Asignación de los lotes. Los lotes correspondientes a hijuelas de igual monto deben ser asignados por el partidor con la conformidad de los herederos y, en caso de oposición de alguno de éstos, por sorteo.
+
+En todo caso se deben reservar bienes suficientes para solventar las deudas y cargas pendientes, así como los legados impagos.
+
+ARTICULO 2379.- Títulos. Objetos comunes. Los títulos de adquisición de los bienes incluidos en la partición deben ser entregados a su adjudicatario. Si algún bien es adjudicado a varios herederos, el título se entrega al propietario de la cuota mayor, y se da a los otros interesados copia certificada a costa de la masa.
+
+Los objetos y documentos que tienen un valor de afección u honorífico son indivisibles, y se debe confiar su custodia al heredero que en cada caso las partes elijan y, a falta de acuerdo, al que designa el juez. Igual solución corresponde cuando la cosa se adjudica a todos los herederos por partes iguales.
+
+ARTICULO 2380.- Atribución preferencial de establecimiento. El cónyuge sobreviviente o un heredero pueden pedir la atribución preferencial en la partición, con cargo de pagar el saldo si lo hay, del establecimiento agrícola, comercial, industrial, artesanal o de servicios que constituye una unidad económica, en cuya formación participó.
+
+En caso de explotación en forma social, puede pedirse la atribución preferencial de los derechos sociales, si ello no afecta las disposiciones legales o las cláusulas estatutarias sobre la continuación de una sociedad con el cónyuge sobreviviente o con uno o varios herederos.
+
+El saldo debe ser pagado al contado, excepto acuerdo en contrario.
+
+ARTICULO 2381.- Atribución preferencial de otros bienes. El cónyuge sobreviviente o un heredero pueden pedir también la atribución preferencial:
+
+a) de la propiedad o del derecho a la locación del inmueble que le sirve de habitación, si tenía allí su residencia al tiempo de la muerte, y de los muebles existentes en él;
+
+b) de la propiedad o del derecho a la locación del local de uso profesional donde ejercía su actividad, y de los muebles existentes en él;
+
+c) del conjunto de las cosas muebles necesarias para la explotación de un bien rural realizada por el causante como arrendatario o aparcero cuando el arrendamiento o aparcería continúa en provecho del demandante o se contrata un nuevo arrendamiento con éste.
+
+ARTICULO 2382.- Petición por varios interesados. Si la atribución preferencial es solicitada por varios copartícipes que no acuerdan en que les sea asignada conjuntamente, el juez la debe decidir te-niendo en cuenta la aptitud de los postulantes para continuar la explotación y la importancia de su participación personal en la actividad.
+
+ARTICULO 2383.- Derecho real de habitación del cónyuge supérstite. El cónyuge supérstite tiene derecho real de habitación vitalicio y gratuito de pleno derecho sobre el inmueble de propiedad del causante, que constituyó el último hogar conyugal, y que a la apertura de la sucesión no se encontraba en condominio con otras personas. Este derecho es inoponible a los acreedores del causante.
+
+ARTICULO 2384.- Cargas de la masa. Los gastos causados por la partición o liquidación, y los hechos en beneficio común, se imputan a la masa.
+
+No son comunes los trabajos o desembolsos innecesarios o referentes a pedidos desestimados, los que deben ser soportados exclusivamente por los herederos que los causen.
+
+CAPITULO 3
+
+Colación de donaciones
+
+ARTICULO 2385.- Personas obligadas a colacionar. Los descendientes del causante y el cónyuge supérstite que concurren a la sucesión intestada deben colacionar a la masa hereditaria el valor de los bienes que les fueron donados por el causante, excepto dispensa o cláusula de mejora expresa en el acto de la donación o en el testamento.
+
+Dicho valor se determina a la época de la partición según el estado del bien a la época de la donación.
+
+También hay obligación de colacionar en las sucesiones testamentarias si el testador llama a recibir las mismas porciones que corresponderían al cónyuge o a los descendientes en la sucesión intestada.
+
+El legado hecho al descendiente o al cónyuge se considera realizado a título de mejora, excepto que el testador haya dispuesto expresamente lo contrario.
+
+ARTICULO 2386.- Donaciones inoficiosas. La donación hecha a un descendiente o al cónyuge cuyo valor excede la suma de la porción disponible más la porción legítima del donatario, aunque haya dispensa de colación o mejora, está sujeta a colación, debiendo compensarse la diferencia en dinero.
+
+(Artículo sustituido por art. 1º de la Ley Nº 27.587 B.O. 16/12/2020)
+
+ARTICULO 2387.- Heredero renunciante. El descendiente o el cónyuge que renuncia a la herencia pueden conservar la donación recibida o reclamar el legado hecho, hasta el límite de la porción disponible.
+
+ARTICULO 2388.- Heredero que no lo era al tiempo de la donación. El descendiente que no era heredero presuntivo al tiempo de la donación, pero que resulta heredero, no debe colación.
+
+El cónyuge no debe colación cuando la donación se realiza antes del matrimonio.
+
+ARTICULO 2389.- Donación al descendiente o ascendiente del heredero. Las donaciones hechas a los descendientes del heredero no deben ser colacionadas por éste.
+
+El descendiente del donatario que concurre a la sucesión del donante por representación debe colacionar la donación hecha al ascendiente representado.
+
+ARTICULO 2390.- Donación al cónyuge del heredero. Las donaciones hechas al cónyuge del heredero no deben ser colacionadas por éste.
+
+Las hechas conjuntamente a ambos cónyuges deben ser colacionadas por la mitad, por el que resulta heredero.
+
+ARTICULO 2391.- Beneficios hechos al heredero. Los descendientes y el cónyuge supérstite obligados a colacionar también deben colacionar los beneficios recibidos a consecuencia de convenciones hechas con el difunto que tuvieron por objeto procurarles una ventaja particular, excepto dispensa y lo dispuesto para el heredero con discapacidad en el artículo 2448.
+
+ARTICULO 2392.- Beneficios excluidos de la colación. No se debe colación por los gastos de alimentos; ni por los de asistencia médica por extraordinarios que sean; ni por los de educación y capacitación profesional o artística de los descendientes, excepto que sean desproporcionados con la fortuna y condición del causante; ni por los gastos de boda que no exceden de lo razonable; ni por los presentes de uso; ni por el seguro de vida que corresponde al heredero, pero sí por las primas pagadas por el causante al asegurador, hasta la concurrencia del premio cobrado por el asegurado. También se debe por lo empleado para establecer al coheredero o para el pago de sus deudas.
+
+ARTICULO 2393.- Perecimiento sin culpa. No se debe colación por el bien que ha perecido sin culpa del donatario. Pero si éste ha percibido una indemnización, la debe por su importe.
+
+ARTICULO 2394.- Frutos. El heredero obligado a colacionar no debe los frutos de los bienes sujetos a colación, pero debe los intereses del valor colacionable desde la notificación de la demanda.
+
+ARTICULO 2395.- Derecho de pedir la colación. La colación sólo puede ser pedida por quien era coheredero presuntivo a la fecha de la donación.
+
+El cónyuge supérstite no puede pedir la colación de las donaciones hechas por el causante antes de contraer matrimonio.
+
+ARTICULO 2396.- Modo de hacer la colación. La colación se efectúa sumando el valor de la donación al de la masa hereditaria después de pagadas las deudas, y atribuyendo ese valor en el lote del donatario.
+
+CAPITULO 4
+
+Colación de deudas
+
+ARTICULO 2397.- Deudas que se colacionan. Se colacionan a la masa las deudas de uno de los coherederos en favor del causante que no fueron pagadas voluntariamente durante la indivisión, aunque sean de plazo no vencido al tiempo de la partición.
+
+ARTICULO 2398.- Suspensión de los derechos de los coherederos. Los coherederos no pueden exigir el pago antes de la partición.
+
+ARTICULO 2399.- Deudas surgidas durante la indivisión. La colación de deudas se aplica también a las sumas de las cuales un coheredero se hace deudor hacia los otros en ocasión de la indivisión, cuando el crédito es relativo a los bienes indivisos, excepto que los segundos perciban el pago antes de la partición.
+
+ARTICULO 2400.- Intereses. Las sumas colacionables producen intereses desde la apertura de la sucesión si el coheredero era deudor del difunto, si no los devengaban ya con anterioridad, y desde el nacimiento de la deuda si ésta surge en ocasión de la indivisión.
+
+ARTICULO 2401.- Coheredero deudor y acreedor a la vez. Si el coheredero deudor es a la vez acreedor, aunque su crédito no sea aún exigible al tiempo de la partición, hay compensación y sólo se colaciona el exceso de su deuda sobre su crédito.
+
+ARTICULO 2402.- Modo de hacer la colación. La colación de las deudas se hace deduciendo su importe de la porción del deudor. Si la exceden, debe pagarlas en las condiciones y plazos establecidos para la obligación.
+
+La imputación de la deuda al lote del coheredero deudor es oponible a sus acreedores.
+
+CAPITULO 5
+
+Efectos de la partición
+
+ARTICULO 2403.- Efecto declarativo. La partición es declarativa y no traslativa de derechos. En razón de ella, se juzga que cada heredero sucede solo e inmediatamente al causante en los bienes comprendidos en su hijuela y en los que se le atribuyen por licitación, y que no tuvo derecho alguno en los que corresponden a sus coherederos.
+
+Igual solución se entiende respecto de los bienes atribuidos por cualquier otro acto que ha tenido por efecto hacer cesar la indivisión totalmente, o de manera parcial sólo respecto a ciertos bienes o ciertos herederos.
+
+Los actos válidamente otorgados respecto de algún bien de la masa hereditaria conservan sus efectos a consecuencia de la partición, sea quien sea el adjudicatario de los bienes que fueron objeto de esos actos.
+
+ARTICULO 2404.- Evicción. En caso de evicción de los bienes adjudicados, o de sufrir el adjudicatario alguna turbación del derecho en el goce pacífico de aquéllos, o de las servidumbres en razón de causa anterior a la partición, cada uno de los herederos responde por la correspondiente indemnización en proporción a su parte, soportando el heredero vencido o perjudicado la parte que le toque. Si alguno de los herederos resulta insolvente, su contribución debe ser cubierta por todos los demás.
+
+Ninguno de los herederos puede excusar su responsabilidad por haber perecido los bienes adjudicados en la partición, aunque haya sido por caso fortuito.
+
+ARTICULO 2405.- Extensión de la garantía. La garantía de evicción se debe por el valor de los bienes al tiempo en que se produce. Si se trata de créditos, la garantía de evicción asegura su existencia y la solvencia del deudor al tiempo de la partición.
+
+ARTICULO 2406.- Casos excluidos de la garantía. La garantía de evicción no tiene lugar cuando es expresamente excluida en el acto de partición respecto de un riesgo determinado; tampoco cuando la evicción se produce por culpa del coheredero que la sufre. El conocimiento por el adjudicatario al tiempo de la partición del peligro de evicción no excluye la garantía.
+
+ARTICULO 2407.- Defectos ocultos. Los coherederos se deben recíprocamente garantía de los defectos ocultos de los bienes adjudicados.
+
+CAPITULO 6
+
+Nulidad y reforma de la partición
+
+ARTICULO 2408.- Causas de nulidad. La partición puede ser invalidada por las mismas causas que pueden serlo los actos jurídicos.
+
+El perjudicado puede solicitar la nulidad, o que se haga una partición complementaria o rectificativa, o la atribución de un complemento de su porción.
+
+ARTICULO 2409.- Otros casos de acción de complemento. El artículo 2408 se aplica a todo acto, cualquiera que sea su denominación, cuyo objeto sea hacer cesar la indivisión entre los coherederos, excepto que se trate de una cesión de derechos hereditarios entre coherederos en la que existe un álea expresada y aceptada.
+
+ARTICULO 2410.- Casos en que no son admisibles las acciones. Las acciones previstas en este Capítulo no son admisibles si el coheredero que las intenta enajena en todo o en parte su lote después de la cesación de la violencia, o del descubrimiento del dolo, el error o la lesión.
+
+CAPITULO 7
+
+Partición por los ascendientes
+
+SECCION 1ª
+
+Disposiciones generales
+
+ARTICULO 2411.- Personas que pueden efectuarla. La persona que tiene descendientes puede hacer la partición de sus bienes entre ellos por donación o por testamento.
+
+Si es casada, la partición de los bienes propios debe incluir al cónyuge que conserva su vocación hereditaria. La partición de los gananciales sólo puede ser efectuada por donación, mediante acto conjunto de los cónyuges.
+
+ARTICULO 2412.- Bienes no incluidos. Si la partición hecha por los ascendientes no comprende todos los bienes que dejan a su muerte, el resto se distribuye y divide según las reglas legales.
+
+ARTICULO 2413.- Colación. Al hacer la partición, sea por donación o por testamento, el ascendiente debe colacionar a la masa el valor de los bienes que anteriormente haya donado y sean susceptibles de colación.
+
+ARTICULO 2414.- Mejora. En la partición, el ascendiente puede mejorar a alguno de sus descendientes o al cónyuge dentro de los límites de la porción disponible, pero debe manifestarlo expresamente.
+
+SECCION 2ª
+
+Partición por donación
+
+ARTICULO 2415.- Objeto. La partición por donación no puede tener por objeto bienes futuros.
+
+Puede ser hecha mediante actos separados si el ascendiente interviene en todos ellos.
+
+ARTICULO 2416.- Derechos transmitidos. El donante puede transmitir la plena propiedad de los bienes donados, o bien únicamente la nuda propiedad, reservándose el usufructo.
+
+También puede pactarse entre el donante y los donatarios una renta vitalicia en favor del primero.
+
+ARTICULO 2417.- Acción de reducción. El descendiente omitido en la partición por donación o nacido después de realizada ésta, y el que ha recibido un lote de valor inferior al correspondiente a su porción legítima, pueden ejercer la acción de reducción si a la apertura de la sucesión no existen otros bienes del causante suficientes para cubrirla.
+
+ARTICULO 2418.- Valor de los bienes. En todos los casos, para la colación y el cálculo de la legítima, se debe tener en cuenta el valor de los bienes al tiempo en que se hacen las donaciones, apreciado a valores constantes.
+
+ARTICULO 2419.- Garantía de evicción. Los donatarios se deben recíprocamente garantía de evicción de los bienes recibidos.
+
+La acción puede ser ejercida desde que la evicción se produce, aun antes de la muerte del causante.
+
+ARTICULO 2420.- Revocación. La partición por donación puede ser revocada por el ascendiente, con relación a uno o más de los donatarios, en los casos en que se autoriza la revocación de las donaciones y cuando el donatario incurre en actos que justifican la exclusión de la herencia por indignidad.
+
+SECCION 3ª
+
+Partición por testamento
+
+ARTICULO 2421.- Enajenación de bienes. La partición hecha por testamento es revocable por el causante y sólo produce efectos después de su muerte. La enajenación posterior al testamento de alguno de los bienes incluidos en la partición no afecta su validez, sin perjuicio de las acciones protectoras de la porción legítima que pueden corresponder.
+
+Sus beneficiarios no pueden renunciar a ella para solicitar una nueva partición, excepto por acuerdo unánime.
+
+ARTICULO 2422.- Efectos. La partición por testamento tiene los mismos efectos que la practicada por los herederos.
+
+ARTICULO 2423.- Garantía de evicción. Los herederos se deben recíprocamente garantía de evicción de los bienes comprendidos en sus lotes.
+
+La existencia y legitimidad de los derechos transmitidos se juzga al tiempo de la muerte del causante.

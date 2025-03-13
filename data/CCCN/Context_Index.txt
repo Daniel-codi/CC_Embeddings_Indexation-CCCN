@@ -1,9 +1,6 @@
-SmartSelector selecciona uno o más de estos (4) contextos válidos para la pregunta:
+SmartSelector selecciona uno o más de estos (5) contextos válidos para la pregunta:
 
 (1) Todo el CODIGO CIVIL y COMERCIAL DE LA NACION
 
-(2) TÍTULO PRELIMINAR - Derecho, Ley, Ejercicio de los derechos, Derechos y bienes 
+(2) Una parte del CODIGO CIVIL y COMERCIAL DE LA NACION
 
-(3) LIBRO PRIMERO - PARTE GENERAL - Persona humana, Persona jurídica, Bienes, Hechos y actos jurídicos, Transmisión de los derechos
-
-(4) LIBRO SEGUNDO - RELACIONES DE FAMILIA - Matrimonio, Régimen patrimonial del matrimonio, Uniones convivenciales, Parentesco, Filiación, Adopción, Responsabilidad parental, Procesos de familia

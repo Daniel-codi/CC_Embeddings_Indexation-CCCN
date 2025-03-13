@@ -1,0 +1,173 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO QUINTO - TRANSMISIÓN DE DERECHOS POR CAUSA DE MUERTE - TITULO 9
+TITULO 9: Sucesiones intestadas
+Articulos:  2424 a 2443
+
+-----------------------------------------
+TITULO IX
+
+Sucesiones intestadas
+
+CAPITULO 1
+
+Disposiciones generales
+
+ARTICULO 2424.- Heredero legítimo. Las sucesiones intestadas se defieren a los descendientes del causante, a sus ascendientes, al cónyuge supérstite, y a los parientes colaterales dentro del cuarto grado inclusive, en el orden y según las reglas establecidas en este Código.
+
+A falta de herederos, los bienes corresponden al Estado nacional, provincial o a la Ciudad Autónoma de Buenos Aires, según el lugar en que están situados.
+
+ARTICULO 2425.- Naturaleza y origen de los bienes. En las sucesiones intestadas no se atiende a la naturaleza ni al origen de los bienes que componen la herencia, excepto disposición legal expresa en contrario.
+
+CAPITULO 2
+
+Sucesión de los descendientes
+
+ARTICULO 2426.- Sucesión de los hijos. Los hijos del causante lo heredan por derecho propio y por partes iguales.
+
+ARTICULO 2427.- Sucesión de los demás descendientes. Los demás descendientes heredan por derecho de representación, sin limitación de grados.
+
+ARTICULO 2428.- Efectos de la representación. En caso de concurrir descendientes por representación, la sucesión se divide por estirpes, como si el representado concurriera. Si la representación desciende más de un grado, la subdivisión vuelve a hacerse por estirpe en cada rama.
+
+Dentro de cada rama o subdivisión de rama, la división se hace por cabeza.
+
+ARTICULO 2429.- Casos en que tiene lugar. La representación tiene lugar en caso de premoriencia, renuncia o indignidad del ascendiente.
+
+No la impide la renuncia a la herencia del ascendiente, pero sí la indignidad en la sucesión de éste.
+
+Se aplica también en la sucesión testamentaria, si el testador se limita a confirmar la distribución a la herencia que resulta de la ley.
+
+ARTICULO 2430.- Caso de adopción. El adoptado y sus descendientes tienen los mismos derechos hereditarios que el hijo y sus descendientes por naturaleza y mediante técnicas de reproducción humana asistida.
+
+CAPITULO 3
+
+Sucesión de los ascendientes
+
+ARTICULO 2431.- Supuestos de procedencia. División. A falta de descendientes, heredan los ascendientes más próximos en grado, quienes dividen la herencia por partes iguales.
+
+ARTICULO 2432.- Parentesco por adopción. Los adoptantes son considerados ascendientes. Sin embargo, en la adopción simple, ni los adoptantes heredan los bienes que el adoptado haya recibido a título gratuito de su familia de origen, ni ésta hereda los bienes que el adoptado haya recibido a título gratuito de su familia de adopción. Estas exclusiones no operan si, en su consecuencia, quedan bienes vacantes. En los demás bienes, los adoptantes excluyen a los padres de origen.
+
+CAPITULO 4
+
+Sucesión del cónyuge
+
+ARTICULO 2433.- Concurrencia con descendientes. Si heredan los descendientes, el cónyuge tiene en el acervo hereditario la misma parte que un hijo.
+
+En todos los casos en que el viudo o viuda es llamado en concurrencia con descendientes, el cónyuge supérstite no tiene parte alguna en la división de bienes gananciales que corresponden al cónyuge prefallecido.
+
+ARTICULO 2434.- Concurrencia con ascendientes. Si heredan los ascendientes, al cónyuge le corresponde la mitad de la herencia.
+
+ARTICULO 2435.- Exclusión de colaterales. A falta de descendientes y ascendientes, el cónyuge hereda la totalidad, con exclusión de los colaterales.
+
+ARTICULO 2436.- Matrimonio “in extremis”. La sucesión del cónyuge no tiene lugar si el causante muere dentro de los treinta días de contraído el matrimonio a consecuencia de enfermedad existente en el momento de la celebración, conocida por el supérstite, y de desenlace fatal previsible, excepto que el matrimonio sea precedido de una unión convivencial.
+
+ARTICULO 2437.- Divorcio, separación de hecho y cese de la convivencia resultante de una decisión judicial. El divorcio, la separación de hecho sin voluntad de unirse y la decisión judicial de cualquier tipo que implica cese de la convivencia, excluyen el derecho hereditario entre cónyuges.
+
+CAPITULO 5
+
+Sucesión de los colaterales
+
+ARTICULO 2438.- Extensión. A falta de descendientes, ascendientes y cónyuge, heredan los parientes colaterales hasta el cuarto grado inclusive.
+
+ARTICULO 2439.- Orden. Los colaterales de grado más próximo excluyen a los de grado ulterior, excepto el derecho de representación de los descendientes de los hermanos, hasta el cuarto grado en relación al causante.
+
+Los hermanos y descendientes de hermanos desplazan a los demás colaterales.
+
+ARTICULO 2440.- División. En la concurrencia entre hermanos bilaterales y hermanos unilaterales, cada uno de éstos hereda la mitad de lo que hereda cada uno de aquéllos.
+
+En los demás casos, los colaterales que concurren heredan por partes iguales.
+
+CAPITULO 6
+
+Derechos del Estado
+
+ARTICULO 2441.- Declaración de vacancia. A pedido de cualquier interesado o del Ministerio Público, se debe declarar vacante la herencia si no hay herederos aceptantes ni el causante ha distribuido la totalidad de los bienes mediante legados.
+
+Al declarar la vacancia, el juez debe designar un curador de los bienes.
+
+La declaración de vacancia se inscribe en los registros que corresponden, por oficio judicial.
+
+ARTICULO 2442.- Funciones del curador. El curador debe recibir los bienes bajo inventario. Debe proceder al pago de las deudas y legados, previa autorización judicial. A tal efecto, a falta de dinero suficiente en la herencia, debe hacer tasar los bienes y liquidarlos en la medida necesaria. Debe rendición de cuentas al Estado o a los Estados que reciben los bienes.
+
+ARTICULO 2443.- Conclusión de la liquidación. Concluida la liquidación, el juez debe mandar entregar los bienes al Estado que corresponde.
+
+Quien reclama posteriormente derechos hereditarios debe promover la petición de herencia. En tal caso, debe tomar los bienes en la situación en que se encuentran, y se considera al Estado como poseedor de buena fe.
+
+
+-----------------------------------------
+LIBRO QUINTO - TRANSMISIÓN DE DERECHOS POR CAUSA DE MUERTE - TITULO 10
+TITULO 10: Porción legítima
+Articulos:  2424 a 2443
+
+-----------------------------------------
+TITULO X
+
+Porción legítima
+
+ARTICULO 2444.- Legitimarios. Tienen una porción legítima de la que no pueden ser privados por testamento ni por actos de disposición entre vivos a título gratuito, los descendientes, los ascendientes y el cónyuge.
+
+ARTICULO 2445.- Porciones legítimas. La porción legítima de los descendientes es de dos tercios, la de los ascendientes de un medio y la del cónyuge de un medio.
+
+Dichas porciones se calculan sobre la suma del valor líquido de la herencia al tiempo de la muerte del causante más el de los bienes donados computables para cada legitimario, a la época de la partición según el estado del bien a la época de la donación.
+
+Para el cómputo de la porción de cada descendiente sólo se toman en cuenta las donaciones colacionables o reducibles, efectuadas a partir de los trescientos días anteriores a su nacimiento o, en su caso, al nacimiento del ascendiente a quien representa, y para el del cónyuge, las hechas después del matrimonio.
+
+ARTICULO 2446.- Concurrencia de Iegitimarios. Si concurren sólo descendientes o sólo ascendientes, la porción disponible se calcula según las respectivas legítimas.
+
+Si concurre el cónyuge con descendientes, la porción disponible se calcula según la legítima mayor.
+
+ARTICULO 2447.- Protección. El testador no puede imponer gravamen ni condición alguna a las porciones legítimas; si lo hace, se tienen por no escritas.
+
+ARTICULO 2448.- Mejora a favor de heredero con discapacidad. El causante puede disponer, por el medio que estime conveniente, incluso mediante un fideicomiso, además de la porción disponible, de un tercio de las porciones legítimas para aplicarlas como mejora estricta a descendientes o ascendientes con discapacidad. A estos efectos, se considera persona con discapacidad, a toda persona que padece una alteración funcional permanente o prolongada, física o mental, que en relación a su edad y medio social implica desventajas considerables para su integración familiar, social, educacional o laboral.
+
+ARTICULO 2449.- Irrenunciabilidad. Es irrenunciable la porción legítima de una sucesión aún no abierta.
+
+ARTICULO 2450.- Acción de entrega de la legítima. El legitimario preterido tiene acción para que se le entregue su porción legítima, a título de heredero de cuota. También la tiene el legitimario cuando el difunto no deja bienes pero ha efectuado donaciones.
+
+ARTICULO 2451.- Acción de complemento. El legitimario a quien el testador le ha dejado, por cualquier título, menos de su porción legítima, sólo puede pedir su complemento.
+
+ARTICULO 2452.- Reducción de disposiciones testamentarias. A fin de recibir o complementar su porción, el legitimario afectado puede pedir la reducción de las instituciones de herederos de cuota y de los legados, en ese orden.
+
+Los legados se reducen en el mismo orden establecido en el segundo párrafo del artículo 2358.
+
+ARTICULO 2453.- Reducción de donaciones. Si la reducción de las disposiciones testamentarias no es suficiente para que quede cubierta la porción legítima, el heredero legitimario puede pedir la reducción de las donaciones hechas por el causante.
+
+Se reduce primero la última donación, y luego las demás en orden inverso a sus fechas, hasta salvar el derecho del reclamante. Las de igual fecha se reducen a prorrata.
+
+ARTICULO 2454.- Efectos de la reducción de las donaciones. Si la reducción es total, la donación queda resuelta.
+
+Si es parcial, por afectar sólo en parte la legítima, y el bien donado es divisible, se lo divide entre el legitimario y el donatario. Si es indivisible, la cosa debe quedar para quien le corresponde una porción mayor, con un crédito a favor de la otra parte por el valor de su derecho.
+
+En todo caso, el donatario puede impedir la resolución entregando al legitimario la suma de dinero necesaria para completar el valor de su porción legítima.
+
+El donatario es deudor desde la notificación de la demanda, de los frutos o, en caso de formular la opción prevista en el párrafo anterior, de intereses.
+
+ARTICULO 2455.- Perecimiento de lo donado. Si el bien donado perece por culpa del donatario, éste debe su valor. Si perece sin su culpa, el valor de lo donado no se computa para el cálculo de la porción legítima. Si perece parcialmente por su culpa, debe la diferencia de valor; y si perece parcialmente sin su culpa, se computa el valor subsistente.
+
+ARTICULO 2456.- Insolvencia del donatario. En caso de insolvencia de alguno de los donatarios e imposibilidad de ejercer la acción reipersecutoria a que se refiere el artículo 2458, la acción de reducción puede ser ejercida contra los donatarios de fecha anterior.
+
+ARTICULO 2457.- Derechos reales constituidos por el donatario. La reducción extingue con relación al legitimario, los derechos reales constituidos por el donatario o por sus sucesores. Sin embargo, la reducción declarada por los jueces, no afectará la validez de los derechos reales sobre bienes registrables constituidos o transmitidos por el donatario a favor de terceros de buena fe y a título oneroso.
+
+(Artículo sustituido por art. 2º de la Ley Nº 27.587 B.O. 16/12/2020)
+
+ARTICULO 2458.- Acción reipersecutoria. Salvo lo dispuesto en el artículo anterior, el legitimario puede perseguir contra terceros adquirentes los bienes registrables. El donatario y el sub adquirente demandado, en su caso, pueden desinteresar al legitimario satisfaciendo en dinero el perjuicio a la cuota legítima.
+
+(Artículo sustituido por art. 3º de la Ley Nº 27.587 B.O. 16/12/2020)
+
+ARTICULO 2459.- Prescripción adquisitiva. En cualquier caso, la acción de reducción no procede contra el donatario ni contra el sub adquirente que han poseído la cosa donada durante diez (10) años computados desde la adquisición de la posesión. Se aplica el artículo 1901. No obstará la buena fe del poseedor el conocimiento de la existencia de la donación.
+
+(Artículo sustituido por art. 4º de la Ley Nº 27.587 B.O. 16/12/2020)
+
+ARTICULO 2460.- Constitución de usufructo, uso, habitación o renta vitalicia. Si la disposición gratuita entre vivos o el legado son de usufructo, uso, habitación, o renta vitalicia, el legitimario o, en su caso, todos los legitimarios de común acuerdo, pueden optar entre cumplirlo o entregar al beneficiario la porción disponible.
+
+ARTICULO 2461.- Transmisión de bienes a legitimarios. Si por acto entre vivos a título oneroso el causante transmite a alguno de los legitimarios la propiedad de bienes con reserva de usufructo, uso o habitación, o con la contraprestación de una renta vitalicia, se presume sin admitir prueba en contrario la gratuidad del acto y la intención de mejorar al beneficiario. Sin embargo, se deben deducir del valor de lo donado las sumas que el adquirente demuestre haber efectivamente pagado.
+
+El valor de los bienes debe ser imputado a la porción disponible y el excedente es objeto de colación.
+
+Esta imputación y esta colación no pueden ser demandadas por los legitimarios que consintieron en la enajenación, sea onerosa o gratuita, con algunas de las modalidades indicadas.

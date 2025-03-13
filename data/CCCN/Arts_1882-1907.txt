@@ -1,0 +1,156 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO CUARTO - DERECHOS REALES - TITULO 1
+TITULO 1: Disposiciones generales
+Articulos: 1882 a 1907
+
+-----------------------------------------
+LIBRO CUARTO
+
+DERECHOS REALES
+
+TITULO I
+
+Disposiciones generales
+
+CAPITULO 1
+
+Principios comunes
+
+ARTICULO 1882.- Concepto. El derecho real es el poder jurídico, de estructura legal, que se ejerce directamente sobre su objeto, en forma autónoma y que atribuye a su titular las facultades de persecución y preferencia, y las demás previstas en este Código.
+
+ARTICULO 1883.- Objeto. El derecho real se ejerce sobre la totalidad o una parte material de la cosa que constituye su objeto, por el todo o por una parte indivisa.
+
+El objeto también puede consistir en un bien taxativamente señalado por la ley.
+
+ARTICULO 1884.- Estructura. La regulación de los derechos reales en cuanto a sus elementos, contenido, adquisición, constitución, modificación, transmisión, duración y extinción es establecida sólo por la ley. Es nula la configuración de un derecho real no previsto en la ley, o la modificación de su estructura.
+
+ARTICULO 1885.- Convalidación. Si quien constituye o transmite un derecho real que no tiene, lo adquiere posteriormente, la constitución o transmisión queda convalidada.
+
+ARTICULO 1886.- Persecución y preferencia. El derecho real atribuye a su titular la facultad de perseguir la cosa en poder de quien se encuentra, y de hacer valer su preferencia con respecto a otro de-recho real o personal que haya obtenido oponibilidad posteriormente.
+
+ARTICULO 1887.- Enumeración. Son derechos reales en este Código:
+
+a) el dominio;
+
+b) el condominio;
+
+c) la propiedad horizontal;
+
+d) los conjuntos inmobiliarios;
+
+e) el tiempo compartido;
+
+f) el cementerio privado;
+
+g) la superficie;
+
+h) el usufructo;
+
+i) el uso;
+
+j) la habitación;
+
+k) la servidumbre;
+
+l) la hipoteca;
+
+m) la anticresis;
+
+n) la prenda.
+
+ARTICULO 1888.- Derechos reales sobre cosa propia o ajena. Carga o gravamen real. Son derechos reales sobre cosa total o parcialmente propia: el dominio, el condominio, la propiedad horizontal, los conjuntos inmobiliarios, el tiempo compartido, el cementerio privado y la superficie si existe propiedad superficiaria. Los restantes derechos reales recaen sobre cosa ajena.
+
+Con relación al dueño de la cosa, los derechos reales sobre cosa ajena constituyen cargas o gravámenes reales. Las cosas se presumen sin gravamen, excepto prueba en contrario. Toda duda sobre la existencia de un gravamen real, su extensión o el modo de ejercicio, se interpreta a favor del titular del bien gravado.
+
+ARTICULO 1889.- Derechos reales principales y accesorios. Los derechos reales son principales, excepto los accesorios de un crédito en función de garantía. Son accesorios la hipoteca, la anticresis y la prenda.
+
+ARTICULO 1890.- Derechos reales sobre cosas registrables y no registrables. Los derechos reales recaen sobre cosas registrables cuando la ley requiere la inscripción de los títulos en el respectivo registro a los efectos que correspondan. Recaen sobre cosas no registrables, cuando los documentos portantes de derechos sobre su objeto no acceden a un registro a los fines de su inscripción.
+
+ARTICULO 1891.- Ejercicio por la posesión o por actos posesorios. Todos los derechos reales regulados en este Código se ejercen por la posesión, excepto las servidumbres y la hipoteca.
+
+Las servidumbres positivas se ejercen por actos posesorios concretos y determinados sin que su titular ostente la posesión.
+
+CAPITULO 2
+
+Adquisición, transmisión, extinción y oponibilidad
+
+ARTICULO 1892.- Título y modos suficientes. La adquisición derivada por actos entre vivos de un derecho real requiere la concurrencia de título y modo suficientes.
+
+Se entiende por título suficiente el acto jurídico revestido de las formas establecidas por la ley, que tiene por finalidad transmitir o constituir el derecho real.
+
+La tradición posesoria es modo suficiente para transmitir o constituir derechos reales que se ejercen por la posesión. No es necesaria, cuando la cosa es tenida a nombre del propietario, y éste por un acto jurídico pasa el dominio de ella al que la poseía a su nombre, o cuando el que la poseía a nombre del propietario, principia a poseerla a nombre de otro. Tampoco es necesaria cuando el poseedor la transfiere a otro reservándose la tenencia y constituyéndose en poseedor a nombre del adquirente.
+
+La inscripción registral es modo suficiente para transmitir o constituir derechos reales sobre cosas registrables en los casos legalmente previstos; y sobre cosas no registrables, cuando el tipo del derecho así lo requiera.
+
+El primer uso es modo suficiente de adquisición de la servidumbre positiva.
+
+Para que el título y el modo sean suficientes para adquirir un derecho real, sus otorgantes deben ser capaces y estar legitimados al efecto.
+
+A la adquisición por causa de muerte se le aplican las disposiciones del Libro Quinto.
+
+ARTICULO 1893.- Inoponibilidad. La adquisición o transmisión de derechos reales constituidos de conformidad a las disposiciones de este Código no son oponibles a terceros interesados y de buena fe mientras no tengan publicidad suficiente.
+
+Se considera publicidad suficiente la inscripción registral o la posesión, según el caso.
+
+Si el modo consiste en una inscripción constitutiva, la registración es presupuesto necesario y suficiente para la oponibilidad del derecho real.
+
+No pueden prevalerse de la falta de publicidad quienes participaron en los actos, ni aquellos que conocían o debían conocer la existencia del título del derecho real.
+
+ARTICULO 1894.- Adquisición legal. Se adquieren por mero efecto de la ley, los condominios con indivisión forzosa perdurable de accesorios indispensables al uso común de varios inmuebles y de muros, cercos y fosos cuando el cerramiento es forzoso, y el que se origina en la accesión de cosas muebles inseparables; la habitación del cónyuge y del conviviente supérstite, y los derechos de los adquirentes y subadquirentes de buena fe.
+
+ARTICULO 1895.- Adquisición legal de derechos reales sobre muebles por subadquirente. La posesión de buena fe del subadquirente de cosas muebles no registrables que no sean hurtadas o perdidas es suficiente para adquirir los derechos reales principales excepto que el verdadero propietario pruebe que la adquisición fue gratuita.
+
+Respecto de las cosas muebles registrables no existe buena fe sin inscripción a favor de quien la invoca.
+
+Tampoco existe buena fe aunque haya inscripción a favor de quien la invoca, si el respectivo régimen especial prevé la existencia de elementos identificatorios de la cosa registrable y éstos no son coincidentes.
+
+ARTICULO 1896.- Prohibición de constitución judicial. El juez no puede constituir un derecho real o imponer su constitución, excepto disposición legal en contrario.
+
+ARTICULO 1897.- Prescripción adquisitiva. La prescripción para adquirir es el modo por el cual el poseedor de una cosa adquiere un derecho real sobre ella, mediante la posesión durante el tiempo fijado por la ley.
+
+ARTICULO 1898.- Prescripción adquisitiva breve. La prescripción adquisitiva de derechos reales con justo título y buena fe se produce sobre inmuebles por la posesión durante diez años. Si la cosa es mueble hurtada o perdida el plazo es de dos años.
+
+Si la cosa es registrable, el plazo de la posesión útil se computa a partir de la registración del justo título.
+
+ARTICULO 1899.- Prescripción adquisitiva larga. Si no existe justo título o buena fe, el plazo es de veinte años.
+
+No puede invocarse contra el adquirente la falta o nulidad del título o de su inscripción, ni la mala fe de su posesión.
+
+También adquiere el derecho real el que posee durante diez años una cosa mueble registrable, no hurtada ni perdida, que no inscribe a su nombre pero la recibe del titular registral o de su cesionario sucesivo, siempre que los elementos identificatorios que se prevén en el respectivo régimen especial sean coincidentes.
+
+ARTICULO 1900.- Posesión exigible. La posesión para prescribir debe ser ostensible y continua.
+
+ARTICULO 1901.- Unión de posesiones. El heredero continúa la posesión de su causante.
+
+El sucesor particular puede unir su posesión a la de sus antecesores, siempre que derive inmediatamente de las otras. En la prescripción breve las posesiones unidas deben ser de buena fe y estar ligadas por un vínculo jurídico.
+
+ARTICULO 1902.- Justo título y buena fe. El justo título para la prescripción adquisitiva es el que tiene por finalidad transmitir un derecho real principal que se ejerce por la posesión, revestido de las formas exigidas para su validez, cuando su otorgante no es capaz o no está legitimado al efecto.
+
+La buena fe requerida en la relación posesoria consiste en no haber conocido ni podido conocer la falta de derecho a ella.
+
+Cuando se trata de cosas registrables, la buena fe requiere el examen previo de la documentación y constancias registrales, así como el cumplimiento de los actos de verificación pertinente establecidos en el respectivo régimen especial.
+
+ARTICULO 1903.- Comienzo de la posesión. Se presume, salvo prueba en contrario, que la posesión se inicia en la fecha del justo título, o de su registración si ésta es constitutiva.
+
+La sentencia declarativa de prescripción breve tiene efecto retroactivo al tiempo en que comienza la posesión, sin perjuicio de los derechos de terceros interesados de buena fe.
+
+ARTICULO 1904.- Normas aplicables. Se aplican a este Capítulo, en lo pertinente, las normas del Título I del Libro Sexto de este Código.
+
+ARTICULO 1905.- Sentencia de prescripción adquisitiva. La sentencia que se dicta en los juicios de prescripción adquisitiva, en proceso que debe ser contencioso, debe fijar la fecha en la cual, cumplido el plazo de prescripción, se produce la adquisición del derecho real respectivo.
+
+La sentencia declarativa de prescripción larga no tiene efecto retroactivo al tiempo en que comienza la posesión.
+
+La resolución que confiere traslado de la demanda o de la excepción de prescripción adquisitiva debe ordenar, de oficio, la anotación de la litis con relación al objeto, a fin de dar a conocer la pretensión.
+
+ARTICULO 1906.- Transmisibilidad. Todos los derechos reales son transmisibles, excepto disposición legal en contrario.
+
+ARTICULO 1907.- Extinción. Sin perjuicio de los medios de extinción de todos los derechos patrimoniales y de los especiales de los derechos reales, éstos se extinguen, por la destrucción total de la cosa si la ley no autoriza su reconstrucción, por su abandono, por la consolidación en los derechos reales sobre cosa ajena y por sentencia judicial que así lo disponga en un proceso de extinción de dominio.
+
+(Artículo sustituido por art. 2° del Decreto N° 62/2019 B.O. 22/1/2019. Vigencia: a partir de la fecha de su publicación)

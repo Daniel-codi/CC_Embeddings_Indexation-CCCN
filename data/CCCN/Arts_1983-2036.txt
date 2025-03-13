@@ -1,0 +1,190 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO CUARTO - DERECHOS REALES - TITULO 4
+TITULO 4: Condominio
+Articulos: 1983 a 2036
+
+-----------------------------------------
+TITULO IV
+
+Condominio
+
+CAPITULO 1
+
+Disposiciones generales
+
+ARTICULO 1983.- Condominio. Condominio es el derecho real de propiedad sobre una cosa que pertenece en común a varias personas y que corresponde a cada una por una parte indivisa. Las partes de los condóminos se presumen iguales, excepto que la ley o el título dispongan otra proporción.
+
+ARTICULO 1984.- Aplicaciones subsidiarias. Las normas de este Título se aplican, en subsidio de disposición legal o convencional, a todo supuesto de comunión de derechos reales o de otros bienes.
+
+Las normas que regulan el dominio se aplican subsidiariamente a este Título.
+
+ARTICULO 1985.- Destino de la cosa. El destino de la cosa común se determina por la convención, por la naturaleza de la cosa o por el uso al cual estaba afectada de hecho.
+
+ARTICULO 1986.- Uso y goce de la cosa. Cada condómino, conjunta o individualmente, puede usar y gozar de la cosa común sin alterar su destino. No puede deteriorarla en su propio interés u obstaculizar el ejercicio de iguales facultades por los restantes condóminos.
+
+ARTICULO 1987.- Convenio de uso y goce. Los condóminos pueden convenir el uso y goce alternado de la cosa común o que se ejercite de manera exclusiva y excluyente sobre determinadas partes materiales.
+
+ARTICULO 1988.- Uso y goce excluyente. El uso y goce excluyente sobre toda la cosa, en medida mayor o calidad distinta a la convenida, no da derecho a indemnización a los restantes condó-minos, sino a partir de la oposición fehaciente y sólo en beneficio del oponente.
+
+ARTICULO 1989.- Facultades con relación a la parte indivisa. Cada condómino puede enajenar y gravar la cosa en la medida de su parte indivisa sin el asentimiento de los restantes condóminos. Los acreedores pueden embargarla y ejecutarla sin esperar el resultado de la partición, que les es inoponible. La renuncia del condómino a su parte acrece a los otros condóminos.
+
+ARTICULO 1990.- Disposición y mejoras con relación a la cosa. La disposición jurídica o material de la cosa, o de alguna parte determinada de ella, sólo puede hacerse con la conformidad de todos los condóminos. No se requiere acuerdo para realizar mejoras necesarias. Dentro de los límites de uso y goce de la cosa común, cada condómino puede también, a su costa, hacer en la cosa mejoras útiles que sirvan a su mejor aprovechamiento.
+
+ARTICULO 1991.- Gastos. Cada condómino debe pagar los gastos de conservación y reparación de la cosa y las mejoras necesarias y reembolsar a los otros lo que hayan pagado en exceso con relación a sus partes indivisas. No puede liberarse de estas obligaciones por la renuncia a su derecho.
+
+El condómino que abona tales gastos puede reclamar intereses desde la fecha del pago.
+
+ARTICULO 1992.- Deudas en beneficio de la comunidad. Si un condómino contrae deudas en beneficio de la comunidad, es el único obligado frente al tercero acreedor, pero tiene acción contra los otros para el reembolso de lo pagado.
+
+Si todos se obligaron sin expresión de cuotas y sin estipular solidaridad, deben satisfacer la deuda por partes iguales. Quien ha pagado de más con respecto a la parte indivisa que le corresponde, tiene derecho contra los otros, para que le restituyan lo pagado en esa proporción.
+
+CAPITULO 2
+
+Administración
+
+ARTICULO 1993.- Imposibilidad de uso y goce en común. Si no es posible el uso y goce en común por razones atinentes a la propia cosa o por la oposición de alguno de los condóminos, éstos reunidos en asamblea deben decidir sobre su administración.
+
+ARTICULO 1994.- Asamblea. Todos los condóminos deben ser informados de la finalidad de la convocatoria y citados a la asamblea en forma fehaciente y con anticipación razonable.
+
+La resolución de la mayoría absoluta de los condóminos computada según el valor de las partes indivisas aunque corresponda a uno solo, obliga a todos. En caso de empate, debe decidir la suerte.
+
+ARTICULO 1995.- Frutos. No habiendo estipulación en contrario, los frutos de la cosa común se deben dividir proporcionalmente al interés de los condóminos.
+
+CAPITULO 3
+
+Condominio sin indivisión forzosa
+
+SECCION UNICA
+
+Partición
+
+ARTICULO 1996.- Reglas aplicables. Rigen para el condominio las reglas de la división de la herencia, en tanto sean compatibles.
+
+ARTICULO 1997.- Derecho a pedir la partición. Excepto que se haya convenido la indivisión, todo condómino puede, en cualquier tiempo, pedir la partición de la cosa. La acción es imprescriptible.
+
+ARTICULO 1998.- Adquisición por un condómino. Sin perjuicio de lo dispuesto en las reglas para la división de la herencia, también se considera partición el supuesto en que uno de los condóminos deviene propietario de toda la cosa.
+
+CAPITULO 4
+
+Condominio con indivisión forzosa temporaria
+
+ARTICULO 1999.- Renuncia a la acción de partición. El condómino no puede renunciar a ejercer la acción de partición por tiempo indeterminado.
+
+ARTICULO 2000.- Convenio de suspensión de la partición. Los condóminos pueden convenir suspender la partición por un plazo que no exceda de diez años. Si la convención no fija plazo, o tiene un plazo incierto o superior a diez años, se considera celebrada por ese tiempo. El plazo que sea inferior a diez años puede ser ampliado hasta completar ese límite máximo.
+
+ARTICULO 2001.- Partición nociva. Cuando la partición es nociva para cualquiera de los condóminos, por circunstancias graves, o perjudicial a los intereses de todos o al aprovechamiento de la cosa, según su naturaleza y destino económico, el juez puede disponer su postergación por un término adecuado a las circunstancias y que no exceda de cinco años. Este término es renovable por una vez.
+
+ARTICULO 2002.- Partición anticipada. A petición de parte, siempre que concurran circunstancias graves, el juez puede autorizar la partición antes del tiempo previsto, haya sido la indivisión convenida u ordenada judicialmente.
+
+ARTICULO 2003.- Publicidad de la indivisión o su cese. Las cláusulas de indivisión o el cese anticipado de la indivisión sólo producen efecto respecto de terceros cuando se inscriban en el respectivo registro de la propiedad.
+
+CAPITULO 5
+
+Condominio con indivisión forzosa perdurable
+
+SECCION 1ª
+
+Condominio sobre accesorios indispensables
+
+ARTICULO 2004.- Indivisión forzosa sobre accesorios indispensables. Existe indivisión forzosa cuando el condominio recae sobre cosas afectadas como accesorios indispensables al uso común de dos o más heredades que pertenecen a diversos propietarios. Mientras subsiste la afectación, ninguno de los condóminos puede pedir la división.
+
+ARTICULO 2005.- Uso de la cosa común. Cada condómino sólo puede usar la cosa común para la necesidad de los inmuebles a los que está afectada y sin perjudicar el derecho igual de los restantes condóminos.
+
+SECCION 2ª
+
+Condominio sobre muros, cercos y fosos
+
+ARTICULO 2006.- Muro, cerco o foso. El muro, cerco o foso se denomina:
+
+a) lindero, separativo o divisorio: al que demarca un inmueble y lo delimita del inmueble colindante;
+
+b) encaballado: al lindero que se asienta parcialmente en cada uno de los inmuebles colindantes;
+
+c) contiguo: al lindero que se asienta totalmente en uno de los inmuebles colindantes, de modo que el filo coincide con el límite separativo;
+
+d) medianero: al lindero que es común y pertenece en condominio a ambos colindantes;
+
+e) privativo o exclusivo: al lindero que pertenece a uno solo de los colindantes;
+
+f) de cerramiento: al lindero de cerramiento forzoso, sea encaballado o contiguo;
+
+g) de elevación: al lindero que excede la altura del muro de cerramiento;
+
+h) enterrado: al ubicado debajo del nivel del suelo sin servir de cimiento a una construcción en la superficie.
+
+ARTICULO 2007.- Cerramiento forzoso urbano. Cada uno de los propietarios de inmuebles ubicados en un núcleo de población o en sus arrabales tiene frente al titular colindante, el derecho y la obligación recíprocos, de construir un muro lindero de cerramiento, al que puede encaballar en el inmueble colindante, hasta la mitad de su espesor.
+
+ARTICULO 2008.- Muro de cerramiento forzoso. El muro de cerramiento forzoso debe ser estable, aislante y de altura no menor a tres metros contados desde la intersección del límite con la superficie de los inmuebles. Esta medida es subsidiaria de las que disponen las reglamentaciones locales.
+
+ARTICULO 2009.- Adquisición de la medianería. El muro construido conforme a lo dispuesto en el artículo 2008 es medianero hasta la altura de tres metros. También es medianero el muro de elevación, si el titular colindante de un derecho real sobre cosa total o parcialmente propia, adquiere la copropiedad por contrato con quien lo construye, o por prescripción adquisitiva.
+
+ARTICULO 2010.- Presunciones. A menos que se pruebe lo contrario, el muro lindero entre dos edificios de una altura mayor a los tres metros, se presume medianero desde esa altura hasta la línea común de elevación. A partir de esa altura se presume privativo del dueño del edificio más alto.
+
+ARTICULO 2011.- Epoca de las presunciones. Las presunciones del artículo 2010 se establecen a la fecha de construcción del muro y subsisten aunque se destruya total o parcialmente.
+
+ARTICULO 2012.- Exclusión de las presunciones. Las presunciones de los artículos anteriores no se aplican cuando el muro separa patios, huertos y jardines de un edificio o a éstos entre sí.
+
+ARTICULO 2013.- Prueba. La prueba del carácter medianero o privativo de un muro o la que desvirtúa las presunciones legales al respecto, debe provenir de instrumento público o privado que contenga actos comunes a los dos titulares colindantes, o a sus antecesores, o surgir de signos materiales inequívocos.
+
+La prueba resultante de los títulos prevalece sobre la de los signos.
+
+ARTICULO 2014.- Cobro de la medianería. El que construye el muro de cerramiento contiguo tiene derecho a reclamar al titular colindante la mitad del valor del terreno, del muro y de sus cimientos. Si lo construye encaballado, sólo puede exigir la mitad del valor del muro y de sus cimientos.
+
+ARTICULO 2015.- Mayor valor por características edilicias. No puede reclamar el mayor valor originado por las características edilicias del muro y de sus cimientos, con relación a la estabilidad y aislación de agentes exteriores, que exceden los estándares del lugar.
+
+ARTICULO 2016.- Adquisición y cobro de los muros de elevación y enterrado. El titular colindante de un muro de elevación o enterrado, sólo tiene derecho a adquirir la medianería como está construido, aunque exceda los estándares del lugar.
+
+ARTICULO 2017.- Derecho del que construye el muro. El que construye el muro de elevación sólo tiene derecho a reclamar al titular colindante la mitad del valor del muro, desde que éste lo utilice efectivamente para sus fines específicos.
+
+El mismo derecho tiene quien construye un muro enterrado, o quien prolonga el muro preexistente en profundidad mayor que la requerida para su cimentación.
+
+ARTICULO 2018.- Medida de la obligación. El titular colindante tiene la obligación de pagar el muro de cerramiento en toda su longitud y el de elevación sólo en la parte que utilice efectivamente.
+
+ARTICULO 2019.- Valor de la medianería. El valor computable de la medianería es el del muro, cimientos o terreno, según corresponda, a la fecha de la mora.
+
+ARTICULO 2020.- Inicio del curso de la prescripción extintiva. El curso de la prescripción de la acción de cobro de la medianería respecto al muro de cerramiento se inicia desde el comienzo de su construcción; y respecto al de elevación o al enterrado, desde su utilización efectiva por el titular colindante.
+
+ARTICULO 2021.- Facultades materiales. Prolongación. El condómino puede adosar construcciones al muro, anclarlas en él, empotrar todo tipo de tirantes y abrir cavidades, aun en la totalidad de su espesor, siempre que del ejercicio regular de ese derecho no resulte peligro para la solidez del muro.
+
+ARTICULO 2022.- Prolongación del muro. El condómino puede prolongar el muro lindero en altura o profundidad, a su costa, sin indemnizar al otro condómino por el mayor peso que cargue sobre el muro. La nueva extensión es privativa del que la hizo.
+
+ARTICULO 2023.- Restitución del muro al estado anterior. Si el ejercicio de estas facultades genera perjuicio para el condómino, éste puede pedir que el muro se restituya a su estado anterior, total o parcialmente.
+
+ARTICULO 2024.- Reconstrucción. El condómino puede demoler el muro lindero cuando necesite hacerlo más firme, pero debe reconstruirlo con altura y estabilidad no menores que las del demolido.
+
+Si en la reconstrucción se prolonga el muro en altura o profundidad, se aplica lo dispuesto en el artículo 2022.
+
+ARTICULO 2025.- Utilización de superficie mayor. Si para la reconstrucción se utiliza una superficie mayor que la anterior, debe ser tomada del terreno del que la realiza y el nuevo muro, aunque construido por uno de los propietarios, es medianero hasta la altura del antiguo y en todo su espesor.
+
+ARTICULO 2026.- Diligencia en la reconstrucción. La reconstrucción debe realizarla a su costa, y el otro condómino no puede reclamar indemnización por las meras molestias, si la reconstrucción es efectuada con la diligencia adecuada según las reglas del arte.
+
+ARTICULO 2027.- Mejoras en la medianería urbana. Los condóminos están obligados, en la proporción de sus derechos, a pagar los gastos de reparaciones o reconstrucciones de la pared como mejoras necesarias, pero no están obligados si se trata de gastos de mejoras útiles o suntuarias que no son beneficiosas para el titular colindante.
+
+ARTICULO 2028.- Abdicación de la medianería. El condómino requerido para el pago de créditos originados por la construcción, conservación o reconstrucción de un muro, puede liberarse mediante la abdicación de su derecho de medianería aun en los lugares donde el cerramiento es forzoso, a menos que el muro forme parte de una construcción que le pertenece o la deuda se haya originado en un hecho propio.
+
+No puede liberarse mediante la abdicación del derecho sobre el muro elevado o enterrado si mantiene su derecho sobre el muro de cerramiento.
+
+ARTICULO 2029.- Alcance de la abdicación. La abdicación del derecho de medianería por el condómino implica enajenar todo derecho sobre el muro y el terreno en el que se asienta.
+
+ARTICULO 2030.- Readquisición de la medianería. El que abdicó la medianería puede readquirirla en cualquier tiempo pagándola, como si nunca la hubiera tenido antes.
+
+ARTICULO 2031.- Cerramiento forzoso rural. El titular de un derecho real sobre cosa total o parcialmente propia, de un inmueble ubicado fuera de un núcleo de población o de sus aledaños, tiene el derecho a levantar o excavar un cerramiento, aunque no sea un muro en los términos del cerramiento forzoso. También tiene la obligación de contribuir al cerramiento si su predio queda completamente cerrado.
+
+ARTICULO 2032.- Atribución, cobro y derechos en la medianería rural. El cerramiento es siempre medianero, aunque sea excavado.
+
+El que realiza el cerramiento tiene derecho a reclamar al condómino la mitad del valor que corresponde a un cerramiento efectuado conforme a los estándares del lugar.
+
+ARTICULO 2033.- Aplicación subsidiaria. Lo dispuesto sobre muros medianeros en cuanto a los derechos y obligaciones de los condóminos entre sí, rige, en lo que es aplicable, en la medianería rural.
+
+ARTICULO 2034.- Condominio de árboles y arbustos. Es medianero el árbol y arbusto contiguo o encaballado con relación a muros, cercos o fosos linderos, tanto en predios rurales como urbanos.
+
+ARTICULO 2035.- Perjuicio debido a un árbol o arbusto. Cualquiera de los condóminos puede exigir, en cualquier tiempo, si le causa perjuicio, que el árbol o arbusto sea arrancado a costa de ambos, excepto que se lo pueda evitar mediante el corte de ramas o raíces.
+
+ARTICULO 2036.- Reemplazo del árbol o arbusto. Si el árbol o arbusto se cae o seca, sólo puede reemplazarse con el consentimiento de ambos condóminos.

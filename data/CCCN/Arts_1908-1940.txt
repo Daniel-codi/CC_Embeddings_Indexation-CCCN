@@ -1,0 +1,148 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO CUARTO - DERECHOS REALES - TITULO 2
+TITULO 2: Posesión y tenencia
+Articulos: 1908 a 1940
+
+-----------------------------------------
+TITULO II
+
+Posesión y tenencia
+
+CAPITULO 1
+
+Disposiciones generales
+
+ARTICULO 1908.- Enumeración. Las relaciones de poder del sujeto con una cosa son la posesión y la tenencia.
+
+ARTICULO 1909.- Posesión. Hay posesión cuando una persona, por sí o por medio de otra, ejerce un poder de hecho sobre una cosa, comportándose como titular de un derecho real, lo sea o no.
+
+ARTICULO 1910.- Tenencia. Hay tenencia cuando una persona, por sí o por medio de otra, ejerce un poder de hecho sobre una cosa, y se comporta como representante del poseedor.
+
+ARTICULO 1911.- Presunción de poseedor o servidor de la posesión. Se presume, a menos que exista prueba en contrario, que es poseedor quien ejerce un poder de hecho sobre una cosa. Quien utiliza una cosa en virtud de una relación de dependencia, servicio, hospedaje u hospitalidad, se llama, en este Código, servidor de la posesión.
+
+ARTICULO 1912.- Objeto y sujeto plural. El objeto de la posesión y de la tenencia es la cosa determinada. Se ejerce por una o varias personas sobre la totalidad o una parte material de la cosa.
+
+ARTICULO 1913.- Concurrencia. No pueden concurrir sobre una cosa varias relaciones de poder de la misma especie que se excluyan entre sí.
+
+ARTICULO 1914.- Presunción de fecha y extensión. Si media título se presume que la relación de poder comienza desde la fecha del título y tiene la extensión que en él se indica.
+
+ARTICULO 1915.- Interversión. Nadie puede cambiar la especie de su relación de poder, por su mera voluntad, o por el solo transcurso del tiempo. Se pierde la posesión cuando el que tiene la cosa a nombre del poseedor manifiesta por actos exteriores la intención de privar al poseedor de disponer de la cosa, y sus actos producen ese efecto.
+
+ARTICULO 1916.- Presunción de legitimidad. Las relaciones de poder se presumen legítimas, a menos que exista prueba en contrario. Son ilegítimas cuando no importan el ejercicio de un derecho real o personal constituido de conformidad con las previsiones de la ley.
+
+ARTICULO 1917.- Innecesariedad de título. El sujeto de la relación de poder sobre una cosa no tiene obligación de producir su título a la posesión o a la tenencia, sino en el caso que deba exhibirlo como obligación inherente a su relación de poder.
+
+ARTICULO 1918.- Buena fe. El sujeto de la relación de poder es de buena fe si no conoce, ni puede conocer que carece de derecho, es decir, cuando por un error de hecho esencial y excusable está persuadido de su legitimidad.
+
+ARTICULO 1919.- Presunción de buena fe. La relación de poder se presume de buena fe, a menos que exista prueba en contrario.
+
+La mala fe se presume en los siguientes casos:
+
+a) cuando el título es de nulidad manifiesta;
+
+b) cuando se adquiere de persona que habitualmente no hace tradición de esa clase de cosas y carece de medios para adquirirlas;
+
+c) cuando recae sobre ganado marcado o señalado, si el diseño fue registrado por otra persona.
+
+ARTICULO 1920.- Determinación de buena o mala fe. La buena o mala fe se determina al comienzo de la relación de poder, y permanece invariable mientras no se produce una nueva adquisición.
+
+No siendo posible determinar el tiempo en que comienza la mala fe, se debe estar al día de la citación al juicio.
+
+ARTICULO 1921.- Posesión viciosa. La posesión de mala fe es viciosa cuando es de cosas muebles adquiridas por hurto, estafa, o abuso de confianza; y cuando es de inmuebles, adquiridos por violencia, clandestinidad, o abuso de confianza. Los vicios de la posesión son relativos respecto de aquel contra quien se ejercen. En todos los casos, sea por el mismo que causa el vicio o por sus agentes, sea contra el poseedor o sus representantes.
+
+CAPITULO 2
+
+Adquisición, ejercicio, conservación y extinción
+
+ARTICULO 1922.- Adquisición de poder. Para adquirir una relación de poder sobre una cosa, ésta debe establecerse voluntariamente:
+
+a) por sujeto capaz, excepto las personas menores de edad, para quienes es suficiente que tengan diez años;
+
+b) por medio de un contacto con la cosa, de la posibilidad física de establecerlo, o cuando ella ingresa en el ámbito de custodia del adquirente.
+
+ARTICULO 1923.- Modos de adquisición. Las relaciones de poder se adquieren por la tradición. No es necesaria la tradición, cuando la cosa es tenida a nombre del propietario, y éste pasa la posesión a quien la tenía a su nombre, o cuando el que la poseía a nombre del propietario, principia a poseerla a nombre de otro, quien la adquiere desde que el tenedor queda notificado de la identidad del nuevo poseedor. Tampoco es necesaria cuando el poseedor la transfiere a otro, reservándose la tenencia y constituyéndose en representante del nuevo poseedor. La posesión se adquiere asimismo por el apoderamiento de la cosa.
+
+ARTICULO 1924.- Tradición. Hay tradición cuando una parte entrega una cosa a otra que la recibe. Debe consistir en la realización de actos materiales de, por lo menos, una de las partes, que otorguen un poder de hecho sobre la cosa, los que no se suplen, con relación a terceros, por la mera declaración del que entrega de darla a quien la recibe, o de éste de recibirla.
+
+ARTICULO 1925.- Otras formas de tradición. También se considera hecha la tradición de cosas muebles, por la entrega de conocimientos, cartas de porte, facturas u otros documentos de conformidad con las reglas respectivas, sin oposición alguna, y si son remitidas por cuenta y orden de otro, cuando el remitente las entrega a quien debe transportarlas, si el adquirente aprueba el envío.
+
+ARTICULO 1926.- Relación de poder vacua. Para adquirir por tradición la posesión o la tenencia, la cosa debe estar libre de toda relación excluyente, y no debe mediar oposición alguna.
+
+ARTICULO 1927.- Relación de poder sobre universalidad de hecho. La relación de poder sobre una cosa compuesta de muchos cuerpos distintos y separados, pero unidos bajo un mismo nombre, como un rebaño o una piara, abarca sólo las partes individuales que comprende la cosa.
+
+ARTICULO 1928.- Actos posesorios. Constituyen actos posesorios sobre la cosa los siguientes: su cultura, percepción de frutos, amojonamiento o impresión de signos materiales, mejora, exclusión de terceros y, en general, su apoderamiento por cualquier modo que se obtenga.
+
+ARTICULO 1929.- Conservación. La relación de poder se conserva hasta su extinción, aunque su ejercicio esté impedido por alguna causa transitoria.
+
+ARTICULO 1930.- Presunción de continuidad. Se presume, a menos que exista prueba en contrario, que el sujeto actual de la posesión o de la tenencia que prueba haberla ejercitado anteriormente, la mantuvo durante el tiempo intermedio.
+
+ARTICULO 1931.- Extinción. La posesión y la tenencia se extinguen cuando se pierde el poder de hecho sobre la cosa.
+
+En particular, hay extinción cuando:
+
+a) se extingue la cosa;
+
+b) otro priva al sujeto de la cosa;
+
+c) el sujeto se encuentra en la imposibilidad física perdurable de ejercer la posesión o la tenencia;
+
+d) desaparece la probabilidad razonable de hallar la cosa perdida;
+
+e) el sujeto hace abandono expreso y voluntario de la cosa.
+
+CAPITULO 3
+
+Efectos de las relaciones de poder
+
+ARTICULO 1932.- Derechos inherentes a la posesión. El poseedor y el tenedor tienen derecho a ejercer las servidumbres reales que corresponden a la cosa que constituye su objeto. También tienen derecho a exigir el respeto de los límites impuestos en el Capítulo 4, Título III de este Libro.
+
+ARTICULO 1933.- Deberes inherentes a la posesión. El poseedor y el tenedor tienen el deber de restituir la cosa a quien tenga el derecho de reclamarla, aunque no se haya contraído obligación al efecto.
+
+Deben respetar las cargas reales, las medidas judiciales inherentes a la cosa, y los límites impuestos en el Capítulo 4, Título III de este Libro.
+
+ARTICULO 1934.- Frutos y mejoras. En este Código se entiende por:
+
+a) fruto percibido: el que separado de la cosa es objeto de una nueva relación posesoria. Si es fruto civil, se considera percibido el devengado y cobrado;
+
+b) fruto pendiente: el todavía no percibido. Fruto civil pendiente es el devengado y no cobrado;
+
+c) mejora de mero mantenimiento: la reparación de deterioros menores originados por el uso ordinario de la cosa;
+
+d) mejora necesaria: la reparación cuya realización es indispensable para la conservación de la cosa;
+
+e) mejora útil: la beneficiosa para cualquier sujeto de la relación posesoria;
+
+f) mejora suntuaria: la de mero lujo o recreo o provecho exclusivo para quien la hizo.
+
+ARTICULO 1935.- Adquisición de frutos o productos según la buena o mala fe. La buena fe del poseedor debe existir en cada hecho de percepción de frutos; y la buena o mala fe del que sucede en la posesión de la cosa se juzga sólo con relación al sucesor y no por la buena o mala fe de su antecesor, sea la sucesión universal o particular.
+
+El poseedor de buena fe hace suyos los frutos percibidos y los naturales devengados no percibidos. El de mala fe debe restituir los percibidos y los que por su culpa deja de percibir. Sea de buena o mala fe, debe restituir los productos que haya obtenido de la cosa.
+
+Los frutos pendientes corresponden a quien tiene derecho a la restitución de la cosa.
+
+ARTICULO 1936.- Responsabilidad por destrucción según la buena o mala fe. El poseedor de buena fe no responde de la destrucción total o parcial de la cosa, sino hasta la concurrencia del provecho subsistente. El de mala fe responde de la destrucción total o parcial de la cosa, excepto que se hubiera producido igualmente de estar la cosa en poder de quien tiene derecho a su restitución.
+
+Si la posesión es viciosa, responde de la destrucción total o parcial de la cosa, aunque se hubiera producido igualmente de estar la cosa en poder de quien tiene derecho a su restitución.
+
+ARTICULO 1937.- Transmisión de obligaciones al sucesor. El sucesor particular sucede a su antecesor en las obligaciones inherentes a la posesión sobre la cosa; pero el sucesor particular responde sólo con la cosa sobre la cual recae el derecho real. El antecesor queda liberado, excepto estipulación o disposición legal.
+
+ARTICULO 1938.- Indemnización y pago de mejoras. Ningún sujeto de relación de poder puede reclamar indemnización por las mejoras de mero mantenimiento ni por las suntuarias. Estas últimas pueden ser retiradas si al hacerlo no se daña la cosa. Todo sujeto de una relación de poder puede reclamar el costo de las mejoras necesarias, excepto que se hayan originado por su culpa si es de mala fe. Puede asimismo reclamar el pago de las mejoras útiles pero sólo hasta el mayor valor adquirido por la cosa. Los acrecentamientos originados por hechos de la naturaleza en ningún caso son indemnizables.
+
+ARTICULO 1939.- Efectos propios de la posesión. La posesión tiene los efectos previstos en los artículos 1895 y 1897 de este Código.
+
+A menos que exista disposición legal en contrario, el poseedor debe satisfacer el pago total de los impuestos, tasas y contribuciones que graven la cosa y cumplir la obligación de cerramiento.
+
+ARTICULO 1940.- Efectos propios de la tenencia. El tenedor debe:
+
+a) conservar la cosa, pero puede reclamar al poseedor el reintegro de los gastos;
+
+b) individualizar y comunicar al poseedor de quien es representante si se lo perturba en razón de la cosa, y de no hacerlo, responde por los daños ocasionados al poseedor y pierde la garantía por evicción, si ésta corresponde;
+
+c) restituir la cosa a quien tenga derecho a reclamarla, previa citación fehaciente de los otros que la pretenden.

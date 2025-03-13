@@ -1,0 +1,346 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO QUINTO - TRANSMISIÓN DE DERECHOS POR CAUSA DE MUERTE - TITULO 11
+TITULO 11: Sucesiones testamentarias
+Articulos:   2462 a 2531
+
+-----------------------------------------
+TITULO XI
+
+Sucesiones testamentarias
+
+CAPITULO 1
+
+Disposiciones generales
+
+ARTICULO 2462.- Testamento. Las personas humanas pueden disponer libremente de sus bienes para después de su muerte, respetando las porciones legítimas establecidas en el Título X de este Libro, mediante testamento otorgado con las solemnidades legales; ese acto también puede incluir disposiciones extrapatrimoniales.
+
+ARTICULO 2463.- Reglas aplicables. Las reglas establecidas para los actos jurídicos se aplican a los testamentos en cuanto no sean alteradas por las disposiciones de este Título.
+
+ARTICULO 2464.- Edad para testar. Pueden testar las personas mayores de edad al tiempo del acto.
+
+ARTICULO 2465.- Expresión personal de la voluntad del testador. Las disposiciones testamentarias deben ser la expresión directa de la voluntad del testador, y bastarse a sí mismas. La facultad de testar es indelegable. Las disposiciones testamentarias no pueden dejarse al arbitrio de un tercero.
+
+No es válido el testamento otorgado conjuntamente por dos o más personas.
+
+ARTICULO 2466.- Ley que rige la validez del testamento. El contenido del testamento, su validez o nulidad, se juzga según la ley vigente al momento de la muerte del testador.
+
+ARTICULO 2467.- Nulidad del testamento y de disposiciones testamentarias. Es nulo el testamento o, en su caso, la disposición testamentaria:
+
+a) por violar una prohibición legal;
+
+b) por defectos de forma;
+
+c) por haber sido otorgado por persona privada de la razón en el momento de testar. La falta de razón debe ser demostrada por quien impugna el acto;
+
+d) por haber sido otorgado por persona judicialmente declarada incapaz. Sin embargo, ésta puede otorgar testamento en intervalos lúcidos que sean suficientemente ciertos como para asegurar que la enfermedad ha cesado por entonces;
+
+e) por ser el testador una persona que padece limitaciones en su aptitud para comunicarse en forma oral y, además, no saber leer ni escribir, excepto que lo haga por escritura pública, con la participación de un intérprete en el acto;
+
+f) por haber sido otorgado con error, dolo o violencia;
+
+g) por favorecer a persona incierta, a menos que por alguna circunstancia pueda llegar a ser cierta.
+
+ARTICULO 2468.- Condición y cargo prohibidos. Las condiciones y cargos constituidos por hechos imposibles, prohibidos por la ley, o contrarios a la moral, son nulos pero no afectan la validez de las disposiciones sujetas a ellos.
+
+ARTICULO 2469.- Acción de nulidad. Cualquier interesado puede demandar la nulidad del testamento o de alguna de sus cláusulas a menos que, habiéndolo conocido, haya ratificado las disposiciones testamentarias o las haya cumplido espontáneamente.
+
+ARTICULO 2470.- Interpretación. Las disposiciones testamentarias deben interpretarse adecuándolas a la voluntad real del causante según el contexto total del acto. Las palabras empleadas deben ser entendidas en el sentido corriente, excepto que surja claro que el testador quiso darles un sentido técnico. Se aplican, en cuanto sean compatibles, las demás reglas de interpretación de los contratos.
+
+ARTICULO 2471.- Obligación de denunciar la existencia del testamento. Quien participa en el otorgamiento de un testamento o en cuyo poder se encuentra, está obligado a comunicarlo a las personas interesadas, una vez acaecida la muerte del testador.
+
+CAPITULO 2
+
+Formas de los testamentos
+
+SECCION 1ª
+
+Disposiciones generales
+
+ARTICULO 2472.- Ley que rige la forma. La ley vigente al tiempo de testar rige la forma del testamento.
+
+ARTICULO 2473.- Requisitos formales. El testamento puede otorgarse sólo en alguna de las formas previstas en este Código. Las formalidades determinadas por la ley para una clase de testamento no pueden extenderse a las de otra especie.
+
+La observancia de las solemnidades impuestas debe resultar del mismo testamento, sin que se pueda suplir por prueba alguna.
+
+ARTICULO 2474.- Sanción por inobservancia de las formas. La inobservancia de las formas requeridas para otorgar el testamento causa su nulidad total; pero, satisfechas las formas legales, la nulidad de una o de varias cláusulas no perjudica las restantes partes del acto.
+
+El empleo de formalidades sobreabundantes no vicia el testamento.
+
+ARTICULO 2475.- Confirmación del testamento nulo por inobservancia de las formalidades. El testador sólo puede confirmar las disposiciones de un testamento nulo por inobservancia de las formalidades reproduciéndolas en otro testamento otorgado con los requisitos formales pertinentes.
+
+ARTICULO 2476.- Firma. Cuando en los testamentos se requiera la firma, debe escribírsela tal como el autor de ella acostumbra firmar los instrumentos públicos o privados. Los errores de ortografía o la omisión de letras no vician necesariamente la firma, quedando su validez librada a la apreciación judicial.
+
+SECCION 2ª
+
+Testamento ológrafo
+
+ARTICULO 2477.- Requisitos. El testamento ológrafo debe ser íntegramente escrito con los caracteres propios del idioma en que es otorgado, fechado y firmado por la mano misma del testador.
+
+La falta de alguna de estas formalidades invalida el acto, excepto que contenga enunciaciones o elementos materiales que permitan establecer la fecha de una manera cierta.
+
+La firma debe estar después de las disposiciones, y la fecha puede ponerse antes de la firma o después de ella.
+
+El error del testador sobre la fecha no perjudica la validez del acto, pero el testamento no es válido si aquél le puso voluntariamente una fecha falsa para violar una disposición de orden público.
+
+Los agregados escritos por mano extraña invalidan el testamento, sólo si han sido hechos por orden o con consentimiento del testador.
+
+ARTICULO 2478.- Discontinuidad. No es indispensable redactar el testamento ológrafo de una sola vez ni en la misma fecha. El testador puede consignar sus disposiciones en épocas diferentes, sea fechándolas y firmándolas por separado, o poniendo a todas ellas la fecha y la firma el día en que termine el testamento.
+
+SECCION 3ª
+
+Testamento por acto público
+
+ARTICULO 2479.- Requisitos. El testamento por acto público se otorga mediante escritura pública, ante el escribano autorizante y dos testigos hábiles, cuyo nombre y domicilio se deben consignar en la escritura.
+
+El testador puede dar al escribano sus disposiciones ya escritas o sólo darle por escrito o verbalmente las que el testamento debe contener para que las redacte en la forma ordinaria. En ningún caso las instrucciones escritas pueden ser invocadas contra el contenido de la escritura pública.
+
+Concluida la redacción del testamento, se procede a su lectura y firma por los testigos y el testador. Los testigos deben asistir desde el comienzo hasta el fin del acto sin interrupción, lo que debe hacer constar el escribano.
+
+A esta clase de testamento se aplican las disposiciones de los artículos 299 y siguientes.
+
+ARTICULO 2480.- Firma a ruego. Si el testador no sabe firmar, o no puede hacerlo, puede hacerlo por él otra persona o alguno de los testigos. En este caso los dos testigos deben saber firmar. Si el testador sabe firmar y manifiesta lo contrario, el testamento no es válido. Si sabiendo firmar, no puede hacerlo, el escribano debe explicitar la causa por la cual no puede firmar el testador.
+
+ARTICULO 2481.- Testigos. Pueden ser testigos de los testamentos las personas capaces al tiempo de otorgarse el acto.
+
+No pueden serlo, además de los enunciados en el artículo 295, los ascendientes, los descendientes, el cónyuge ni el conviviente del testador, ni los albaceas, tutores o curadores designados en el testamento, ni los beneficiarios de alguna de sus disposiciones.
+
+El testamento en que interviene un testigo incapaz o inhábil al efecto no es válido si, excluido éste, no quedan otros en número suficiente.
+
+CAPITULO 3
+
+Inhabilidad para suceder por testamento
+
+ARTICULO 2482.- Personas que no pueden suceder. No pueden suceder por testamento:
+
+a) los tutores y curadores a sus pupilos, si éstos mueren durante la tutela o curatela o antes de ser aprobadas las cuentas definitivas de la administración;
+
+b) el escribano y los testigos ante quienes se haya otorgado el testamento, por el acto en el cual han intervenido;
+
+c) los ministros de cualquier culto y los líderes o conductores espirituales que hayan asistido al causante en su última enfermedad.
+
+ARTICULO 2483.- Sanción. Las disposiciones testamentarias a favor de personas que no pueden suceder por testamento son de ningún valor, aun cuando se hagan a nombre de personas interpuestas. Se reputan tales, sin admitir prueba en contrario, los ascendientes, los descendientes, y el cónyuge o conviviente de la persona impedida de suceder.
+
+El fraude a la ley puede ser probado por cualquier medio.
+
+Los inhábiles para suceder por testamento que se encuentran en posesión de los bienes dejados por el testador son considerados de mala fe.
+
+CAPITULO 4
+
+Institución y sustitución de herederos y legatarios
+
+ARTICULO 2484.- Principio general. La institución de herederos y legatarios sólo puede ser hecha en el testamento y no debe dejar dudas sobre la identidad de la persona instituida.
+
+ARTICULO 2485.- Casos especiales. La institución a los parientes se entiende hecha a los de grado más próximo, según el orden de la sucesión intestada y teniendo en cuenta el derecho de representación. Si a la fecha del testamento hay un solo pariente en el grado más próximo, se entienden llamados al mismo tiempo los del grado siguiente.
+
+La institución a favor de simples asociaciones se entiende hecha a favor de las autoridades superiores respectivas del lugar del último domicilio del testador con cargo de aplicar los bienes a los fines indicados por el causante.
+
+La institución a los pobres se entiende hecha al Estado municipal del lugar del último domicilio del testador o la Ciudad Autónoma de Buenos Aires, en su caso, con cargo de aplicar los bienes a fines de asistencia social.
+
+La institución a favor del alma del testador o de otras personas se entiende hecha a la autoridad superior de la religión a la cual pertenece el testador, con cargo de aplicar los bienes a sufragios y fines de asistencia social.
+
+ARTICULO 2486.- Herederos universales. Los herederos instituidos sin asignación de partes suceden al causante por partes iguales y tienen vocación a todos los bienes de la herencia a los que el testador no haya dado un destino diferente.
+
+Si el testamento instituye uno o varios herederos con asignación de partes y otro u otros sin ella, a éstos corresponde el remanente de bienes después de haber sido satisfechas las porciones atribuidas por el testador. Si éstas absorben toda la herencia, se reducen proporcionalmente, de manera que cada heredero sin parte designada reciba tanto como el heredero instituido en la fracción menor.
+
+ARTICULO 2487.- Casos de institución de herederos universales. La institución de herederos universales no requiere el empleo de términos sacramentales. La constituyen especialmente:
+
+a) la atribución de la universalidad de los bienes de la herencia, aunque se limite a la nuda propiedad;
+
+b) el legado de lo que reste después de cumplidos los demás legados;
+
+c) los legados que absorben la totalidad de los bienes, si el testador confiere a los legatarios el derecho de acrecer.
+
+El heredero instituido en uno o más bienes determinados es legatario.
+
+ARTICULO 2488.- Herederos de cuota. Los herederos instituidos en una fracción de la herencia no tienen vocación a todos los bienes de ésta, excepto que deba entenderse que el testador ha querido conferirles ese llamado para el supuesto de que no puedan cumplirse, por cualquier causa, las demás disposiciones testamentarias.
+
+Si la adición de las fracciones consignadas en el testamento excede la unidad, se reducen proporcionalmente hasta ese límite. Si la suma de las fracciones no cubre todo el patrimonio, el remanente de los bienes corresponde a los herederos legítimos y, a falta de ellos, a los herederos instituidos en proporción a sus cuotas.
+
+ARTICULO 2489.- Derecho de acrecer. Cuando el testador instituye a varios herederos en una misma cuota, o atribuye un bien conjuntamente a varios legatarios, cada beneficiario aprovecha proporcionalmente de la parte perteneciente al heredero o legatario cuyo derecho se frustra o caduca.
+
+Los favorecidos por el acrecimiento quedan sujetos a las obligaciones y cargas que pesaban sobre la parte acrecida, excepto que sean de carácter personal.
+
+El derecho de acrecer se transmite a los herederos.
+
+ARTICULO 2490.- Legado de usufructo. La muerte del colegatario de usufructo, posterior a la del testador, no produce el acrecimiento de los otros colegatarios excepto disposición en contrario del testamento.
+
+ARTICULO 2491.- Sustitución. La facultad de instituir herederos o legatarios no importa el derecho de imponer un sucesor a los instituidos. La disposición que viola esta prohibición no afecta la validez de la institución, y tiene eficacia si puede valer en alguno de los dos casos del párrafo siguiente.
+
+El testador puede subrogar al instituido para el supuesto de que éste no quiera o no pueda aceptar la herencia o el legado. La sustitución establecida para uno de esos casos vale para el otro.
+
+El heredero o legatario sustituto queda sujeto a las mismas cargas y condiciones impuestas al sustituido si no aparece claramente que el testador quiso limitarlas al llamado en primer término.
+
+ARTICULO 2492.- Sustitución de residuo. No es válida la disposición del testador por la que llame a un tercero a recibir lo que reste de su herencia al morir el heredero o legatario instituido. La nulidad de esta disposición no perjudica los derechos de los instituidos.
+
+ARTICULO 2493.- Fideicomiso testamentario. El testador puede disponer un fideicomiso sobre toda la herencia, una parte indivisa o bienes determinados, y establecer instrucciones al heredero o legatario fiduciario, conforme a los recaudos establecidos en la Sección 8º, Capítulo 30, Título IV del Libro Tercero. La constitución del fideicomiso no debe afectar la legítima de los herederos forzosos, excepto el caso previsto en el artículo 2448.
+
+CAPITULO 5
+
+Legados
+
+ARTICULO 2494.- Normas aplicables. El heredero está obligado a cumplir los legados hechos por el testador conforme a lo dispuesto en este Código sobre las obligaciones en general, excepto disposición expresa en contrario de este Capítulo.
+
+ARTICULO 2495.- Legado sujeto al arbitrio de un tercero o del heredero. El legado no puede dejarse al arbitrio de un tercero ni del heredero.
+
+ARTICULO 2496.- Adquisición del legado. Modalidades. El derecho al legado se adquiere a partir de la muerte del testador o, en su caso, desde el cumplimiento de la condición a que está sujeto.
+
+El legado con cargo se rige por las disposiciones relativas a las donaciones sujetas a esa modalidad.
+
+ARTICULO 2497.- Bienes que pueden ser legados. Pueden ser legados todos los bienes que están en el comercio, aun los que no existen todavía pero que existirán después. El legatario de bienes determinados es propietario de ellos desde la muerte del causante y puede ejercer todas las acciones de que aquel era titular.
+
+ARTICULO 2498.- Legado de cosa cierta y determinada. El legatario de cosa cierta y determinada puede reivindicarla, con citación del heredero. Debe pedir su entrega al heredero, al administrador o al albacea, aunque la tenga en su poder por cualquier título.
+
+Los gastos de entrega del legado están a cargo de la sucesión.
+
+ARTICULO 2499.- Entrega del legado. El heredero debe entregar la cosa legada en el estado en que se encuentra a la muerte del testador, con todos sus accesorios.
+
+ARTICULO 2500.- Legado de cosa gravada. El heredero no está obligado a liberar la cosa legada de las cargas que soporta. El legatario responde por las obligaciones a cuya satisfacción está afectada la cosa legada, hasta la concurrencia del valor de ésta.
+
+ARTICULO 2501.- Legado de inmueble. El legado de un inmueble comprende las mejoras existentes, cualquiera que sea la época en que hayan sido realizadas. Los terrenos adquiridos por el testador después de testar, que constituyen una ampliación del fundo legado, se deben al legatario siempre que no sean susceptibles de explotación independiente.
+
+ARTICULO 2502.- Legado de género. El legado cuyo objeto está determinado genéricamente es válido aunque no exista cosa alguna de ese género en el patrimonio del testador.
+
+Si la elección ha sido conferida expresamente al heredero o al legatario, éstos pueden optar, respectivamente, por la cosa de peor o de mejor calidad. Si hay una sola cosa en el patrimonio del testador, con ella debe cumplirse el legado.
+
+ARTICULO 2503.- Evicción en el legado de cosa fungible y en el legado alternativo. Si ocurre la evicción de la cosa fungible entregada al legatario, éste puede reclamar la entrega de otra de la misma especie y calidad. Si el legado es alternativo, producida la evicción del bien entregado al legatario, éste puede pedir alguno de los otros comprendidos en la alternativa.
+
+ARTICULO 2504.- Legado con determinación del lugar. El legado de cosas que deben encontrarse en determinado lugar se cumple entregando la cantidad allí existente a la muerte del testador, aunque sea menor que la designada. Si es mayor, entregando la cantidad designada. Si no se encuentra cosa alguna, nada se debe.
+
+Si las cosas legadas han sido removidas temporariamente del lugar habitual de ubicación aludido en el testamento, el legado comprende las que subsistan en el patrimonio del testador hasta la concurrencia de la cantidad indicada por éste.
+
+ARTICULO 2505.- Legado de crédito. Legado de liberación. El legado de un crédito o la liberación de una deuda comprende la parte del crédito o de la deuda que subsiste a la muerte del testador y los intereses desde entonces. El heredero debe entregar al legatario las constancias de la obligación que el testador tenía en su poder.
+
+La liberación de deuda no comprende las obligaciones contraídas por el legatario con posterioridad a la fecha del testamento.
+
+ARTICULO 2506.- Legado al acreedor. Lo que el testador legue a su acreedor no se imputa al pago de la deuda, excepto disposición expresa en contrario.
+
+El reconocimiento de una deuda hecho en el testamento se considera un legado, excepto prueba en contrario.
+
+Si el testador manda pagar lo que erróneamente cree deber, la disposición se tiene por no escrita. Si manda pagar más de lo que debe, el exceso no se considera legado.
+
+ARTICULO 2507.- Legado de cosa ajena. El legado de cosa ajena no es válido, pero se convalida con la posterior adquisición de ella por el testador.
+
+El legado de cosa ajena es válido si el testador impone al heredero la obligación de adquirirla para transmitirla al legatario o a pagar a éste su justo precio si no puede obtenerla en condiciones equitativas.
+
+Si la cosa legada ha sido adquirida por el legatario antes de la apertura de la sucesión, se le debe su precio equitativo. El legado queda sin efecto si la adquisición es gratuita.
+
+ARTICULO 2508.- Legado de un bien en condominio. El legado de un bien cuya propiedad es común a varias personas transmite los derechos que corresponden al testador al tiempo de su muerte.
+
+El legado de un bien comprendido en una masa patrimonial común a varias personas es válido si el bien resulta adjudicado al testador antes de su muerte; en caso contrario, vale como legado de cantidad por el valor que tenía el bien al momento de la muerte del testador.
+
+ARTICULO 2509.- Legado de alimentos. El legado de alimentos comprende la instrucción adecuada a la condición y aptitudes del legatario, el sustento, vestido, vivienda y asistencia en las enfermedades hasta que alcance la mayoría de edad o recupere la capacidad.
+
+Si alcanzada la mayoría de edad por el legatario persiste su falta de aptitud para procurarse los alimentos, se extiende hasta que se encuentre en condiciones de hacerlo.
+
+El legado de alimentos a una persona capaz vale como legado de prestaciones periódicas en la medida dispuesta por el testador.
+
+ARTICULO 2510.- Legado de pago periódico. Cuando el legado es de cumplimiento periódico, se entiende que existen tantos legados cuantas prestaciones se deban cumplir.
+
+A partir de la muerte del testador se debe cada cuota íntegramente, con tal de que haya comenzado a transcurrir el período correspondiente, aun si el legatario fallece durante su transcurso.
+
+CAPITULO 6
+
+Revocación y caducidad de las disposiciones testamentarias
+
+ARTICULO 2511.- Revocabilidad. El testamento es revocable a voluntad del testador y no confiere a los instituidos derecho alguno hasta la apertura de la sucesión.
+
+La facultad de revocar el testamento o modificar sus disposiciones es irrenunciable e irrestringible.
+
+ARTICULO 2512.- Revocación expresa. La revocación expresa debe ajustarse a las formalidades propias de los testamentos.
+
+ARTICULO 2513.- Testamento posterior. El testamento posterior revoca al anterior si no contiene su confirmación expresa, excepto que de las disposiciones del segundo resulte la voluntad del testador de mantener las del primero en todo o en parte.
+
+ARTICULO 2514.- Revocación por matrimonio. El matrimonio contraído por el testador revoca el testamento anteriormente otorgado, excepto que en éste se instituya heredero al cónyuge o que de sus disposiciones resulte la voluntad de mantenerlas después del matrimonio.
+
+ARTICULO 2515.- Cancelación o destrucción del testamento ológrafo. El testamento ológrafo es revocado por su cancelación o destrucción hecha por el testador o por orden suya. Cuando existen varios ejemplares del testamento, éste queda revocado por la cancelación o destrucción de todos los originales, y también cuando ha quedado algún ejemplar sin ser cancelado o destruido por error, dolo o violencia sufridos por el testador.
+
+Si el testamento se encuentra total o parcialmente destruido o cancelado en casa del testador, se presume que la destrucción o cancelación es obra suya, mientras no se pruebe lo contrario.
+
+Las alteraciones casuales o provenientes de un extraño no afectan la eficacia del testamento con tal de que pueda identificarse la voluntad del testador por el testamento mismo.
+
+No se admite prueba alguna tendiente a demostrar las disposiciones de un testamento destruido antes de la muerte del testador, aunque la destrucción se haya debido a caso fortuito.
+
+ARTICULO 2516.- Revocación del legado por transmisión, transformación o gravamen de la cosa. La transmisión de la cosa legada revoca el legado, aunque el acto no sea válido por defecto de forma o la cosa vuelva al dominio del testador.
+
+El mismo efecto produce la promesa bilateral de compraventa, aunque el acto sea simulado.
+
+La subasta dispuesta judicialmente y la expropiación implican revocación del legado, excepto que la cosa vuelva a ser propiedad del testador.
+
+La transformación de la cosa debida al hecho del testador importa revocación del legado.
+
+La constitución de gravámenes sobre la cosa legada no revoca el legado.
+
+ARTICULO 2517.- Responsabilidad de los herederos. Si la cosa legada se pierde o deteriora por el hecho o culpa de uno de los herederos, sólo responde del legado el heredero por cuya culpa o hecho se ha perdido o deteriorado.
+
+ARTICULO 2518.- Caducidad de la institución por premoriencia. La institución de heredero o legatario caduca cuando el instituido muere antes que el testador o antes del cumplimiento de la condición de la que depende la adquisición de la herencia o el legado.
+
+ARTICULO 2519.- Caducidad del legado por perecimiento y por transformación de la cosa. El legado de cosa cierta y determinada caduca cuando ésta perece totalmente, por cualquier causa, antes de la apertura de la sucesión o del cumplimiento de la condición suspensiva a que estaba sometido; también cuando perece por caso fortuito, después de la apertura de la sucesión o del cumplimiento de la condición.
+
+Si la cosa legada perece parcialmente, el legado subsiste por la parte que se conserva.
+
+El legado caduca por la transformación de la cosa por causa ajena a la voluntad del testador, anterior a la muerte de éste o al cumplimiento de la condición suspensiva.
+
+ARTICULO 2520.- Revocación del legado por causa imputable al legatario. Los legados pueden ser revocados, a instancia de los interesados:
+
+a) por ingratitud del legatario que, después de haber entrado en el goce de los bienes legados, injuria gravemente la memoria del causante;
+
+b) por incumplimiento de los cargos impuestos por el testador si son la causa final de la disposición. En este caso, los herederos quedan obligados al cumplimiento de los cargos.
+
+ARTICULO 2521.- Renuncia del legatario. El legatario puede renunciar al legado en tanto no lo haya aceptado.
+
+Cualquier interesado puede pedir al juez la fijación de un plazo para que el instituido se pronuncie, bajo apercibimiento de tenerlo por renunciante.
+
+ARTICULO 2522.- Renuncia parcial. Legado plural. La renuncia de un legado no puede ser parcial. Si se han hecho dos o más legados a una misma persona, uno de los cuales es con cargo, no puede renunciar a éste y aceptar los legados libres.
+
+CAPITULO 7
+
+Albaceas
+
+ARTICULO 2523.- Atribuciones. Las atribuciones del albacea designado en el testamento son las conferidas por el testador y, en defecto de ello, las que según las circunstancias son necesarias para lograr el cumplimiento de su voluntad. El testador no puede dispensar al albacea de los deberes de inventariar los bienes y de rendir cuentas.
+
+Si el testador designa varios albaceas, el cargo es ejercido por cada uno de ellos en el orden en que están nombrados, excepto que el testador disponga el desempeño de todos conjuntamente. En tal caso, las decisiones deben ser tomadas por mayoría de albaceas y, faltando ésta, por el juez.
+
+ARTICULO 2524.- Forma de la designación. Capacidad. El nombramiento del albacea debe ajustarse a las formas testamentarias, aunque no se realice en el testamento cuya ejecución se encomienda.
+
+Pueden ser albaceas las personas humanas plenamente capaces al momento en que deben desempeñar el cargo, las personas jurídicas, y los organismos de la administración pública centralizada o descentralizada.
+
+Cuando se nombra a un funcionario público, la designación se estima ligada a la función, cualquiera que sea la persona que la sirve.
+
+ARTICULO 2525.- Delegación. El albacea no puede delegar el encargo recibido, el que no se transmite a sus herederos. No está obligado a obrar personalmente; le es permitido hacerlo por mandatarios que actúen a su costa y por su cuenta y riesgo, aun cuando el testador haya designado albacea subsidiario.
+
+Si el albacea actúa con patrocinio letrado, los honorarios del abogado patrocinarte sólo deben ser sufragados por la sucesión si sus trabajos resultan necesarios o razonablemente convenientes para el cumplimiento del albaceazgo.
+
+ARTICULO 2526.- Deberes y facultades del albacea. El albacea debe poner en seguridad el caudal hereditario y practicar el inventario de los bienes con citación de los interesados.
+
+Debe pagar los legados con conocimiento de los herederos y reservar los bienes de la herencia suficientes para proveer a las disposiciones del testador dándoles oportunamente el destino adecuado. Debe demandar a los herederos y legatarios por el cumplimiento de los cargos que el testador les haya impuesto.
+
+La oposición de los herederos o de alguno de ellos al pago de los legados, suspende su ejecución hasta la resolución de la controversia entre los herederos y los legatarios afectados.
+
+El albacea está obligado a rendir cuentas de su gestión a los herederos.
+
+ARTICULO 2527.- Responsabilidad. El albacea responde por los daños que el incumplimiento de sus deberes cause a herederos y legatarios.
+
+ARTICULO 2528.- Facultades de herederos y legatarios. Los herederos y los legatarios conservan las facultades cuyo desempeño no es atribuido por la ley o por el testador al albacea. Los herederos pueden solicitar la destitución del albacea por incapacidad sobreviniente, negligencia, insolvencia o mala conducta en el desempeño de la función, y en cualquier tiempo poner término a su cometido pagando las deudas y legados, o depositando los fondos necesarios a tal fin, o acordando al respecto con todos los interesados.
+
+Los herederos y legatarios pueden solicitar las garantías necesarias en caso de justo temor por la seguridad de los bienes que están en poder del albacea.
+
+ARTICULO 2529.- Supuesto de inexistencia de herederos. Cuando no hay herederos o cuando los legados insumen la totalidad del haber sucesorio y no hay derecho a acrecer entre los legatarios, el albacea es el representante de la sucesión, debiendo hacer inventario judicial de los bienes recibidos e intervenir en todos los juicios en que la sucesión es parte. Le compete la administración de los bienes sucesorios conforme a lo establecido para el curador de la herencia vacante. Está facultado para proceder, con intervención del juez, a la transmisión de los bienes que sea indispensable para cumplir la voluntad del causante.
+
+Siempre que se cuestione la validez del testamento o el alcance de sus disposiciones, el albacea es parte en el juicio aun cuando haya herederos instituidos.
+
+ARTICULO 2530.- Remuneración. Gastos. El albacea debe percibir la remuneración fijada en el testamento o, en su defecto, la que el juez le asigna, conforme a la importancia de los bienes legados y a la naturaleza y eficacia de los trabajos realizados.
+
+Si el albacea es un legatario, se entiende que el desempeño de la función constituye un cargo del legado, sin que corresponda otra remuneración excepto que deba entenderse, según las circunstancias, que era otra la voluntad del testador.
+
+Deben reembolsarse al albacea los gastos en que incurra para llenar su cometido y pagársele por separado los honorarios o la remuneración que le corresponden por trabajos de utilidad para la sucesión que haya efectuado en ejercicio de una profesión.
+
+ARTICULO 2531.- Conclusión. El albaceazgo concluye por la ejecución completa del testamento, por el vencimiento del plazo fijado por el testador y por la muerte, incapacidad sobreviniente, renuncia o destitución del albacea.
+
+Cuando por cualquier causa cesa el albacea designado y subsiste la necesidad de llenar el cargo vacante, lo provee el juez con audiencia de los herederos y legatarios.

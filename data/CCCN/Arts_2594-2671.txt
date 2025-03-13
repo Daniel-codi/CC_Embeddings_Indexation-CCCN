@@ -1,0 +1,442 @@
+El chunk se estructura asi: 
+
+LIBROS
+---TITULOS
+------CAPITULOS
+---------Secciones
+------------Parágrafos
+
+LIBRO SEXTO - DISPOSICIONES COMUNES A LOS DERECHOS PERSONALES Y REALES - TITULO 4
+TITULO 4: Disposiciones de derecho internacional privado
+Articulos:   2594 a 2671
+
+-----------------------------------------
+TITULO IV
+
+Disposiciones de derecho internacional privado
+
+CAPITULO 1
+
+Disposiciones generales
+
+ARTICULO 2594.- Normas aplicables. Las normas jurídicas aplicables a situaciones vinculadas con varios ordenamientos jurídicos nacionales se determinan por los tratados y las convenciones internacionales vigentes de aplicación en el caso y, en defecto de normas de fuente internacional, se aplican las normas del derecho internacional privado argentino de fuente interna.
+
+ARTICULO 2595.- Aplicación del derecho extranjero. Cuando un derecho extranjero resulta aplicable:
+
+a) el juez establece su contenido, y está obligado a interpretarlo como lo harían los jueces del Estado al que ese derecho pertenece, sin perjuicio de que las partes puedan alegar y probar la existencia de la ley invocada. Si el contenido del derecho extranjero no puede ser establecido se aplica el derecho argentino;
+
+b) si existen varios sistemas jurídicos covigentes con competencia territorial o personal, o se suceden diferentes ordenamientos legales, el derecho aplicable se determina por las reglas en vigor dentro del Estado al que ese derecho pertenece y, en defecto de tales reglas, por el sistema jurídico en disputa que presente los vínculos más estrechos con la relación jurídica de que se trate;
+
+c) si diversos derechos son aplicables a diferentes aspectos de una misma situación jurídica o a diversas relaciones jurídicas comprendidas en un mismo caso, esos derechos deben ser armonizados, procurando realizar las adaptaciones necesarias para respetar las finalidades perseguidas por cada uno de ellos.
+
+ARTICULO 2596.- Reenvío. Cuando un derecho extranjero resulta aplicable a una relación jurídica también es aplicable el derecho internacional privado de ese país. Si el derecho extranjero aplicable reenvía al derecho argentino resultan aplicables las normas del derecho interno argentino.
+
+Cuando, en una relación jurídica, las partes eligen el derecho de un determinado país, se entiende elegido el derecho interno de ese Estado, excepto referencia expresa en contrario.
+
+ARTICULO 2597.- Cláusula de excepción. Excepcionalmente, el derecho designado por una norma de conflicto no debe ser aplicado cuando, en razón del conjunto de las circunstancias de hecho del caso, resulta manifiesto que la situación tiene lazos poco relevantes con ese derecho y, en cambio, presenta vínculos muy estrechos con el derecho de otro Estado, cuya aplicación resulta previsible y bajo cuyas reglas la relación se ha establecido válidamente.
+
+Esta disposición no es aplicable cuando las partes han elegido el derecho para el caso.
+
+ARTICULO 2598.- Fraude a ley. Para la determinación del derecho aplicable en materias que involucran derechos no disponibles para las partes no se tienen en cuenta los hechos o actos realizados con el solo fin de eludir la aplicación del derecho designado por las normas de conflicto.
+
+ARTICULO 2599.- Normas internacionalmente imperativas. Las normas internacionalmente imperativas o de aplicación inmediata del derecho argentino se imponen por sobre el ejercicio de la autonomía de la voluntad y excluyen la aplicación del derecho extranjero elegido por las normas de conflicto o por las partes.
+
+Cuando resulta aplicable un derecho extranjero también son aplicables sus disposiciones internacionalmente imperativas, y cuando intereses legítimos lo exigen pueden reconocerse los efectos de disposiciones internacionalmente imperativas de terceros Estados que presentan vínculos estrechos y manifiestamente preponderantes con el caso.
+
+ARTICULO 2600.- Orden público. Las disposiciones de derecho extranjero aplicables deben ser excluidas cuando conducen a soluciones incompatibles con los principios fundamentales de orden público que inspiran el ordenamiento jurídico argentino.
+
+CAPITULO 2
+
+Jurisdicción internacional
+
+ARTICULO 2601.- Fuentes de jurisdicción. La jurisdicción internacional de los jueces argentinos, no mediando tratados internacionales y en ausencia de acuerdo de partes en materias disponibles para la prórroga de jurisdicción, se atribuye conforme a las reglas del presente Código y a las leyes especiales que sean de aplicación.
+
+ARTICULO 2602.- Foro de necesidad. Aunque las reglas del presente Código no atribuyan jurisdicción internacional a los jueces argentinos, éstos pueden intervenir, excepcionalmente, con la finalidad de evitar la denegación de justicia, siempre que no sea razonable exigir la iniciación de la demanda en el extranjero y en tanto la situación privada presente contacto suficiente con el país, se garantice el derecho de defensa en juicio y se atienda a la conveniencia de lograr una sentencia eficaz.
+
+ARTICULO 2603.- Medidas provisionales y cautelares. Los jueces argentinos son competentes para disponer medidas provisionales y cautelares:
+
+a) cuando entienden en el proceso principal, sin perjuicio de que los bienes o las personas no se encuentren en la República;
+
+b) a pedido de un juez extranjero competente o en casos de urgencia, cuando los bienes o las personas se encuentran o pueden encontrarse en el país, aunque carezcan de competencia internacional para entender en el proceso principal;
+
+c) cuando la sentencia dictada por un juez extranjero debe ser reconocida o ejecutada en la Argentina.
+
+El cumplimiento de una medida cautelar por el juez argentino no implica el compromiso de reconocimiento o ejecución de la sentencia definitiva extranjera, pronunciada en el juicio principal.
+
+ARTICULO 2604.- Litispendencia. Cuando una acción que tiene el mismo objeto y la misma causa se ha iniciado previamente y está pendiente entre las mismas partes en el extranjero, los jueces argentinos deben suspender el juicio en trámite en el país, si es previsible que la decisión extranjera puede ser objeto de reconocimiento.
+
+El proceso suspendido puede continuar en la República si el juez extranjero declina su propia competencia o si el proceso extranjero se extingue sin que medie resolución sobre el fondo del asunto o, en el supuesto en que habiéndose dictado sentencia en el extranjero, ésta no es susceptible de reconocimiento en nuestro país.
+
+ARTICULO 2605.- Acuerdo de elección de foro. En materia patrimonial e internacional, las partes están facultadas para prorrogar jurisdicción en jueces o árbitros fuera de la República, excepto que los jueces argentinos tengan jurisdicción exclusiva o que la prórroga estuviese prohibida por ley.
+
+ARTICULO 2606.- Carácter exclusivo de la elección de foro. El juez elegido por las partes tiene competencia exclusiva, excepto que ellas decidan expresamente lo contrario.
+
+ARTICULO 2607.- Prórroga expresa o tácita. La prórroga de jurisdicción es operativa si surge de convenio escrito mediante el cual los interesados manifiestan su decisión de someterse a la competencia del juez o árbitro ante quien acuden. Se admite también todo medio de comunicación que permita establecer la prueba por un texto. Asimismo opera la prórroga, para el actor, por el hecho de entablar la demanda y, con respecto al demandado, cuando la conteste, deje de hacerlo u oponga excepciones previas sin articular la declinatoria.
+
+ARTICULO 2608.- Domicilio o residencia habitual del demandado. Excepto disposición particular, las acciones personales deben interponerse ante el juez del domicilio o residencia habitual del demandado.
+
+ARTICULO 2609.- Jurisdicción exclusiva. Sin perjuicio de lo dispuesto en leyes especiales, los jueces argentinos son exclusivamente competentes para conocer en las siguientes causas:
+
+a) en materia de derechos reales sobre inmuebles situados en la República;
+
+b) en materia de validez o nulidad de las inscripciones practicadas en un registro público argentino;
+
+c) en materia de inscripciones o validez de patentes, marcas, diseños o dibujos y modelos industriales y demás derechos análogos sometidos a depósito o registro, cuando el depósito o registro se haya solicitado o efectuado o tenido por efectuado en Argentina.
+
+ARTICULO 2610.- Igualdad de trato. Los ciudadanos y los residentes permanentes en el extranjero gozan del libre acceso a la jurisdicción para la defensa de sus derechos e intereses, en las mismas condiciones que los ciudadanos y residentes permanentes en la Argentina.
+
+Ninguna caución o depósito, cualquiera sea su denominación, puede ser impuesto en razón de la calidad de ciudadano o residente permanente en otro Estado.
+
+La igualdad de trato se aplica a las personas jurídicas constituidas, autorizadas o registradas de acuerdo a las leyes de un Estado extranjero.
+
+ARTICULO 2611.- Cooperación jurisdiccional. Sin perjuicio de las obligaciones asumidas por convenciones internacionales, los jueces argentinos deben brindar amplia cooperación jurisdiccional en materia civil, comercial y laboral.
+
+ARTICULO 2612.- Asistencia procesal internacional. Sin perjuicio de las obligaciones asumidas por convenciones internacionales, las comunicaciones dirigidas a autoridades extranjeras deben hacerse mediante exhorto. Cuando la situación lo requiera, los jueces argentinos están facultados para establecer comunicaciones directas con jueces extranjeros que acepten la práctica, en tanto se respeten las garantías del debido proceso.
+
+Se debe dar cumplimiento a las medidas de mero trámite y probatorias solicitadas por autoridades jurisdiccionales extranjeras siempre que la resolución que las ordena no afecte principios de orden público del derecho argentino. Los exhortos deben tramitarse de oficio y sin demora, de acuerdo a las leyes argentinas, sin perjuicio de disponer lo pertinente con relación a los gastos que demande la asistencia requerida.
+
+CAPITULO 3
+
+Parte especial
+
+SECCION 1ª
+
+Personas humanas
+
+ARTICULO 2613.- Domicilio y residencia habitual de la persona humana. A los fines del derecho internacional privado la persona humana tiene:
+
+a) su domicilio, en el Estado en que reside con la intención de establecerse en él;
+
+b) su residencia habitual, en el Estado en que vive y establece vínculos durables por un tiempo prolongado.
+
+La persona humana no puede tener varios domicilios al mismo tiempo. En caso de no tener domicilio conocido, se considera que lo tiene donde está su residencia habitual o en su defecto, su simple residencia.
+
+ARTICULO 2614.- Domicilio de las personas menores de edad. El domicilio de las personas menores de edad se encuentra en el país del domicilio de quienes ejercen la responsabilidad parental; si el ejercicio es plural y sus titulares se domicilian en estados diferentes, las personas menores de edad se consideran domiciliadas donde tienen su residencia habitual.
+
+Sin perjuicio de lo dispuesto por convenciones internacionales, los niños, niñas y adolescentes que han sido sustraídos o retenidos ilícitamente no adquieren domicilio en el lugar donde permanezcan sustraídos, fuesen trasladados o retenidos ilícitamente.
+
+ARTICULO 2615.- Domicilio de otras personas incapaces. El domicilio de las personas sujetas a curatela u otro instituto equivalente de protección es el lugar de su residencia habitual.
+
+ARTICULO 2616.- Capacidad. La capacidad de la persona humana se rige por el derecho de su domicilio.
+
+El cambio de domicilio de la persona humana no afecta su capacidad, una vez que ha sido adquirida.
+
+ARTICULO 2617.- Supuestos de personas incapaces. La parte en un acto jurídico que sea incapaz según el derecho de su domicilio, no puede invocar esta incapacidad si ella era capaz según el derecho del Estado donde el acto ha sido celebrado, a menos que la otra parte haya conocido o debido conocer esta incapacidad.
+
+Esta regla no es aplicable a los actos jurídicos relativos al derecho de familia, al derecho sucesorio ni a los derechos reales inmobiliarios.
+
+ARTICULO 2618.- Nombre. El derecho aplicable al nombre es el del domicilio de la persona de quien se trata, al tiempo de su imposición. Su cambio se rige por el derecho del domicilio de la persona al momento de requerirlo.
+
+ARTICULO 2619.- Ausencia y presunción de fallecimiento. Jurisdicción. Para entender en la declaración de ausencia y en la presunción de fallecimiento es competente el juez del último domicilio conocido del ausente, o en su defecto, el de su última residencia habitual. Si éstos se desconocen, es competente el juez del lugar donde están situados los bienes del ausente con relación a éstos; el juez argentino puede asumir jurisdicción en caso de existir un interés legítimo en la República.
+
+ARTICULO 2620.- Derecho aplicable. La declaración de ausencia y la presunción de fallecimiento se rigen por el derecho del último domicilio conocido de la persona desaparecida o, en su defecto, por el derecho de su última residencia habitual. Las demás relaciones jurídicas del ausente siguen regulándose por el derecho que las regía anteriormente.
+
+Los efectos jurídicos de la declaración de ausencia respecto de los bienes inmuebles y muebles registrables del ausente se determinan por el derecho del lugar de situación o registro de esos bienes.
+
+SECCION 2ª
+
+Matrimonio
+
+ARTICULO 2621.- Jurisdicción. Las acciones de validez, nulidad y disolución del matrimonio, así como las referentes a los efectos del matrimonio, deben interponerse ante los jueces del último domicilio conyugal efectivo o ante el domicilio o residencia habitual del cónyuge demandado.
+
+Se entiende por domicilio conyugal efectivo el lugar de efectiva e indiscutida convivencia de los cónyuges.
+
+ARTICULO 2622.- Derecho aplicable. La capacidad de las personas para contraer matrimonio, la forma del acto, su existencia y validez, se rigen por el derecho del lugar de la celebración, aunque los contrayentes hayan dejado su domicilio para no sujetarse a las normas que en él rigen.
+
+No se reconoce ningún matrimonio celebrado en un país extranjero si media alguno de los impedimentos previstos en los artículos 575, segundo párrafo y 403, incisos a), b), c), d) y e).
+
+El derecho del lugar de celebración rige la prueba de la existencia del matrimonio.
+
+ARTICULO 2623.- Matrimonio a distancia. Se considera matrimonio a distancia aquel en el cual el contrayente ausente expresa su consentimiento, personalmente, ante la autoridad competente para autorizar matrimonios del lugar en que se encuentra.
+
+La documentación que acredite el consentimiento del ausente sólo puede ser ofrecida dentro de los noventa días de la fecha de su otorgamiento.
+
+El matrimonio a distancia se considera celebrado en el lugar donde se preste el consentimiento que perfecciona el acto. La autoridad competente para celebrar el matrimonio debe verificar que los contrayentes no están afectados por impedimentos legales y decidir sobre las causas alegadas para justificar la ausencia.
+
+ARTICULO 2624.- Efectos personales del matrimonio. Las relaciones personales de los cónyuges se rigen por el derecho del domicilio conyugal efectivo.
+
+ARTICULO 2625.- Efectos patrimoniales del matrimonio. Las convenciones matrimoniales rigen las relaciones de los esposos respecto de los bienes. Las convenciones celebradas con anterioridad al matrimonio se rigen por el derecho del primer domicilio conyugal; las posteriores se rigen por el derecho del domicilio conyugal al momento de su celebración.
+
+En defecto de convenciones matrimoniales, el régimen de bienes se rige por el derecho del primer domicilio conyugal. Todo ello, excepto en lo que, siendo de estricto carácter real, está prohibido por la ley del lugar de situación de los bienes.
+
+En el supuesto de cambio de domicilio a la República, los cónyuges pueden hacer constar en instrumento público su opción por la aplicación del derecho argentino. El ejercicio de esta facultad no debe afectar los derechos de terceros.
+
+ARTICULO 2626.- Divorcio y otras causales de disolución del matrimonio. El divorcio y las otras causales de disolución del matrimonio se rigen por el derecho del último domicilio de los cónyuges.
+
+SECCION 3ª
+
+Unión convivencial
+
+ARTICULO 2627.- Jurisdicción. Las acciones que surjan como consecuencia de la unión convivencial deben presentarse ante el juez del domicilio efectivo común de las personas que la constituyen o del domicilio o residencia habitual del demandado.
+
+ARTICULO 2628.- Derecho aplicable. La unión convivencial se rige por el derecho del Estado en donde se pretenda hacer valer.
+
+SECCION 4ª
+
+Alimentos
+
+ARTICULO 2629.- Jurisdicción. Las acciones sobre la prestación alimentaria deben interponerse, a elección de quien la requiera, ante los jueces de su domicilio, de su residencia habitual, o ante los del domicilio o residencia habitual del demandado. Además, si fuese razonable según las circunstancias del caso, pueden interponerse ante los jueces del lugar donde el demandado tenga bienes.
+
+Las acciones de alimentos entre cónyuges o convivientes deben deducirse ante el juez del último domicilio conyugal o convivencial, ante el domicilio o residencia habitual del demandado, o ante el juez que haya entendido en la disolución del vínculo.
+
+Si se hubiere celebrado un convenio, a opción del actor, las acciones pueden también interponerse ante el juez del lugar de cumplimiento de la obligación o el del lugar de la celebración de dicho convenio si coincide con la residencia del demandado.
+
+ARTICULO 2630.- Derecho aplicable. El derecho a alimentos se rige por el derecho del domicilio del acreedor o del deudor alimentario, el que a juicio de la autoridad competente resulte más favorable al interés del acreedor alimentario.
+
+Los acuerdos alimentarios se rigen, a elección de las partes, por el derecho del domicilio o de la residencia habitual de cualquiera de ellas al tiempo de la celebración del acuerdo. En su defecto, se aplica la ley que rige el derecho a alimentos.
+
+El derecho a alimentos entre cónyuges o convivientes se rige por el derecho del último domicilio conyugal, de la última convivencia efectiva o del país cuyo derecho es aplicable a la disolución o nulidad del vínculo.
+
+SECCION 5ª
+
+Filiación por naturaleza y por técnicas de reproducción humana asistida
+
+ARTICULO 2631.- Jurisdicción. Las acciones relativas a la determinación e impugnación de la filiación deben interponerse, a elección del actor, ante los jueces del domicilio de quien reclama el emplazamiento filial o ante los jueces del domicilio del progenitor o pretendido progenitor.
+
+En caso de reconocimiento son competentes los jueces del domicilio de la persona que efectúa el reconocimiento, los del domicilio del hijo o los del lugar de su nacimiento.
+
+ARTICULO 2632.- Derecho aplicable. El establecimiento y la impugnación de la filiación se rigen por el derecho del domicilio del hijo al tiempo de su nacimiento o por el derecho del domicilio del progenitor o pretendido progenitor de que se trate al tiempo del nacimiento del hijo o por el derecho del lugar de celebración del matrimonio, el que tenga soluciones más satisfactorias a los derechos fundamentales del hijo.
+
+El derecho aplicable en razón de esta norma determina la legitimación activa y pasiva para el ejercicio de las acciones, el plazo para interponer la demanda, así como los requisitos y efectos de la posesión de estado.
+
+ARTICULO 2633.- Acto de reconocimiento de hijo. Las condiciones del reconocimiento se rigen por el derecho del domicilio del hijo al momento del nacimiento o al tiempo del acto o por el derecho del domicilio del autor del reconocimiento al momento del acto.
+
+La capacidad del autor del reconocimiento se rige por el derecho de su domicilio.
+
+La forma del reconocimiento se rige por el derecho del lugar del acto o por el derecho que lo rige en cuanto al fondo.
+
+ARTICULO 2634.- Reconocimiento de emplazamiento filial constituido en el extranjero. Todo emplazamiento filial constituido de acuerdo con el derecho extranjero debe ser reconocido en la República de conformidad con los principios de orden público argentino, especialmente aquellos que imponen considerar prioritariamente el interés superior del niño.
+
+Los principios que regulan las normas sobre filiación por técnicas de reproducción humana asistida integran el orden público y deben ser ponderados por la autoridad competente en ocasión de que se requiera su intervención a los efectos del reconocimiento de estado o inscripción de personas nacidas a través de estas técnicas. En todo caso, se debe adoptar la decisión que redunde en beneficio del interés superior del niño.
+
+SECCION 6ª
+
+Adopción
+
+ARTICULO 2635.- Jurisdicción. En caso de niños con domicilio en la República, los jueces argentinos son exclusivamente competentes para la declaración en situación de adoptabilidad, la decisión de la guarda con fines de adopción y para el otorgamiento de una adopción.
+
+Para la anulación o revocación de una adopción son competentes los jueces del lugar del otorgamiento o los del domicilio del adoptado.
+
+ARTICULO 2636.- Derecho aplicable. Los requisitos y efectos de la adopción se rigen por el derecho del domicilio del adoptado al tiempo de otorgarse la adopción.
+
+La anulación o revocación de la adopción se rige por el derecho de su otorgamiento o por el derecho del domicilio del adoptado.
+
+ARTICULO 2637.- Reconocimiento. Una adopción constituida en el extranjero debe ser reconocida en la República cuando haya sido otorgada por los jueces del país del domicilio del adoptado al tiempo de su otorgamiento. También se deben reconocer adopciones conferidas en el país del domicilio del adoptante cuando esa adopción sea susceptible de ser reconocida en el país del domicilio del adoptado.
+
+A los efectos del control del orden público se tiene en cuenta el interés superior del niño y los vínculos estrechos del caso con la República.
+
+ARTICULO 2638.- Conversión. La adopción otorgada en el extranjero de conformidad con la ley del domicilio del adoptado puede ser transformada en adopción plena si:
+
+a) se reúnen los requisitos establecidos por el derecho argentino para la adopción plena;
+
+b) prestan su consentimiento adoptante y adoptado. Si éste es persona menor de edad debe intervenir el Ministerio Público.
+
+En todos los casos, el juez debe apreciar la conveniencia de mantener el vínculo jurídico con la familia de origen.
+
+SECCION 7ª
+
+Responsabilidad parental e instituciones de protección
+
+ARTICULO 2639.- Responsabilidad parental. Todo lo atinente a la responsabilidad parental se rige por el derecho de la residencia habitual del hijo al momento en que se suscita el conflicto. No obstante, en la medida en que el interés superior del niño lo requiera se puede tomar en consideración el derecho de otro Estado con el cual la situación tenga vínculos relevantes.
+
+ARTICULO 2640.- Tutela e institutos similares. La tutela, curatela y demás instituciones de protección de la persona incapaz o con capacidad restringida, se rigen por el derecho del domicilio de la persona de cuya protección se trate al momento de los hechos que den lugar a la determinación del tutor o curador.
+
+Otros institutos de protección de niños, niñas y adolescentes regularmente constituidos según el derecho extranjero aplicable, son reconocidos y despliegan sus efectos en el país, siempre que sean compatibles con los derechos fundamentales del niño.
+
+ARTICULO 2641.- Medidas urgentes de protección. La autoridad competente debe aplicar su derecho interno para adoptar las medidas urgentes de protección que resulten necesarias respecto de las personas menores de edad o mayores incapaces o con capacidad restringida, o de sus bienes, cuando se encuentren en su territorio, sin perjuicio de la obligación de poner el hecho en conocimiento del Ministerio Público y, en su caso, de las autoridades competentes del domicilio o de la nacionalidad de la persona afectada, excepto lo dispuesto en materia de protección internacional de refugiados.
+
+SECCION 8ª
+
+Restitución internacional de niños
+
+ARTICULO 2642.- Principios generales y cooperación. En materia de desplazamientos, retenciones o sustracción de menores de edad que den lugar a pedidos de localización y restitución internacional, rigen las convenciones vigentes y, fuera de su ámbito de aplicación, los jueces argentinos deben procurar adaptar al caso los principios contenidos en tales convenios, asegurando el interés superior del niño.
+
+El juez competente que decide la restitución de una persona menor de edad debe supervisar el regreso seguro del niño, niña o adolescente, fomentando las soluciones que conduzcan al cumplimiento voluntario de la decisión.
+
+A petición de parte legitimada o a requerimiento de autoridad competente extranjera, el juez argentino que toma conocimiento del inminente ingreso al país de un niño o adolescente cuyos derechos puedan verse amenazados, puede disponer medidas anticipadas a fin de asegurar su protección, como así también, si correspondiera, la del adulto que acompaña al niño, niña o adolescente.
+
+SECCION 9ª
+
+Sucesiones
+
+ARTICULO 2643.- Jurisdicción. Son competentes para entender en la sucesión por causa de muerte, los jueces del último domicilio del causante o los del lugar de situación de los bienes inmuebles en el país respecto de éstos.
+
+ARTICULO 2644.- Derecho aplicable. La sucesión por causa de muerte se rige por el derecho del domicilio del causante al tiempo de su fallecimiento. Respecto de los bienes inmuebles situados en el país, se aplica el derecho argentino.
+
+ARTICULO 2645.- Forma. El testamento otorgado en el extranjero es válido en la República según las formas exigidas por la ley del lugar de su otorgamiento, por la ley del domicilio, de la residencia habitual, o de la nacionalidad del testador al momento de testar o por las formas legales argentinas.
+
+ARTICULO 2646.- Testamento consular. Es válido el testamento escrito hecho en país extranjero por un argentino o por un extranjero domiciliado en el Estado, ante un ministro plenipotenciario del Gobierno de la República, un encargado de negocios o un Cónsul y dos testigos domiciliados en el lugar donde se otorgue el testamento, teniendo el instrumento la autenticación de la legación o consulado.
+
+El testamento otorgado en la forma prescripta en el párrafo precedente y que no lo haya sido ante un jefe de legación, debe llevar el visto bueno de éste, si existiese un jefe de legación, en el testamento abierto al pie de él y en el cerrado sobre la carátula. El testamento abierto debe ser siempre rubricado por el mismo jefe al principio y al fin de cada página, o por el Cónsul, si no hubiese legación. Si no existe un consulado ni una legación de la República, estas diligencias deben ser llenadas por un ministro o Cónsul de una nación amiga.
+
+El jefe de legación y, a falta de éste, el Cónsul, debe remitir una copia del testamento abierto o de la carátula del cerrado, al ministro de Relaciones Exteriores de la República y éste, abonando la firma del jefe de la legación o del Cónsul en su caso, lo debe remitir al juez del último domicilio del difunto en la República, para que lo haga incorporar en los protocolos de un escribano del mismo domicilio.
+
+No conociéndose el domicilio del testador en la República, el testamento debe ser remitido por el ministro de Relaciones Exteriores a un juez nacional de primera instancia para su incorporación en los protocolos de la escribanía que el mismo juez designe.
+
+ARTICULO 2647.- Capacidad. La capacidad para otorgar testamento y revocarlo se rige por el derecho del domicilio del testador al tiempo de la realización del acto.
+
+ARTICULO 2648.- Herencia vacante. Si el derecho aplicable a la sucesión, en el caso de ausencia de herederos, no atribuye la sucesión al Estado del lugar de situación de los bienes, los bienes relictos ubicados en la Argentina, pasan a ser propiedad del Estado Argentino, de la Ciudad Autónoma de Buenos Aires o de la provincia donde estén situados.
+
+SECCION 10ª
+
+Forma de los actos jurídicos
+
+ARTICULO 2649.- Formas y solemnidades. Las formas y solemnidades de los actos jurídicos, su validez o nulidad y la necesidad de publicidad, se juzgan por las leyes y usos del lugar en que los actos se hubieren celebrado, realizado u otorgado.
+
+Cuando la ley aplicable al fondo de la relación jurídica exija determinada calidad formal, conforme a ese derecho se debe determinar la equivalencia entre la forma exigida y la forma realizada.
+
+Si los contratantes se encuentran en distintos Estados al tiempo de la celebración, la validez formal del acto se rige por el derecho del país de donde parte la oferta aceptada o, en su defecto, por el derecho aplicable al fondo de la relación jurídica.
+
+SECCION 11ª
+
+Contratos
+
+ARTICULO 2650.- Jurisdicción. No existiendo acuerdo válido de elección de foro, son competentes para conocer en las acciones resultantes de un contrato, a opción de actor:
+
+a) los jueces del domicilio o residencia habitual del demandado. Si existen varios demandados, los jueces del domicilio o residencia habitual de cualquiera de ellos;
+
+b) los jueces del lugar de cumplimiento de cualquiera de las obligaciones contractuales;
+
+c) los jueces del lugar donde se ubica una agencia, sucursal o representación del demandado, siempre que ésta haya participado en la negociación o celebración del contrato.
+
+ARTICULO 2651.- Autonomía de la voluntad. Reglas. Los contratos se rigen por el derecho elegido por las partes en cuanto a su validez intrínseca, naturaleza, efectos, derechos y obligaciones. La elección debe ser expresa o resultar de manera cierta y evidente de los términos del contrato o de las circunstancias del caso. Dicha elección puede referirse a la totalidad o a partes del contrato.
+
+El ejercicio de este derecho está sujeto a las siguientes reglas:
+
+a) en cualquier momento pueden convenir que el contrato se rija por una ley distinta de la que lo regía, ya sea por una elección anterior o por aplicación de otras disposiciones de este Código. Sin embargo, esa modificación no puede afectar la validez del contrato original ni los derechos de terceros;
+
+b) elegida la aplicación de un derecho nacional, se debe interpretar elegido el derecho interno de ese país con exclusión de sus normas sobre conflicto de leyes, excepto pacto en contrario;
+
+c) las partes pueden establecer, de común acuerdo, el contenido material de sus contratos e, incluso, crear disposiciones contractuales que desplacen normas coactivas del derecho elegido;
+
+d) los usos y prácticas comerciales generalmente aceptados, las costumbres y los principios del derecho comercial internacional, resultan aplicables cuando las partes los han incorporado al contrato;
+
+e) los principios de orden público y las normas internacionalmente imperativas del derecho argentino se aplican a la relación jurídica, cualquiera sea la ley que rija el contrato; también se imponen al contrato, en principio, las normas internacionalmente imperativas de aquellos Estados que presenten vínculos económicos preponderantes con el caso;
+
+f) los contratos hechos en la República para violar normas internacionalmente imperativas de una nación extranjera de necesaria aplicación al caso no tienen efecto alguno;
+
+g) la elección de un determinado foro nacional no supone la elección del derecho interno aplicable en ese país.
+
+Este artículo no se aplica a los contratos de consumo.
+
+ARTICULO 2652.- Determinación del derecho aplicable en defecto de elección por las partes. En defecto de elección por las partes del derecho aplicable, el contrato se rige por las leyes y usos del país del lugar de cumplimiento.
+
+Si no está designado, o no resultare de la naturaleza de la relación, se entiende que lugar de cumplimiento es el del domicilio actual del deudor de la prestación más característica del contrato. En caso de no poder determinarse el lugar de cumplimiento, el contrato se rige por las leyes y usos del país del lugar de celebración.
+
+La perfección de los contratos entre ausentes se rige por la ley del lugar del cual parte la oferta aceptada.
+
+ARTICULO 2653.- Cláusula de excepción. Excepcionalmente, a pedido de parte, y tomando en cuenta todos los elementos objetivos y subjetivos que se desprendan del contrato, el juez está facultado para disponer la aplicación del derecho del Estado con el cual la relación jurídica presente los vínculos más estrechos.
+
+Esta disposición no es aplicable cuando las partes han elegido el derecho para el caso.
+
+SECCION 12ª
+
+Contratos de consumo
+
+ARTICULO 2654.- Jurisdicción. Las demandas que versen sobre relaciones de consumo pueden interponerse, a elección del consumidor, ante los jueces del lugar de celebración del contrato, del cumplimiento de la prestación del servicio, de la entrega de bienes, del cumplimiento de la obligación de garantía, del domicilio del demandado o del lugar donde el consumidor realiza actos necesarios para la celebración del contrato.
+
+También son competentes los jueces del Estado donde el demandado tiene sucursal, agencia o cualquier forma de representación comercial, cuando éstas hayan intervenido en la celebración del contrato o cuando el demandado las haya mencionado a los efectos del cumplimiento de una garantía contractual.
+
+La acción entablada contra el consumidor por la otra parte contratante sólo puede interponerse ante los jueces del Estado del domicilio del consumidor.
+
+En esta materia no se admite el acuerdo de elección de foro.
+
+ARTICULO 2655.- Derecho aplicable. Los contratos de consumo se rigen por el derecho del Estado del domicilio del consumidor en los siguientes casos:
+
+a) si la conclusión del contrato fue precedida de una oferta o de una publicidad o actividad realizada en el Estado del domicilio del consumidor y éste ha cumplido en él los actos necesarios para la conclusión del contrato;
+
+b) si el proveedor ha recibido el pedido en el Estado del domicilio del consumidor;
+
+c) si el consumidor fue inducido por su proveedor a desplazarse a un Estado extranjero a los fines de efectuar en él su pedido;
+
+d) si los contratos de viaje, por un precio global, comprenden prestaciones combinadas de transporte y alojamiento.
+
+En su defecto, los contratos de consumo se rigen por el derecho del país del lugar de cumplimiento. En caso de no poder determinarse el lugar de cumplimiento, el contrato se rige por el derecho del lugar de celebración.
+
+SECCION 13ª
+
+Responsabilidad civil
+
+ARTICULO 2656.- Jurisdicción. Excepto lo dispuesto en los artículos anteriores, son competentes para conocer en las acciones fundadas en la existencia de responsabilidad civil:
+
+a) el juez del domicilio del demandado;
+
+b) el juez del lugar en que se ha producido el hecho generador del daño o donde éste produce sus efectos dañosos directos.
+
+ARTICULO 2657.- Derecho aplicable. Excepto disposición en contrario, para casos no previstos en los artículos anteriores, el derecho aplicable a una obligación emergente de la responsabilidad civil es el del país donde se produce el daño, independientemente del país donde se haya producido el hecho generador del daño y cualesquiera que sean el país o los países en que se producen las consecuencias indirectas del hecho en cuestión.
+
+No obstante, cuando la persona cuya responsabilidad se alega y la persona perjudicada tengan su domicilio en el mismo país en el momento en que se produzca el daño, se aplica el derecho de dicho país.
+
+SECCION 14ª
+
+Títulos valores
+
+ARTICULO 2658.- Jurisdicción. Los jueces del Estado donde la obligación debe cumplirse o los del domicilio del demandado, a opción del actor, son competentes para conocer de las controversias que se susciten en materia de títulos valores.
+
+En materia de cheques son competentes los jueces del domicilio del banco girado o los del domicilio del demandado.
+
+ARTICULO 2659.- Forma. La forma del giro, del endoso, de la aceptación, del aval, del protesto y de los actos necesarios para el ejercicio o para la conservación de los derechos sobre títulos valores se sujetan a la ley del Estado en cuyo territorio se realiza dicho acto.
+
+ARTICULO 2660.- Derecho aplicable. Las obligaciones resultantes de un título valor se rigen por la ley del lugar en que fueron contraídas.
+
+Si una o más obligaciones contraídas en un título valor son nulas según la ley aplicable, dicha nulidad no afecta otras obligaciones válidamente contraídas de acuerdo con la ley del lugar en que han sido suscriptas.
+
+Si no consta en el título valor el lugar donde la obligación cartular fue suscripta, ésta se rige por la ley del lugar en que la prestación debe ser cumplida; y si éste tampoco consta, por la del lugar de emisión del título.
+
+ARTICULO 2661.- Sustracción, pérdida o destrucción. La ley del Estado donde el pago debe cumplirse determina las medidas que deben adoptarse en caso de hurto, robo, falsedad, extravío, destrucción o inutilización material del documento.
+
+Si se trata de títulos valores emitidos en serie, y ofertados públicamente, el portador desposeído debe cumplir con las disposiciones de la ley del domicilio del emisor.
+
+ARTICULO 2662.- Cheque. La ley del domicilio del banco girado determina:
+
+a) su naturaleza;
+
+b) las modalidades y sus efectos;
+
+c) el término de la presentación;
+
+d) las personas contra las cuales pueda ser librado;
+
+e) si puede girarse para “abono en cuenta”, cruzado, ser certificado o confirmado, y los efectos de estas operaciones;
+
+f) los derechos del tenedor sobre la provisión de fondos y su naturaleza;
+
+g) si el tenedor puede exigir o si está obligado a recibir un pago parcial;
+
+h) los derechos del librador para revocar el cheque u oponerse al pago;
+
+i) la necesidad del protesto u otro acto equivalente para conservar los derechos contra los endosantes, el librador u otros obligados;
+
+j) las medidas que deben tomarse en caso de robo, hurto, falsedad, extravío, destrucción o inutilización material del documento; y
+
+k) en general, todas las situaciones referentes al pago del cheque.
+
+SECCION 15ª
+
+Derechos reales
+
+ARTICULO 2663.- Calificación. La calidad de bien inmueble se determina por la ley del lugar de su situación.
+
+ARTICULO 2664.- Jurisdicción. Acciones reales sobre inmuebles. Los jueces del Estado en que están situados los inmuebles son competentes para entender en las acciones reales sobre dichos bienes.
+
+ARTICULO 2665.- Jurisdicción. Acciones reales sobre bienes registrables. Los jueces del Estado en el que fueron registrados los bienes son competentes para entender en las acciones reales entabladas sobre dichos bienes.
+
+ARTICULO 2666.- Jurisdicción. Acciones reales sobre bienes no registrables. Los jueces del domicilio del demandado o del lugar de situación de los bienes no registrables son competentes para entender en las acciones reales sobre dichos bienes.
+
+ARTICULO 2667.- Derecho aplicable. Derechos reales sobre inmuebles. Los derechos reales sobre inmuebles se rigen por la ley del lugar de su situación.
+
+Los contratos hechos en un país extranjero para transferir derechos reales sobre inmuebles situados en la República, tienen la misma fuerza que los hechos en el territorio del Estado, siempre que consten en instrumentos públicos y se presenten legalizados.
+
+ARTICULO 2668.- Derecho aplicable. Derechos reales sobre bienes registrables. Los derechos reales sobre bienes registrables se rigen por el derecho del Estado del registro.
+
+ARTICULO 2669.- Derechos reales sobre muebles de situación permanente. Cambio de situación. Los derechos reales sobre muebles que tienen situación permanente y que se conservan sin intención de transportarlos, se rigen por el derecho del lugar de situación en el momento de los hechos sobre los que se plantea la adquisición, modificación, transformación o extinción de tales derechos.
+
+El desplazamiento de estos bienes no influye sobre los derechos que han sido válidamente constituidos bajo el imperio de la ley anterior.
+
+ARTICULO 2670.- Derechos reales sobre muebles que carecen de situación permanente. Los derechos reales sobre los muebles que el propietario lleva siempre consigo o los que son de su uso personal, esté o no en su domicilio, como también los que se tienen para ser vendidos o transportados a otro lugar se rigen por el derecho del domicilio de su dueño. Si se controvierte o desconoce la calidad de dueño, se aplica el derecho del lugar de situación.
+
+SECCION 16ª
+
+Prescripción
+
+ARTICULO 2671.- Derecho aplicable. La prescripción se rige por la ley que se aplica al fondo del litigio.
