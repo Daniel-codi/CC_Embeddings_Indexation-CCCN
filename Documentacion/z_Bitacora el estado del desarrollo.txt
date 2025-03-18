@@ -73,3 +73,9 @@ Me convendrá dividir el código en dos partes diferentes?
 
 11/03/2025
 Agregué outputTokens al .en para la configuracion
+
+15/03/2025
+Habiendo abierto la cuenta de codecanyon.net ahora comenzaremos a hacer el manual
+
+17/03/2025 
+Muy avanzada está la documentación en Español. Me falta Sección 4 y Sección 5
