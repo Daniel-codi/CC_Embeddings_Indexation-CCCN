@@ -226,7 +226,7 @@ async function pulirRespuesta(pregunta, contextoPermitido, respuestaFinal) {
             { role: "user", content: `Pregunta: ${pregunta}. 
                 Organiza esta respuesta y No agregues ningún dato fuera de lo que está aquí: ${respuestaFinal},
 				- elimina las referencias negativas si hay respuestas positivas.
-                - No autocomplete, no agregues opinion ni suposiciones.` }
+                - No autocomplete, no agregues opinión ni suposiciones.` }
         ],
         max_tokens: outputTokens,
         temperature: 0.2
