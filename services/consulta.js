@@ -20,8 +20,8 @@ const maxRespuestas = parseInt(process.env.MAX_ANSWERS, 10) || 3;      //máximo
 
 
 // Leer archivos de contexto una sola vez (mejora rendimiento)
-const contextIndexPath = path.join(__dirname, '../data', 'Context_Index.txt');
-const documentIndexPath = path.join(__dirname, '../data', 'Document_Index.txt');
+const contextIndexPath = path.join(__dirname, '../data', '_Context_Index.txt');
+const documentIndexPath = path.join(__dirname, '../data', '_Document_Index.txt');
 
 const contextoPermitido = fs.readFileSync(contextIndexPath, 'utf8'); 
 const documentIndex = fs.readFileSync(documentIndexPath, 'utf8'); 
