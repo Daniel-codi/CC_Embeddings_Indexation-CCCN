@@ -23,12 +23,14 @@ Demo Video showing (English): https://youtu.be/8XhS3kaHKc8
 
 Documentación completa Google Drive (Español): https://tinyurl.com/CC-docsGratuitos
 https://drive.google.com/drive/folders/1uvKJVW9i_Gr8SP4XHBx3Ib_zzvVSK0Sk
+
 Full documentation on Google Drive (English): https://tinyurl.com/CC-freeDocs
 https://drive.google.com/drive/folders/1_4i_9M6U1JJ6_kVjmlNljPTvWwD8_4ks
 
 Articulos publicados: https://www.reddit.com/r/AIntelligence_new/
 
 Paper completo publicado: https://zenodo.org/records/16907680
+
 https://osf.io/preprints/osf/upm94_v2
 
 La versión preliminar del Paper del Concept Curve Paradigm fue publicada el 11 de Mayo de 2025. La versión final, el 16 de Agosto de 2025.-
