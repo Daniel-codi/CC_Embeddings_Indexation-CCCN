@@ -19,7 +19,9 @@ async function pulirPregunta(preguntaOriginal, contextoPermitido, historial) {
     ).join('\n');
 
     const pulirPreguntaReq = {
-        model: "gpt-4o-mini",
+		model: "gpt-4.1-nano",
+        //model: "gpt-4o-mini",
+		//model: "gpt-4.1-mini",
         messages: [
             { role: "system", content: `El contexto adicional es: ${contextoPermitido}\n\nEl historial es el siguiente:\n${historialTexto}\n\nLa última pregunta es: "${preguntaOriginal}".` },
             { role: "user", content: "Reformula la última pregunta o consulta, considerando el contexto y el historial. Devuelve únicamente la pregunta reformulada, sin explicaciones, introducciones ni comentarios adicionales." }
@@ -71,7 +73,9 @@ async function pulirPregunta(preguntaOriginal, contextoPermitido, historial) {
 
 async function identificarArchivos(preguntaPulida, documentIndex, maxChunks) {
     const primerRequerimiento = {
-        model: "gpt-4o-mini",
+		//model: "gpt-4.1-nano",
+        //model: "gpt-4o-mini",
+		model: "gpt-4.1-mini",
         messages: [
             { role: "system", content: "Eres experto en indexación basada en Concept Curve Embeddings." },
 			{ role: "user", content: `Pregunta: ${preguntaPulida}\n\nLee el índice de documentos:\n${documentIndex}\n\n
@@ -152,11 +156,13 @@ async function construirRespuesta(archivos, textoConsulta, maxRespuestas) {
 
         const contenidoArchivo = fs.readFileSync(archivoPath, 'utf8');
         const segundoRequerimiento = {
-            model: "gpt-4o-mini",
+		//model: "gpt-4.1-nano",
+        model: "gpt-4o-mini",
+		//model: "gpt-4.1-mini",
             messages: [
                 { role: "system", content: "Responde preguntas basadas estrictamente en el contenido del documento cargado. " },
                 { role: "user", content: `Pregunta: ${textoConsulta}\n\nDocumento:\n${contenidoArchivo}\n\n 
-				    - menciona también el índice, y/o Sección, y/o Artículo legal, y/o Capítulo y versículo donde encontraste la respuesta,
+				    - menciona también el índice, y/o Sección, y/o Artículo legal, y/o Libro, Capítulo y versículo donde encontraste la respuesta,
 					- y agrega la cita textual. No infieras, no completes, no hagas suposiciones. Si no encuentras la respuesta responde "-" un solo carácter` }
             ],
             max_tokens: 400,
@@ -215,7 +221,9 @@ const outputTokens = parseInt(process.env.OUTPUT_TOKENS, 10) || 1200;  //máximo
 
 async function pulirRespuesta(pregunta, contextoPermitido, respuestaFinal) {
     const refinamientoPrompt = {
+		//model: "gpt-4.1-nano",
         model: "gpt-4o-mini",
+		//model: "gpt-4.1-mini",
         messages: [
             { role: "system", content: `Organiza y presenta las respuestas de manera armoniosa como una sola respuesta. 
                 - Usa Formato Markdown. Usa **negritas** para resaltar ideas principales. 
@@ -225,7 +233,7 @@ async function pulirRespuesta(pregunta, contextoPermitido, respuestaFinal) {
                 - Si la respuesta no pertenece a estos contextos, indica que la consulta está fuera del contexto permitido.` },
             { role: "user", content: `Pregunta: ${pregunta}. 
                 Organiza esta respuesta y No agregues ningún dato fuera de lo que está aquí: ${respuestaFinal},
-				- elimina las referencias negativas si hay respuestas positivas.
+				- menciona también el índice, y/o Sección, y/o Artículo legal, y/o Libro, Capítulo y versículo donde encontraste cada respuesta,
                 - No autocomplete, no agregues opinión ni suposiciones.` }
         ],
         max_tokens: outputTokens,

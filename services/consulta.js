@@ -125,7 +125,8 @@ router.post('/consulta', async (req, res) => {
     // Paso 6: Calcular el costo, métricas y devolver respuesta Final
     //==================================================================
     
-    const Costo = (tokens_in * 0.15 / 1000000) + (tokens_out * 0.60 / 1000000);
+    let Costo = (tokens_in * 0.15 / 1000000) + (tokens_out * 0.60 / 1000000);
+	Costo = 1.0 * Costo;
     const CostoFormateado = Costo.toFixed(4); // Mostrar con 4 decimales
     
     console.log(" ");
